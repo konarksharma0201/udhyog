@@ -9,6 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - name: Refresh sitemap lastmod from git history
+        run: |
+          python3 scripts/sitemap_freshness.py
+          git config user.name "freshness-bot"; git config user.email "bot@udyoggrowth.com"
+          git add sitemap.xml && git diff --cached --quiet || (git commit -m "sitemap: lastmod from git" && git push)
       - name: Submit sitemap URLs to IndexNow
         run: |
           URLS=$(grep -o '<loc>[^<]*</loc>' sitemap.xml | sed 's/<[^>]*>//g' | sed 's/.*/"&"/' | paste -sd, -)

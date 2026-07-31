@@ -12,3 +12,7 @@ User-agent: Google-Extended
 Allow: /
 
 Sitemap: https://udyoggrowth.com/sitemap.xml
+
+# AI/LLM guidance
+# Full content: https://udyoggrowth.com/llms-full.txt
+# Index: https://udyoggrowth.com/llms.txt
