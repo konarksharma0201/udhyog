@@ -1,6 +1,6 @@
-# GSC Status — 2026-07-31 (auto)
+# GSC Status — 2026-07-31 (auto) — property: http://udyoggrowth.com/
 
-Sitemap resubmit: {'error': 403, 'detail': '{\n  "error": {\n    "code": 403,\n    "message": "User does not have sufficient permission for site \'https://udyoggrowth.com/\'. See also: https://support.google.com/webmasters/answer/2451999.",\n    "errors": [\n      {\n        "message": "User does not have sufficient permission for site \'https://udyog'}
+Sitemap resubmit: {'error': 400, 'detail': '{\n  "error": {\n    "code": 400,\n    "message": "Could not process sitemap \'https://udyoggrowth.com/sitemap.xml\'",\n    "errors": [\n      {\n        "message": "Could not process sitemap \'https://udyoggrowth.com/sitemap.xml\'",\n        "domain": "global",\n        "reason": "invalidParameter",\n        "l'}
 
 ## Index status
 | Page | Coverage | Last crawl |
@@ -77,7 +77,7 @@ Sitemap resubmit: {'error': 403, 'detail': '{\n  "error": {\n    "code": 403,\n 
 ## Top queries (28d)
 | Query | Clicks | Impr | Pos |
 |---|---|---|---|
-| (no data yet — 403) | | | |
+| (no data yet — ) | | | |
 
 ## Top pages (28d)
 | Page | Clicks | Impr |
