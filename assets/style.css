@@ -154,3 +154,15 @@ body{padding-bottom:52px}
 @media(max-width:860px){.stamp{right:0;bottom:-2px;font-size:.7rem;padding:5px 11px}}
 
 @media(max-width:640px){.tmpl{display:block;overflow-x:auto;white-space:normal}}
+
+/* mobile horizontal-scroll fix */
+html,body{overflow-x:clip}
+@supports not (overflow:clip){html,body{overflow-x:hidden}}
+@media(max-width:700px){
+.nav ul{overflow-x:auto;flex-wrap:nowrap;gap:14px;scrollbar-width:none;-webkit-overflow-scrolling:touch;max-width:100%;padding-bottom:2px}
+.nav ul::-webkit-scrollbar{display:none}
+.nav ul li+li{margin-left:0}
+.nav ul a{white-space:nowrap}
+}
+.tmpl{max-width:100%}
+.wrap{overflow-wrap:break-word}
