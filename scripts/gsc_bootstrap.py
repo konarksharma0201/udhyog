@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-"""Self-verify the bot as owner of https://udyoggrowth.com/ via Site Verification API (FILE method).
-Run 1: fetch token, write file (site deploys it). Run 2+: verify + add site. Idempotent."""
-import json, os, sys, glob, urllib.request, urllib.parse
+"""Bot self-verifies https://udyoggrowth.com/ (Site Verification API, FILE). Always token-first. Logs to reports/bootstrap.log"""
+import json, os, sys, urllib.request, urllib.parse
+
+os.makedirs("reports", exist_ok=True)
+LOG = open("reports/bootstrap.log", "a")
+def log(*a): print(*a); LOG.write(" ".join(map(str,a))+"\n")
 
 KEY = os.environ.get("GSC_KEY_JSON")
-if not KEY: print("no key"); sys.exit(0)
+if not KEY: log("no key"); sys.exit(0)
 from google.oauth2 import service_account
 import google.auth.transport.requests
 creds = service_account.Credentials.from_service_account_info(json.loads(KEY),
@@ -24,22 +27,17 @@ def call(url, method="GET", body=None):
     except urllib.error.HTTPError as e:
         return {"error": e.code, "detail": e.read().decode()[:400]}
 
-existing = glob.glob("google*.html")
-bot_files = [f for f in existing if open(f).read().strip().startswith("google-site-verification:")
-             and f in open(f).read()]
-if not bot_files:
-    t = call("https://www.googleapis.com/siteVerification/v1/token", "POST",
-             {"site": {"type": "SITE", "identifier": SITE}, "verificationMethod": "FILE"})
-    if "token" in t:
-        fn = t["token"]
-        open(fn, "w").write("google-site-verification: " + fn)
-        print("TOKEN-FILE-CREATED:", fn, "(will verify on next run after deploy)")
-    else:
-        print("TOKEN-ERROR:", t)
-else:
-    v = call("https://www.googleapis.com/siteVerification/v1/webResource?verificationMethod=FILE",
-             "POST", {"site": {"type": "SITE", "identifier": SITE}})
-    print("VERIFY:", "OK" if "id" in v else v)
-    a = call("https://www.googleapis.com/webmasters/v3/sites/" +
-             urllib.parse.quote(SITE, safe=""), "PUT")
-    print("SITES.ADD:", "OK" if "error" not in a else a)
+t = call("https://www.googleapis.com/siteVerification/v1/token", "POST",
+         {"site": {"type": "SITE", "identifier": SITE}, "verificationMethod": "FILE"})
+if "token" not in t:
+    log("TOKEN-ERROR:", json.dumps(t)[:400]); sys.exit(0)
+fn = t["token"]
+if not os.path.exists(fn):
+    open(fn, "w").write("google-site-verification: " + fn)
+    log("TOKEN-FILE-CREATED:", fn, "— verify on next run after deploy")
+    sys.exit(0)
+v = call("https://www.googleapis.com/siteVerification/v1/webResource?verificationMethod=FILE",
+         "POST", {"site": {"type": "SITE", "identifier": SITE}})
+log("VERIFY:", "OK" if "id" in v else json.dumps(v)[:400])
+a = call("https://www.googleapis.com/webmasters/v3/sites/" + urllib.parse.quote(SITE, safe=""), "PUT")
+log("SITES.ADD:", "OK" if "error" not in a else json.dumps(a)[:200])
