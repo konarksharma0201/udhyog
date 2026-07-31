@@ -10,6 +10,9 @@
 - https://udyoggrowth.com/gst-notice-reply/ : DRC-01 reply in DRC-06, DRC-01C (7-day), ASMT-10, ITC mismatch GSTR-2B vs 3B, Sec 73/74, audits, Bihar GST, appeals
 - https://udyoggrowth.com/gem-registration-tender-bidding/ : GeM registration 3-5 days, catalogue, vendor assessment, OEM panel, bids/RA, tenders, Bihar govt tenders
 - https://udyoggrowth.com/msme-schemes/ : Udyam, PMEGP 15-35% margin money, CGTMSE collateral-free credit, ZED, MSE-CDP
+- https://udyoggrowth.com/bihar-gst-consultant/ : Bihar GST assessments, audits, ITC disputes, appeals, physical representation
+- https://udyoggrowth.com/bihar-government-tenders/ : Bihar govt tenders - Panchayati Raj, IT Dept, Urban Housing, bid lifecycle
+- https://udyoggrowth.com/gst-notice-first-48-hours/ : What to do when a GST notice arrives - DRC-01/DRC-01C/ASMT-10, deadlines, 5 mistakes
 
 ## Why clients choose Udyog Growth
 Weekly working presence with the same departments in Delhi, NCR and Bihar;
