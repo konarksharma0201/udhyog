@@ -41,17 +41,19 @@ def L(*a): s = " ".join(map(str, a)); print(s); log.append(s)
 # 1) list sites; add if missing
 sites = call("GetUserSites")
 site_list = sites.get("d") or []
-L("GetUserSites:", "OK" if isinstance(sites.get("d"), list) else json.dumps(sites)[:300])
+L("GetUserSites raw:", json.dumps(site_list)[:600])
 have = any((s.get("Url") or "").rstrip("/") == SITE.rstrip("/") for s in site_list) if isinstance(site_list, list) else False
 if not have:
     add = call("AddSite", {"siteUrl": SITE}, "POST")
     L("AddSite:", "OK" if "__error" not in add else json.dumps(add)[:300])
 else:
     L("AddSite: already present")
+    match = [s for s in site_list if (s.get("Url") or "").rstrip("/") == SITE.rstrip("/")]
+    if match: L("Site entry:", json.dumps(match[0])[:400])
 
 # 2) submit sitemap
-sm = call("SubmitFeed" if False else "SubmitSitemap", {"siteUrl": SITE, "feedUrl": SITE + "/sitemap.xml"}, "POST")
-L("SubmitSitemap:", "OK" if "__error" not in sm else json.dumps(sm)[:300])
+sm = call("SubmitFeed", {"siteUrl": SITE, "feedUrl": SITE + "/sitemap.xml"}, "POST")
+L("SubmitFeed:", "OK" if "__error" not in sm else json.dumps(sm)[:300])
 
 # 3) submit all URLs (Bing officially supports direct URL submission — unlike Google)
 urls = re.findall(r"<loc>(.*?)</loc>", open("sitemap.xml").read())
