@@ -31,3 +31,6 @@ files prepared in the exact format each office expects; in-person follow-up till
 
 ## Contact
 - Phone: +91-9310526505
+
+## Full content
+- https://udyoggrowth.com/llms-full.txt : complete page text for retrieval
