@@ -147,3 +147,5 @@ body{padding-bottom:52px}
 .tmpl{width:100%;border-collapse:collapse;margin:16px 0;font-size:.9rem;max-width:68ch}
 .tmpl th,.tmpl td{border:1px solid var(--line);padding:9px 12px;text-align:left;vertical-align:top}
 .tmpl th{background:#eef4f0;font-family:Archivo,sans-serif;font-size:.8rem;text-transform:uppercase;letter-spacing:.05em}
+
+.calc .sub{color:var(--muted);font-weight:600;font-size:.9rem}
