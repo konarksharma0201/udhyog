@@ -3,6 +3,7 @@
 import json, os, sys, re, datetime, traceback, urllib.request, urllib.parse
 
 OUT = "reports/gsc-status.md"
+os.makedirs("reports", exist_ok=True)
 KEY = os.environ.get("GSC_KEY_JSON")
 if not KEY:
     open(OUT, "w").write("# GSC\n\nGSC_KEY_JSON secret not set.\n")
