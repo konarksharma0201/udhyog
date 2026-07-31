@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# AI crawlers welcome (LLMO / AIO)
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://udyoggrowth.com/sitemap.xml
