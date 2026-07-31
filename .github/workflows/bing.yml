@@ -1,0 +1,21 @@
+name: Bing daily eyes
+on:
+  schedule:
+    - cron: '45 2 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - env:
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+        run: python scripts/bing_report.py
+      - run: |
+          git config user.name "bing-bot"; git config user.email "bot@udyoggrowth.com"
+          git add -A && git diff --cached --quiet || git commit -m "Bing daily report [skip ci]"
+          git push
