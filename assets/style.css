@@ -26,7 +26,12 @@ header{border-bottom:1px solid var(--line);background:rgba(251,251,249,.92);back
 .nav ul a:hover,.nav ul a:focus-visible{color:var(--ink)}
 .call-btn{background:var(--ink);color:#fff;padding:10px 20px;border-radius:3px;text-decoration:none;font-weight:600;font-size:.9rem;transition:background .15s}
 .call-btn:hover{background:var(--approve)}
-@media(max-width:860px){.nav ul{display:none}}
+@media(max-width:860px){
+.nav{flex-wrap:wrap;gap:8px;padding:12px 0}
+.nav ul{order:3;width:100%;overflow-x:auto;gap:18px;padding:6px 2px 2px;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+.nav ul::-webkit-scrollbar{display:none}
+.nav ul a{white-space:nowrap}
+}
 
 /* Hero */
 .hero{padding:96px 0 80px;position:relative;overflow:hidden}
@@ -111,3 +116,15 @@ footer .cols{display:flex;flex-wrap:wrap;gap:28px;justify-content:space-between}
 footer a{text-decoration:none}
 footer a:hover{color:var(--approve)}
 footer nav{display:flex;flex-wrap:wrap;gap:18px}
+
+/* CRO: WhatsApp float + mobile sticky call bar */
+.wa-float{position:fixed;right:18px;bottom:18px;z-index:60;background:#25D366;color:#fff;width:54px;height:54px;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 8px 22px -6px rgba(0,0,0,.35);text-decoration:none}
+.wa-float svg{width:28px;height:28px;fill:#fff}
+.callbar{display:none}
+@media(max-width:860px){
+.wa-float{bottom:76px}
+.callbar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:60;background:var(--approve);color:#fff}
+.callbar a{flex:1;text-align:center;padding:15px 8px;font-weight:700;text-decoration:none;color:#fff;font-family:'Archivo',sans-serif;letter-spacing:.04em}
+.callbar a+a{border-left:1px solid rgba(255,255,255,.25);background:var(--ink)}
+body{padding-bottom:52px}
+}
