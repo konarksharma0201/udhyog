@@ -3,3 +3,5 @@ TOKEN-ERROR: {"error": 403, "detail": "{\n  \"error\": {\n    \"code\": 403,\n  
 TOKEN-FILE-CREATED: google51cb91cae00a2f0e.html — verify on next run after deploy
 VERIFY: OK
 SITES.ADD: OK
+VERIFY: OK
+SITES.ADD: OK
