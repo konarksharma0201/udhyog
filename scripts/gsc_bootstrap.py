@@ -27,6 +27,12 @@ def call(url, method="GET", body=None):
     except urllib.error.HTTPError as e:
         return {"error": e.code, "detail": e.read().decode()[:400]}
 
+# skip everything if already a verified owner
+sl = call("https://www.googleapis.com/webmasters/v3/sites")
+for e in sl.get("siteEntry", []):
+    if e.get("siteUrl") == SITE and e.get("permissionLevel") == "siteOwner":
+        log("ALREADY-OWNER — skip"); sys.exit(0)
+
 t = call("https://www.googleapis.com/siteVerification/v1/token", "POST",
          {"site": {"type": "SITE", "identifier": SITE}, "verificationMethod": "FILE"})
 if "token" not in t:
