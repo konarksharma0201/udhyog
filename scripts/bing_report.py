@@ -41,15 +41,34 @@ def L(*a): s = " ".join(map(str, a)); print(s); log.append(s)
 # 1) list sites; add if missing
 sites = call("GetUserSites")
 site_list = sites.get("d") or []
-L("GetUserSites raw:", json.dumps(site_list)[:600])
-have = any((s.get("Url") or "").rstrip("/") == SITE.rstrip("/") for s in site_list) if isinstance(site_list, list) else False
-if not have:
+match = [e for e in site_list if isinstance(site_list, list) and (e.get("Url") or "").rstrip("/") == SITE.rstrip("/")]
+if not match:
     add = call("AddSite", {"siteUrl": SITE}, "POST")
     L("AddSite:", "OK" if "__error" not in add else json.dumps(add)[:300])
+    sites = call("GetUserSites")
+    site_list = sites.get("d") or []
+    match = [e for e in site_list if isinstance(site_list, list) and (e.get("Url") or "").rstrip("/") == SITE.rstrip("/")]
 else:
     L("AddSite: already present")
-    match = [s for s in site_list if (s.get("Url") or "").rstrip("/") == SITE.rstrip("/")]
-    if match: L("Site entry:", json.dumps(match[0])[:400])
+
+verified = bool(match and match[0].get("IsVerified"))
+L("IsVerified:", verified)
+
+if not verified and match:
+    auth_code = match[0].get("AuthenticationCode")
+    fn = "BingSiteAuth.xml"
+    content = "<?xml version=\"1.0\"?>\n<users>\n\t<user>%s</user>\n</users>" % auth_code
+    if not os.path.exists(fn) or open(fn).read().strip() != content.strip():
+        open(fn, "w").write(content)
+        L("BingSiteAuth.xml written with code", auth_code, "— will verify on next run after Pages deploy")
+    else:
+        vr = call("VerifySite", {"siteUrl": SITE}, "POST")
+        L("VerifySite:", "OK" if "__error" not in vr and vr is not None else json.dumps(vr)[:300])
+        sites = call("GetUserSites")
+        site_list = sites.get("d") or []
+        match = [e for e in site_list if isinstance(site_list, list) and (e.get("Url") or "").rstrip("/") == SITE.rstrip("/")]
+        verified = bool(match and match[0].get("IsVerified"))
+        L("IsVerified after VerifySite attempt:", verified)
 
 # 2) submit sitemap
 sm = call("SubmitFeed", {"siteUrl": SITE, "feedUrl": SITE + "/sitemap.xml"}, "POST")
