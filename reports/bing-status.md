@@ -2,9 +2,7 @@
 
 ```
 AddSite: already present
-IsVerified: False
-VerifySite: OK
-IsVerified after VerifySite attempt: True
+IsVerified: True
 SubmitFeed: OK
 SubmitUrlBatch (17 urls): OK
 GetRankAndTrafficStats: OK
