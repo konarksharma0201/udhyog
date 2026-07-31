@@ -66,6 +66,20 @@
 
 <div class="hl"><strong>Important:</strong> the subsidy is not paid to you directly. It is released to the bank after loan sanction, kept in a mirror account, and credited after 3 years of standard loan conduct with the unit operational. Structuring the loan and project correctly at the start decides whether you actually receive it.</div>
 
+<h2>Calculate your PMFME subsidy</h2>
+<div class="calc">
+<label for="pc">Eligible project cost (₹)</label>
+<input id="pc" type="number" inputmode="numeric" placeholder="e.g. 2000000">
+<output id="po">Subsidy (35%, cap ₹10 lakh): —</output>
+<output id="pl" style="color:var(--muted);font-weight:600;font-size:.9rem">Your 10% + bank loan: —</output>
+</div>
+<script>
+(function(){var i=document.getElementById('pc'),o=document.getElementById('po'),l=document.getElementById('pl'),f=new Intl.NumberFormat('en-IN');
+i.addEventListener('input',function(){var v=+i.value||0,s=Math.min(v*0.35,1e6);
+o.textContent='Subsidy (35%, cap ₹10 lakh): ₹'+f.format(Math.round(s));
+l.textContent='Your contribution (10%): ₹'+f.format(Math.round(v*0.10))+'  ·  Bank loan: ₹'+f.format(Math.round(Math.max(v-s-v*0.10,0)));});})();
+</script>
+
 <h2>A worked example — what 35% actually means</h2>
 <p>Project cost ₹20 lakh → eligible subsidy 35% = ₹7 lakh (within the ₹10 lakh cap) → your contribution 10% = ₹2 lakh → bank loan covers the balance ₹11 lakh, with the subsidy adjusted into the loan account after sanction and credited after three years of standard conduct. At ₹30 lakh project cost, the subsidy caps at ₹10 lakh.</p>
 <p>The scheme's ODOP framework now covers <strong>137 unique products across 726 districts in 35 States and UTs</strong> — and it is working for first-time entrepreneurs: women-led enterprises are roughly 40% of beneficiaries, with 4 lakh women receiving ₹380 crore in seed capital alone.</p>
