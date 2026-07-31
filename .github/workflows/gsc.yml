@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: '3.12'}
-      - run: pip install -q google-auth
+      - run: pip install -q google-auth requests
       - env:
           GSC_KEY_JSON: ${{ secrets.GSC_KEY_JSON }}
         run: python scripts/gsc_report.py

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Daily GSC eyes: submit sitemap, inspect all URLs' index status, pull performance -> reports/gsc-status.md"""
-import json, os, sys, datetime, urllib.request
+import json, os, sys, datetime, urllib.request, urllib.parse
 
 KEY = os.environ.get("GSC_KEY_JSON")
 if not KEY:
@@ -27,7 +27,6 @@ def call(url, method="GET", body=None):
     except urllib.error.HTTPError as e:
         return {"error": e.code, "detail": e.read().decode()[:200]}
 
-import urllib.parse
 # 1) (re)submit sitemap
 sm = call(f"https://www.googleapis.com/webmasters/v3/sites/{ENC}/sitemaps/{urllib.parse.quote(SITE+'sitemap.xml',safe='')}", "PUT")
 
@@ -40,7 +39,7 @@ for u in urls:
              {"inspectionUrl": u, "siteUrl": SITE})
     st = r.get("inspectionResult", {}).get("indexStatusResult", {})
     rows.append((u.replace(SITE, "/"), st.get("coverageState", r.get("error", "?")),
-                 st.get("lastCrawlTime", "-")[:10]))
+                 (st.get("lastCrawlTime") or "-")[:10]))
 
 # 3) performance last 28d: top queries + pages
 today = datetime.date.today(); start = today - datetime.timedelta(days=28)
