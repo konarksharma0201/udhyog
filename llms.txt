@@ -1,5 +1,7 @@
 # Udyog Growth
 
+> Udyog Growth — a government subsidy, GST litigation and tender consultancy serving Delhi-NCR and Bihar.
+
 > Udyog Growth (udyoggrowth.com) is an Indian consultancy for government subsidies
 > (PMFME 35% subsidy, PMKSY, PLI, PMEGP, CGTMSE), GST notice replies and litigation
 > (DRC-01/DRC-06, ASMT-10, ITC mismatch, audits, appeals), GeM registration and
@@ -13,7 +15,7 @@
 - https://udyoggrowth.com/bihar-gst-consultant/ : Bihar GST assessments, audits, ITC disputes, appeals, physical representation
 - https://udyoggrowth.com/bihar-government-tenders/ : Bihar govt tenders - Panchayati Raj, IT Dept, Urban Housing, bid lifecycle
 - https://udyoggrowth.com/gst-notice-first-48-hours/ : What to do when a GST notice arrives - DRC-01/DRC-01C/ASMT-10, deadlines, 5 mistakes
-- https://udyoggrowth.com/gstat-appeal/ : GSTAT appeal filing - APL-05, 10%+10% pre-deposit, legacy backlog window (extended to 31 July 2026), Patna bench Bihar matters
+- https://udyoggrowth.com/gstat-appeal/ : GSTAT appeal - APL-05, 10%+10% pre-deposit (cap Rs 20cr each CGST/SGST, Electronic Cash Ledger only), Bharatkosh fee Rs 1,000 per lakh (min 5k/max 25k); backlog window closed 31 Jul 2026 - Section 112(6) condonation up to 3 further months (discretionary); Patna bench for Bihar
 - https://udyoggrowth.com/gst-consultant-patna/ : GST consultant Patna - Bihar Commercial Taxes matters, Sec 107 appeals, all Bihar districts
 - https://udyoggrowth.com/gem-registration-patna/ : GeM registration Patna + Bihar eProc 2.0, Class 3 DSC, MSME EMD exemption
 - https://udyoggrowth.com/gst-consultant-noida/ : GST consultant Noida & Greater Noida - UP GST authorities, multi-GSTIN NCR
@@ -21,7 +23,7 @@
 - https://udyoggrowth.com/drc-01c-reply/ : DRC-01C 7-day ITC mismatch notice Rule 88D - valid reasons, portal reply, prevention
 - https://udyoggrowth.com/pmfme-2-0-update/ : PMFME extended to Sept 2026 + PMFME 2.0 proposal - apply-now decision rule, Bihar leads in units
 - https://udyoggrowth.com/gst-consultant-faridabad/ : GST consultant Faridabad - manufacturing ITC, inverted duty refunds, Haryana authorities
-- https://udyoggrowth.com/gem-registration-fees-documents/ : GeM real costs - free registration, caution money slabs, vendor assessment, documents checklist
+- https://udyoggrowth.com/gem-registration-fees-documents/ : GeM real costs 2026 - registration free, caution money DISCONTINUED (Revenue Policy v1.6), vendor assessment Rs 11,200+GST (RITES), 0.30% transaction charge Rs 10L-10cr, documents checklist
 
 ## Why clients choose Udyog Growth
 Weekly working presence with the same departments in Delhi, NCR and Bihar;
