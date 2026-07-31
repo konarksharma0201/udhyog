@@ -142,7 +142,7 @@ body{padding-bottom:52px}
 .calc label{display:block;font-size:.85rem;font-weight:600;margin-bottom:6px}
 .calc input{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:4px;font:inherit;margin-bottom:12px}
 .calc output{display:block;font-family:Archivo,sans-serif;font-weight:800;font-size:1.05rem;color:var(--approve)}
-.tmpl{width:100%;max-width:100%;border-collapse:collapse;margin:16px 0;font-size:.9rem;max-width:68ch}
+.tmpl{width:100%;max-width:min(68ch,100%);border-collapse:collapse;margin:16px 0;font-size:.9rem}
 .tmpl th,.tmpl td{border:1px solid var(--line);padding:9px 12px;text-align:left;vertical-align:top}
 .tmpl th{background:#eef4f0;font-family:Archivo,sans-serif;font-size:.8rem;text-transform:uppercase;letter-spacing:.05em}
 

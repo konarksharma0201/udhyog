@@ -16,8 +16,17 @@ def main():
         json.loads(KEY), scopes=["https://www.googleapis.com/auth/webmasters"])
     creds.refresh(google.auth.transport.requests.Request())
     tok = creds.token
-    site = "https://udyoggrowth.com/"
+    # auto-detect property: prefer domain property, else URL-prefix
+    def _list_sites(t):
+        req = urllib.request.Request("https://www.googleapis.com/webmasters/v3/sites",
+            headers={"Authorization": "Bearer " + t})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return [e["siteUrl"] for e in json.loads(r.read()).get("siteEntry", [])]
+    avail = _list_sites(tok)
+    site = next((x for x in avail if x == "sc-domain:udyoggrowth.com"),
+           next((x for x in avail if "udyoggrowth" in x), "https://udyoggrowth.com/"))
     enc = urllib.parse.quote(site, safe="")
+    prefix = "https://udyoggrowth.com/"
 
     def call(url, method="GET", body=None):
         req = urllib.request.Request(url, method=method,
@@ -31,7 +40,7 @@ def main():
             return {"error": e.code, "detail": e.read().decode()[:300]}
 
     sm = call("https://www.googleapis.com/webmasters/v3/sites/%s/sitemaps/%s" %
-              (enc, urllib.parse.quote(site + "sitemap.xml", safe="")), "PUT")
+              (enc, urllib.parse.quote(prefix + "sitemap.xml", safe="")), "PUT")
 
     urls = re.findall(r"<loc>(.*?)</loc>", open("sitemap.xml").read())
     rows = []
@@ -39,10 +48,10 @@ def main():
         r = call("https://searchconsole.googleapis.com/v1/urlInspection/index:inspect", "POST",
                  {"inspectionUrl": u, "siteUrl": site})
         if "error" in r:
-            rows.append((u.replace(site, "/"), "ERR %s: %s" % (r["error"], r["detail"][:80]), "-"))
+            rows.append((u.replace(prefix, "/"), "ERR %s: %s" % (r["error"], r["detail"][:80]), "-"))
         else:
             st = r.get("inspectionResult", {}).get("indexStatusResult", {})
-            rows.append((u.replace(site, "/"), st.get("coverageState", "?"),
+            rows.append((u.replace(prefix, "/"), st.get("coverageState", "?"),
                          (st.get("lastCrawlTime") or "-")[:10]))
 
     today = datetime.date.today()
@@ -53,7 +62,7 @@ def main():
                              "dimensions": [dim], "rowLimit": 25})
     pq, pp = perf("query"), perf("page")
 
-    out = ["# GSC Status — %s (auto)" % today, "",
+    out = ["# GSC Status — %s (auto) — property: %s" % (today, site), "",
            "Sitemap resubmit: %s" % ("OK" if "error" not in sm else sm), "",
            "## Index status", "| Page | Coverage | Last crawl |", "|---|---|---|"]
     out += ["| %s | %s | %s |" % r for r in rows]
@@ -62,7 +71,7 @@ def main():
     out += ["| %s | %s | %s | %.1f |" % (r["keys"][0], r["clicks"], r["impressions"], r["position"]) for r in qr] or ["| (no data yet — %s) | | | |" % pq.get("error", "")]
     out += ["", "## Top pages (28d)", "| Page | Clicks | Impr |", "|---|---|---|"]
     pr = pp.get("rows") or []
-    out += ["| %s | %s | %s |" % (r["keys"][0].replace(site, "/"), r["clicks"], r["impressions"]) for r in pr] or ["| (no data yet) | | |"]
+    out += ["| %s | %s | %s |" % (r["keys"][0].replace(prefix, "/"), r["clicks"], r["impressions"]) for r in pr] or ["| (no data yet) | | |"]
     open(OUT, "w").write("\n".join(out) + "\n")
     print("report written:", len(rows), "URLs")
 
