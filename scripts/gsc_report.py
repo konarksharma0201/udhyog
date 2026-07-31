@@ -23,8 +23,11 @@ def main():
         with urllib.request.urlopen(req, timeout=30) as r:
             return [e["siteUrl"] for e in json.loads(r.read()).get("siteEntry", [])]
     avail = _list_sites(tok)
-    site = next((x for x in avail if x == "sc-domain:udyoggrowth.com"),
-           next((x for x in avail if "udyoggrowth" in x), "https://udyoggrowth.com/"))
+    def pick(a):
+        for want in ("sc-domain:udyoggrowth.com", "https://udyoggrowth.com/"):
+            if want in a: return want
+        return next((x for x in a if "udyoggrowth" in x), "https://udyoggrowth.com/")
+    site = pick(avail)
     enc = urllib.parse.quote(site, safe="")
     prefix = "https://udyoggrowth.com/"
 
