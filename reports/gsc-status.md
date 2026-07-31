@@ -9,75 +9,27 @@ Sitemap resubmit: {'error': 403, 'detail': '{\n  "error": {\n    "code": 403,\n 
   "error": {
     "code": 403,
     "message": "You do not own this site, or the | - |
-| /pmfme-subsidy-consultant/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /gst-notice-reply/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /gem-registration-tender-bidding/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /msme-schemes/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /bihar-gst-consultant/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /bihar-government-tenders/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /gst-notice-first-48-hours/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /gstat-appeal/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /gst-consultant-patna/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /gem-registration-patna/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /gst-consultant-noida/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /asmt-10-reply/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /drc-01c-reply/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /pmfme-2-0-update/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /gst-consultant-faridabad/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
-| /gem-registration-fees-documents/ | ERR 403: {
-  "error": {
-    "code": 403,
-    "message": "You do not own this site, or the | - |
+| /pmfme-subsidy-consultant/ | Discovered - currently not indexed | - |
+| /gst-notice-reply/ | Discovered - currently not indexed | - |
+| /gem-registration-tender-bidding/ | Discovered - currently not indexed | - |
+| /msme-schemes/ | Discovered - currently not indexed | - |
+| /bihar-gst-consultant/ | URL is unknown to Google | - |
+| /bihar-government-tenders/ | URL is unknown to Google | - |
+| /gst-notice-first-48-hours/ | URL is unknown to Google | - |
+| /gstat-appeal/ | URL is unknown to Google | - |
+| /gst-consultant-patna/ | URL is unknown to Google | - |
+| /gem-registration-patna/ | URL is unknown to Google | - |
+| /gst-consultant-noida/ | URL is unknown to Google | - |
+| /asmt-10-reply/ | URL is unknown to Google | - |
+| /drc-01c-reply/ | URL is unknown to Google | - |
+| /pmfme-2-0-update/ | URL is unknown to Google | - |
+| /gst-consultant-faridabad/ | URL is unknown to Google | - |
+| /gem-registration-fees-documents/ | URL is unknown to Google | - |
 
 ## Top queries (28d)
 | Query | Clicks | Impr | Pos |
 |---|---|---|---|
-| (no data yet — 403) | | | |
+| (no data yet — ) | | | |
 
 ## Top pages (28d)
 | Page | Clicks | Impr |
