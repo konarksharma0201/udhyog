@@ -14,6 +14,7 @@ body{font-family:'IBM Plex Sans',system-ui,sans-serif;background:var(--paper);co
 h1,h2,h3{font-family:Archivo,sans-serif;line-height:1.1;letter-spacing:-0.015em}
 a{color:inherit}
 .wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+header .wrap{max-width:1320px}
 :focus-visible{outline:3px solid var(--marigold);outline-offset:2px}
 
 /* Header */
@@ -21,13 +22,13 @@ header{border-bottom:1px solid var(--line);background:rgb(251 251 249 / .92);bac
 .nav{display:flex;align-items:center;justify-content:space-between;padding:16px 0}
 .logo{font-family:Archivo,sans-serif;font-weight:900;font-size:1.15rem;text-transform:uppercase;letter-spacing:.04em;text-decoration:none}
 .logo em{font-style:normal;color:var(--approve)}
-.nav ul{display:flex;gap:30px;list-style:none}
+.nav ul{display:flex;gap:22px;list-style:none;flex-wrap:nowrap}
 .nav ul li+li{margin-left:6px}
-.nav ul a{text-decoration:none;font-size:.82rem;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);transition:color .15s}
+.nav ul a{text-decoration:none;font-size:.76rem;font-weight:600;text-transform:uppercase;letter-spacing:.045em;color:var(--muted);transition:color .15s;white-space:nowrap}
 .nav ul a:hover,.nav ul a:focus-visible{color:var(--ink)}
 .call-btn{background:var(--ink);color:#fff;padding:10px 20px;border-radius:3px;text-decoration:none;font-weight:600;font-size:.9rem;transition:background .15s}
 .call-btn:hover{background:var(--approve)}
-@media(max-width:860px){
+@media(max-width:1180px){
 .nav{position:relative;flex-wrap:nowrap;justify-content:space-between;align-items:center;padding:12px 0;gap:8px}
 }
 
@@ -160,7 +161,7 @@ html,body{overflow-x:clip}
 /* Mobile hamburger menu — organised vertical dropdown */
 .menu-toggle{display:none;background:none;border:1.5px solid var(--ink);border-radius:4px;width:46px;height:44px;font-size:1.35rem;line-height:1;color:var(--ink);cursor:pointer;flex-shrink:0}
 .menu-toggle:hover,.menu-toggle:focus-visible{background:var(--ink);color:#fff}
-@media(max-width:860px){
+@media(max-width:1180px){
   .logo{order:1;margin-left:4px;font-size:1.02rem}
   .call-btn{order:2;margin:0 auto;padding:9px 16px;font-size:.85rem;flex-shrink:0}
   .menu-toggle{order:3;display:block;margin-right:4px}
