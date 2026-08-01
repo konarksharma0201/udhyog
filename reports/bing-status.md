@@ -4,7 +4,7 @@
 AddSite: already present
 IsVerified: True
 SubmitFeed: OK
-SubmitUrlBatch (17 urls): OK
+SubmitUrlBatch (21 urls): OK
 GetRankAndTrafficStats: OK
 GetCrawlStats: OK
 ```
