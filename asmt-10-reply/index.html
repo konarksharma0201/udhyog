@@ -40,7 +40,8 @@
 <header>
   <div class="wrap nav">
     <a class="logo" href="/">Udyog<em>Growth</em></a>
-    <nav aria-label="Main"><ul>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="mainnav" aria-label="Open menu">&#9776;</button>
+    <nav aria-label="Main" id="mainnav"><ul>
       <li><a href="/pmfme-subsidy-consultant/">Subsidies</a></li>
       <li><a href="/gst-notice-reply/">GST</a></li>
       <li><a href="/gem-registration-tender-bidding/">GeM &amp; Tenders</a></li>
@@ -49,6 +50,18 @@
     <a class="call-btn" href="tel:+919310526505" aria-label="Call +91&nbsp;93105&nbsp;26505">Call</a>
   </div>
 </header>
+<script>
+(function(){
+  var btn=document.querySelector('.menu-toggle'), nav=document.getElementById('mainnav');
+  if(!btn||!nav) return;
+  function close(){nav.classList.remove('open');btn.setAttribute('aria-expanded','false');}
+  function toggle(){var open=nav.classList.toggle('open');btn.setAttribute('aria-expanded',open?'true':'false');}
+  btn.addEventListener('click',function(e){e.stopPropagation();toggle();});
+  nav.addEventListener('click',function(e){if(e.target.tagName==='A')close();});
+  document.addEventListener('click',function(e){if(nav.classList.contains('open')&&!nav.contains(e.target)&&e.target!==btn)close();});
+  document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});
+})();
+</script>
 <nav class="wrap crumbs" aria-label="Breadcrumb"><a href="/">Home</a> / ASMT-10 Reply</nav>
 <main class="wrap"><article class="page">
 

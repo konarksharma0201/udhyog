@@ -28,10 +28,7 @@ header{border-bottom:1px solid var(--line);background:rgb(251 251 249 / .92);bac
 .call-btn{background:var(--ink);color:#fff;padding:10px 20px;border-radius:3px;text-decoration:none;font-weight:600;font-size:.9rem;transition:background .15s}
 .call-btn:hover{background:var(--approve)}
 @media(max-width:860px){
-.nav{flex-wrap:wrap;justify-content:center;gap:8px;padding:12px 0}
-.nav ul{order:3;width:100%;overflow-x:auto;gap:18px;padding:6px 2px 2px;-webkit-overflow-scrolling:touch;scrollbar-width:none}
-.nav ul::-webkit-scrollbar{display:none}
-.nav ul a{white-space:nowrap}
+.nav{position:relative;flex-wrap:nowrap;justify-content:space-between;align-items:center;padding:12px 0;gap:8px}
 }
 
 /* Hero */
@@ -158,9 +155,19 @@ body{padding-bottom:52px}
 /* mobile horizontal-scroll fix */
 html,body{overflow-x:clip}
 @supports not (overflow:clip){html,body{overflow-x:hidden}}
-@media(max-width:700px){
-.nav ul{overflow-x:auto;flex-wrap:nowrap;gap:14px;scrollbar-width:none;-webkit-overflow-scrolling:touch;max-width:100%;padding-bottom:2px}
-.nav ul::-webkit-scrollbar{display:none}
-.nav ul li+li{margin-left:0}
-.nav ul a{white-space:nowrap}
+
+
+/* Mobile hamburger menu — organised vertical dropdown */
+.menu-toggle{display:none;background:none;border:1.5px solid var(--ink);border-radius:4px;width:42px;height:38px;font-size:1.3rem;line-height:1;color:var(--ink);cursor:pointer;flex-shrink:0}
+.menu-toggle:hover,.menu-toggle:focus-visible{background:var(--ink);color:#fff}
+@media(max-width:860px){
+  .menu-toggle{display:block}
+  .nav ul{display:none;position:absolute;top:100%;left:0;right:0;flex-direction:column;gap:0;background:var(--paper);border-top:2px solid var(--marigold);box-shadow:0 12px 24px rgb(22 35 47/12%);padding:6px 5% 14px;max-height:75vh;overflow-y:auto;z-index:80}
+  .nav ul.open{display:flex}
+  .nav ul li{width:100%}
+  .nav ul li+li{margin-left:0}
+  .nav ul a{display:block;padding:14px 4px;border-bottom:1px solid var(--line);white-space:normal;font-size:.88rem}
+  .nav ul li:last-child a{border-bottom:0}
+  .call-btn{padding:9px 16px;font-size:.85rem;flex-shrink:0}
+  .logo{font-size:1.02rem}
 }
