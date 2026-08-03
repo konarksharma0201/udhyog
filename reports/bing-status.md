@@ -9,5 +9,7 @@ GetRankAndTrafficStats: OK
 GetCrawlStats: OK
 ```
 
-## Rank & Traffic
-(no data yet)
+## Rank & Traffic (recent days)
+| Date | Clicks | Impressions | Avg position |
+|---|---|---|---|
+| /Date(1785567600000-0700)/ | 0 | 0 | - |
