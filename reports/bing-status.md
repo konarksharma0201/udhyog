@@ -13,3 +13,4 @@ GetCrawlStats: OK
 | Date | Clicks | Impressions | Avg position |
 |---|---|---|---|
 | /Date(1785567600000-0700)/ | 0 | 0 | - |
+| /Date(1785654000000-0700)/ | 0 | 0 | - |
