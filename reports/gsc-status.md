@@ -1,50 +1,42 @@
-# GSC run ERROR
+# GSC Status — 2026-08-05 (auto) — property: https://udyoggrowth.com/
 
-```
-Traceback (most recent call last):
-  File "/home/runner/work/udhyog/udhyog/scripts/gsc_report.py", line 82, in <module>
-    main()
-  File "/home/runner/work/udhyog/udhyog/scripts/gsc_report.py", line 51, in main
-    r = call("https://searchconsole.googleapis.com/v1/urlInspection/index:inspect", "POST",
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/udhyog/udhyog/scripts/gsc_report.py", line 39, in call
-    with urllib.request.urlopen(req, timeout=30) as r:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/urllib/request.py", line 215, in urlopen
-    return opener.open(url, data, timeout)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/urllib/request.py", line 515, in open
-    response = self._open(req, data)
-               ^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/urllib/request.py", line 532, in _open
-    result = self._call_chain(self.handle_open, protocol, protocol +
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/urllib/request.py", line 492, in _call_chain
-    result = func(*args)
-             ^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/urllib/request.py", line 1392, in https_open
-    return self.do_open(http.client.HTTPSConnection, req,
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/urllib/request.py", line 1348, in do_open
-    r = h.getresponse()
-        ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/http/client.py", line 1450, in getresponse
-    response.begin()
-  File "/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/http/client.py", line 336, in begin
-    version, status, reason = self._read_status()
-                              ^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/http/client.py", line 297, in _read_status
-    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/socket.py", line 720, in readinto
-    return self._sock.recv_into(b)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/ssl.py", line 1251, in recv_into
-    return self.read(nbytes, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/ssl.py", line 1103, in read
-    return self._sslobj.read(len, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TimeoutError: The read operation timed out
+Sitemap resubmit: OK
 
-```
+## Index status
+| Page | Coverage | Last crawl |
+|---|---|---|
+| / | Submitted and indexed | 2026-08-02 |
+| /pmfme-subsidy-consultant/ | Discovered - currently not indexed | - |
+| /gst-notice-reply/ | Discovered - currently not indexed | - |
+| /gem-registration-tender-bidding/ | Discovered - currently not indexed | - |
+| /msme-schemes/ | Discovered - currently not indexed | - |
+| /bihar-gst-consultant/ | URL is unknown to Google | - |
+| /bihar-government-tenders/ | Discovered - currently not indexed | - |
+| /gst-notice-first-48-hours/ | Discovered - currently not indexed | - |
+| /gstat-appeal/ | Discovered - currently not indexed | - |
+| /gst-consultant-patna/ | Discovered - currently not indexed | - |
+| /gem-registration-patna/ | Discovered - currently not indexed | - |
+| /gst-consultant-noida/ | Discovered - currently not indexed | - |
+| /asmt-10-reply/ | Discovered - currently not indexed | - |
+| /drc-01c-reply/ | Discovered - currently not indexed | - |
+| /pmfme-2-0-update/ | Discovered - currently not indexed | - |
+| /gst-consultant-faridabad/ | URL is unknown to Google | - |
+| /gem-registration-fees-documents/ | Discovered - currently not indexed | - |
+| /import-export-iec-dgft-consultant/ | Discovered - currently not indexed | - |
+| /pollution-noc-environmental-clearance/ | Submitted and indexed | 2026-08-01 |
+| /ngo-trust-12a-80g-fcra-registration/ | Submitted and indexed | 2026-08-01 |
+| /business-loan-subsidy-consultant/ | Submitted and indexed | 2026-08-01 |
+| /liquor-excise-license-delhi/ | Discovered - currently not indexed | - |
+| /fssai-license-consultant/ | Discovered - currently not indexed | - |
+| /land-conversion-clu-consultant/ | Discovered - currently not indexed | - |
+| /solar-subsidy-pm-surya-ghar/ | Discovered - currently not indexed | - |
+
+## Top queries (28d)
+| Query | Clicks | Impr | Pos |
+|---|---|---|---|
+| (no data yet — ) | | | |
+
+## Top pages (28d)
+| Page | Clicks | Impr |
+|---|---|---|
+| / | 0 | 1 |
