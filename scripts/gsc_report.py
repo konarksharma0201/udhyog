@@ -31,16 +31,22 @@ def main():
     enc = urllib.parse.quote(site, safe="")
     prefix = "https://udyoggrowth.com/"
 
-    def call(url, method="GET", body=None):
+    def call(url, method="GET", body=None, _retried=False):
         req = urllib.request.Request(url, method=method,
             data=json.dumps(body).encode() if body is not None else None,
             headers={"Authorization": "Bearer " + tok, "Content-Type": "application/json"})
         try:
-            with urllib.request.urlopen(req, timeout=30) as r:
+            with urllib.request.urlopen(req, timeout=45) as r:
                 d = r.read()
                 return json.loads(d) if d else {}
         except urllib.error.HTTPError as e:
             return {"error": e.code, "detail": e.read().decode()[:300]}
+        except Exception as e:
+            # Timeouts / connection resets / DNS blips etc: one retry, then
+            # degrade to a per-call error instead of killing the whole report.
+            if not _retried:
+                return call(url, method, body, _retried=True)
+            return {"error": "exception", "detail": str(e)[:300]}
 
     sm = call("https://www.googleapis.com/webmasters/v3/sites/%s/sitemaps/%s" %
               (enc, urllib.parse.quote(prefix + "sitemap.xml", safe="")), "PUT")
@@ -83,3 +89,4 @@ try:
 except Exception:
     open(OUT, "w").write("# GSC run ERROR\n\n```\n" + traceback.format_exc() + "\n```\n")
     print("wrote error report")
+    sys.exit(1)  # surface real failures as failed runs, not false-green successes
