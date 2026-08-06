@@ -1,4 +1,4 @@
-# GSC Status — 2026-08-05 (auto) — property: https://udyoggrowth.com/
+# GSC Status — 2026-08-06 (auto) — property: https://udyoggrowth.com/
 
 Sitemap resubmit: OK
 
@@ -10,10 +10,10 @@ Sitemap resubmit: OK
 | /gst-notice-reply/ | Discovered - currently not indexed | - |
 | /gem-registration-tender-bidding/ | Discovered - currently not indexed | - |
 | /msme-schemes/ | Discovered - currently not indexed | - |
-| /bihar-gst-consultant/ | URL is unknown to Google | - |
+| /bihar-gst-consultant/ | Discovered - currently not indexed | - |
 | /bihar-government-tenders/ | Discovered - currently not indexed | - |
 | /gst-notice-first-48-hours/ | Discovered - currently not indexed | - |
-| /gstat-appeal/ | URL is unknown to Google | - |
+| /gstat-appeal/ | Discovered - currently not indexed | - |
 | /gst-consultant-patna/ | Discovered - currently not indexed | - |
 | /gem-registration-patna/ | Discovered - currently not indexed | - |
 | /gst-consultant-noida/ | Discovered - currently not indexed | - |
@@ -27,8 +27,8 @@ Sitemap resubmit: OK
 | /ngo-trust-12a-80g-fcra-registration/ | Submitted and indexed | 2026-08-01 |
 | /business-loan-subsidy-consultant/ | Submitted and indexed | 2026-08-01 |
 | /liquor-excise-license-delhi/ | Discovered - currently not indexed | - |
-| /fssai-license-consultant/ | Discovered - currently not indexed | - |
-| /land-conversion-clu-consultant/ | Discovered - currently not indexed | - |
+| /fssai-license-consultant/ | URL is unknown to Google | - |
+| /land-conversion-clu-consultant/ | URL is unknown to Google | - |
 | /solar-subsidy-pm-surya-ghar/ | Discovered - currently not indexed | - |
 
 ## Top queries (28d)
@@ -39,4 +39,4 @@ Sitemap resubmit: OK
 ## Top pages (28d)
 | Page | Clicks | Impr |
 |---|---|---|
-| / | 0 | 1 |
+| / | 0 | 3 |
