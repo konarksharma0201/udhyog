@@ -1,4 +1,4 @@
-# GSC Status — 2026-08-09 (auto) — property: https://udyoggrowth.com/
+# GSC Status — 2026-08-10 (auto) — property: https://udyoggrowth.com/
 
 Sitemap resubmit: OK
 
@@ -6,7 +6,7 @@ Sitemap resubmit: OK
 | Page | Coverage | Last crawl |
 |---|---|---|
 | / | Submitted and indexed | 2026-08-02 |
-| /pmfme-subsidy-consultant/ | Discovered - currently not indexed | - |
+| /pmfme-subsidy-consultant/ | URL is unknown to Google | - |
 | /gst-notice-reply/ | Discovered - currently not indexed | - |
 | /gem-registration-tender-bidding/ | Discovered - currently not indexed | - |
 | /msme-schemes/ | Discovered - currently not indexed | - |
@@ -41,4 +41,4 @@ Sitemap resubmit: OK
 |---|---|---|
 | / | 0 | 3 |
 | /ngo-trust-12a-80g-fcra-registration/ | 0 | 2 |
-| /pollution-noc-environmental-clearance/ | 0 | 1 |
+| /pollution-noc-environmental-clearance/ | 0 | 2 |
