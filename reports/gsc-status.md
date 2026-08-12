@@ -1,4 +1,4 @@
-# GSC Status — 2026-08-11 (auto) — property: https://udyoggrowth.com/
+# GSC Status — 2026-08-12 (auto) — property: https://udyoggrowth.com/
 
 Sitemap resubmit: OK
 
@@ -6,7 +6,7 @@ Sitemap resubmit: OK
 | Page | Coverage | Last crawl |
 |---|---|---|
 | / | Submitted and indexed | 2026-08-02 |
-| /pmfme-subsidy-consultant/ | URL is unknown to Google | - |
+| /pmfme-subsidy-consultant/ | Discovered - currently not indexed | - |
 | /gst-notice-reply/ | Discovered - currently not indexed | - |
 | /gem-registration-tender-bidding/ | Discovered - currently not indexed | - |
 | /msme-schemes/ | Discovered - currently not indexed | - |
@@ -15,8 +15,8 @@ Sitemap resubmit: OK
 | /gst-notice-first-48-hours/ | Discovered - currently not indexed | - |
 | /gstat-appeal/ | Discovered - currently not indexed | - |
 | /gst-consultant-patna/ | Discovered - currently not indexed | - |
-| /gem-registration-patna/ | URL is unknown to Google | - |
-| /gst-consultant-noida/ | URL is unknown to Google | - |
+| /gem-registration-patna/ | Discovered - currently not indexed | - |
+| /gst-consultant-noida/ | Discovered - currently not indexed | - |
 | /asmt-10-reply/ | Discovered - currently not indexed | - |
 | /drc-01c-reply/ | Discovered - currently not indexed | - |
 | /pmfme-2-0-update/ | URL is unknown to Google | - |
@@ -26,7 +26,7 @@ Sitemap resubmit: OK
 | /pollution-noc-environmental-clearance/ | Submitted and indexed | 2026-08-01 |
 | /ngo-trust-12a-80g-fcra-registration/ | Submitted and indexed | 2026-08-01 |
 | /business-loan-subsidy-consultant/ | Submitted and indexed | 2026-08-01 |
-| /liquor-excise-license-delhi/ | URL is unknown to Google | - |
+| /liquor-excise-license-delhi/ | Discovered - currently not indexed | - |
 | /fssai-license-consultant/ | Discovered - currently not indexed | - |
 | /land-conversion-clu-consultant/ | Discovered - currently not indexed | - |
 | /solar-subsidy-pm-surya-ghar/ | Discovered - currently not indexed | - |
@@ -41,4 +41,4 @@ Sitemap resubmit: OK
 |---|---|---|
 | / | 0 | 3 |
 | /ngo-trust-12a-80g-fcra-registration/ | 0 | 2 |
-| /pollution-noc-environmental-clearance/ | 0 | 2 |
+| /pollution-noc-environmental-clearance/ | 0 | 3 |
