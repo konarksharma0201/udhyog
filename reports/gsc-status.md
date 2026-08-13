@@ -1,4 +1,4 @@
-# GSC Status — 2026-08-12 (auto) — property: https://udyoggrowth.com/
+# GSC Status — 2026-08-13 (auto) — property: https://udyoggrowth.com/
 
 Sitemap resubmit: OK
 
@@ -12,24 +12,24 @@ Sitemap resubmit: OK
 | /msme-schemes/ | Discovered - currently not indexed | - |
 | /bihar-gst-consultant/ | Discovered - currently not indexed | - |
 | /bihar-government-tenders/ | Discovered - currently not indexed | - |
-| /gst-notice-first-48-hours/ | Discovered - currently not indexed | - |
+| /gst-notice-first-48-hours/ | URL is unknown to Google | - |
 | /gstat-appeal/ | Discovered - currently not indexed | - |
 | /gst-consultant-patna/ | Discovered - currently not indexed | - |
 | /gem-registration-patna/ | Discovered - currently not indexed | - |
 | /gst-consultant-noida/ | Discovered - currently not indexed | - |
 | /asmt-10-reply/ | Discovered - currently not indexed | - |
 | /drc-01c-reply/ | Discovered - currently not indexed | - |
-| /pmfme-2-0-update/ | URL is unknown to Google | - |
-| /gst-consultant-faridabad/ | Discovered - currently not indexed | - |
-| /gem-registration-fees-documents/ | Discovered - currently not indexed | - |
+| /pmfme-2-0-update/ | Discovered - currently not indexed | - |
+| /gst-consultant-faridabad/ | URL is unknown to Google | - |
+| /gem-registration-fees-documents/ | URL is unknown to Google | - |
 | /import-export-iec-dgft-consultant/ | Discovered - currently not indexed | - |
 | /pollution-noc-environmental-clearance/ | Submitted and indexed | 2026-08-01 |
 | /ngo-trust-12a-80g-fcra-registration/ | Submitted and indexed | 2026-08-01 |
 | /business-loan-subsidy-consultant/ | Submitted and indexed | 2026-08-01 |
-| /liquor-excise-license-delhi/ | Discovered - currently not indexed | - |
+| /liquor-excise-license-delhi/ | URL is unknown to Google | - |
 | /fssai-license-consultant/ | Discovered - currently not indexed | - |
 | /land-conversion-clu-consultant/ | Discovered - currently not indexed | - |
-| /solar-subsidy-pm-surya-ghar/ | Discovered - currently not indexed | - |
+| /solar-subsidy-pm-surya-ghar/ | URL is unknown to Google | - |
 
 ## Top queries (28d)
 | Query | Clicks | Impr | Pos |
@@ -39,6 +39,6 @@ Sitemap resubmit: OK
 ## Top pages (28d)
 | Page | Clicks | Impr |
 |---|---|---|
-| / | 0 | 3 |
-| /ngo-trust-12a-80g-fcra-registration/ | 0 | 2 |
-| /pollution-noc-environmental-clearance/ | 0 | 3 |
+| / | 0 | 4 |
+| /ngo-trust-12a-80g-fcra-registration/ | 0 | 3 |
+| /pollution-noc-environmental-clearance/ | 0 | 5 |
