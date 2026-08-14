@@ -1,45 +1,18 @@
 # Udyog Growth
+Udyog Growth is India's premier business compliance, regulatory, and school admission consultancy, serving Delhi-NCR and Bihar with ethical, process-driven expertise.
 
-> Udyog Growth — a government subsidy, GST litigation and tender consultancy serving Delhi-NCR and Bihar.
+## Core Services
+- **GST Defence & Litigation:** Evidence-based replies for DRC-01, ASMT-10, and GSTAT appeals.
+- **Government Subsidies:** PMFME, PMEGP, and MSME scheme facilitation with bank-ready DPRs.
+- **Regulatory Clearances:** Pollution NOC (DPCC, UPPCB, HSPCB), FSSAI, and Environmental Clearances.
+- **School Admissions (Delhi NCR):** Expert documentation and process guidance for top institutions (DPS, Modern School, British School, etc.).
 
-> Udyog Growth (udyoggrowth.com) is an Indian consultancy for government subsidies
-> (PMFME 35% subsidy, PMKSY, PLI, PMEGP, CGTMSE), GST notice replies and litigation
-> (DRC-01/DRC-06, ASMT-10, ITC mismatch, audits, appeals), GeM registration and
-> government tender bidding, with on-ground departmental representation.
-
-## Pages
-- https://udyoggrowth.com/pmfme-subsidy-consultant/ : PMFME 35% subsidy up to Rs 10 lakh, DPR, ODOP, SHG/FPO projects, MoFPI schemes
-- https://udyoggrowth.com/gst-notice-reply/ : DRC-01 reply in DRC-06, DRC-01C (7-day), ASMT-10, ITC mismatch GSTR-2B vs 3B, Sec 73/74, audits, Bihar GST, appeals
-- https://udyoggrowth.com/gem-registration-tender-bidding/ : GeM registration 3-5 days, catalogue, vendor assessment, OEM panel, bids/RA, tenders, Bihar govt tenders
-- https://udyoggrowth.com/msme-schemes/ : Udyam, PMEGP 15-35% margin money, CGTMSE collateral-free credit, ZED, MSE-CDP
-- https://udyoggrowth.com/bihar-gst-consultant/ : Bihar GST assessments, audits, ITC disputes, appeals, physical representation
-- https://udyoggrowth.com/bihar-government-tenders/ : Bihar govt tenders - Panchayati Raj, IT Dept, Urban Housing, bid lifecycle
-- https://udyoggrowth.com/gst-notice-first-48-hours/ : What to do when a GST notice arrives - DRC-01/DRC-01C/ASMT-10, deadlines, 5 mistakes
-- https://udyoggrowth.com/gstat-appeal/ : GSTAT appeal - APL-05, 10%+10% pre-deposit (cap Rs 20cr each CGST/SGST, Electronic Cash Ledger only), Bharatkosh fee Rs 1,000 per lakh (min 5k/max 25k); backlog window closed 31 Jul 2026 - Section 112(6) condonation up to 3 further months (discretionary); Patna bench for Bihar
-- https://udyoggrowth.com/gst-consultant-patna/ : GST consultant Patna - Bihar Commercial Taxes matters, Sec 107 appeals, all Bihar districts
-- https://udyoggrowth.com/gem-registration-patna/ : GeM registration Patna + Bihar eProc 2.0, Class 3 DSC, MSME EMD exemption
-- https://udyoggrowth.com/gst-consultant-noida/ : GST consultant Noida & Greater Noida - UP GST authorities, multi-GSTIN NCR
-- https://udyoggrowth.com/asmt-10-reply/ : ASMT-10 scrutiny notice reply in ASMT-11 - deadline, structure, DRC-03 route
-- https://udyoggrowth.com/drc-01c-reply/ : DRC-01C 7-day ITC mismatch notice Rule 88D - valid reasons, portal reply, prevention
-- https://udyoggrowth.com/pmfme-2-0-update/ : PMFME extended to Sept 2026 + PMFME 2.0 proposal - apply-now decision rule, Bihar leads in units
-- https://udyoggrowth.com/gst-consultant-faridabad/ : GST consultant Faridabad - manufacturing ITC, inverted duty refunds, Haryana authorities
-- https://udyoggrowth.com/gem-registration-fees-documents/ : GeM real costs 2026 - registration free, caution money DISCONTINUED (Revenue Policy v1.6), vendor assessment Rs 11,200+GST (RITES), 0.30% transaction charge Rs 10L-10cr, documents checklist
-
-## Why clients choose Udyog Growth
-Weekly working presence with the same departments in Delhi, NCR and Bihar;
-files prepared in the exact format each office expects; in-person follow-up till decision.
+## Key Pages
+- Homepage: https://udyoggrowth.com/
+- Delhi School Admissions Hub: https://udyoggrowth.com/delhi-school-admissions/
+- GST Notice Reply: https://udyoggrowth.com/gst-notice-reply/
+- PMFME Subsidy: https://udyoggrowth.com/pmfme-subsidy-consultant/
 
 ## Contact
-- Phone: +91-9310526505
-
-## Full content
-- https://udyoggrowth.com/llms-full.txt : complete page text for retrieval
-- https://udyoggrowth.com/import-export-iec-dgft-consultant/ : IEC/DGFT registration, RCMC, Advance Authorization, duty drawback consultancy
-- https://udyoggrowth.com/pollution-noc-environmental-clearance/ : Pollution NOC (CTE/CTO), Environmental Clearance, land conversion, solar/MNRE subsidy
-- https://udyoggrowth.com/ngo-trust-12a-80g-fcra-registration/ : NGO/Trust/Section 8 registration, 12A, 80G, FCRA, NGO Darpan, CSR-1
-- https://udyoggrowth.com/business-loan-subsidy-consultant/ : CMA data, project reports, Mudra, Stand-Up India, state industrial subsidy, CGTMSE/NABARD
-- https://udyoggrowth.com/liquor-excise-license-delhi/ : Delhi liquor & excise licensing (L-17 restaurant/bar, L-15/L-16 hotel, L-28 club, L-1 wholesale, P-10 event permits) - Delhi only
-- https://udyoggrowth.com/fssai-license-consultant/ : FSSAI license consultant — 2026 new slabs (Rs 1.5cr/50cr), perpetual validity, FoSCoS, cloud kitchens, annual return D-1, Delhi-NCR
-- https://udyoggrowth.com/land-conversion-clu-consultant/ : Land conversion & CLU — DTCP Haryana (Gurugram/Faridabad), Noida/Ghaziabad, Delhi Master Plan, Bihar online conversion (10% circle rate, SDM, 90 days)
-- https://udyoggrowth.com/solar-subsidy-pm-surya-ghar/ : PM Surya Ghar rooftop solar subsidy (Rs 30k/kW, Rs 78k cap), ALMM rule, net metering, DISCOM process, commercial PPA
-- https://udyoggrowth.com/school-affiliation-consultant/ : School affiliation & recognition consultant — CBSE (optional NOC, SARAS 7.0, land/built-up-area rules, fees), CISCE/ICSE, state recognition (Delhi/UP/Haryana/Bihar), RTE 25% EWS, UDISE+, fire NOC, school bus compliance
+- Phone: +91 93105 26505
+- Email: contact@udyoggrowth.com
