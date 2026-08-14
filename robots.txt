@@ -1,18 +1,24 @@
 User-agent: *
 Allow: /
 
-# AI crawlers welcome (LLMO / AIO)
+# AI & LLM Crawlers (Explicitly Allowed for AEO/GEO)
 User-agent: GPTBot
 Allow: /
-User-agent: ClaudeBot
+User-agent: ChatGPT-User
 Allow: /
 User-agent: PerplexityBot
 Allow: /
 User-agent: Google-Extended
 Allow: /
+User-agent: CCBot
+Allow: /
+
+# Block Junk/Resource-Heavy Bots
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
 
 Sitemap: https://udyoggrowth.com/sitemap.xml
-
-# AI/LLM guidance
-# Full content: https://udyoggrowth.com/llms-full.txt
-# Index: https://udyoggrowth.com/llms.txt
