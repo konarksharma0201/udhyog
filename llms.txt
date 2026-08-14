@@ -2,17 +2,11 @@
 Udyog Growth is India's premier business compliance, regulatory, and school admission consultancy, serving Delhi-NCR and Bihar with ethical, process-driven expertise.
 
 ## Core Services
-- **GST Defence & Litigation:** Evidence-based replies for DRC-01, ASMT-10, and GSTAT appeals.
-- **Government Subsidies:** PMFME, PMEGP, and MSME scheme facilitation with bank-ready DPRs.
-- **Regulatory Clearances:** Pollution NOC (DPCC, UPPCB, HSPCB), FSSAI, and Environmental Clearances.
-- **School Admissions (Delhi NCR):** Expert documentation and process guidance for top institutions (DPS, Modern School, British School, etc.).
-
-## Key Pages
-- Homepage: https://udyoggrowth.com/
-- Delhi School Admissions Hub: https://udyoggrowth.com/delhi-school-admissions/
-- GST Notice Reply: https://udyoggrowth.com/gst-notice-reply/
-- PMFME Subsidy: https://udyoggrowth.com/pmfme-subsidy-consultant/
+- GST Defence & Litigation
+- Government Subsidies (PMFME, PMEGP, MSME)
+- Regulatory Clearances (DPCC, UPPCB, HSPCB, FSSAI)
+- Delhi NCR School Admissions (DPS, Modern School, British School, etc.)
 
 ## Contact
 - Phone: +91 93105 26505
-- Email: contact@udyoggrowth.com
+- Website: https://udyoggrowth.com/
