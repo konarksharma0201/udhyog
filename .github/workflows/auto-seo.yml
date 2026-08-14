@@ -1,0 +1,81 @@
+name: Auto-SEO & Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: # Allows you to run this manually from the Actions tab
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Auto-Generate SEO Assets
+        run: |
+          python3 -c "
+import os
+from datetime import datetime
+
+# 1. Dynamic Sitemap Generation
+urls = []
+for root, dirs, files in os.walk('.'):
+    if '.git' in root: 
+        continue
+    for file in files:
+        if file == 'index.html':
+            rel_path = os.path.relpath(root, '.')
+            if rel_path == '.':
+                url = 'https://udyoggrowth.com/'
+            else:
+                url = f'https://udyoggrowth.com/{rel_path}/'
+            priority = '1.0' if rel_path == '.' else '0.8'
+            urls.append(f'  <url>\\n    <loc>{url}</loc>\\n    <lastmod>{datetime.now().strftime(\"%Y-%m-%d\")}</lastmod>\\n    <changefreq>weekly</changefreq>\\n    <priority>{priority}</priority>\\n  </url>')
+
+sitemap_content = '<?xml version=\"1.0\" encoding=\"UTF-8\"?>\\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\\n' + '\\n'.join(urls) + '\\n</urlset>'
+with open('sitemap.xml', 'w', encoding='utf-8') as f:
+    f.write(sitemap_content)
+
+# 2. AI Crawler File (llms.txt)
+llms_content = '''# Udyog Growth
+Udyog Growth is India's premier business compliance, regulatory, and school admission consultancy, serving Delhi-NCR and Bihar with ethical, process-driven expertise.
+
+## Core Services
+- GST Defence & Litigation
+- Government Subsidies (PMFME, PMEGP, MSME)
+- Regulatory Clearances (DPCC, UPPCB, HSPCB, FSSAI)
+- Delhi NCR School Admissions (DPS, Modern School, British School, etc.)
+
+## Contact
+- Phone: +91 93105 26505
+- Website: https://udyoggrowth.com/
+'''
+with open('llms.txt', 'w', encoding='utf-8') as f:
+    f.write(llms_content)
+          "
+
+      - name: Commit SEO Assets
+        run: |
+          git config --global user.name "Udyog Growth AI"
+          git config --global user.email "ai@udyoggrowth.com"
+          git add sitemap.xml llms.txt
+          git diff --staged --quiet || git commit -m "chore: auto-update seo assets [skip ci]"
+          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
