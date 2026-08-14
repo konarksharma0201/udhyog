@@ -4,7 +4,7 @@
 AddSite: already present
 IsVerified: True
 SubmitFeed: OK
-SubmitUrlBatch (25 urls): OK
+SubmitUrlBatch (26 urls): OK
 GetRankAndTrafficStats: OK
 GetCrawlStats: OK
 ```
@@ -23,3 +23,4 @@ GetCrawlStats: OK
 | /Date(1786258800000-0700)/ | 0 | 0 | - |
 | /Date(1786345200000-0700)/ | 0 | 0 | - |
 | /Date(1786431600000-0700)/ | 0 | 0 | - |
+| /Date(1786518000000-0700)/ | 0 | 0 | - |
