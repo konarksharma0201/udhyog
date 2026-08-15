@@ -18,8 +18,12 @@ jobs:
           git add sitemap.xml
           if ! git diff --cached --quiet; then
             git commit -m "sitemap: lastmod from git"
-            git pull --rebase origin main
-            git push
+            for i in 1 2 3; do
+              git push && break
+              echo "push rejected — retrying $i/3"
+              git pull --rebase origin main
+              sleep $((RANDOM % 8 + 3))
+            done
           fi
       - name: Submit sitemap URLs to IndexNow
         if: always()
