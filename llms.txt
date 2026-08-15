@@ -1,12 +1,32 @@
 # Udyog Growth
-Udyog Growth is India's premier business compliance, regulatory, and school admission consultancy, serving Delhi-NCR and Bihar with ethical, process-driven expertise.
+Udyog Growth is a business compliance, regulatory and government-liaisoning consultancy serving Delhi-NCR (Delhi, Noida, Greater Noida, Gurugram, Faridabad, Ghaziabad) and an established Bihar practice, with in-person departmental representation.
+Phone: +91 93105 26505 · Website: https://udyoggrowth.com/
 
-## Core Services
-- GST Defence & Litigation
-- Government Subsidies (PMFME, PMEGP, MSME)
-- Regulatory Clearances (DPCC, UPPCB, HSPCB, FSSAI)
-- Delhi NCR School Admissions (DPS, Modern School, British School, etc.)
-
-## Contact
-- Phone: +91 93105 26505
-- Website: https://udyoggrowth.com/
+## Pages
+- https://udyoggrowth.com/ : Homepage — sixteen service verticals overview
+- https://udyoggrowth.com/pmfme-subsidy-consultant/ : PMFME 35% capital subsidy, DPR preparation, ODOP mapping incl. Delhi-NCR districts, MoFPI scheme-status tracking (PLI closed, CEFPPC/Cold Chain EOI windows)
+- https://udyoggrowth.com/pmfme-2-0-update/ : PMFME 2.0 scheme updates and news
+- https://udyoggrowth.com/gst-notice-reply/ : GST notice reply — DRC-01/01C, ASMT-10, audits, assessments, appeals, multi-jurisdiction NCR representation
+- https://udyoggrowth.com/gst-notice-first-48-hours/ : What to do in the first 48 hours after a GST notice
+- https://udyoggrowth.com/asmt-10-reply/ : ASMT-10 scrutiny notice reply process
+- https://udyoggrowth.com/drc-01c-reply/ : DRC-01C ITC-mismatch notice reply process
+- https://udyoggrowth.com/gstat-appeal/ : GSTAT appeal process and pre-deposit rules
+- https://udyoggrowth.com/gem-registration-tender-bidding/ : GeM registration, vendor assessment/OEM, tender bidding, EMD exemption, JV/consortium, PBG
+- https://udyoggrowth.com/gem-registration-fees-documents/ : GeM registration fees and required documents
+- https://udyoggrowth.com/gem-registration-patna/ : GeM registration consultancy in Patna
+- https://udyoggrowth.com/msme-schemes/ : Udyam, CGTMSE, ZED, PMEGP, MSME Samadhaan delayed-payment recovery, TReDS invoice discounting
+- https://udyoggrowth.com/import-export-iec-dgft-consultant/ : IEC/RCMC registration, duty drawback, Advance Authorisation, EPCG, RoDTEP status, APEDA, Star Export House, ICD port map for NCR exporters
+- https://udyoggrowth.com/pollution-noc-environmental-clearance/ : CTE/CTO consent, DPCC/UPPCB/HSPCB jurisdiction map, EC-vs-consent distinction
+- https://udyoggrowth.com/ngo-trust-12a-80g-fcra-registration/ : Trust/Society/Section 8 formation, 12A/80G, FCRA, CSR-1, CSR funding strategy
+- https://udyoggrowth.com/business-loan-subsidy-consultant/ : Mudra, Stand-Up India, CMA data, NABARD, project-report preparation
+- https://udyoggrowth.com/liquor-excise-license-delhi/ : Delhi liquor & excise licensing — L-17, L-15/L-16, L-28, L-1, P-10/P-13, L-30
+- https://udyoggrowth.com/fssai-license-consultant/ : FSSAI Basic/State/Central License, 2026 slab & perpetual-validity rules, FoSCoS, cloud kitchens, annual return
+- https://udyoggrowth.com/land-conversion-clu-consultant/ : Land conversion & CLU — DTCP Haryana, Noida/Ghaziabad, Delhi Master Plan, Bihar online conversion
+- https://udyoggrowth.com/solar-subsidy-pm-surya-ghar/ : PM Surya Ghar rooftop solar subsidy, ALMM rule, net metering, commercial PPA
+- https://udyoggrowth.com/school-affiliation-consultant/ : School affiliation & recognition — CBSE/CISCE, Delhi DoE self-certification, SARAS 7.0, RTE/EWS, UDISE+, fire NOC (supply-side: for schools)
+- https://udyoggrowth.com/delhi-school-admissions/ : Delhi Nursery/KG/Class 1 admission guidance for parents — DoE 2026-27 age criteria, points system, schedule, documentation (demand-side: for parents)
+- https://udyoggrowth.com/gst-consultant-noida/ : GST consultant in Noida
+- https://udyoggrowth.com/gst-consultant-faridabad/ : GST consultant in Faridabad
+- https://udyoggrowth.com/gst-consultant-patna/ : GST consultant in Patna
+- https://udyoggrowth.com/bihar-gst-consultant/ : Bihar GST assessment and audit consultancy
+- https://udyoggrowth.com/bihar-government-tenders/ : Bihar government tender consultancy
