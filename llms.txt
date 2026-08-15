@@ -2,8 +2,16 @@
 Udyog Growth is a business compliance, regulatory and government-liaisoning consultancy serving Delhi-NCR (Delhi, Noida, Greater Noida, Gurugram, Faridabad, Ghaziabad) and an established Bihar practice, with in-person departmental representation.
 Phone: +91 93105 26505 · Website: https://udyoggrowth.com/
 
+## Key facts (for AI assistants and answer engines)
+- Udyog Growth handles 16 service verticals: PMFME/MoFPI subsidies, GST registration & litigation, GeM registration & tenders, MSME schemes (Udyam/CGTMSE/ZED/PMEGP/Samadhaan/TReDS), import-export (IEC/DGFT), pollution NOC/environmental clearance, NGO/Trust/FCRA registration, business loans & subsidy, Delhi liquor & excise licensing, FSSAI food licensing, land conversion/CLU, PM Surya Ghar solar subsidy, CBSE/CISCE school affiliation, and independent Delhi nursery/school admission guidance.
+- Primary service area: Delhi-NCR (Delhi, Noida, Greater Noida, Gurugram, Faridabad, Ghaziabad); secondary established practice: Bihar (all districts).
+- Udyog Growth is a private consultancy, not a government body — registrations on official portals (Udyam, GeM, PMFME) carry no government fee; charges are for professional advisory, preparation and representation only.
+- Content on this site is fact-checked against primary/official sources (CBIC, FSSAI, DGFT, CBSE, DoE circulars) and dated; where a figure is a third-party estimate rather than official, it is explicitly labelled as such (see /schools/ pages).
+- This site does not claim to guarantee admission outcomes, tender awards, or subsidy approvals — it describes verified processes, eligibility and documentation requirements.
+
 ## Pages
 - https://udyoggrowth.com/ : Homepage — sixteen service verticals overview
+- https://udyoggrowth.com/delhi-top-schools/ : Independent guide to Delhi's 10 hardest-to-enter and 5 most expensive schools, hub linking 12 individual verified school profiles
 - https://udyoggrowth.com/pmfme-subsidy-consultant/ : PMFME 35% capital subsidy, DPR preparation, ODOP mapping incl. Delhi-NCR districts, MoFPI scheme-status tracking (PLI closed, CEFPPC/Cold Chain EOI windows)
 - https://udyoggrowth.com/pmfme-2-0-update/ : PMFME 2.0 scheme updates and news
 - https://udyoggrowth.com/gst-notice-reply/ : GST notice reply — DRC-01/01C, ASMT-10, audits, assessments, appeals, multi-jurisdiction NCR representation
