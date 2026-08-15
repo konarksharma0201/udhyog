@@ -1,0 +1,39 @@
+name: Verify Pages deploy
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+    steps:
+      - name: Wait for GitHub's own Pages build to settle
+        run: sleep 90
+
+      - name: Compare deployed SHA to current HEAD; force a rebuild if it fell behind
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          HEAD_SHA="${{ github.sha }}"
+          DEPLOYED_SHA=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/repos/$REPO/pages/builds/latest" | python3 -c "import json,sys;print(json.load(sys.stdin).get('commit',''))")
+          echo "HEAD: $HEAD_SHA"
+          echo "Deployed: $DEPLOYED_SHA"
+          if [ "$HEAD_SHA" != "$DEPLOYED_SHA" ]; then
+            echo "Pages deploy is behind HEAD — forcing a fresh build."
+            curl -s -X POST -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/$REPO/pages/builds"
+            sleep 60
+            DEPLOYED_SHA_2=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+              "https://api.github.com/repos/$REPO/pages/builds/latest" | python3 -c "import json,sys;print(json.load(sys.stdin).get('commit',''))")
+            echo "Deployed after forced rebuild: $DEPLOYED_SHA_2"
+            if [ "$HEAD_SHA" != "$DEPLOYED_SHA_2" ]; then
+              echo "::warning::Pages still not on HEAD after a forced rebuild — check manually."
+            fi
+          else
+            echo "Pages deploy is current. No action needed."
+          fi
