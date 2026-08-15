@@ -193,3 +193,9 @@ html,body{overflow-x:clip}
   .nav ul a{display:block;padding:14px 4px;border-bottom:1px solid var(--line);white-space:normal;font-size:.88rem}
   .nav ul li:last-child a{border-bottom:0}
 }
+
+/* Content-copy deterrent: casual protection only, not effective against
+   view-source, devtools, or crawlers/bots. Phone/WhatsApp links stay
+   selectable so genuine visitors can still copy contact details. */
+body{-webkit-user-select:none;-moz-user-select:none;user-select:none}
+input,textarea,.callbar a,.contact-box a[href^="tel:"]{-webkit-user-select:text;-moz-user-select:text;user-select:text}
