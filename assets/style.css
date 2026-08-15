@@ -108,6 +108,16 @@ article.page li{margin-bottom:7px}
 article.page .method-block h3{font-size:1.05rem;font-weight:700;margin:0 0 12px;color:var(--ink)}
 article.page .method-block ul{list-style:none;margin:0;max-width:none;display:flex;flex-direction:column;gap:8px}
 .method-block li{font-size:.92rem;line-height:1.55}
+.disclaimer-box{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--muted);border-radius:4px;padding:16px 20px;margin:20px 0 28px;font-size:.85rem;line-height:1.6;color:var(--muted)}
+.disclaimer-box strong{color:var(--ink)}
+.fee-tag{display:inline-block;font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.03em;padding:2px 7px;border-radius:3px;margin-left:6px;vertical-align:middle}
+.fee-tag.official{background:rgba(42,116,87,.12);color:var(--approve)}
+.fee-tag.estimate{background:rgba(221,160,50,.15);color:#96731c}
+.school-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;margin:22px 0}
+.school-grid a{display:block;padding:16px 18px;border:1px solid var(--line);border-radius:6px;text-decoration:none;color:var(--ink);background:var(--card)}
+.school-grid a:hover{border-color:var(--marigold)}
+.school-grid .tier{display:block;font-size:.72rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-bottom:4px}
+.school-grid .name{font-family:Archivo,sans-serif;font-weight:700;font-size:.98rem}
 .hl strong{color:var(--approve)}
 .cta-inline{margin:36px 0}
 
