@@ -4,7 +4,7 @@
 AddSite: already present
 IsVerified: True
 SubmitFeed: OK
-SubmitUrlBatch (40 urls): {"__error": 400, "__detail": "{\"ErrorCode\":2,\"Message\":\"ERROR!!! You have exceeded your daily url submission quota : 100\"}"}
+SubmitUrlBatch (40 urls): OK
 GetRankAndTrafficStats: OK
 GetCrawlStats: OK
 ```
