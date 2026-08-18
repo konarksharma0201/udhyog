@@ -40,12 +40,46 @@
   <div class="wrap nav">
     <a class="logo" href="/">Udyog<em>Growth</em></a>
     <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="mainnav" aria-label="Open menu">&#9776;</button>
-    <nav aria-label="Main" id="mainnav"><ul>
-      <li><a href="/pmfme-subsidy-consultant/">Subsidies</a></li>
-      <li><a href="/gst-notice-reply/">GST</a></li>
-      <li><a href="/gem-registration-tender-bidding/">GeM &amp; Tenders</a></li>
-      <li><a href="/msme-schemes/">MSME</a></li><li><a href="/import-export-iec-dgft-consultant/">Import-Export</a></li><li><a href="/pollution-noc-environmental-clearance/">Environment</a></li><li><a href="/ngo-trust-12a-80g-fcra-registration/">NGO/CSR</a></li><li><a href="/business-loan-subsidy-consultant/">Loans</a></li>
-    </ul></nav>
+    <nav aria-label="Main" id="mainnav">
+      <ul>
+        <li class="has-sub">
+          <button type="button" class="nav-trigger" aria-haspopup="true" aria-expanded="false">Subsidies &amp; Finance</button>
+          <ul class="sub">
+            <li><a href="/pmfme-subsidy-consultant/">PMFME &amp; MoFPI Subsidy</a></li>
+            <li><a href="/msme-schemes/">MSME Schemes</a></li>
+            <li><a href="/business-loan-subsidy-consultant/">Business Loans &amp; Subsidy</a></li>
+          </ul>
+        </li>
+        <li class="has-sub">
+          <button type="button" class="nav-trigger" aria-haspopup="true" aria-expanded="false">GST, Tenders &amp; Trade</button>
+          <ul class="sub">
+            <li><a href="/gst-notice-reply/">GST Notices &amp; Litigation</a></li>
+            <li><a href="/gem-registration-tender-bidding/">GeM &amp; Tenders</a></li>
+            <li><a href="/import-export-iec-dgft-consultant/">Import-Export (IEC/DGFT)</a></li>
+          </ul>
+        </li>
+        <li class="has-sub">
+          <button type="button" class="nav-trigger" aria-haspopup="true" aria-expanded="false">Licensing &amp; Approvals</button>
+          <ul class="sub">
+            <li><a href="/fssai-license-consultant/">FSSAI Food License</a></li>
+            <li><a href="/liquor-excise-license-delhi/">Liquor &amp; Excise (Delhi)</a></li>
+            <li><a href="/land-conversion-clu-consultant/">Land Conversion / CLU</a></li>
+            <li><a href="/solar-subsidy-pm-surya-ghar/">Solar Subsidy</a></li>
+            <li><a href="/pollution-noc-environmental-clearance/">Pollution NOC</a></li>
+          </ul>
+        </li>
+        <li class="has-sub">
+          <button type="button" class="nav-trigger" aria-haspopup="true" aria-expanded="false">NGO &amp; Schools</button>
+          <ul class="sub">
+            <li><a href="/ngo-trust-12a-80g-fcra-registration/">NGO / Trust / CSR</a></li>
+            <li><a href="/school-affiliation-consultant/">School Affiliation (CBSE/CISCE)</a></li>
+            <li><a href="/delhi-school-admissions/">Delhi Nursery Admissions</a></li>
+            <li><a href="/delhi-top-schools/">Delhi Top Schools List</a></li>
+          </ul>
+        </li>
+        <li><a href="#faq">FAQ</a></li>
+      </ul>
+    </nav>
     <a class="call-btn" href="tel:+919310526505" aria-label="Call +91&nbsp;93105&nbsp;26505">Call</a>
   </div>
 </header>
@@ -53,12 +87,24 @@
 (function(){
   var btn=document.querySelector('.menu-toggle'), nav=document.getElementById('mainnav');
   if(!btn||!nav) return;
-  function close(){nav.classList.remove('open');btn.setAttribute('aria-expanded','false');}
+  function closeAllSub(){nav.querySelectorAll('.nav-trigger').forEach(function(t){t.setAttribute('aria-expanded','false');t.parentElement.classList.remove('open');});}
+  function close(){nav.classList.remove('open');btn.setAttribute('aria-expanded','false');closeAllSub();}
   function toggle(){var open=nav.classList.toggle('open');btn.setAttribute('aria-expanded',open?'true':'false');}
   btn.addEventListener('click',function(e){e.stopPropagation();toggle();});
+  nav.querySelectorAll('.nav-trigger').forEach(function(t){
+    t.addEventListener('click',function(e){
+      e.stopPropagation();
+      var li=t.parentElement, isOpen=li.classList.contains('open');
+      closeAllSub();
+      if(!isOpen){li.classList.add('open');t.setAttribute('aria-expanded','true');}
+    });
+  });
   nav.addEventListener('click',function(e){if(e.target.tagName==='A')close();});
-  document.addEventListener('click',function(e){if(nav.classList.contains('open')&&!nav.contains(e.target)&&e.target!==btn)close();});
-  document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});
+  document.addEventListener('click',function(e){
+    if(!nav.contains(e.target)&&e.target!==btn){close();}
+    else if(nav.contains(e.target)&&!e.target.classList.contains('nav-trigger')){closeAllSub();}
+  });
+  document.addEventListener('keydown',function(e){if(e.key==='Escape'){close();}});
 })();
 </script>
 <nav class="wrap crumbs" aria-label="Breadcrumb"><a href="/">Home</a> / <a href="/delhi-top-schools/">Delhi Top Schools</a> / The Mother's International School</nav>
@@ -107,7 +153,7 @@
   <h2>Applying here or elsewhere in Delhi this cycle?</h2>
   <div><a class="btn-primary" href="tel:+919310526505">Call&nbsp;for&nbsp;a&nbsp;free&nbsp;consultation</a></div>
 </div>
-<section aria-label="FAQ" class="faq-standalone">
+<section aria-label="FAQ" class="faq-standalone" id="faq">
 <h2>Frequently asked questions</h2>
 <details><summary>Is Mother's International School a CBSE school?</summary><p>Yes, The Mother's International School follows the CBSE curriculum.</p></details>
 <details><summary>Who runs Mother's International School?</summary><p>It is run by the Sri Aurobindo Education Society and is located on the Sri Aurobindo Ashram campus in Kalu Sarai.</p></details>
