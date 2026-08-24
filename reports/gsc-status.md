@@ -1,4 +1,4 @@
-# GSC Status — 2026-08-23 (auto) — property: https://udyoggrowth.com/
+# GSC Status — 2026-08-24 (auto) — property: https://udyoggrowth.com/
 
 Sitemap resubmit: OK
 
@@ -8,7 +8,7 @@ Sitemap resubmit: OK
 | / | Submitted and indexed | 2026-08-17 |
 | /asmt-10-reply/ | Discovered - currently not indexed | - |
 | /bihar-government-tenders/ | Submitted and indexed | 2026-08-16 |
-| /bihar-gst-consultant/ | URL is unknown to Google | - |
+| /bihar-gst-consultant/ | Discovered - currently not indexed | - |
 | /business-loan-subsidy-consultant/ | Submitted and indexed | 2026-08-01 |
 | /delhi-school-admissions/ | Discovered - currently not indexed | - |
 | /delhi-top-schools/ | Submitted and indexed | 2026-08-16 |
@@ -23,7 +23,7 @@ Sitemap resubmit: OK
 | /gst-notice-first-48-hours/ | Submitted and indexed | 2026-08-16 |
 | /gst-notice-reply/ | Submitted and indexed | 2026-08-16 |
 | /gstat-appeal/ | Submitted and indexed | 2026-08-16 |
-| /import-export-iec-dgft-consultant/ | Discovered - currently not indexed | - |
+| /import-export-iec-dgft-consultant/ | URL is unknown to Google | - |
 | /land-conversion-clu-consultant/ | Submitted and indexed | 2026-08-16 |
 | /liquor-excise-license-delhi/ | Submitted and indexed | 2026-08-16 |
 | /msme-schemes/ | Submitted and indexed | 2026-08-16 |
@@ -32,18 +32,18 @@ Sitemap resubmit: OK
 | /pmfme-subsidy-consultant/ | Discovered - currently not indexed | - |
 | /pollution-noc-environmental-clearance/ | Submitted and indexed | 2026-08-01 |
 | /school-affiliation-consultant/ | Discovered - currently not indexed | - |
-| /schools/american-embassy-school/ | Discovered - currently not indexed | - |
-| /schools/british-school-chanakyapuri/ | URL is unknown to Google | - |
+| /schools/american-embassy-school/ | URL is unknown to Google | - |
+| /schools/british-school-chanakyapuri/ | Discovered - currently not indexed | - |
 | /schools/dps-mathura-road/ | Submitted and indexed | 2026-08-15 |
-| /schools/dps-rk-puram/ | URL is unknown to Google | - |
+| /schools/dps-rk-puram/ | Discovered - currently not indexed | - |
 | /schools/modern-school-barakhamba-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/mothers-international-school/ | Discovered - currently not indexed | - |
-| /schools/sanskriti-school/ | Discovered - currently not indexed | - |
+| /schools/sanskriti-school/ | URL is unknown to Google | - |
 | /schools/sardar-patel-vidyalaya/ | Discovered - currently not indexed | - |
 | /schools/shri-ram-school-vasant-vihar/ | Discovered - currently not indexed | - |
 | /schools/springdales-school-pusa-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/st-columbas-school/ | Discovered - currently not indexed | - |
-| /schools/vasant-valley-school/ | Discovered - currently not indexed | - |
+| /schools/vasant-valley-school/ | URL is unknown to Google | - |
 | /solar-subsidy-pm-surya-ghar/ | Submitted and indexed | 2026-08-16 |
 
 ## Top queries (28d)
@@ -53,49 +53,49 @@ Sitemap resubmit: OK
 | ahlcon public school | 0 | 1 | 3.0 |
 | alcohol license delhi | 0 | 2 | 26.0 |
 | amc charges in gem portal | 0 | 1 | 1.0 |
+| american embassy school | 0 | 2 | 3.0 |
+| american school chanakyapuri | 0 | 1 | 2.0 |
 | and in delhi? | 0 | 1 | 2.0 |
-| annual milestone charges on gem | 0 | 13 | 7.0 |
+| anjana om kashyap son school name | 0 | 1 | 2.0 |
+| annual milestone charges on gem | 0 | 15 | 7.1 |
+| ardee school noida | 0 | 1 | 2.0 |
 | bihar | 0 | 1 | 5.0 |
 | bihar government it tenders for digital bihar initiatives | 0 | 35 | 1.7 |
 | bihareproc | 0 | 5 | 5.6 |
-| british school delhi | 0 | 3 | 3.3 |
+| billabong noida | 0 | 1 | 3.0 |
+| british school delhi | 0 | 5 | 3.4 |
+| chanakyapuri school delhi | 0 | 1 | 2.0 |
 | clu approval consultant | 0 | 2 | 19.5 |
+| clu full form in land | 0 | 1 | 36.0 |
 | clu requirements | 0 | 1 | 3.0 |
-| costliest school in delhi | 0 | 4 | 8.2 |
+| costliest school in delhi | 0 | 5 | 6.8 |
 | costly school in delhi | 0 | 1 | 12.0 |
+| cte full form in environment | 0 | 2 | 83.5 |
 | cte full form in pollution | 0 | 2 | 92.0 |
 | delhi expensive school | 0 | 5 | 10.0 |
-| delhi most expensive school | 0 | 20 | 10.0 |
-| delhi most expensive school fees | 0 | 2 | 10.5 |
-| delhi ncr most expensive school | 0 | 1 | 11.0 |
-| delhi's most expensive school | 0 | 1 | 10.0 |
-| dps mathura road | 0 | 1 | 33.0 |
-| dps mathura road area in acres | 0 | 1 | 30.0 |
-| dps mathura road fees | 0 | 1 | 9.0 |
-| drc 01c in gst | 0 | 1 | 74.0 |
-| drc 06 in gst | 0 | 1 | 80.0 |
+| delhi highest fees school | 0 | 1 | 1.0 |
 
 ## Top pages (28d)
 | Page | Clicks | Impr |
 |---|---|---|
-| /pmfme-2-0-update/ | 6 | 112 |
+| /pmfme-2-0-update/ | 7 | 148 |
 | / | 2 | 10 |
-| /delhi-top-schools/ | 2 | 288 |
+| /delhi-top-schools/ | 2 | 401 |
 | /bihar-government-tenders/ | 1 | 47 |
-| /drc-01c-reply/ | 1 | 12 |
-| /gem-registration-fees-documents/ | 1 | 98 |
-| /gem-registration-patna/ | 1 | 107 |
-| /liquor-excise-license-delhi/ | 1 | 115 |
-| /schools/springdales-school-pusa-road/ | 1 | 163 |
+| /drc-01c-reply/ | 1 | 15 |
+| /gem-registration-fees-documents/ | 1 | 116 |
+| /gem-registration-patna/ | 1 | 135 |
+| /liquor-excise-license-delhi/ | 1 | 143 |
+| /schools/springdales-school-pusa-road/ | 1 | 205 |
 | /business-loan-subsidy-consultant/ | 0 | 2 |
-| /gst-consultant-noida/ | 0 | 22 |
+| /gst-consultant-noida/ | 0 | 26 |
 | /gst-notice-first-48-hours/ | 0 | 1 |
-| /gst-notice-reply/ | 0 | 30 |
-| /gstat-appeal/ | 0 | 22 |
-| /land-conversion-clu-consultant/ | 0 | 55 |
+| /gst-notice-reply/ | 0 | 33 |
+| /gstat-appeal/ | 0 | 28 |
+| /land-conversion-clu-consultant/ | 0 | 63 |
 | /msme-schemes/ | 0 | 11 |
-| /ngo-trust-12a-80g-fcra-registration/ | 0 | 52 |
-| /pollution-noc-environmental-clearance/ | 0 | 34 |
-| /schools/dps-mathura-road/ | 0 | 25 |
-| /schools/modern-school-barakhamba-road/ | 0 | 63 |
+| /ngo-trust-12a-80g-fcra-registration/ | 0 | 56 |
+| /pollution-noc-environmental-clearance/ | 0 | 39 |
+| /schools/dps-mathura-road/ | 0 | 28 |
+| /schools/modern-school-barakhamba-road/ | 0 | 64 |
 | /solar-subsidy-pm-surya-ghar/ | 0 | 2 |
