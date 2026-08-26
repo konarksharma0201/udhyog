@@ -10,7 +10,7 @@ Sitemap resubmit: OK
 | /bihar-government-tenders/ | Submitted and indexed | 2026-08-16 |
 | /bihar-gst-consultant/ | Discovered - currently not indexed | - |
 | /business-loan-subsidy-consultant/ | Submitted and indexed | 2026-08-01 |
-| /delhi-school-admissions/ | URL is unknown to Google | - |
+| /delhi-school-admissions/ | Discovered - currently not indexed | - |
 | /delhi-top-schools/ | Submitted and indexed | 2026-08-16 |
 | /drc-01c-reply/ | Submitted and indexed | 2026-08-16 |
 | /fssai-license-consultant/ | Discovered - currently not indexed | - |
