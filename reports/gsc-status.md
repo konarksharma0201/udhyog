@@ -1,4 +1,4 @@
-# GSC Status — 2026-08-26 (auto) — property: https://udyoggrowth.com/
+# GSC Status — 2026-08-27 (auto) — property: https://udyoggrowth.com/
 
 Sitemap resubmit: OK
 
@@ -8,7 +8,7 @@ Sitemap resubmit: OK
 | / | Submitted and indexed | 2026-08-25 |
 | /asmt-10-reply/ | Discovered - currently not indexed | - |
 | /bihar-government-tenders/ | Submitted and indexed | 2026-08-16 |
-| /bihar-gst-consultant/ | Discovered - currently not indexed | - |
+| /bihar-gst-consultant/ | URL is unknown to Google | - |
 | /business-loan-subsidy-consultant/ | Submitted and indexed | 2026-08-01 |
 | /delhi-school-admissions/ | Discovered - currently not indexed | - |
 | /delhi-top-schools/ | Submitted and indexed | 2026-08-16 |
@@ -37,33 +37,35 @@ Sitemap resubmit: OK
 | /schools/dps-mathura-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/dps-rk-puram/ | Discovered - currently not indexed | - |
 | /schools/modern-school-barakhamba-road/ | Submitted and indexed | 2026-08-15 |
-| /schools/mothers-international-school/ | Discovered - currently not indexed | - |
+| /schools/mothers-international-school/ | URL is unknown to Google | - |
 | /schools/sanskriti-school/ | Discovered - currently not indexed | - |
 | /schools/sardar-patel-vidyalaya/ | Discovered - currently not indexed | - |
 | /schools/shri-ram-school-vasant-vihar/ | Discovered - currently not indexed | - |
 | /schools/springdales-school-pusa-road/ | Submitted and indexed | 2026-08-15 |
-| /schools/st-columbas-school/ | Discovered - currently not indexed | - |
+| /schools/st-columbas-school/ | URL is unknown to Google | - |
 | /schools/vasant-valley-school/ | Discovered - currently not indexed | - |
 | /solar-subsidy-pm-surya-ghar/ | Submitted and indexed | 2026-08-16 |
 
 ## Top queries (28d)
 | Query | Clicks | Impr | Pos |
 |---|---|---|---|
-| gem milestone charges | 1 | 5 | 5.2 |
+| gem milestone charges | 1 | 7 | 5.7 |
 | ahlcon public school | 0 | 1 | 3.0 |
 | alcohol license delhi | 0 | 2 | 26.0 |
 | amc charges in gem portal | 0 | 2 | 1.0 |
-| american embassy school | 0 | 6 | 2.7 |
+| american embassy school | 0 | 8 | 2.6 |
 | american embassy school photos | 0 | 1 | 1.0 |
 | american school chanakyapuri | 0 | 1 | 2.0 |
 | and in delhi? | 0 | 1 | 2.0 |
 | anjana om kashyap son school name | 0 | 1 | 2.0 |
-| annual milestone charges on gem | 0 | 17 | 6.8 |
+| annual milestone charges on gem | 0 | 21 | 6.6 |
 | ardee school noida | 0 | 1 | 2.0 |
+| assisi convent school noida | 0 | 1 | 3.0 |
+| bholi ram public school | 0 | 1 | 3.0 |
 | bihar | 0 | 1 | 5.0 |
 | bihar eproc 2.0 | 0 | 1 | 6.0 |
 | bihar government it tenders for digital bihar initiatives | 0 | 35 | 1.7 |
-| bihareproc | 0 | 8 | 6.2 |
+| bihareproc | 0 | 12 | 6.2 |
 | billabong noida | 0 | 1 | 3.0 |
 | blue bells international school | 0 | 1 | 3.0 |
 | brats and cuties dwarka | 0 | 1 | 3.0 |
@@ -72,30 +74,28 @@ Sitemap resubmit: OK
 | chanakyapuri school delhi | 0 | 1 | 2.0 |
 | clu approval consultant | 0 | 2 | 19.5 |
 | clu consultant in haryana | 0 | 1 | 37.0 |
-| clu full form in land | 0 | 1 | 36.0 |
-| clu requirements | 0 | 1 | 3.0 |
 
 ## Top pages (28d)
 | Page | Clicks | Impr |
 |---|---|---|
-| /pmfme-2-0-update/ | 7 | 190 |
-| / | 2 | 10 |
-| /bihar-government-tenders/ | 2 | 57 |
-| /delhi-top-schools/ | 2 | 615 |
-| /liquor-excise-license-delhi/ | 2 | 193 |
-| /drc-01c-reply/ | 1 | 17 |
-| /gem-registration-fees-documents/ | 1 | 148 |
-| /gem-registration-patna/ | 1 | 166 |
+| /pmfme-2-0-update/ | 7 | 219 |
+| / | 2 | 14 |
+| /bihar-government-tenders/ | 2 | 63 |
+| /delhi-top-schools/ | 2 | 708 |
+| /gem-registration-fees-documents/ | 2 | 175 |
+| /liquor-excise-license-delhi/ | 2 | 212 |
+| /drc-01c-reply/ | 1 | 20 |
+| /gem-registration-patna/ | 1 | 183 |
 | /schools/springdales-school-pusa-road/ | 1 | 235 |
 | /business-loan-subsidy-consultant/ | 0 | 2 |
-| /gst-consultant-noida/ | 0 | 31 |
+| /gst-consultant-noida/ | 0 | 32 |
 | /gst-notice-first-48-hours/ | 0 | 4 |
-| /gst-notice-reply/ | 0 | 40 |
-| /gstat-appeal/ | 0 | 35 |
-| /land-conversion-clu-consultant/ | 0 | 80 |
-| /msme-schemes/ | 0 | 14 |
-| /ngo-trust-12a-80g-fcra-registration/ | 0 | 64 |
-| /pollution-noc-environmental-clearance/ | 0 | 44 |
-| /schools/dps-mathura-road/ | 0 | 34 |
+| /gst-notice-reply/ | 0 | 48 |
+| /gstat-appeal/ | 0 | 37 |
+| /land-conversion-clu-consultant/ | 0 | 91 |
+| /msme-schemes/ | 0 | 17 |
+| /ngo-trust-12a-80g-fcra-registration/ | 0 | 66 |
+| /pollution-noc-environmental-clearance/ | 0 | 46 |
+| /schools/dps-mathura-road/ | 0 | 39 |
 | /schools/modern-school-barakhamba-road/ | 0 | 67 |
-| /solar-subsidy-pm-surya-ghar/ | 0 | 3 |
+| /solar-subsidy-pm-surya-ghar/ | 0 | 4 |
