@@ -1,4 +1,4 @@
-# GSC Status — 2026-08-28 (auto) — property: https://udyoggrowth.com/
+# GSC Status — 2026-08-29 (auto) — property: https://udyoggrowth.com/
 
 Sitemap resubmit: OK
 
@@ -38,12 +38,12 @@ Sitemap resubmit: OK
 | /schools/dps-rk-puram/ | Discovered - currently not indexed | - |
 | /schools/modern-school-barakhamba-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/mothers-international-school/ | Discovered - currently not indexed | - |
-| /schools/sanskriti-school/ | URL is unknown to Google | - |
+| /schools/sanskriti-school/ | Discovered - currently not indexed | - |
 | /schools/sardar-patel-vidyalaya/ | Discovered - currently not indexed | - |
 | /schools/shri-ram-school-vasant-vihar/ | Discovered - currently not indexed | - |
 | /schools/springdales-school-pusa-road/ | Submitted and indexed | 2026-08-15 |
-| /schools/st-columbas-school/ | URL is unknown to Google | - |
-| /schools/vasant-valley-school/ | URL is unknown to Google | - |
+| /schools/st-columbas-school/ | Discovered - currently not indexed | - |
+| /schools/vasant-valley-school/ | Discovered - currently not indexed | - |
 | /solar-subsidy-pm-surya-ghar/ | Submitted and indexed | 2026-08-16 |
 
 ## Top queries (28d)
