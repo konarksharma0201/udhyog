@@ -1,4 +1,4 @@
-# GSC Status — 2026-08-29 (auto) — property: https://udyoggrowth.com/
+# GSC Status — 2026-08-30 (auto) — property: https://udyoggrowth.com/
 
 Sitemap resubmit: OK
 
@@ -8,7 +8,7 @@ Sitemap resubmit: OK
 | / | Submitted and indexed | 2026-08-25 |
 | /asmt-10-reply/ | Discovered - currently not indexed | - |
 | /bihar-government-tenders/ | Submitted and indexed | 2026-08-16 |
-| /bihar-gst-consultant/ | Discovered - currently not indexed | - |
+| /bihar-gst-consultant/ | URL is unknown to Google | - |
 | /business-loan-subsidy-consultant/ | Submitted and indexed | 2026-08-01 |
 | /delhi-school-admissions/ | Discovered - currently not indexed | - |
 | /delhi-top-schools/ | Submitted and indexed | 2026-08-16 |
@@ -38,18 +38,19 @@ Sitemap resubmit: OK
 | /schools/dps-rk-puram/ | Discovered - currently not indexed | - |
 | /schools/modern-school-barakhamba-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/mothers-international-school/ | Discovered - currently not indexed | - |
-| /schools/sanskriti-school/ | Discovered - currently not indexed | - |
-| /schools/sardar-patel-vidyalaya/ | Discovered - currently not indexed | - |
+| /schools/sanskriti-school/ | URL is unknown to Google | - |
+| /schools/sardar-patel-vidyalaya/ | URL is unknown to Google | - |
 | /schools/shri-ram-school-vasant-vihar/ | Discovered - currently not indexed | - |
 | /schools/springdales-school-pusa-road/ | Submitted and indexed | 2026-08-15 |
-| /schools/st-columbas-school/ | Discovered - currently not indexed | - |
-| /schools/vasant-valley-school/ | Discovered - currently not indexed | - |
+| /schools/st-columbas-school/ | URL is unknown to Google | - |
+| /schools/vasant-valley-school/ | URL is unknown to Google | - |
 | /solar-subsidy-pm-surya-ghar/ | Submitted and indexed | 2026-08-16 |
 
 ## Top queries (28d)
 | Query | Clicks | Impr | Pos |
 |---|---|---|---|
-| gem milestone charges | 1 | 9 | 5.8 |
+| bihar eproc 2.0 | 1 | 4 | 7.0 |
+| gem milestone charges | 1 | 11 | 5.5 |
 | 2.0 kya hai | 0 | 1 | 2.0 |
 | aes school delhi | 0 | 1 | 2.0 |
 | ahlcon public school | 0 | 1 | 3.0 |
@@ -67,9 +68,8 @@ Sitemap resubmit: OK
 | best convent school delhi | 0 | 1 | 3.0 |
 | bholi ram public school | 0 | 1 | 3.0 |
 | bihar | 0 | 1 | 5.0 |
-| bihar eproc 2.0 | 0 | 3 | 7.3 |
 | bihar government it tenders for digital bihar initiatives | 0 | 35 | 1.7 |
-| bihareproc | 0 | 14 | 6.2 |
+| bihareproc | 0 | 15 | 6.2 |
 | billabong noida | 0 | 1 | 3.0 |
 | bls world school fees | 0 | 1 | 3.0 |
 | blue bells international school | 0 | 1 | 3.0 |
@@ -78,24 +78,24 @@ Sitemap resubmit: OK
 ## Top pages (28d)
 | Page | Clicks | Impr |
 |---|---|---|
-| /pmfme-2-0-update/ | 8 | 249 |
-| /gem-registration-fees-documents/ | 4 | 229 |
-| /liquor-excise-license-delhi/ | 4 | 276 |
-| /delhi-top-schools/ | 3 | 894 |
+| /pmfme-2-0-update/ | 9 | 268 |
+| /gem-registration-fees-documents/ | 4 | 238 |
+| /liquor-excise-license-delhi/ | 4 | 305 |
+| /delhi-top-schools/ | 3 | 950 |
 | / | 2 | 14 |
-| /bihar-government-tenders/ | 2 | 66 |
-| /drc-01c-reply/ | 1 | 33 |
-| /gem-registration-patna/ | 1 | 222 |
-| /schools/springdales-school-pusa-road/ | 1 | 239 |
+| /bihar-government-tenders/ | 2 | 69 |
+| /gem-registration-patna/ | 2 | 241 |
+| /drc-01c-reply/ | 1 | 36 |
+| /gst-notice-first-48-hours/ | 1 | 9 |
+| /schools/springdales-school-pusa-road/ | 1 | 242 |
 | /business-loan-subsidy-consultant/ | 0 | 2 |
-| /gst-consultant-noida/ | 0 | 39 |
-| /gst-notice-first-48-hours/ | 0 | 7 |
-| /gst-notice-reply/ | 0 | 76 |
-| /gstat-appeal/ | 0 | 41 |
-| /land-conversion-clu-consultant/ | 0 | 113 |
-| /msme-schemes/ | 0 | 19 |
+| /gst-consultant-noida/ | 0 | 42 |
+| /gst-notice-reply/ | 0 | 82 |
+| /gstat-appeal/ | 0 | 43 |
+| /land-conversion-clu-consultant/ | 0 | 127 |
+| /msme-schemes/ | 0 | 22 |
 | /ngo-trust-12a-80g-fcra-registration/ | 0 | 68 |
-| /pollution-noc-environmental-clearance/ | 0 | 49 |
+| /pollution-noc-environmental-clearance/ | 0 | 51 |
 | /schools/dps-mathura-road/ | 0 | 40 |
-| /schools/modern-school-barakhamba-road/ | 0 | 68 |
+| /schools/modern-school-barakhamba-road/ | 0 | 69 |
 | /solar-subsidy-pm-surya-ghar/ | 0 | 5 |
