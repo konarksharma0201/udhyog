@@ -1,4 +1,4 @@
-# GSC Status — 2026-09-06 (auto) — property: https://udyoggrowth.com/
+# GSC Status — 2026-09-07 (auto) — property: https://udyoggrowth.com/
 
 Sitemap resubmit: OK
 
@@ -10,10 +10,10 @@ Sitemap resubmit: OK
 | /bihar-government-tenders/ | Submitted and indexed | 2026-08-16 |
 | /bihar-gst-consultant/ | URL is unknown to Google | - |
 | /business-loan-subsidy-consultant/ | Submitted and indexed | 2026-08-01 |
-| /delhi-school-admissions/ | Discovered - currently not indexed | - |
+| /delhi-school-admissions/ | URL is unknown to Google | - |
 | /delhi-top-schools/ | Submitted and indexed | 2026-08-16 |
 | /drc-01c-reply/ | Submitted and indexed | 2026-08-16 |
-| /fssai-license-consultant/ | Discovered - currently not indexed | - |
+| /fssai-license-consultant/ | URL is unknown to Google | - |
 | /gem-registration-fees-documents/ | Submitted and indexed | 2026-08-16 |
 | /gem-registration-patna/ | Submitted and indexed | 2026-08-16 |
 | /gem-registration-tender-bidding/ | Discovered - currently not indexed | - |
@@ -29,7 +29,7 @@ Sitemap resubmit: OK
 | /msme-schemes/ | Submitted and indexed | 2026-08-16 |
 | /ngo-trust-12a-80g-fcra-registration/ | Submitted and indexed | 2026-09-05 |
 | /pmfme-2-0-update/ | Submitted and indexed | 2026-08-16 |
-| /pmfme-subsidy-consultant/ | URL is unknown to Google | - |
+| /pmfme-subsidy-consultant/ | Discovered - currently not indexed | - |
 | /pollution-noc-environmental-clearance/ | Submitted and indexed | 2026-08-01 |
 | /school-affiliation-consultant/ | Discovered - currently not indexed | - |
 | /schools/american-embassy-school/ | Discovered - currently not indexed | - |
@@ -43,7 +43,7 @@ Sitemap resubmit: OK
 | /schools/shri-ram-school-vasant-vihar/ | Discovered - currently not indexed | - |
 | /schools/springdales-school-pusa-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/st-columbas-school/ | Discovered - currently not indexed | - |
-| /schools/vasant-valley-school/ | Discovered - currently not indexed | - |
+| /schools/vasant-valley-school/ | URL is unknown to Google | - |
 | /solar-subsidy-pm-surya-ghar/ | Submitted and indexed | 2026-08-16 |
 
 ## Top queries (28d)
@@ -51,10 +51,11 @@ Sitemap resubmit: OK
 |---|---|---|---|
 | pmfme 2.0 | 3 | 8 | 1.8 |
 | bihar eproc 2.0 | 1 | 4 | 7.0 |
-| gem milestone charges | 1 | 21 | 6.6 |
-| pmfme | 1 | 13 | 3.8 |
+| gem milestone charges | 1 | 22 | 6.6 |
+| pmfme | 1 | 15 | 3.5 |
 | pmfme scheme validity | 1 | 1 | 2.0 |
 | upgrading | 1 | 1 | 6.0 |
+| हां। | 1 | 1 | 1.0 |
 | 2.0 kya hai | 0 | 1 | 2.0 |
 | aes delhi | 0 | 1 | 3.0 |
 | aes school delhi | 0 | 1 | 2.0 |
@@ -73,29 +74,29 @@ Sitemap resubmit: OK
 | bar cum restaurant | 0 | 1 | 11.0 |
 | based on turnover | 0 | 1 | 6.0 |
 | best convent school delhi | 0 | 1 | 3.0 |
-| bholi ram public school | 0 | 1 | 3.0 |
 
 ## Top pages (28d)
 | Page | Clicks | Impr |
 |---|---|---|
-| /pmfme-2-0-update/ | 16 | 530 |
-| /liquor-excise-license-delhi/ | 7 | 677 |
-| /delhi-top-schools/ | 5 | 1438 |
-| /gem-registration-fees-documents/ | 4 | 390 |
+| /pmfme-2-0-update/ | 17 | 555 |
+| /liquor-excise-license-delhi/ | 8 | 740 |
+| /delhi-top-schools/ | 5 | 1513 |
+| /gem-registration-fees-documents/ | 5 | 403 |
 | / | 3 | 14 |
-| /bihar-government-tenders/ | 2 | 82 |
-| /gem-registration-patna/ | 2 | 368 |
-| /drc-01c-reply/ | 1 | 68 |
-| /gst-notice-first-48-hours/ | 1 | 14 |
-| /schools/springdales-school-pusa-road/ | 1 | 259 |
+| /bihar-government-tenders/ | 2 | 83 |
+| /gem-registration-patna/ | 2 | 389 |
+| /drc-01c-reply/ | 1 | 69 |
+| /gst-notice-first-48-hours/ | 1 | 15 |
+| /schools/springdales-school-pusa-road/ | 1 | 261 |
 | /business-loan-subsidy-consultant/ | 0 | 4 |
-| /gst-consultant-noida/ | 0 | 59 |
-| /gst-notice-reply/ | 0 | 124 |
-| /gstat-appeal/ | 0 | 70 |
-| /land-conversion-clu-consultant/ | 0 | 180 |
-| /msme-schemes/ | 0 | 36 |
-| /ngo-trust-12a-80g-fcra-registration/ | 0 | 82 |
-| /pollution-noc-environmental-clearance/ | 0 | 71 |
-| /schools/dps-mathura-road/ | 0 | 46 |
-| /schools/modern-school-barakhamba-road/ | 0 | 81 |
+| /gst-consultant-noida/ | 0 | 62 |
+| /gst-notice-reply/ | 0 | 132 |
+| /gstat-appeal/ | 0 | 73 |
+| /land-conversion-clu-consultant/ | 0 | 185 |
+| /msme-schemes/ | 0 | 38 |
+| /ngo-trust-12a-80g-fcra-registration/ | 0 | 83 |
+| /pollution-noc-environmental-clearance/ | 0 | 72 |
+| /schools/dps-mathura-road/ | 0 | 47 |
+| /schools/modern-school-barakhamba-road/ | 0 | 82 |
 | /solar-subsidy-pm-surya-ghar/ | 0 | 9 |
+| /udyoggrowth.com/liquor-excise-license-delhi/ | 0 | 1 |
