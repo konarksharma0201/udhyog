@@ -1,4 +1,4 @@
-# GSC Status — 2026-09-07 (auto) — property: https://udyoggrowth.com/
+# GSC Status — 2026-09-08 (auto) — property: https://udyoggrowth.com/
 
 Sitemap resubmit: OK
 
@@ -8,15 +8,15 @@ Sitemap resubmit: OK
 | / | Submitted and indexed | 2026-08-25 |
 | /asmt-10-reply/ | Discovered - currently not indexed | - |
 | /bihar-government-tenders/ | Submitted and indexed | 2026-08-16 |
-| /bihar-gst-consultant/ | URL is unknown to Google | - |
+| /bihar-gst-consultant/ | Discovered - currently not indexed | - |
 | /business-loan-subsidy-consultant/ | Submitted and indexed | 2026-08-01 |
-| /delhi-school-admissions/ | URL is unknown to Google | - |
+| /delhi-school-admissions/ | Discovered - currently not indexed | - |
 | /delhi-top-schools/ | Submitted and indexed | 2026-08-16 |
 | /drc-01c-reply/ | Submitted and indexed | 2026-08-16 |
-| /fssai-license-consultant/ | URL is unknown to Google | - |
+| /fssai-license-consultant/ | Discovered - currently not indexed | - |
 | /gem-registration-fees-documents/ | Submitted and indexed | 2026-08-16 |
 | /gem-registration-patna/ | Submitted and indexed | 2026-08-16 |
-| /gem-registration-tender-bidding/ | Discovered - currently not indexed | - |
+| /gem-registration-tender-bidding/ | URL is unknown to Google | - |
 | /gst-consultant-faridabad/ | Discovered - currently not indexed | - |
 | /gst-consultant-noida/ | Submitted and indexed | 2026-08-16 |
 | /gst-consultant-patna/ | Discovered - currently not indexed | - |
@@ -29,13 +29,13 @@ Sitemap resubmit: OK
 | /msme-schemes/ | Submitted and indexed | 2026-08-16 |
 | /ngo-trust-12a-80g-fcra-registration/ | Submitted and indexed | 2026-09-05 |
 | /pmfme-2-0-update/ | Submitted and indexed | 2026-08-16 |
-| /pmfme-subsidy-consultant/ | Discovered - currently not indexed | - |
+| /pmfme-subsidy-consultant/ | URL is unknown to Google | - |
 | /pollution-noc-environmental-clearance/ | Submitted and indexed | 2026-08-01 |
 | /school-affiliation-consultant/ | Discovered - currently not indexed | - |
 | /schools/american-embassy-school/ | Discovered - currently not indexed | - |
 | /schools/british-school-chanakyapuri/ | Discovered - currently not indexed | - |
 | /schools/dps-mathura-road/ | Submitted and indexed | 2026-08-15 |
-| /schools/dps-rk-puram/ | Discovered - currently not indexed | - |
+| /schools/dps-rk-puram/ | URL is unknown to Google | - |
 | /schools/modern-school-barakhamba-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/mothers-international-school/ | Discovered - currently not indexed | - |
 | /schools/sanskriti-school/ | Discovered - currently not indexed | - |
@@ -43,7 +43,7 @@ Sitemap resubmit: OK
 | /schools/shri-ram-school-vasant-vihar/ | Discovered - currently not indexed | - |
 | /schools/springdales-school-pusa-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/st-columbas-school/ | Discovered - currently not indexed | - |
-| /schools/vasant-valley-school/ | URL is unknown to Google | - |
+| /schools/vasant-valley-school/ | Discovered - currently not indexed | - |
 | /solar-subsidy-pm-surya-ghar/ | Submitted and indexed | 2026-08-16 |
 
 ## Top queries (28d)
@@ -82,7 +82,7 @@ Sitemap resubmit: OK
 | /liquor-excise-license-delhi/ | 8 | 740 |
 | /delhi-top-schools/ | 5 | 1513 |
 | /gem-registration-fees-documents/ | 5 | 403 |
-| / | 3 | 14 |
+| / | 3 | 13 |
 | /bihar-government-tenders/ | 2 | 83 |
 | /gem-registration-patna/ | 2 | 389 |
 | /drc-01c-reply/ | 1 | 69 |
@@ -94,8 +94,8 @@ Sitemap resubmit: OK
 | /gstat-appeal/ | 0 | 73 |
 | /land-conversion-clu-consultant/ | 0 | 185 |
 | /msme-schemes/ | 0 | 38 |
-| /ngo-trust-12a-80g-fcra-registration/ | 0 | 83 |
-| /pollution-noc-environmental-clearance/ | 0 | 72 |
+| /ngo-trust-12a-80g-fcra-registration/ | 0 | 82 |
+| /pollution-noc-environmental-clearance/ | 0 | 70 |
 | /schools/dps-mathura-road/ | 0 | 47 |
 | /schools/modern-school-barakhamba-road/ | 0 | 82 |
 | /solar-subsidy-pm-surya-ghar/ | 0 | 9 |
