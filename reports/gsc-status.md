@@ -1,4 +1,4 @@
-# GSC Status — 2026-09-12 (auto) — property: https://udyoggrowth.com/
+# GSC Status — 2026-09-13 (auto) — property: https://udyoggrowth.com/
 
 Sitemap resubmit: OK
 
@@ -16,10 +16,10 @@ Sitemap resubmit: OK
 | /fssai-license-consultant/ | Discovered - currently not indexed | - |
 | /gem-registration-fees-documents/ | Submitted and indexed | 2026-08-16 |
 | /gem-registration-patna/ | Submitted and indexed | 2026-08-16 |
-| /gem-registration-tender-bidding/ | Discovered - currently not indexed | - |
+| /gem-registration-tender-bidding/ | URL is unknown to Google | - |
 | /gst-consultant-faridabad/ | Discovered - currently not indexed | - |
 | /gst-consultant-noida/ | Submitted and indexed | 2026-08-16 |
-| /gst-consultant-patna/ | Discovered - currently not indexed | - |
+| /gst-consultant-patna/ | URL is unknown to Google | - |
 | /gst-notice-first-48-hours/ | Submitted and indexed | 2026-08-16 |
 | /gst-notice-reply/ | Submitted and indexed | 2026-08-16 |
 | /gstat-appeal/ | Submitted and indexed | 2026-08-16 |
@@ -32,15 +32,15 @@ Sitemap resubmit: OK
 | /pmfme-subsidy-consultant/ | Discovered - currently not indexed | - |
 | /pollution-noc-environmental-clearance/ | Submitted and indexed | 2026-09-11 |
 | /school-affiliation-consultant/ | Discovered - currently not indexed | - |
-| /schools/american-embassy-school/ | URL is unknown to Google | - |
+| /schools/american-embassy-school/ | Discovered - currently not indexed | - |
 | /schools/british-school-chanakyapuri/ | Discovered - currently not indexed | - |
 | /schools/dps-mathura-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/dps-rk-puram/ | Discovered - currently not indexed | - |
 | /schools/modern-school-barakhamba-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/mothers-international-school/ | Discovered - currently not indexed | - |
-| /schools/sanskriti-school/ | Discovered - currently not indexed | - |
+| /schools/sanskriti-school/ | URL is unknown to Google | - |
 | /schools/sardar-patel-vidyalaya/ | Discovered - currently not indexed | - |
-| /schools/shri-ram-school-vasant-vihar/ | Discovered - currently not indexed | - |
+| /schools/shri-ram-school-vasant-vihar/ | URL is unknown to Google | - |
 | /schools/springdales-school-pusa-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/st-columbas-school/ | Discovered - currently not indexed | - |
 | /schools/vasant-valley-school/ | Discovered - currently not indexed | - |
@@ -49,10 +49,10 @@ Sitemap resubmit: OK
 ## Top queries (28d)
 | Query | Clicks | Impr | Pos |
 |---|---|---|---|
-| pmfme 2.0 | 5 | 16 | 2.6 |
+| pmfme 2.0 | 5 | 17 | 2.5 |
+| pmfme | 2 | 25 | 2.9 |
 | bihar eproc 2.0 | 1 | 4 | 7.0 |
 | gem milestone charges | 1 | 29 | 7.1 |
-| pmfme | 1 | 20 | 3.1 |
 | pmfme scheme validity | 1 | 1 | 2.0 |
 | retail | 1 | 1 | 1.0 |
 | upgrading | 1 | 1 | 6.0 |
@@ -78,25 +78,25 @@ Sitemap resubmit: OK
 ## Top pages (28d)
 | Page | Clicks | Impr |
 |---|---|---|
-| /pmfme-2-0-update/ | 25 | 715 |
-| /liquor-excise-license-delhi/ | 11 | 984 |
-| /gem-registration-fees-documents/ | 6 | 484 |
-| /delhi-top-schools/ | 5 | 1774 |
-| / | 2 | 13 |
-| /bihar-government-tenders/ | 2 | 99 |
-| /gem-registration-patna/ | 2 | 459 |
-| /drc-01c-reply/ | 1 | 97 |
+| /pmfme-2-0-update/ | 27 | 763 |
+| /liquor-excise-license-delhi/ | 14 | 1048 |
+| /gem-registration-fees-documents/ | 8 | 506 |
+| /delhi-top-schools/ | 6 | 1831 |
+| / | 2 | 14 |
+| /bihar-government-tenders/ | 2 | 100 |
+| /gem-registration-patna/ | 2 | 474 |
+| /drc-01c-reply/ | 1 | 105 |
 | /gst-notice-first-48-hours/ | 1 | 17 |
-| /schools/springdales-school-pusa-road/ | 1 | 266 |
+| /land-conversion-clu-consultant/ | 1 | 230 |
+| /schools/springdales-school-pusa-road/ | 1 | 272 |
 | /business-loan-subsidy-consultant/ | 0 | 5 |
-| /gst-consultant-noida/ | 0 | 68 |
-| /gst-notice-reply/ | 0 | 151 |
-| /gstat-appeal/ | 0 | 87 |
-| /land-conversion-clu-consultant/ | 0 | 220 |
-| /msme-schemes/ | 0 | 51 |
-| /ngo-trust-12a-80g-fcra-registration/ | 0 | 91 |
-| /pollution-noc-environmental-clearance/ | 0 | 79 |
-| /schools/dps-mathura-road/ | 0 | 54 |
-| /schools/modern-school-barakhamba-road/ | 0 | 90 |
+| /gst-consultant-noida/ | 0 | 69 |
+| /gst-notice-reply/ | 0 | 154 |
+| /gstat-appeal/ | 0 | 93 |
+| /msme-schemes/ | 0 | 54 |
+| /ngo-trust-12a-80g-fcra-registration/ | 0 | 96 |
+| /pollution-noc-environmental-clearance/ | 0 | 81 |
+| /schools/dps-mathura-road/ | 0 | 56 |
+| /schools/modern-school-barakhamba-road/ | 0 | 92 |
 | /solar-subsidy-pm-surya-ghar/ | 0 | 9 |
 | /udyoggrowth.com/liquor-excise-license-delhi/ | 0 | 1 |
