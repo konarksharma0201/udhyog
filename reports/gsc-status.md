@@ -1,4 +1,4 @@
-# GSC Status — 2026-09-27 (auto) — property: https://udyoggrowth.com/
+# GSC Status — 2026-09-28 (auto) — property: https://udyoggrowth.com/
 
 Sitemap resubmit: OK
 
@@ -32,13 +32,13 @@ Sitemap resubmit: OK
 | /pmfme-subsidy-consultant/ | Discovered - currently not indexed | - |
 | /pollution-noc-environmental-clearance/ | Submitted and indexed | 2026-09-11 |
 | /school-affiliation-consultant/ | Discovered - currently not indexed | - |
-| /schools/american-embassy-school/ | URL is unknown to Google | - |
+| /schools/american-embassy-school/ | Discovered - currently not indexed | - |
 | /schools/british-school-chanakyapuri/ | Discovered - currently not indexed | - |
 | /schools/dps-mathura-road/ | Submitted and indexed | 2026-08-15 |
-| /schools/dps-rk-puram/ | URL is unknown to Google | - |
+| /schools/dps-rk-puram/ | Discovered - currently not indexed | - |
 | /schools/modern-school-barakhamba-road/ | Submitted and indexed | 2026-08-15 |
-| /schools/mothers-international-school/ | Discovered - currently not indexed | - |
-| /schools/sanskriti-school/ | Discovered - currently not indexed | - |
+| /schools/mothers-international-school/ | URL is unknown to Google | - |
+| /schools/sanskriti-school/ | URL is unknown to Google | - |
 | /schools/sardar-patel-vidyalaya/ | Discovered - currently not indexed | - |
 | /schools/shri-ram-school-vasant-vihar/ | Discovered - currently not indexed | - |
 | /schools/springdales-school-pusa-road/ | Submitted and indexed | 2026-08-15 |
@@ -49,16 +49,16 @@ Sitemap resubmit: OK
 ## Top queries (28d)
 | Query | Clicks | Impr | Pos |
 |---|---|---|---|
-| pmfme 2.0 | 15 | 75 | 2.6 |
-| pmfme | 2 | 50 | 2.2 |
-| pmfme scheme extension | 2 | 13 | 8.8 |
+| pmfme 2.0 | 16 | 83 | 2.7 |
+| pmfme scheme extension | 3 | 15 | 8.9 |
+| pmfme | 2 | 49 | 2.2 |
+| pmfme scheme extension 2027 | 2 | 11 | 10.5 |
 | expensive school in delhi | 1 | 76 | 10.3 |
 | l17 license | 1 | 5 | 6.8 |
 | most expensive dps school in india | 1 | 24 | 3.7 |
-| most expensive school in delhi | 1 | 302 | 9.6 |
-| pmfme extension | 1 | 13 | 8.9 |
-| pmfme scheme | 1 | 49 | 2.8 |
-| pmfme scheme extension 2027 | 1 | 8 | 13.4 |
+| most expensive school in delhi | 1 | 308 | 9.6 |
+| pmfme extension | 1 | 14 | 8.5 |
+| pmfme scheme | 1 | 43 | 2.8 |
 | pmfme scheme last date to apply | 1 | 4 | 1.5 |
 | pmfme scheme validity | 1 | 1 | 3.0 |
 | retail | 1 | 1 | 1.0 |
@@ -78,26 +78,26 @@ Sitemap resubmit: OK
 ## Top pages (28d)
 | Page | Clicks | Impr |
 |---|---|---|
-| /pmfme-2-0-update/ | 60 | 1437 |
-| /liquor-excise-license-delhi/ | 19 | 1405 |
-| /delhi-top-schools/ | 8 | 1495 |
-| /gem-registration-fees-documents/ | 4 | 541 |
-| /land-conversion-clu-consultant/ | 3 | 168 |
+| /pmfme-2-0-update/ | 71 | 1532 |
+| /liquor-excise-license-delhi/ | 18 | 1408 |
+| /delhi-top-schools/ | 7 | 1492 |
+| /gem-registration-fees-documents/ | 4 | 549 |
+| /land-conversion-clu-consultant/ | 3 | 175 |
 | / | 2 | 15 |
-| /drc-01c-reply/ | 1 | 123 |
-| /gst-notice-reply/ | 1 | 91 |
+| /drc-01c-reply/ | 1 | 122 |
+| /gst-notice-reply/ | 1 | 90 |
+| /schools/modern-school-barakhamba-road/ | 1 | 63 |
 | /bihar-government-tenders/ | 0 | 47 |
 | /business-loan-subsidy-consultant/ | 0 | 6 |
 | /gem-fees-documents/ | 0 | 1 |
-| /gem-registration-patna/ | 0 | 376 |
-| /gst-consultant-noida/ | 0 | 44 |
+| /gem-registration-patna/ | 0 | 379 |
+| /gst-consultant-noida/ | 0 | 46 |
 | /gst-notice-first-48-hours/ | 0 | 14 |
-| /gstat-appeal/ | 0 | 62 |
-| /msme-schemes/ | 0 | 48 |
+| /gstat-appeal/ | 0 | 57 |
+| /msme-schemes/ | 0 | 45 |
 | /ngo-trust-12a-80g-fcra-registration/ | 0 | 89 |
-| /pollution-noc-environmental-clearance/ | 0 | 62 |
-| /schools/dps-mathura-road/ | 0 | 42 |
-| /schools/modern-school-barakhamba-road/ | 0 | 57 |
-| /schools/springdales-school-pusa-road/ | 0 | 73 |
+| /pollution-noc-environmental-clearance/ | 0 | 63 |
+| /schools/dps-mathura-road/ | 0 | 44 |
+| /schools/springdales-school-pusa-road/ | 0 | 84 |
 | /solar-subsidy-pm-surya-ghar/ | 0 | 6 |
 | /udyoggrowth.com/liquor-excise-license-delhi/ | 0 | 1 |
