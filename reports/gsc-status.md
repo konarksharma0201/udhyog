@@ -6,17 +6,21 @@ Sitemap resubmit: OK
 | Page | Coverage | Last crawl |
 |---|---|---|
 | / | Submitted and indexed | 2026-09-23 |
+| /advance-authorisation-epcg-consultant/ | URL is unknown to Google | - |
 | /asmt-10-reply/ | Discovered - currently not indexed | - |
 | /bihar-government-tenders/ | Submitted and indexed | 2026-09-22 |
 | /bihar-gst-consultant/ | Discovered - currently not indexed | - |
+| /bis-certification-isi-crs/ | URL is unknown to Google | - |
 | /business-loan-subsidy-consultant/ | Submitted and indexed | 2026-08-01 |
-| /delhi-school-admissions/ | URL is unknown to Google | - |
+| /cma-data-bankable-dpr-consultant/ | URL is unknown to Google | - |
+| /delhi-school-admissions/ | Discovered - currently not indexed | - |
 | /delhi-top-schools/ | Submitted and indexed | 2026-08-16 |
 | /drc-01c-reply/ | Submitted and indexed | 2026-09-22 |
-| /fssai-license-consultant/ | Discovered - currently not indexed | - |
+| /fssai-license-consultant/ | URL is unknown to Google | - |
 | /gem-registration-fees-documents/ | Submitted and indexed | 2026-09-25 |
 | /gem-registration-patna/ | Submitted and indexed | 2026-09-22 |
 | /gem-registration-tender-bidding/ | Discovered - currently not indexed | - |
+| /gem-seller-suspension-dispute-resolution/ | URL is unknown to Google | - |
 | /gst-consultant-faridabad/ | URL is unknown to Google | - |
 | /gst-consultant-noida/ | Submitted and indexed | 2026-09-22 |
 | /gst-consultant-patna/ | Discovered - currently not indexed | - |
@@ -24,22 +28,27 @@ Sitemap resubmit: OK
 | /gst-notice-reply/ | Submitted and indexed | 2026-09-20 |
 | /gstat-appeal/ | Submitted and indexed | 2026-09-21 |
 | /import-export-iec-dgft-consultant/ | Discovered - currently not indexed | - |
+| /industrial-approvals-single-window-consultant/ | URL is unknown to Google | - |
+| /iso-certification-consultant/ | URL is unknown to Google | - |
+| /labour-code-compliance-epf-esic/ | URL is unknown to Google | - |
 | /land-conversion-clu-consultant/ | Submitted and indexed | 2026-09-22 |
 | /liquor-excise-license-delhi/ | Submitted and indexed | 2026-09-23 |
 | /msme-schemes/ | Submitted and indexed | 2026-09-08 |
 | /ngo-trust-12a-80g-fcra-registration/ | Submitted and indexed | 2026-09-05 |
+| /peso-license-consultant/ | URL is unknown to Google | - |
 | /pmfme-2-0-update/ | Submitted and indexed | 2026-09-22 |
 | /pmfme-subsidy-consultant/ | Discovered - currently not indexed | - |
 | /pollution-noc-environmental-clearance/ | Submitted and indexed | 2026-09-11 |
-| /school-affiliation-consultant/ | Discovered - currently not indexed | - |
+| /regulatory-affairs-departmental-representation/ | URL is unknown to Google | - |
+| /school-affiliation-consultant/ | URL is unknown to Google | - |
 | /schools/american-embassy-school/ | Discovered - currently not indexed | - |
-| /schools/british-school-chanakyapuri/ | Discovered - currently not indexed | - |
+| /schools/british-school-chanakyapuri/ | URL is unknown to Google | - |
 | /schools/dps-mathura-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/dps-rk-puram/ | Discovered - currently not indexed | - |
 | /schools/modern-school-barakhamba-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/mothers-international-school/ | Discovered - currently not indexed | - |
-| /schools/sanskriti-school/ | Discovered - currently not indexed | - |
-| /schools/sardar-patel-vidyalaya/ | URL is unknown to Google | - |
+| /schools/sanskriti-school/ | URL is unknown to Google | - |
+| /schools/sardar-patel-vidyalaya/ | Discovered - currently not indexed | - |
 | /schools/shri-ram-school-vasant-vihar/ | Discovered - currently not indexed | - |
 | /schools/springdales-school-pusa-road/ | Submitted and indexed | 2026-08-15 |
 | /schools/st-columbas-school/ | Discovered - currently not indexed | - |
