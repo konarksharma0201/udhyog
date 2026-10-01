@@ -219,3 +219,6 @@ html,body{overflow-x:clip}
    selectable so genuine visitors can still copy contact details. */
 body{-webkit-user-select:none;-moz-user-select:none;user-select:none}
 input,textarea,.callbar a,.contact-box a[href^="tel:"]{-webkit-user-select:text;-moz-user-select:text;user-select:text}
+
+/* Letter/document template block (monospace, preserves formatting) */
+.doc-template{font-family:'IBM Plex Mono',ui-monospace,monospace;white-space:pre-wrap;text-align:left;font-size:.85rem;line-height:1.7}
