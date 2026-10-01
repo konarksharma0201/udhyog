@@ -12,7 +12,6 @@ GetCrawlStats: OK
 ## Rank & Traffic (recent days)
 | Date | Clicks | Impressions | Avg position |
 |---|---|---|---|
-| /Date(1789344000000)/ | 0 | 1 | - |
 | /Date(1789430400000)/ | 0 | 1 | - |
 | /Date(1789516800000)/ | 0 | 0 | - |
 | /Date(1789603200000)/ | 0 | 8 | - |
@@ -26,3 +25,4 @@ GetCrawlStats: OK
 | /Date(1790294400000)/ | 0 | 7 | - |
 | /Date(1790380800000)/ | 0 | 5 | - |
 | /Date(1790467200000)/ | 2 | 3 | - |
+| /Date(1790553600000)/ | 2 | 16 | - |
