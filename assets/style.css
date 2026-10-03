@@ -322,3 +322,10 @@ input,textarea,.callbar a,.contact-box a[href^="tel:"]{-webkit-user-select:text;
 .sit-txt span{display:block;font-size:.88rem;color:var(--muted);margin-top:3px;line-height:1.45}
 .chev{font-size:1.6rem;color:var(--muted);line-height:1;flex-shrink:0}
 @media (max-width:640px){.sit-list{grid-template-columns:1fr}.sit-list a{padding:14px}.cat{padding:20px 18px 18px}}
+
+/* How we work (compact) */
+.how-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
+.how-step{border-top:2px solid var(--marigold);padding-top:14px}
+.how-step strong{display:block;font-family:Archivo,sans-serif;font-weight:800;font-size:1rem;margin-bottom:6px}
+.how-step span{display:block;font-size:.92rem;color:var(--muted);line-height:1.55}
+.how-foot{margin-top:28px;font-size:.9rem;color:var(--muted)}
