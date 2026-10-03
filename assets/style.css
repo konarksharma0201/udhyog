@@ -297,3 +297,28 @@ input,textarea,.callbar a,.contact-box a[href^="tel:"]{-webkit-user-select:text;
 .trust-strip strong{display:block;font-family:Archivo,sans-serif;font-weight:900;font-size:1.25rem;line-height:1.1;color:var(--ink)}
 .trust-strip span{display:block;font-size:.82rem;color:var(--muted);margin-top:3px}
 @media (max-width:640px){.trust-strip{grid-template-columns:1fr 1fr;gap:12px}}
+
+/* ===== Minimal consultancy cards + situations list ===== */
+.cat-icw{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:10px;flex-shrink:0}
+.cat-ic{width:22px;height:22px}
+.c0{background:#EAF3EE;color:var(--approve)}.c1{background:#FBF1DC;color:#9A6A12}.c2{background:#E9EEF5;color:var(--ink)}
+.c3{background:#F3ECE4;color:#8A5A2B}.c4{background:#EEE9F6;color:#5B4A8A}.c5{background:#E6F1F3;color:#1F6B7A}
+.cat{display:flex;flex-direction:column;gap:12px;border-top:1px solid var(--line);padding:26px 24px 22px}
+.cat h3{font-size:1.05rem;display:block}
+.cat h3 small{display:none}
+.cat>p{margin:0;font-size:.92rem;line-height:1.55}
+.cat .more{display:inline-flex;align-items:center;gap:6px;font-size:.88rem;font-weight:700;color:var(--approve);text-decoration:none;margin-top:2px}
+.cat .more:hover,.cat .more:focus-visible{text-decoration:underline}
+.cat .more span{transition:transform .15s}
+.cat:hover .more span{transform:translateX(3px)}
+.cat-more{margin-top:4px;border-top:1px dashed var(--line);padding-top:8px}
+.cat-more summary{font-size:.82rem;font-weight:600;color:var(--muted)}
+.cat-more[open] summary{color:var(--approve)}
+.sit-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:12px}
+.sit-list a{display:flex;align-items:center;gap:16px;padding:16px 18px;background:var(--card);border:1px solid var(--line);border-radius:12px;text-decoration:none;color:var(--ink);transition:transform .15s,box-shadow .15s,border-color .15s}
+.sit-list a:hover,.sit-list a:focus-visible{transform:translateY(-2px);box-shadow:0 10px 28px -16px rgb(22 35 47 / .3);border-color:var(--approve)}
+.sit-txt{flex:1;min-width:0}
+.sit-txt strong{display:block;font-family:Archivo,sans-serif;font-weight:800;font-size:1.02rem;line-height:1.25}
+.sit-txt span{display:block;font-size:.88rem;color:var(--muted);margin-top:3px;line-height:1.45}
+.chev{font-size:1.6rem;color:var(--muted);line-height:1;flex-shrink:0}
+@media (max-width:640px){.sit-list{grid-template-columns:1fr}.sit-list a{padding:14px}.cat{padding:20px 18px 18px}}
