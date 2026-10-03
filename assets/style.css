@@ -333,3 +333,4 @@ input,textarea,.callbar a,.contact-box a[href^="tel:"]{-webkit-user-select:text;
 .cal-list{margin:12px 0 0 18px;font-size:.9rem;columns:2;column-gap:28px}
 .cal-list li{break-inside:avoid;margin-bottom:4px}
 @media (max-width:640px){.cal-list{columns:1}}
+.verified{font-size:.82rem;color:var(--muted);margin:-6px 0 22px;padding-left:12px;border-left:3px solid var(--approve)}
