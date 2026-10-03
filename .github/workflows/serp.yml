@@ -1,0 +1,36 @@
+name: SERP tracker (daily)
+on:
+  schedule:
+    - cron: '30 0 * * *'   # 06:00 IST
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: serp
+  cancel-in-progress: false
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q ddgs
+      - name: Run tracker
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          SERP_PANEL_SIZE: '8'
+        run: python scripts/serp_tracker.py
+      - name: Commit report (retry on race)
+        run: |
+          git config user.name "serp-bot"; git config user.email "serp-bot@users.noreply.github.com"
+          git add reports/serp reports/serp-status.md
+          git commit -m "serp: $(date -u +%F) report" || { echo "nothing to commit"; exit 0; }
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin main && exit 0
+            sleep $((RANDOM % 20 + 5))
+          done
+          exit 1
+      - name: Summary
+        run: cat reports/serp-status.md >> "$GITHUB_STEP_SUMMARY"

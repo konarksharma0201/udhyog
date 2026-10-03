@@ -1,0 +1,670 @@
+{
+ "generated": "2026-10-04",
+ "queries": [
+  {
+   "query_id": "gst-notice__delhi",
+   "keyword_group": "gst-notice",
+   "city": "delhi",
+   "query": "GST notice reply consultant Delhi",
+   "own_url": "/gst-notice-reply/"
+  },
+  {
+   "query_id": "gst-notice__noida",
+   "keyword_group": "gst-notice",
+   "city": "noida",
+   "query": "GST notice reply consultant Noida",
+   "own_url": "/gst-consultant-noida/"
+  },
+  {
+   "query_id": "gst-notice__gurugram",
+   "keyword_group": "gst-notice",
+   "city": "gurugram",
+   "query": "GST notice reply consultant Gurugram",
+   "own_url": "/gst-consultant-gurugram/"
+  },
+  {
+   "query_id": "gst-notice__faridabad",
+   "keyword_group": "gst-notice",
+   "city": "faridabad",
+   "query": "GST notice reply consultant Faridabad",
+   "own_url": "/gst-consultant-faridabad/"
+  },
+  {
+   "query_id": "gst-notice__ghaziabad",
+   "keyword_group": "gst-notice",
+   "city": "ghaziabad",
+   "query": "GST notice reply consultant Ghaziabad",
+   "own_url": "/gst-consultant-ghaziabad/"
+  },
+  {
+   "query_id": "gst-notice__patna",
+   "keyword_group": "gst-notice",
+   "city": "patna",
+   "query": "GST notice reply consultant Patna",
+   "own_url": "/gst-consultant-patna/"
+  },
+  {
+   "query_id": "gst-consultant__delhi",
+   "keyword_group": "gst-consultant",
+   "city": "delhi",
+   "query": "GST consultant Delhi",
+   "own_url": null
+  },
+  {
+   "query_id": "gst-consultant__noida",
+   "keyword_group": "gst-consultant",
+   "city": "noida",
+   "query": "GST consultant Noida",
+   "own_url": null
+  },
+  {
+   "query_id": "gst-consultant__gurugram",
+   "keyword_group": "gst-consultant",
+   "city": "gurugram",
+   "query": "GST consultant Gurugram",
+   "own_url": null
+  },
+  {
+   "query_id": "gst-consultant__faridabad",
+   "keyword_group": "gst-consultant",
+   "city": "faridabad",
+   "query": "GST consultant Faridabad",
+   "own_url": null
+  },
+  {
+   "query_id": "gst-consultant__ghaziabad",
+   "keyword_group": "gst-consultant",
+   "city": "ghaziabad",
+   "query": "GST consultant Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "gst-consultant__patna",
+   "keyword_group": "gst-consultant",
+   "city": "patna",
+   "query": "GST consultant Patna",
+   "own_url": null
+  },
+  {
+   "query_id": "fssai__delhi",
+   "keyword_group": "fssai",
+   "city": "delhi",
+   "query": "FSSAI licence consultant Delhi",
+   "own_url": "/fssai-license-consultant/"
+  },
+  {
+   "query_id": "fssai__noida",
+   "keyword_group": "fssai",
+   "city": "noida",
+   "query": "FSSAI licence consultant Noida",
+   "own_url": "/fssai-license-noida/"
+  },
+  {
+   "query_id": "fssai__gurugram",
+   "keyword_group": "fssai",
+   "city": "gurugram",
+   "query": "FSSAI licence consultant Gurugram",
+   "own_url": "/fssai-license-gurugram/"
+  },
+  {
+   "query_id": "fssai__faridabad",
+   "keyword_group": "fssai",
+   "city": "faridabad",
+   "query": "FSSAI licence consultant Faridabad",
+   "own_url": "/fssai-license-faridabad/"
+  },
+  {
+   "query_id": "fssai__ghaziabad",
+   "keyword_group": "fssai",
+   "city": "ghaziabad",
+   "query": "FSSAI licence consultant Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "fssai__patna",
+   "keyword_group": "fssai",
+   "city": "patna",
+   "query": "FSSAI licence consultant Patna",
+   "own_url": "/fssai-license-patna/"
+  },
+  {
+   "query_id": "company-registration__delhi",
+   "keyword_group": "company-registration",
+   "city": "delhi",
+   "query": "company registration consultant Delhi",
+   "own_url": "/company-registration-delhi/"
+  },
+  {
+   "query_id": "company-registration__noida",
+   "keyword_group": "company-registration",
+   "city": "noida",
+   "query": "company registration consultant Noida",
+   "own_url": "/company-registration-noida/"
+  },
+  {
+   "query_id": "company-registration__gurugram",
+   "keyword_group": "company-registration",
+   "city": "gurugram",
+   "query": "company registration consultant Gurugram",
+   "own_url": "/company-registration-gurugram/"
+  },
+  {
+   "query_id": "company-registration__faridabad",
+   "keyword_group": "company-registration",
+   "city": "faridabad",
+   "query": "company registration consultant Faridabad",
+   "own_url": "/company-registration-faridabad/"
+  },
+  {
+   "query_id": "company-registration__ghaziabad",
+   "keyword_group": "company-registration",
+   "city": "ghaziabad",
+   "query": "company registration consultant Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "company-registration__patna",
+   "keyword_group": "company-registration",
+   "city": "patna",
+   "query": "company registration consultant Patna",
+   "own_url": "/company-registration-patna/"
+  },
+  {
+   "query_id": "shop-act__delhi",
+   "keyword_group": "shop-act",
+   "city": "delhi",
+   "query": "shop and establishment registration Delhi",
+   "own_url": "/labour-code-compliance-epf-esic/"
+  },
+  {
+   "query_id": "shop-act__noida",
+   "keyword_group": "shop-act",
+   "city": "noida",
+   "query": "shop and establishment registration Noida",
+   "own_url": "/shop-act-epf-esic-noida/"
+  },
+  {
+   "query_id": "shop-act__gurugram",
+   "keyword_group": "shop-act",
+   "city": "gurugram",
+   "query": "shop and establishment registration Gurugram",
+   "own_url": "/shop-act-epf-esic-gurugram/"
+  },
+  {
+   "query_id": "shop-act__faridabad",
+   "keyword_group": "shop-act",
+   "city": "faridabad",
+   "query": "shop and establishment registration Faridabad",
+   "own_url": "/shop-act-epf-esic-gurugram/"
+  },
+  {
+   "query_id": "shop-act__ghaziabad",
+   "keyword_group": "shop-act",
+   "city": "ghaziabad",
+   "query": "shop and establishment registration Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "shop-act__patna",
+   "keyword_group": "shop-act",
+   "city": "patna",
+   "query": "shop and establishment registration Patna",
+   "own_url": null
+  },
+  {
+   "query_id": "epf-esic__delhi",
+   "keyword_group": "epf-esic",
+   "city": "delhi",
+   "query": "EPF ESIC registration consultant Delhi",
+   "own_url": null
+  },
+  {
+   "query_id": "epf-esic__noida",
+   "keyword_group": "epf-esic",
+   "city": "noida",
+   "query": "EPF ESIC registration consultant Noida",
+   "own_url": null
+  },
+  {
+   "query_id": "epf-esic__gurugram",
+   "keyword_group": "epf-esic",
+   "city": "gurugram",
+   "query": "EPF ESIC registration consultant Gurugram",
+   "own_url": null
+  },
+  {
+   "query_id": "epf-esic__faridabad",
+   "keyword_group": "epf-esic",
+   "city": "faridabad",
+   "query": "EPF ESIC registration consultant Faridabad",
+   "own_url": null
+  },
+  {
+   "query_id": "epf-esic__ghaziabad",
+   "keyword_group": "epf-esic",
+   "city": "ghaziabad",
+   "query": "EPF ESIC registration consultant Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "epf-esic__patna",
+   "keyword_group": "epf-esic",
+   "city": "patna",
+   "query": "EPF ESIC registration consultant Patna",
+   "own_url": null
+  },
+  {
+   "query_id": "trademark__delhi",
+   "keyword_group": "trademark",
+   "city": "delhi",
+   "query": "trademark registration consultant Delhi",
+   "own_url": null
+  },
+  {
+   "query_id": "trademark__noida",
+   "keyword_group": "trademark",
+   "city": "noida",
+   "query": "trademark registration consultant Noida",
+   "own_url": "/trademark-registration-noida/"
+  },
+  {
+   "query_id": "trademark__gurugram",
+   "keyword_group": "trademark",
+   "city": "gurugram",
+   "query": "trademark registration consultant Gurugram",
+   "own_url": "/trademark-registration-gurugram/"
+  },
+  {
+   "query_id": "trademark__faridabad",
+   "keyword_group": "trademark",
+   "city": "faridabad",
+   "query": "trademark registration consultant Faridabad",
+   "own_url": "/trademark-registration-faridabad/"
+  },
+  {
+   "query_id": "trademark__ghaziabad",
+   "keyword_group": "trademark",
+   "city": "ghaziabad",
+   "query": "trademark registration consultant Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "trademark__patna",
+   "keyword_group": "trademark",
+   "city": "patna",
+   "query": "trademark registration consultant Patna",
+   "own_url": "/trademark-registration-patna/"
+  },
+  {
+   "query_id": "itr-tds__delhi",
+   "keyword_group": "itr-tds",
+   "city": "delhi",
+   "query": "income tax return filing consultant Delhi",
+   "own_url": null
+  },
+  {
+   "query_id": "itr-tds__noida",
+   "keyword_group": "itr-tds",
+   "city": "noida",
+   "query": "income tax return filing consultant Noida",
+   "own_url": "/income-tax-tds-noida/"
+  },
+  {
+   "query_id": "itr-tds__gurugram",
+   "keyword_group": "itr-tds",
+   "city": "gurugram",
+   "query": "income tax return filing consultant Gurugram",
+   "own_url": "/income-tax-tds-gurugram/"
+  },
+  {
+   "query_id": "itr-tds__faridabad",
+   "keyword_group": "itr-tds",
+   "city": "faridabad",
+   "query": "income tax return filing consultant Faridabad",
+   "own_url": "/income-tax-tds-faridabad/"
+  },
+  {
+   "query_id": "itr-tds__ghaziabad",
+   "keyword_group": "itr-tds",
+   "city": "ghaziabad",
+   "query": "income tax return filing consultant Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "itr-tds__patna",
+   "keyword_group": "itr-tds",
+   "city": "patna",
+   "query": "income tax return filing consultant Patna",
+   "own_url": "/income-tax-tds-patna/"
+  },
+  {
+   "query_id": "pollution-noc__delhi",
+   "keyword_group": "pollution-noc",
+   "city": "delhi",
+   "query": "pollution NOC consultant Delhi",
+   "own_url": "/pollution-noc-environmental-clearance/"
+  },
+  {
+   "query_id": "pollution-noc__noida",
+   "keyword_group": "pollution-noc",
+   "city": "noida",
+   "query": "pollution NOC consultant Noida",
+   "own_url": "/pollution-noc-noida-ghaziabad/"
+  },
+  {
+   "query_id": "pollution-noc__gurugram",
+   "keyword_group": "pollution-noc",
+   "city": "gurugram",
+   "query": "pollution NOC consultant Gurugram",
+   "own_url": "/pollution-noc-gurugram-faridabad/"
+  },
+  {
+   "query_id": "pollution-noc__faridabad",
+   "keyword_group": "pollution-noc",
+   "city": "faridabad",
+   "query": "pollution NOC consultant Faridabad",
+   "own_url": "/pollution-noc-gurugram-faridabad/"
+  },
+  {
+   "query_id": "pollution-noc__ghaziabad",
+   "keyword_group": "pollution-noc",
+   "city": "ghaziabad",
+   "query": "pollution NOC consultant Ghaziabad",
+   "own_url": "/pollution-noc-noida-ghaziabad/"
+  },
+  {
+   "query_id": "pollution-noc__patna",
+   "keyword_group": "pollution-noc",
+   "city": "patna",
+   "query": "pollution NOC consultant Patna",
+   "own_url": "/pollution-noc-patna-bihar/"
+  },
+  {
+   "query_id": "udyam__delhi",
+   "keyword_group": "udyam",
+   "city": "delhi",
+   "query": "Udyam MSME registration consultant Delhi",
+   "own_url": null
+  },
+  {
+   "query_id": "udyam__noida",
+   "keyword_group": "udyam",
+   "city": "noida",
+   "query": "Udyam MSME registration consultant Noida",
+   "own_url": null
+  },
+  {
+   "query_id": "udyam__gurugram",
+   "keyword_group": "udyam",
+   "city": "gurugram",
+   "query": "Udyam MSME registration consultant Gurugram",
+   "own_url": null
+  },
+  {
+   "query_id": "udyam__faridabad",
+   "keyword_group": "udyam",
+   "city": "faridabad",
+   "query": "Udyam MSME registration consultant Faridabad",
+   "own_url": null
+  },
+  {
+   "query_id": "udyam__ghaziabad",
+   "keyword_group": "udyam",
+   "city": "ghaziabad",
+   "query": "Udyam MSME registration consultant Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "udyam__patna",
+   "keyword_group": "udyam",
+   "city": "patna",
+   "query": "Udyam MSME registration consultant Patna",
+   "own_url": null
+  },
+  {
+   "query_id": "gem__delhi",
+   "keyword_group": "gem",
+   "city": "delhi",
+   "query": "GeM registration consultant Delhi",
+   "own_url": null
+  },
+  {
+   "query_id": "gem__noida",
+   "keyword_group": "gem",
+   "city": "noida",
+   "query": "GeM registration consultant Noida",
+   "own_url": null
+  },
+  {
+   "query_id": "gem__gurugram",
+   "keyword_group": "gem",
+   "city": "gurugram",
+   "query": "GeM registration consultant Gurugram",
+   "own_url": null
+  },
+  {
+   "query_id": "gem__faridabad",
+   "keyword_group": "gem",
+   "city": "faridabad",
+   "query": "GeM registration consultant Faridabad",
+   "own_url": null
+  },
+  {
+   "query_id": "gem__ghaziabad",
+   "keyword_group": "gem",
+   "city": "ghaziabad",
+   "query": "GeM registration consultant Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "gem__patna",
+   "keyword_group": "gem",
+   "city": "patna",
+   "query": "GeM registration consultant Patna",
+   "own_url": null
+  },
+  {
+   "query_id": "iec__delhi",
+   "keyword_group": "iec",
+   "city": "delhi",
+   "query": "import export code consultant Delhi",
+   "own_url": null
+  },
+  {
+   "query_id": "iec__noida",
+   "keyword_group": "iec",
+   "city": "noida",
+   "query": "import export code consultant Noida",
+   "own_url": null
+  },
+  {
+   "query_id": "iec__gurugram",
+   "keyword_group": "iec",
+   "city": "gurugram",
+   "query": "import export code consultant Gurugram",
+   "own_url": null
+  },
+  {
+   "query_id": "iec__faridabad",
+   "keyword_group": "iec",
+   "city": "faridabad",
+   "query": "import export code consultant Faridabad",
+   "own_url": null
+  },
+  {
+   "query_id": "iec__ghaziabad",
+   "keyword_group": "iec",
+   "city": "ghaziabad",
+   "query": "import export code consultant Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "iec__patna",
+   "keyword_group": "iec",
+   "city": "patna",
+   "query": "import export code consultant Patna",
+   "own_url": null
+  },
+  {
+   "query_id": "ngo-12a-80g__delhi",
+   "keyword_group": "ngo-12a-80g",
+   "city": "delhi",
+   "query": "NGO 12A 80G registration consultant Delhi",
+   "own_url": null
+  },
+  {
+   "query_id": "ngo-12a-80g__noida",
+   "keyword_group": "ngo-12a-80g",
+   "city": "noida",
+   "query": "NGO 12A 80G registration consultant Noida",
+   "own_url": null
+  },
+  {
+   "query_id": "ngo-12a-80g__gurugram",
+   "keyword_group": "ngo-12a-80g",
+   "city": "gurugram",
+   "query": "NGO 12A 80G registration consultant Gurugram",
+   "own_url": null
+  },
+  {
+   "query_id": "ngo-12a-80g__faridabad",
+   "keyword_group": "ngo-12a-80g",
+   "city": "faridabad",
+   "query": "NGO 12A 80G registration consultant Faridabad",
+   "own_url": null
+  },
+  {
+   "query_id": "ngo-12a-80g__ghaziabad",
+   "keyword_group": "ngo-12a-80g",
+   "city": "ghaziabad",
+   "query": "NGO 12A 80G registration consultant Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "ngo-12a-80g__patna",
+   "keyword_group": "ngo-12a-80g",
+   "city": "patna",
+   "query": "NGO 12A 80G registration consultant Patna",
+   "own_url": null
+  },
+  {
+   "query_id": "pmfme__delhi",
+   "keyword_group": "pmfme",
+   "city": "delhi",
+   "query": "PMFME subsidy consultant Delhi",
+   "own_url": null
+  },
+  {
+   "query_id": "pmfme__noida",
+   "keyword_group": "pmfme",
+   "city": "noida",
+   "query": "PMFME subsidy consultant Noida",
+   "own_url": null
+  },
+  {
+   "query_id": "pmfme__gurugram",
+   "keyword_group": "pmfme",
+   "city": "gurugram",
+   "query": "PMFME subsidy consultant Gurugram",
+   "own_url": null
+  },
+  {
+   "query_id": "pmfme__faridabad",
+   "keyword_group": "pmfme",
+   "city": "faridabad",
+   "query": "PMFME subsidy consultant Faridabad",
+   "own_url": null
+  },
+  {
+   "query_id": "pmfme__ghaziabad",
+   "keyword_group": "pmfme",
+   "city": "ghaziabad",
+   "query": "PMFME subsidy consultant Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "pmfme__patna",
+   "keyword_group": "pmfme",
+   "city": "patna",
+   "query": "PMFME subsidy consultant Patna",
+   "own_url": null
+  },
+  {
+   "query_id": "clu__delhi",
+   "keyword_group": "clu",
+   "city": "delhi",
+   "query": "land conversion CLU consultant Delhi",
+   "own_url": null
+  },
+  {
+   "query_id": "clu__noida",
+   "keyword_group": "clu",
+   "city": "noida",
+   "query": "land conversion CLU consultant Noida",
+   "own_url": null
+  },
+  {
+   "query_id": "clu__gurugram",
+   "keyword_group": "clu",
+   "city": "gurugram",
+   "query": "land conversion CLU consultant Gurugram",
+   "own_url": null
+  },
+  {
+   "query_id": "clu__faridabad",
+   "keyword_group": "clu",
+   "city": "faridabad",
+   "query": "land conversion CLU consultant Faridabad",
+   "own_url": null
+  },
+  {
+   "query_id": "clu__ghaziabad",
+   "keyword_group": "clu",
+   "city": "ghaziabad",
+   "query": "land conversion CLU consultant Ghaziabad",
+   "own_url": null
+  },
+  {
+   "query_id": "clu__patna",
+   "keyword_group": "clu",
+   "city": "patna",
+   "query": "land conversion CLU consultant Patna",
+   "own_url": null
+  },
+  {
+   "query_id": "pmfme-2",
+   "keyword_group": "pmfme-2",
+   "city": "",
+   "query": "pmfme scheme extension 2027",
+   "own_url": null
+  },
+  {
+   "query_id": "biada",
+   "keyword_group": "biada",
+   "city": "",
+   "query": "BIADA land allotment consultant",
+   "own_url": null
+  },
+  {
+   "query_id": "l17",
+   "keyword_group": "l17",
+   "city": "",
+   "query": "L-17 licence Delhi restaurant",
+   "own_url": null
+  },
+  {
+   "query_id": "rule14a",
+   "keyword_group": "rule14a",
+   "city": "",
+   "query": "GST registration 3 working days Rule 14A",
+   "own_url": null
+  },
+  {
+   "query_id": "dir3kyc",
+   "keyword_group": "dir3kyc",
+   "city": "",
+   "query": "DIR-3 KYC three years 2026",
+   "own_url": null
+  }
+ ]
+}
