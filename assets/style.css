@@ -283,3 +283,17 @@ input,textarea,.callbar a,.contact-box a[href^="tel:"]{-webkit-user-select:text;
 .tool-cta{margin:14px 0 0}
 .tool-cta .btn-primary{display:inline-block;font-size:.9rem;padding:11px 20px}
 @media (max-width:640px){.tool{padding:18px 16px}}
+
+/* Catalogue: collapsed lists + trust strip */
+.cat-more{margin-top:8px}
+.cat-more summary{cursor:pointer;list-style:none;font-size:.85rem;font-weight:700;color:var(--approve);padding:6px 0 2px 14px;position:relative}
+.cat-more summary::-webkit-details-marker{display:none}
+.cat-more summary::before{content:"+";position:absolute;left:0;top:5px;font-family:Archivo,sans-serif;font-weight:900}
+.cat-more[open] summary::before{content:"\2212"}
+.cat-more summary:hover,.cat-more summary:focus-visible{text-decoration:underline}
+.cat-more ul{margin-top:8px}
+.trust-strip{list-style:none;margin:38px 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;max-width:820px}
+.trust-strip li{border-top:2px solid var(--marigold);padding-top:10px}
+.trust-strip strong{display:block;font-family:Archivo,sans-serif;font-weight:900;font-size:1.25rem;line-height:1.1;color:var(--ink)}
+.trust-strip span{display:block;font-size:.82rem;color:var(--muted);margin-top:3px}
+@media (max-width:640px){.trust-strip{grid-template-columns:1fr 1fr;gap:12px}}
