@@ -4,13 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Free Compliance Tools — FSSAI, Shop Act, MSME, DIR-3 KYC</title>
-<meta name="description" content="Five browser-based 2026-rule tools: FSSAI licence finder, Shop Act checker for Delhi-NCR, MSME classifier, DIR-3 KYC due-date checker and a structure quiz.">
+<meta name="description" content="Seven browser-based 2026-rule tools: FSSAI licence finder, Shop Act checker, MSME classifier, DIR-3 KYC due-date, structure quiz, GST late-fee calculator, compliance calendar (.ics).">
 <link rel="canonical" href="https://udyoggrowth.com/tools/">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Udyog Growth">
 <meta property="og:title" content="Free Compliance Tools — FSSAI, Shop Act, MSME, DIR-3 KYC">
-<meta property="og:description" content="Five browser-based 2026-rule tools: FSSAI licence finder, Shop Act checker for Delhi-NCR, MSME classifier, DIR-3 KYC due-date checker and a structure quiz.">
+<meta property="og:description" content="Seven browser-based 2026-rule tools: FSSAI licence finder, Shop Act checker, MSME classifier, DIR-3 KYC due-date, structure quiz, GST late-fee calculator, compliance calendar (.ics).">
 <meta property="og:url" content="https://udyoggrowth.com/tools/">
 <meta property="og:image" content="https://udyoggrowth.com/assets/og/tools.png">
 <meta name="twitter:card" content="summary_large_image">
@@ -144,7 +144,7 @@
 </script><nav class="wrap crumbs" aria-label="Breadcrumb"><a href="/">Home</a> / Free Compliance Tools</nav>
 <main class="wrap"><article class="page">
 <h1>Free compliance tools — built on the 2026 rules</h1>
-<p class="qa"><strong>Quick answer:</strong> Five calculators that run entirely in your browser (nothing is sent anywhere): which FSSAI licence you need under the 1 April 2026 tiers, whether your Noida / Gurugram / Faridabad / Delhi unit still needs a Shop &amp; Establishment registration, your Udyam category under the April 2025 limits, when your next DIR-3 KYC is due under the three-year cycle, and which business structure fits you. Rules as of 4 October 2026.</p>
+<p class="qa"><strong>Quick answer:</strong> Seven calculators that run entirely in your browser (nothing is sent anywhere): which FSSAI licence you need under the 1 April 2026 tiers, whether your Noida / Gurugram / Faridabad / Delhi unit still needs a Shop &amp; Establishment registration, your Udyam category under the April 2025 limits, when your next DIR-3 KYC is due under the three-year cycle, which business structure fits you, your GST late fee and interest, and a compliance due-date calendar you can add to your phone. Rules as of 4 October 2026.</p>
 
 <div class="hl"><strong>Why these exist:</strong> most online guides still show the old FSSAI slabs (₹12 lakh / ₹20 crore), the old annual DIR-3 KYC, and pre-amendment Shop Act thresholds. Each tool below encodes the current rule and tells you which authority or portal applies in your city. Results are guidance, not a legal opinion — call us before you file.</div>
 
@@ -252,6 +252,61 @@
 </form>
 </section>
 
+
+<section class="tool" id="gst-late-fee" aria-labelledby="t6h">
+<h2 id="t6h">6. GST late fee &amp; interest calculator</h2>
+<form class="toolform" data-tool="latefee">
+  <div class="row">
+    <label for="l_ret">Return</label>
+    <select id="l_ret" name="ret">
+      <option value="3b">GSTR-3B (monthly)</option>
+      <option value="1">GSTR-1 (monthly)</option>
+      <option value="9">GSTR-9 (annual)</option>
+    </select>
+  </div>
+  <div class="row">
+    <label for="l_turn">Aggregate turnover in the previous financial year (₹)</label>
+    <input id="l_turn" name="turn" type="number" inputmode="numeric" min="0" placeholder="e.g. 30000000">
+  </div>
+  <fieldset><legend>Was it a nil return?</legend>
+    <label><input type="radio" name="nil" value="no" checked> No — there was tax or outward supply to report</label>
+    <label><input type="radio" name="nil" value="yes"> Yes — nil return</label>
+  </fieldset>
+  <div class="row">
+    <label for="l_days">Days late (due date to filing date)</label>
+    <input id="l_days" name="days" type="number" inputmode="numeric" min="0" placeholder="e.g. 25">
+  </div>
+  <div class="row">
+    <label for="l_tax">Net tax paid late through this return (₹) — for interest; leave 0 if none</label>
+    <input id="l_tax" name="tax" type="number" inputmode="numeric" min="0" value="0">
+  </div>
+  <button type="submit" class="btn-primary">Calculate late fee &amp; interest</button>
+  <output class="result" for="l_ret l_days" aria-live="polite"></output>
+</form>
+</section>
+
+<section class="tool" id="compliance-calendar" aria-labelledby="t7h">
+<h2 id="t7h">7. Compliance due-date calendar — add to your phone</h2>
+<form class="toolform" data-tool="calendar">
+  <fieldset><legend>What applies to you? (tick all)</legend>
+    <label><input type="checkbox" name="c[]" value="gst" checked> GST — monthly GSTR-1 (11th) and GSTR-3B (20th)</label>
+    <label><input type="checkbox" name="c[]" value="qrmp"> GST — QRMP (quarterly GSTR-1 13th, GSTR-3B 22nd; PMT-06 monthly 25th)</label>
+    <label><input type="checkbox" name="c[]" value="tds"> TDS — monthly deposit (7th) and quarterly returns (31 Jul / 31 Oct / 31 Jan / 31 May)</label>
+    <label><input type="checkbox" name="c[]" value="pf"> EPF &amp; ESIC — monthly (15th)</label>
+    <label><input type="checkbox" name="c[]" value="itr"> Income tax — advance tax (15 Jun / Sep / Dec / Mar) and ITR (31 Jul; 31 Oct if audited)</label>
+    <label><input type="checkbox" name="c[]" value="roc"> Company / LLP — AGM by 30 Sep, AOC-4 within 30 days and MGT-7 within 60 days of AGM; LLP Form 11 (30 May) &amp; Form 8 (30 Oct); DIR-3 KYC (30 Jun, triennial)</label>
+    <label><input type="checkbox" name="c[]" value="fssai"> FSSAI — annual return Form D1 (31 May) and annual fee</label>
+    <label><input type="checkbox" name="c[]" value="lut"> Exporters — LUT for the next financial year (by 31 Mar)</label>
+  </fieldset>
+  <div class="row">
+    <label for="cal_fy">Financial year</label>
+    <select id="cal_fy" name="fy"><option value="2026">FY 2026-27</option><option value="2027">FY 2027-28</option></select>
+  </div>
+  <button type="submit" class="btn-primary">Build my calendar</button>
+  <output class="result" for="cal_fy" aria-live="polite"></output>
+</form>
+</section>
+
 <h2>How we keep these accurate</h2>
 <table>
 <thead><tr><th>Tool</th><th>Rule source</th><th>Last verified</th></tr></thead>
@@ -260,6 +315,8 @@
 <tr><td>Shop Act checker</td><td>UP Amendment Act 2025 (20+ employees); Haryana Amendment Act 2025 (20+; intimation under s.13A below); Delhi Amendment Act 2026 published 11 Mar 2026 but commencement not yet notified</td><td>4 Oct 2026</td></tr>
 <tr><td>MSME classifier</td><td>Revised MSME definition effective 1 April 2025</td><td>4 Oct 2026</td></tr>
 <tr><td>DIR-3 KYC checker</td><td>Companies (Appointment and Qualification of Directors) Amendment Rules — G.S.R. 943(E), effective 31 March 2026</td><td>4 Oct 2026</td></tr>
+<tr><td>GST late fee calculator</td><td>CGST Act s.47 and s.50; late-fee rationalisation notifications of June 2021 (turnover-linked caps) — interest 18% p.a. on tax paid late</td><td>4 Oct 2026</td></tr>
+<tr><td>Compliance calendar</td><td>Standard statutory due dates under GST, Income-tax, EPF/ESIC, Companies/LLP Acts and FSSAI; extensions notified from time to time are not reflected automatically</td><td>4 Oct 2026</td></tr>
 <tr><td>Structure quiz</td><td>Companies Act 2013 / LLP Act 2008 / Partnership Act 1932 — general guidance</td><td>4 Oct 2026</td></tr>
 </tbody>
 </table>
@@ -391,6 +448,55 @@
       else if(liab==='high'){rec='Private Limited Company';why='Multiple owners, liability protection and comfort with ROC compliance: a Private Limited Company gives the most credibility with banks, large clients and government tenders.';}
       else {rec='Partnership Firm';why='Two or more owners, low-risk business, minimal compliance: a registered partnership deed is the simplest multi-owner structure. Move to LLP once contracts, credit or employees raise your exposure.';}
       return '<strong>Recommended: '+rec+'</strong><br>'+why+'<br><em>This is a starting point, not advice \u2014 tax, funding plans and sector rules can change the answer.</em>'+cta('Hi, your structure quiz recommended a '+rec+' for me. Please help me register it.');
+    },
+    latefee:function(f){
+      var ret=V(f,'ret'),turn=parseFloat(V(f,'turn')),nil=V(f,'nil')==='yes',days=parseInt(V(f,'days'),10),tax=parseFloat(V(f,'tax'))||0;
+      if(isNaN(days)||days<0){return '<strong>Enter the number of days late.</strong>';}
+      var perDay,cap,note;
+      if(ret==='9'){
+        perDay=nil?20:200; // Rs 100 CGST + 100 SGST
+        if(isNaN(turn)){return '<strong>Enter previous-year turnover (needed for the GSTR-9 cap).</strong>';}
+        if(turn<=50000000){perDay=50;cap=Math.round(turn*0.0004);} // 0.04% (0.02%+0.02%)
+        else if(turn<=200000000){perDay=100;cap=Math.round(turn*0.0004);}
+        else {perDay=200;cap=Math.round(turn*0.005);} // 0.25%+0.25%
+        note='GSTR-9 late fee is turnover-linked: ₹50/day (≤₹5 cr), ₹100/day (₹5–20 cr), ₹200/day (above), each capped at a percentage of turnover (0.04% / 0.04% / 0.5%).';
+      } else {
+        if(nil){perDay=20;cap=500;note='Nil return: ₹20 per day (₹10 CGST + ₹10 SGST), capped at ₹500.';}
+        else{
+          perDay=50;
+          if(isNaN(turn)){return '<strong>Enter previous-year turnover (it sets the cap).</strong>';}
+          cap=turn<=15000000?2000:(turn<=50000000?5000:10000);
+          note='₹50 per day (₹25 CGST + ₹25 SGST), capped at '+inr(cap)+' for your turnover band (≤₹1.5 cr: ₹2,000; ₹1.5–5 cr: ₹5,000; above: ₹10,000).';
+        }
+      }
+      var fee=Math.min(perDay*days,cap);
+      var interest=tax>0?Math.round(tax*0.18*days/365):0;
+      return '<strong>Late fee: '+inr(fee)+'</strong>'+(interest?'<br><strong>Interest (18% p.a.): '+inr(interest)+'</strong> on '+inr(tax)+' paid '+days+' days late':'')+'<br>'+note+'<br><em>Late fee is auto-populated by the portal; interest on cash liability is self-assessed. Amnesty or waiver notifications in force for specific periods can reduce these amounts — we check before you pay.</em>'+cta('Hi, your GST late-fee tool shows '+inr(fee)+' late fee'+(interest?' and '+inr(interest)+' interest':'')+' for a '+days+'-day delay. Please help me file and regularise.');
+    },
+    calendar:function(f){
+      var fy=parseInt(V(f,'fy'),10);var picks=[];Array.prototype.forEach.call(f.querySelectorAll('input[name="c[]"]:checked'),function(c){picks.push(c.value);});
+      if(!picks.length){return '<strong>Tick at least one item.</strong>';}
+      var ev=[];
+      function add(m,d,title){var y=(m>=4)?fy:fy+1;ev.push({y:y,m:m,d:d,t:title});}
+      var months=[4,5,6,7,8,9,10,11,12,1,2,3];
+      if(picks.indexOf('gst')>-1){months.forEach(function(m){add(m,11,'GSTR-1 due (previous month)');add(m,20,'GSTR-3B due & tax payment (previous month)');});}
+      if(picks.indexOf('qrmp')>-1){[7,10,1,4].forEach(function(m){add(m,13,'QRMP: quarterly GSTR-1 due');add(m,22,'QRMP: quarterly GSTR-3B due');});months.forEach(function(m){add(m,25,'QRMP: PMT-06 monthly tax payment');});}
+      if(picks.indexOf('tds')>-1){months.forEach(function(m){add(m,7,'TDS/TCS deposit for previous month');});add(7,31,'TDS return Q1 (24Q/26Q/27Q)');add(10,31,'TDS return Q2');add(1,31,'TDS return Q3');add(5,31,'TDS return Q4');}
+      if(picks.indexOf('pf')>-1){months.forEach(function(m){add(m,15,'EPF ECR & ESIC contribution (previous month)');});}
+      if(picks.indexOf('itr')>-1){add(6,15,'Advance tax 15%');add(9,15,'Advance tax 45%');add(12,15,'Advance tax 75%');add(3,15,'Advance tax 100%');add(7,31,'ITR due (non-audit)');add(10,31,'ITR due (audit cases)');}
+      if(picks.indexOf('roc')>-1){add(9,30,'Hold AGM by this date (company)');add(10,29,'AOC-4 due (30 days from a 30 Sep AGM)');add(11,28,'MGT-7 / 7A due (60 days from a 30 Sep AGM)');add(5,30,'LLP Form 11 due');add(10,30,'LLP Form 8 due');add(6,30,'DIR-3 KYC window closes (if your triennial year)');}
+      if(picks.indexOf('fssai')>-1){add(5,31,'FSSAI annual return Form D1 due');}
+      if(picks.indexOf('lut')>-1){add(3,31,'File LUT for next FY before exports');}
+      ev.sort(function(a,b){return (a.y*10000+a.m*100+a.d)-(b.y*10000+b.m*100+b.d);});
+      var mn=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      var rows=ev.map(function(e){return '<li><strong>'+e.d+' '+mn[e.m-1]+' '+e.y+'</strong> — '+e.t+'</li>';}).join('');
+      // ICS
+      function p(n){return (n<10?'0':'')+n;}
+      var ics=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Udyog Growth//Compliance Calendar//EN','CALSCALE:GREGORIAN'];
+      ev.forEach(function(e,i){var ds=e.y+p(e.m)+p(e.d);ics.push('BEGIN:VEVENT','UID:ug-'+fy+'-'+i+'@udyoggrowth.com','DTSTAMP:'+fy+'0401T000000Z','DTSTART;VALUE=DATE:'+ds,'SUMMARY:'+e.t.replace(/,/g,'\\,'),'DESCRIPTION:Compliance due date — Udyog Growth (udyoggrowth.com). Verify extensions before relying.','BEGIN:VALARM','TRIGGER:-P3D','ACTION:DISPLAY','DESCRIPTION:Due in 3 days: '+e.t.replace(/,/g,'\\,'),'END:VALARM','END:VEVENT');});
+      ics.push('END:VCALENDAR');
+      var url=URL.createObjectURL(new Blob([ics.join('\r\n')],{type:'text/calendar'}));
+      return '<strong>'+ev.length+' due dates for FY '+fy+'-'+String(fy+1).slice(-2)+'</strong><p class="tool-cta"><a class="btn-primary" href="'+url+'" download="udyog-growth-compliance-calendar-FY'+fy+'.ics">Download .ics (Google / Apple / Outlook)</a></p><ul class="cal-list">'+rows+'</ul><em>Each event carries a 3-day-before reminder. Dates are the standard statutory ones; extensions notified for a specific period are not applied automatically.</em>'+cta('Hi, I built a compliance calendar on your site for FY '+fy+'-'+String(fy+1).slice(-2)+'. Can you handle these filings for me?');
     }
   };
 

@@ -329,3 +329,7 @@ input,textarea,.callbar a,.contact-box a[href^="tel:"]{-webkit-user-select:text;
 .how-step strong{display:block;font-family:Archivo,sans-serif;font-weight:800;font-size:1rem;margin-bottom:6px}
 .how-step span{display:block;font-size:.92rem;color:var(--muted);line-height:1.55}
 .how-foot{margin-top:28px;font-size:.9rem;color:var(--muted)}
+.toolform fieldset input[type=checkbox]{margin-top:4px;flex-shrink:0;width:18px;height:18px;accent-color:var(--approve)}
+.cal-list{margin:12px 0 0 18px;font-size:.9rem;columns:2;column-gap:28px}
+.cal-list li{break-inside:avoid;margin-bottom:4px}
+@media (max-width:640px){.cal-list{columns:1}}
