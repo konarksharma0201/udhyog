@@ -35,9 +35,12 @@ jobs:
           git config user.name "serp-bot"; git config user.email "serp-bot@users.noreply.github.com"
           git add reports/serp reports/serp-status.md reports/competitors reports/competitor-gaps.md reports/keyword-universe.json
           git commit -m "serp: $(date -u +%F) report" || { echo "nothing to commit"; exit 0; }
-          for i in 1 2 3 4 5; do
-            git pull --rebase origin main && git push origin main && exit 0
-            sleep $((RANDOM % 20 + 5))
+          for i in 1 2 3 4 5 6; do
+            git fetch origin main
+            # during rebase, -X theirs keeps OUR replayed report commit when both sides touched reports/
+            git rebase -X theirs origin/main || { git rebase --abort; git reset --hard origin/main; echo "rebase failed; re-adding report"; git add reports/serp reports/serp-status.md reports/competitors reports/competitor-gaps.md reports/keyword-universe.json 2>/dev/null; git commit -m "serp: $(date -u +%F) report (retry)" || true; }
+            git push origin main && exit 0
+            sleep $((RANDOM % 25 + 5))
           done
           exit 1
       - name: Summary
