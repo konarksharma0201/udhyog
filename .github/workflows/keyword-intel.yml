@@ -36,16 +36,29 @@ jobs:
           path: intel/
           retention-days: 60
           if-no-files-found: ignore
+      - name: Diagnose outputs
+        if: always()
+        run: |
+          echo "::notice title=seo-files::$(ls -la seo 2>&1 | tr '\n' '|')"
+          echo "::notice title=intel-files::$(ls -la intel 2>&1 | tr '\n' '|')"
+          echo "::notice title=git-status::$(git status --short 2>&1 | head -15 | tr '\n' '|')"
       - name: Commit sanitised report (retry on race)
         if: always()
         run: |
+          set +e
           git config user.name "intel-bot"; git config user.email "intel-bot@users.noreply.github.com"
-          git add seo/keyword-intel.json seo/keyword-intel.md
-          git commit -m "keyword-intel: $(date -u +%F) sanitised report" || { echo "nothing to commit"; exit 0; }
+          OUT=$(git add -f seo/keyword-intel.json seo/keyword-intel.md 2>&1); RC=$?
+          echo "::notice title=git-add::rc=$RC $(echo "$OUT" | tr '\n' '|')"
+          [ $RC -ne 0 ] && exit 1
+          git commit -m "keyword-intel: $(date -u +%F) sanitised report" >/dev/null 2>&1 || { echo "nothing to commit"; exit 0; }
           for i in 1 2 3 4 5 6; do
-            git fetch origin main
-            git rebase -X theirs origin/main || { git rebase --abort; git reset --hard origin/main; git checkout -- . ; echo "rebase failed"; exit 1; }
-            git push origin main && exit 0
+            OUT=$(git fetch origin main 2>&1); echo "::notice title=fetch-$i::rc=$? $(echo "$OUT" | tr '\n' '|' | cut -c1-200)"
+            OUT=$(git rebase -X theirs origin/main 2>&1); RC=$?
+            echo "::notice title=rebase-$i::rc=$RC $(echo "$OUT" | tr '\n' '|' | cut -c1-300)"
+            if [ $RC -ne 0 ]; then git rebase --abort; exit 1; fi
+            OUT=$(git push origin main 2>&1); RC=$?
+            echo "::notice title=push-$i::rc=$RC $(echo "$OUT" | tr '\n' '|' | cut -c1-300)"
+            [ $RC -eq 0 ] && exit 0
             sleep $((RANDOM % 25 + 5))
           done
           exit 1
