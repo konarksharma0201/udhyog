@@ -665,6 +665,321 @@
    "city": "",
    "query": "DIR-3 KYC three years 2026",
    "own_url": null
+  },
+  {
+   "query_id": "page__advance-authorisation-epcg-consultant",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Advance Authorisation & EPCG Consultant",
+   "own_url": "/advance-authorisation-epcg-consultant/"
+  },
+  {
+   "query_id": "page__asmt-10-reply",
+   "keyword_group": "page",
+   "city": "",
+   "query": "ASMT-10 Reply",
+   "own_url": "/asmt-10-reply/"
+  },
+  {
+   "query_id": "page__biada-land-allotment-bihar-industrial-policy",
+   "keyword_group": "page",
+   "city": "",
+   "query": "BIADA Land Allotment & Bihar Incentives",
+   "own_url": "/biada-land-allotment-bihar-industrial-policy/"
+  },
+  {
+   "query_id": "page__bihar-government-tenders",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Bihar Government Tender Consultant",
+   "own_url": "/bihar-government-tenders/"
+  },
+  {
+   "query_id": "page__bihar-gst-consultant",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Bihar GST Consultant",
+   "own_url": "/bihar-gst-consultant/"
+  },
+  {
+   "query_id": "page__bihar-startup-policy-seed-fund",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Bihar Startup Policy",
+   "own_url": "/bihar-startup-policy-seed-fund/"
+  },
+  {
+   "query_id": "page__bis-certification-isi-crs",
+   "keyword_group": "page",
+   "city": "",
+   "query": "BIS Certification",
+   "own_url": "/bis-certification-isi-crs/"
+  },
+  {
+   "query_id": "page__business-loan-subsidy-consultant",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Business Loan & Subsidy Consultant",
+   "own_url": "/business-loan-subsidy-consultant/"
+  },
+  {
+   "query_id": "page__cma-data-bankable-dpr-consultant",
+   "keyword_group": "page",
+   "city": "",
+   "query": "CMA Data & Bankable DPR Consultant",
+   "own_url": "/cma-data-bankable-dpr-consultant/"
+  },
+  {
+   "query_id": "page__drc-01c-reply",
+   "keyword_group": "page",
+   "city": "",
+   "query": "DRC-01C Reply",
+   "own_url": "/drc-01c-reply/"
+  },
+  {
+   "query_id": "page__fssai-license-consultant",
+   "keyword_group": "page",
+   "city": "",
+   "query": "FSSAI License Consultant Delhi-NCR",
+   "own_url": "/fssai-license-consultant/"
+  },
+  {
+   "query_id": "page__gem-registration-fees-documents",
+   "keyword_group": "page",
+   "city": "",
+   "query": "GeM Fees & Documents",
+   "own_url": "/gem-registration-fees-documents/"
+  },
+  {
+   "query_id": "page__gem-registration-tender-bidding",
+   "keyword_group": "page",
+   "city": "",
+   "query": "GeM Registration & Tender Bidding",
+   "own_url": "/gem-registration-tender-bidding/"
+  },
+  {
+   "query_id": "page__gem-seller-suspension-dispute-resolution",
+   "keyword_group": "page",
+   "city": "",
+   "query": "GeM Suspended Bid Rejection & Dispute Help",
+   "own_url": "/gem-seller-suspension-dispute-resolution/"
+  },
+  {
+   "query_id": "page__gst-notice-first-48-hours",
+   "keyword_group": "page",
+   "city": "",
+   "query": "GST Notice Received Your First 48 Hours",
+   "own_url": "/gst-notice-first-48-hours/"
+  },
+  {
+   "query_id": "page__gst-notice-reply",
+   "keyword_group": "page",
+   "city": "",
+   "query": "GST Notice Reply",
+   "own_url": "/gst-notice-reply/"
+  },
+  {
+   "query_id": "page__gstat-appeal",
+   "keyword_group": "page",
+   "city": "",
+   "query": "GSTAT Appeal",
+   "own_url": "/gstat-appeal/"
+  },
+  {
+   "query_id": "page__import-export-iec-dgft-consultant",
+   "keyword_group": "page",
+   "city": "",
+   "query": "IEC & DGFT Consultant",
+   "own_url": "/import-export-iec-dgft-consultant/"
+  },
+  {
+   "query_id": "page__industrial-approvals-single-window-consultant",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Industrial Approvals",
+   "own_url": "/industrial-approvals-single-window-consultant/"
+  },
+  {
+   "query_id": "page__iso-certification-consultant",
+   "keyword_group": "page",
+   "city": "",
+   "query": "ISO Certification Consultant",
+   "own_url": "/iso-certification-consultant/"
+  },
+  {
+   "query_id": "page__labour-code-compliance-epf-esic",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Labour Code Compliance",
+   "own_url": "/labour-code-compliance-epf-esic/"
+  },
+  {
+   "query_id": "page__land-conversion-clu-consultant",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Land Conversion & CLU Consultant",
+   "own_url": "/land-conversion-clu-consultant/"
+  },
+  {
+   "query_id": "page__liquor-excise-license-delhi",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Liquor & Excise License Consultant Delhi",
+   "own_url": "/liquor-excise-license-delhi/"
+  },
+  {
+   "query_id": "page__msme-schemes",
+   "keyword_group": "page",
+   "city": "",
+   "query": "MSME Schemes",
+   "own_url": "/msme-schemes/"
+  },
+  {
+   "query_id": "page__ngo-trust-12a-80g-fcra-registration",
+   "keyword_group": "page",
+   "city": "",
+   "query": "NGO Registration",
+   "own_url": "/ngo-trust-12a-80g-fcra-registration/"
+  },
+  {
+   "query_id": "page__peso-license-consultant",
+   "keyword_group": "page",
+   "city": "",
+   "query": "PESO License Consultant",
+   "own_url": "/peso-license-consultant/"
+  },
+  {
+   "query_id": "page__pmfme-2-0-update",
+   "keyword_group": "page",
+   "city": "",
+   "query": "PMFME 2026 Update & PMFME 2 0 News",
+   "own_url": "/pmfme-2-0-update/"
+  },
+  {
+   "query_id": "page__pmfme-subsidy-consultant",
+   "keyword_group": "page",
+   "city": "",
+   "query": "PMFME Subsidy Consultant",
+   "own_url": "/pmfme-subsidy-consultant/"
+  },
+  {
+   "query_id": "page__pollution-noc-environmental-clearance",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Pollution NOC Consultant",
+   "own_url": "/pollution-noc-environmental-clearance/"
+  },
+  {
+   "query_id": "page__regulatory-affairs-departmental-representation",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Regulatory Affairs Consultant",
+   "own_url": "/regulatory-affairs-departmental-representation/"
+  },
+  {
+   "query_id": "page__school-affiliation-consultant",
+   "keyword_group": "page",
+   "city": "",
+   "query": "School Affiliation Consultant",
+   "own_url": "/school-affiliation-consultant/"
+  },
+  {
+   "query_id": "page__solar-subsidy-pm-surya-ghar",
+   "keyword_group": "page",
+   "city": "",
+   "query": "PM Surya Ghar Solar Subsidy",
+   "own_url": "/solar-subsidy-pm-surya-ghar/"
+  },
+  {
+   "query_id": "page__gst-registration-rule-14a",
+   "keyword_group": "page",
+   "city": "",
+   "query": "GST Registration in 3 Working Days",
+   "own_url": "/gst-registration-rule-14a/"
+  },
+  {
+   "query_id": "page__pmfme-subsidy-bihar",
+   "keyword_group": "page",
+   "city": "",
+   "query": "PMFME Subsidy Consultant Bihar",
+   "own_url": "/pmfme-subsidy-bihar/"
+  },
+  {
+   "query_id": "page__eway-bill-detention-section-129",
+   "keyword_group": "page",
+   "city": "",
+   "query": "E-Way Bill Detention",
+   "own_url": "/eway-bill-detention-section-129/"
+  },
+  {
+   "query_id": "page__income-tax-notice-reply",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Income Tax Notice Reply",
+   "own_url": "/income-tax-notice-reply/"
+  },
+  {
+   "query_id": "page__trademark-objection-reply",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Trademark Objection Reply",
+   "own_url": "/trademark-objection-reply/"
+  },
+  {
+   "query_id": "page__gst-refund-lut-exporters",
+   "keyword_group": "page",
+   "city": "",
+   "query": "GST Refund & LUT for Exporters",
+   "own_url": "/gst-refund-lut-exporters/"
+  },
+  {
+   "query_id": "page__fssai-license-by-business-type",
+   "keyword_group": "page",
+   "city": "",
+   "query": "FSSAI Licence by Business Type",
+   "own_url": "/fssai-license-by-business-type/"
+  },
+  {
+   "query_id": "page__pvt-ltd-vs-llp-vs-opc",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Pvt Ltd vs LLP vs OPC",
+   "own_url": "/pvt-ltd-vs-llp-vs-opc/"
+  },
+  {
+   "query_id": "page__shop-act-epf-esic-patna",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Shop Act EPF ESIC & Professional Tax",
+   "own_url": "/shop-act-epf-esic-patna/"
+  },
+  {
+   "query_id": "page__company-registration-delhi",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Company Registration Delhi",
+   "own_url": "/company-registration-delhi/"
+  },
+  {
+   "query_id": "page__pollution-noc-noida-ghaziabad",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Pollution NOC Noida & Ghaziabad",
+   "own_url": "/pollution-noc-noida-ghaziabad/"
+  },
+  {
+   "query_id": "page__pollution-noc-gurugram-faridabad",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Pollution NOC Gurugram & Faridabad",
+   "own_url": "/pollution-noc-gurugram-faridabad/"
+  },
+  {
+   "query_id": "page__pollution-noc-patna-bihar",
+   "keyword_group": "page",
+   "city": "",
+   "query": "Pollution NOC Patna & Bihar",
+   "own_url": "/pollution-noc-patna-bihar/"
   }
  ]
 }
