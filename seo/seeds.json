@@ -1,0 +1,2438 @@
+{
+ "generated": "2026-10-05",
+ "note": "Seeds derived from the 288-service master; no competitor data in this file.",
+ "seeds": [
+  {
+   "id": 1,
+   "category": "Business Registration & Startup",
+   "service": "Private Limited Company Registration",
+   "seed": "Private Limited Company Registration",
+   "status": "Partial",
+   "our_url": "/company-registration-delhi/"
+  },
+  {
+   "id": 2,
+   "category": "Business Registration & Startup",
+   "service": "OPC Registration",
+   "seed": "OPC Registration",
+   "status": "Partial",
+   "our_url": "/pvt-ltd-vs-llp-vs-opc/"
+  },
+  {
+   "id": 3,
+   "category": "Business Registration & Startup",
+   "service": "LLP Registration",
+   "seed": "LLP Registration",
+   "status": "Partial",
+   "our_url": "/pvt-ltd-vs-llp-vs-opc/"
+  },
+  {
+   "id": 4,
+   "category": "Business Registration & Startup",
+   "service": "Partnership Firm Registration",
+   "seed": "Partnership Firm Registration",
+   "status": "Dedicated",
+   "our_url": "/partnership-firm-registration-patna-gurugram/"
+  },
+  {
+   "id": 5,
+   "category": "Business Registration & Startup",
+   "service": "Sole Proprietorship Registration",
+   "seed": "Sole Proprietorship Registration",
+   "status": "Built",
+   "our_url": "/sole-proprietorship-registration-udyam-gst/"
+  },
+  {
+   "id": 6,
+   "category": "Business Registration & Startup",
+   "service": "Section 8 Company Registration",
+   "seed": "Section 8 Company Registration",
+   "status": "Dedicated",
+   "our_url": "/section-8-company-registration/"
+  },
+  {
+   "id": 7,
+   "category": "Business Registration & Startup",
+   "service": "Nidhi Company Registration",
+   "seed": "Nidhi Company Registration",
+   "status": "Dedicated",
+   "our_url": "/nidhi-company-registration-compliance/"
+  },
+  {
+   "id": 8,
+   "category": "Business Registration & Startup",
+   "service": "Producer Company / FPO Registration",
+   "seed": "Producer Company",
+   "status": "Dedicated",
+   "our_url": "/producer-company-fpo-registration-patna/"
+  },
+  {
+   "id": 8,
+   "category": "Business Registration & Startup",
+   "service": "Producer Company / FPO Registration",
+   "seed": "FPO Registration",
+   "status": "Dedicated",
+   "our_url": "/producer-company-fpo-registration-patna/"
+  },
+  {
+   "id": 9,
+   "category": "Business Registration & Startup",
+   "service": "Public Limited Company Registration",
+   "seed": "Public Limited Company Registration",
+   "status": "Built",
+   "our_url": "/public-limited-company-registration/"
+  },
+  {
+   "id": 10,
+   "category": "Business Registration & Startup",
+   "service": "Indian Subsidiary Registration",
+   "seed": "Indian Subsidiary Registration",
+   "status": "Dedicated",
+   "our_url": "/indian-subsidiary-registration-foreign-company/"
+  },
+  {
+   "id": 11,
+   "category": "Business Registration & Startup",
+   "service": "Liaison Office Registration",
+   "seed": "Liaison Office Registration",
+   "status": "Dedicated",
+   "our_url": "/liaison-branch-office-india/"
+  },
+  {
+   "id": 12,
+   "category": "Business Registration & Startup",
+   "service": "Branch Office Registration",
+   "seed": "Branch Office Registration",
+   "status": "Dedicated",
+   "our_url": "/liaison-branch-office-india/"
+  },
+  {
+   "id": 13,
+   "category": "Business Registration & Startup",
+   "service": "Project Office Registration",
+   "seed": "Project Office Registration",
+   "status": "Dedicated",
+   "our_url": "/liaison-branch-office-india/"
+  },
+  {
+   "id": 14,
+   "category": "Business Registration & Startup",
+   "service": "Startup India / DPIIT Registration",
+   "seed": "Startup India",
+   "status": "Dedicated",
+   "our_url": "/startup-india-dpiit-recognition/"
+  },
+  {
+   "id": 14,
+   "category": "Business Registration & Startup",
+   "service": "Startup India / DPIIT Registration",
+   "seed": "DPIIT Registration",
+   "status": "Dedicated",
+   "our_url": "/startup-india-dpiit-recognition/"
+  },
+  {
+   "id": 15,
+   "category": "Business Registration & Startup",
+   "service": "Section 80-IAC Tax Exemption",
+   "seed": "Section 80-IAC Tax Exemption",
+   "status": "Partial",
+   "our_url": "/startup-india-dpiit-recognition/"
+  },
+  {
+   "id": 16,
+   "category": "Business Registration & Startup",
+   "service": "Cooperative Society Registration",
+   "seed": "Cooperative Society Registration",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 17,
+   "category": "Business Registration & Startup",
+   "service": "Entity Conversion",
+   "seed": "Entity Conversion",
+   "status": "Dedicated",
+   "our_url": "/convert-private-limited-to-llp/"
+  },
+  {
+   "id": 18,
+   "category": "Business Registration & Startup",
+   "service": "Company / LLP Name Reservation",
+   "seed": "Company",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 18,
+   "category": "Business Registration & Startup",
+   "service": "Company / LLP Name Reservation",
+   "seed": "LLP Name Reservation",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 19,
+   "category": "GST",
+   "service": "GST Registration",
+   "seed": "GST Registration",
+   "status": "Partial",
+   "our_url": "/gst-registration-rule-14a/"
+  },
+  {
+   "id": 20,
+   "category": "GST",
+   "service": "GSTR-1 Filing",
+   "seed": "GSTR-1 Filing",
+   "status": "Built",
+   "our_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "id": 21,
+   "category": "GST",
+   "service": "GSTR-3B Filing",
+   "seed": "GSTR-3B Filing",
+   "status": "Built",
+   "our_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "id": 22,
+   "category": "GST",
+   "service": "QRMP / IFF / PMT-06",
+   "seed": "QRMP",
+   "status": "Built",
+   "our_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "id": 22,
+   "category": "GST",
+   "service": "QRMP / IFF / PMT-06",
+   "seed": "IFF",
+   "status": "Built",
+   "our_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "id": 22,
+   "category": "GST",
+   "service": "QRMP / IFF / PMT-06",
+   "seed": "PMT-06",
+   "status": "Built",
+   "our_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "id": 23,
+   "category": "GST",
+   "service": "Composition Scheme",
+   "seed": "Composition Scheme",
+   "status": "Built",
+   "our_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "id": 24,
+   "category": "GST",
+   "service": "GSTR-9",
+   "seed": "GSTR-9",
+   "status": "Built",
+   "our_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "id": 25,
+   "category": "GST",
+   "service": "GSTR-9C",
+   "seed": "GSTR-9C",
+   "status": "Built",
+   "our_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "id": 26,
+   "category": "GST",
+   "service": "LUT Filing",
+   "seed": "LUT Filing",
+   "status": "Dedicated",
+   "our_url": "/gst-refund-lut-exporters/"
+  },
+  {
+   "id": 27,
+   "category": "GST",
+   "service": "GST Refund",
+   "seed": "GST Refund",
+   "status": "Dedicated",
+   "our_url": "/gst-refund-lut-exporters/"
+  },
+  {
+   "id": 28,
+   "category": "GST",
+   "service": "GST Amendment",
+   "seed": "GST Amendment",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 29,
+   "category": "GST",
+   "service": "GST Cancellation",
+   "seed": "GST Cancellation",
+   "status": "Dedicated",
+   "our_url": "/gst-registration-cancellation-revocation/"
+  },
+  {
+   "id": 30,
+   "category": "GST",
+   "service": "GST Revocation",
+   "seed": "GST Revocation",
+   "status": "Dedicated",
+   "our_url": "/gst-registration-cancellation-revocation/"
+  },
+  {
+   "id": 31,
+   "category": "GST",
+   "service": "DRC-01 Reply",
+   "seed": "DRC-01 Reply",
+   "status": "Dedicated",
+   "our_url": "/drc-01-reply/"
+  },
+  {
+   "id": 32,
+   "category": "GST",
+   "service": "ASMT-10 Reply",
+   "seed": "ASMT-10 Reply",
+   "status": "Dedicated",
+   "our_url": "/asmt-10-reply/"
+  },
+  {
+   "id": 33,
+   "category": "GST",
+   "service": "DRC-01C Reply",
+   "seed": "DRC-01C Reply",
+   "status": "Dedicated",
+   "our_url": "/drc-01c-reply/"
+  },
+  {
+   "id": 34,
+   "category": "GST",
+   "service": "GST Notice Reply",
+   "seed": "GST Notice Reply",
+   "status": "Dedicated",
+   "our_url": "/gst-notice-reply/"
+  },
+  {
+   "id": 35,
+   "category": "GST",
+   "service": "GST Appeal / APL-01",
+   "seed": "GST Appeal",
+   "status": "Partial",
+   "our_url": "/gstat-appeal/"
+  },
+  {
+   "id": 35,
+   "category": "GST",
+   "service": "GST Appeal / APL-01",
+   "seed": "APL-01",
+   "status": "Partial",
+   "our_url": "/gstat-appeal/"
+  },
+  {
+   "id": 36,
+   "category": "GST",
+   "service": "GSTAT Appeal",
+   "seed": "GSTAT Appeal",
+   "status": "Dedicated",
+   "our_url": "/gstat-appeal/"
+  },
+  {
+   "id": 37,
+   "category": "GST",
+   "service": "GST 2A / 2B Reconciliation",
+   "seed": "GST 2A",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 37,
+   "category": "GST",
+   "service": "GST 2A / 2B Reconciliation",
+   "seed": "2B Reconciliation",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 38,
+   "category": "GST",
+   "service": "IMS Compliance",
+   "seed": "IMS Compliance",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 39,
+   "category": "GST",
+   "service": "E-Invoicing",
+   "seed": "E-Invoicing",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 40,
+   "category": "GST",
+   "service": "E-Way Bill",
+   "seed": "E-Way Bill",
+   "status": "Partial",
+   "our_url": "/eway-bill-detention-section-129/"
+  },
+  {
+   "id": 41,
+   "category": "GST",
+   "service": "HSN / SAC Classification",
+   "seed": "HSN",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 41,
+   "category": "GST",
+   "service": "HSN / SAC Classification",
+   "seed": "SAC Classification",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 42,
+   "category": "GST",
+   "service": "GST Rate Advisory",
+   "seed": "GST Rate Advisory",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 43,
+   "category": "GST",
+   "service": "GST Audit",
+   "seed": "GST Audit",
+   "status": "Built",
+   "our_url": "/gst-audit-assessment-dggi-health-check/"
+  },
+  {
+   "id": 44,
+   "category": "GST",
+   "service": "DGGI Matters",
+   "seed": "DGGI Matters",
+   "status": "Built",
+   "our_url": "/gst-audit-assessment-dggi-health-check/"
+  },
+  {
+   "id": 45,
+   "category": "GST",
+   "service": "GST Assessment",
+   "seed": "GST Assessment",
+   "status": "Built",
+   "our_url": "/gst-audit-assessment-dggi-health-check/"
+  },
+  {
+   "id": 46,
+   "category": "GST",
+   "service": "GST Health Check",
+   "seed": "GST Health Check",
+   "status": "Built",
+   "our_url": "/gst-audit-assessment-dggi-health-check/"
+  },
+  {
+   "id": 47,
+   "category": "MCA / ROC Compliance",
+   "service": "AOC-4",
+   "seed": "AOC-4",
+   "status": "Built",
+   "our_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "id": 48,
+   "category": "MCA / ROC Compliance",
+   "service": "MGT-7 / MGT-7A",
+   "seed": "MGT-7",
+   "status": "Built",
+   "our_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "id": 48,
+   "category": "MCA / ROC Compliance",
+   "service": "MGT-7 / MGT-7A",
+   "seed": "MGT-7A",
+   "status": "Built",
+   "our_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "id": 49,
+   "category": "MCA / ROC Compliance",
+   "service": "LLP Form 8",
+   "seed": "LLP Form 8",
+   "status": "Built",
+   "our_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "id": 50,
+   "category": "MCA / ROC Compliance",
+   "service": "LLP Form 11",
+   "seed": "LLP Form 11",
+   "status": "Built",
+   "our_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "id": 51,
+   "category": "MCA / ROC Compliance",
+   "service": "DIR-3 KYC",
+   "seed": "DIR-3 KYC",
+   "status": "Partial",
+   "our_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "id": 52,
+   "category": "MCA / ROC Compliance",
+   "service": "DIN",
+   "seed": "DIN",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 53,
+   "category": "MCA / ROC Compliance",
+   "service": "DSC",
+   "seed": "DSC",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 54,
+   "category": "MCA / ROC Compliance",
+   "service": "INC-20A",
+   "seed": "INC-20A",
+   "status": "Dedicated",
+   "our_url": "/mca-event-filings-inc-20a-dir-12-sh-7/"
+  },
+  {
+   "id": 55,
+   "category": "MCA / ROC Compliance",
+   "service": "ADT-1",
+   "seed": "ADT-1",
+   "status": "Built",
+   "our_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "id": 56,
+   "category": "MCA / ROC Compliance",
+   "service": "Company Name Change",
+   "seed": "Company Name Change",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 57,
+   "category": "MCA / ROC Compliance",
+   "service": "Registered Office Change",
+   "seed": "Registered Office Change",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 58,
+   "category": "MCA / ROC Compliance",
+   "service": "SH-7 Capital Increase",
+   "seed": "SH-7 Capital Increase",
+   "status": "Dedicated",
+   "our_url": "/mca-event-filings-inc-20a-dir-12-sh-7/"
+  },
+  {
+   "id": 59,
+   "category": "MCA / ROC Compliance",
+   "service": "PAS-3 Share Allotment",
+   "seed": "PAS-3 Share Allotment",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 60,
+   "category": "MCA / ROC Compliance",
+   "service": "SH-4 Share Transfer",
+   "seed": "SH-4 Share Transfer",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 61,
+   "category": "MCA / ROC Compliance",
+   "service": "DIR-12 Director Change",
+   "seed": "DIR-12 Director Change",
+   "status": "Dedicated",
+   "our_url": "/mca-event-filings-inc-20a-dir-12-sh-7/"
+  },
+  {
+   "id": 62,
+   "category": "MCA / ROC Compliance",
+   "service": "MOA Amendment",
+   "seed": "MOA Amendment",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 63,
+   "category": "MCA / ROC Compliance",
+   "service": "AOA Amendment",
+   "seed": "AOA Amendment",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 64,
+   "category": "MCA / ROC Compliance",
+   "service": "LLP Agreement Amendment",
+   "seed": "LLP Agreement Amendment",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 65,
+   "category": "MCA / ROC Compliance",
+   "service": "CHG-1",
+   "seed": "CHG-1",
+   "status": "Dedicated",
+   "our_url": "/mca-event-filings-inc-20a-dir-12-sh-7/"
+  },
+  {
+   "id": 66,
+   "category": "MCA / ROC Compliance",
+   "service": "CHG-4",
+   "seed": "CHG-4",
+   "status": "Dedicated",
+   "our_url": "/mca-event-filings-inc-20a-dir-12-sh-7/"
+  },
+  {
+   "id": 67,
+   "category": "MCA / ROC Compliance",
+   "service": "DPT-3",
+   "seed": "DPT-3",
+   "status": "Built",
+   "our_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "id": 68,
+   "category": "MCA / ROC Compliance",
+   "service": "MSME-1",
+   "seed": "MSME-1",
+   "status": "Built",
+   "our_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "id": 69,
+   "category": "MCA / ROC Compliance",
+   "service": "BEN-2",
+   "seed": "BEN-2",
+   "status": "Built",
+   "our_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "id": 70,
+   "category": "MCA / ROC Compliance",
+   "service": "Dormant Company",
+   "seed": "Dormant Company",
+   "status": "Built",
+   "our_url": "/company-strike-off-llp-closure-winding-up/"
+  },
+  {
+   "id": 71,
+   "category": "MCA / ROC Compliance",
+   "service": "Strike Off",
+   "seed": "Strike Off",
+   "status": "Built",
+   "our_url": "/company-strike-off-llp-closure-winding-up/"
+  },
+  {
+   "id": 72,
+   "category": "MCA / ROC Compliance",
+   "service": "LLP Closure",
+   "seed": "LLP Closure",
+   "status": "Built",
+   "our_url": "/company-strike-off-llp-closure-winding-up/"
+  },
+  {
+   "id": 73,
+   "category": "MCA / ROC Compliance",
+   "service": "Company Winding Up",
+   "seed": "Company Winding Up",
+   "status": "Built",
+   "our_url": "/company-strike-off-llp-closure-winding-up/"
+  },
+  {
+   "id": 74,
+   "category": "MCA / ROC Compliance",
+   "service": "NCLT Revival",
+   "seed": "NCLT Revival",
+   "status": "Built",
+   "our_url": "/company-strike-off-llp-closure-winding-up/"
+  },
+  {
+   "id": 75,
+   "category": "MCA / ROC Compliance",
+   "service": "Secretarial Audit",
+   "seed": "Secretarial Audit",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 76,
+   "category": "MCA / ROC Compliance",
+   "service": "Annual Compliance",
+   "seed": "Annual Compliance",
+   "status": "Dedicated",
+   "our_url": "/roc-compliance/"
+  },
+  {
+   "id": 77,
+   "category": "Income Tax & TDS",
+   "service": "ITR Filing",
+   "seed": "ITR Filing",
+   "status": "Built",
+   "our_url": "/itr-filing-forms-itr-1-to-itr-4-documents/"
+  },
+  {
+   "id": 78,
+   "category": "Income Tax & TDS",
+   "service": "NRI Tax / DTAA",
+   "seed": "NRI Tax",
+   "status": "Partial",
+   "our_url": "/nri-property-sale-capital-gains-tds/"
+  },
+  {
+   "id": 78,
+   "category": "Income Tax & TDS",
+   "service": "NRI Tax / DTAA",
+   "seed": "DTAA",
+   "status": "Partial",
+   "our_url": "/nri-property-sale-capital-gains-tds/"
+  },
+  {
+   "id": 79,
+   "category": "Income Tax & TDS",
+   "service": "Tax Audit",
+   "seed": "Tax Audit",
+   "status": "Dedicated",
+   "our_url": "/tax-audit-section-63-form-26/"
+  },
+  {
+   "id": 80,
+   "category": "Income Tax & TDS",
+   "service": "Presumptive Taxation",
+   "seed": "Presumptive Taxation",
+   "status": "Partial",
+   "our_url": "/tax-audit-section-63-form-26/"
+  },
+  {
+   "id": 81,
+   "category": "Income Tax & TDS",
+   "service": "TDS Returns",
+   "seed": "TDS Returns",
+   "status": "Dedicated",
+   "our_url": "/tds-return-filing/"
+  },
+  {
+   "id": 82,
+   "category": "Income Tax & TDS",
+   "service": "TCS Returns",
+   "seed": "TCS Returns",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 83,
+   "category": "Income Tax & TDS",
+   "service": "TAN Registration",
+   "seed": "TAN Registration",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 84,
+   "category": "Income Tax & TDS",
+   "service": "Form 16",
+   "seed": "Form 16",
+   "status": "Dedicated",
+   "our_url": "/advance-tax-form-130-131/"
+  },
+  {
+   "id": 85,
+   "category": "Income Tax & TDS",
+   "service": "Form 16A",
+   "seed": "Form 16A",
+   "status": "Dedicated",
+   "our_url": "/advance-tax-form-130-131/"
+  },
+  {
+   "id": 86,
+   "category": "Income Tax & TDS",
+   "service": "Advance Tax",
+   "seed": "Advance Tax",
+   "status": "Dedicated",
+   "our_url": "/advance-tax-form-130-131/"
+  },
+  {
+   "id": 87,
+   "category": "Income Tax & TDS",
+   "service": "Old vs New Tax Regime Planning",
+   "seed": "Old vs New Tax Regime Planning",
+   "status": "Dedicated",
+   "our_url": "/old-vs-new-tax-regime-2026-27/"
+  },
+  {
+   "id": 88,
+   "category": "Income Tax & TDS",
+   "service": "Income Tax Notice Reply",
+   "seed": "Income Tax Notice Reply",
+   "status": "Dedicated",
+   "our_url": "/income-tax-notice-reply/"
+  },
+  {
+   "id": 89,
+   "category": "Income Tax & TDS",
+   "service": "ITR-U",
+   "seed": "ITR-U",
+   "status": "Dedicated",
+   "our_url": "/updated-return-itr-u-section-263/"
+  },
+  {
+   "id": 90,
+   "category": "Income Tax & TDS",
+   "service": "Income Tax Refund Follow-up",
+   "seed": "Income Tax Refund Follow-up",
+   "status": "Built",
+   "our_url": "/itr-filing-forms-itr-1-to-itr-4-documents/"
+  },
+  {
+   "id": 91,
+   "category": "Income Tax & TDS",
+   "service": "CIT(A) Appeal",
+   "seed": "CIT(A) Appeal",
+   "status": "Dedicated",
+   "our_url": "/income-tax-appeal-cit-a-itat/"
+  },
+  {
+   "id": 92,
+   "category": "Income Tax & TDS",
+   "service": "ITAT Appeal",
+   "seed": "ITAT Appeal",
+   "status": "Dedicated",
+   "our_url": "/income-tax-appeal-cit-a-itat/"
+  },
+  {
+   "id": 93,
+   "category": "Income Tax & TDS",
+   "service": "Form 15CA",
+   "seed": "Form 15CA",
+   "status": "Dedicated",
+   "our_url": "/form-145-146-15ca-15cb-form-128/"
+  },
+  {
+   "id": 94,
+   "category": "Income Tax & TDS",
+   "service": "Form 15CB",
+   "seed": "Form 15CB",
+   "status": "Dedicated",
+   "our_url": "/form-145-146-15ca-15cb-form-128/"
+  },
+  {
+   "id": 95,
+   "category": "Income Tax & TDS",
+   "service": "Lower TDS Certificate",
+   "seed": "Lower TDS Certificate",
+   "status": "Dedicated",
+   "our_url": "/form-145-146-15ca-15cb-form-128/"
+  },
+  {
+   "id": 96,
+   "category": "Income Tax & TDS",
+   "service": "Capital Gains Tax",
+   "seed": "Capital Gains Tax",
+   "status": "Partial",
+   "our_url": "/nri-property-sale-capital-gains-tds/"
+  },
+  {
+   "id": 97,
+   "category": "Income Tax & TDS",
+   "service": "Income Tax Advisory",
+   "seed": "Income Tax Advisory",
+   "status": "Partial",
+   "our_url": "/income-tax-tds-noida/"
+  },
+  {
+   "id": 98,
+   "category": "Trademark / Copyright / IP",
+   "service": "Trademark Search",
+   "seed": "Trademark Search",
+   "status": "Partial",
+   "our_url": "/trademark-registration-delhi/"
+  },
+  {
+   "id": 99,
+   "category": "Trademark / Copyright / IP",
+   "service": "Trademark Class Selection",
+   "seed": "Trademark Class Selection",
+   "status": "Dedicated",
+   "our_url": "/trademark-renewal-restoration-class-guide/"
+  },
+  {
+   "id": 100,
+   "category": "Trademark / Copyright / IP",
+   "service": "Trademark Registration",
+   "seed": "Trademark Registration",
+   "status": "Dedicated",
+   "our_url": "/trademark-registration-delhi/"
+  },
+  {
+   "id": 101,
+   "category": "Trademark / Copyright / IP",
+   "service": "Trademark Objection Reply",
+   "seed": "Trademark Objection Reply",
+   "status": "Dedicated",
+   "our_url": "/trademark-objection-reply/"
+  },
+  {
+   "id": 102,
+   "category": "Trademark / Copyright / IP",
+   "service": "Trademark Hearing",
+   "seed": "Trademark Hearing",
+   "status": "Partial",
+   "our_url": "/trademark-objection-reply/"
+  },
+  {
+   "id": 103,
+   "category": "Trademark / Copyright / IP",
+   "service": "Trademark Opposition",
+   "seed": "Trademark Opposition",
+   "status": "Partial",
+   "our_url": "/trademark-objection-reply/"
+  },
+  {
+   "id": 104,
+   "category": "Trademark / Copyright / IP",
+   "service": "Trademark Rectification",
+   "seed": "Trademark Rectification",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 105,
+   "category": "Trademark / Copyright / IP",
+   "service": "Trademark Renewal",
+   "seed": "Trademark Renewal",
+   "status": "Dedicated",
+   "our_url": "/trademark-renewal-restoration-class-guide/"
+  },
+  {
+   "id": 106,
+   "category": "Trademark / Copyright / IP",
+   "service": "Trademark Assignment",
+   "seed": "Trademark Assignment",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 107,
+   "category": "Trademark / Copyright / IP",
+   "service": "Trademark Watch",
+   "seed": "Trademark Watch",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 108,
+   "category": "Trademark / Copyright / IP",
+   "service": "Madrid Protocol",
+   "seed": "Madrid Protocol",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 109,
+   "category": "Trademark / Copyright / IP",
+   "service": "Copyright Registration",
+   "seed": "Copyright Registration",
+   "status": "Dedicated",
+   "our_url": "/copyright-registration-india/"
+  },
+  {
+   "id": 110,
+   "category": "Trademark / Copyright / IP",
+   "service": "Patent Search",
+   "seed": "Patent Search",
+   "status": "Built",
+   "our_url": "/patent-design-registration-ip-infringement/"
+  },
+  {
+   "id": 111,
+   "category": "Trademark / Copyright / IP",
+   "service": "Provisional Patent Filing",
+   "seed": "Provisional Patent Filing",
+   "status": "Built",
+   "our_url": "/patent-design-registration-ip-infringement/"
+  },
+  {
+   "id": 112,
+   "category": "Trademark / Copyright / IP",
+   "service": "Complete Patent Filing",
+   "seed": "Complete Patent Filing",
+   "status": "Built",
+   "our_url": "/patent-design-registration-ip-infringement/"
+  },
+  {
+   "id": 113,
+   "category": "Trademark / Copyright / IP",
+   "service": "Design Registration",
+   "seed": "Design Registration",
+   "status": "Built",
+   "our_url": "/patent-design-registration-ip-infringement/"
+  },
+  {
+   "id": 114,
+   "category": "Trademark / Copyright / IP",
+   "service": "IP Infringement",
+   "seed": "IP Infringement",
+   "status": "Built",
+   "our_url": "/patent-design-registration-ip-infringement/"
+  },
+  {
+   "id": 115,
+   "category": "Trademark / Copyright / IP",
+   "service": "Cease & Desist Notice",
+   "seed": "Cease & Desist Notice",
+   "status": "Built",
+   "our_url": "/patent-design-registration-ip-infringement/"
+  },
+  {
+   "id": 116,
+   "category": "HR / Payroll / Labour",
+   "service": "Labour Code Compliance",
+   "seed": "Labour Code Compliance",
+   "status": "Dedicated",
+   "our_url": "/labour-code-compliance-epf-esic/"
+  },
+  {
+   "id": 117,
+   "category": "HR / Payroll / Labour",
+   "service": "EPF Registration",
+   "seed": "EPF Registration",
+   "status": "Dedicated",
+   "our_url": "/shop-act-epf-esic-noida/"
+  },
+  {
+   "id": 118,
+   "category": "HR / Payroll / Labour",
+   "service": "ESIC Registration",
+   "seed": "ESIC Registration",
+   "status": "Dedicated",
+   "our_url": "/shop-act-epf-esic-noida/"
+  },
+  {
+   "id": 119,
+   "category": "HR / Payroll / Labour",
+   "service": "Shop & Establishment Registration",
+   "seed": "Shop & Establishment Registration",
+   "status": "Dedicated",
+   "our_url": "/shop-act-registration-delhi/"
+  },
+  {
+   "id": 120,
+   "category": "HR / Payroll / Labour",
+   "service": "Factory Licence",
+   "seed": "Factory Licence",
+   "status": "Dedicated",
+   "our_url": "/factory-licence-osh-code-2026/"
+  },
+  {
+   "id": 121,
+   "category": "HR / Payroll / Labour",
+   "service": "Contract Labour Licence",
+   "seed": "Contract Labour Licence",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 122,
+   "category": "HR / Payroll / Labour",
+   "service": "Payroll Management",
+   "seed": "Payroll Management",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 123,
+   "category": "HR / Payroll / Labour",
+   "service": "Salary TDS",
+   "seed": "Salary TDS",
+   "status": "Partial",
+   "our_url": "/tds-return-filing/"
+  },
+  {
+   "id": 124,
+   "category": "HR / Payroll / Labour",
+   "service": "Labour Welfare Compliance",
+   "seed": "Labour Welfare Compliance",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 125,
+   "category": "HR / Payroll / Labour",
+   "service": "Gratuity Compliance",
+   "seed": "Gratuity Compliance",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 126,
+   "category": "HR / Payroll / Labour",
+   "service": "Bonus Compliance",
+   "seed": "Bonus Compliance",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 127,
+   "category": "HR / Payroll / Labour",
+   "service": "POSH Compliance",
+   "seed": "POSH Compliance",
+   "status": "Dedicated",
+   "our_url": "/posh-compliance-internal-committee/"
+  },
+  {
+   "id": 128,
+   "category": "HR / Payroll / Labour",
+   "service": "Minimum Wages Compliance",
+   "seed": "Minimum Wages Compliance",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 129,
+   "category": "HR / Payroll / Labour",
+   "service": "Employment Contracts",
+   "seed": "Employment Contracts",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 130,
+   "category": "HR / Payroll / Labour",
+   "service": "Labour Inspection Representation",
+   "seed": "Labour Inspection Representation",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 131,
+   "category": "HR / Payroll / Labour",
+   "service": "Labour Notice Reply",
+   "seed": "Labour Notice Reply",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 132,
+   "category": "HR / Payroll / Labour",
+   "service": "LIN / Shram Suvidha",
+   "seed": "LIN",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 132,
+   "category": "HR / Payroll / Labour",
+   "service": "LIN / Shram Suvidha",
+   "seed": "Shram Suvidha",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 133,
+   "category": "HR / Payroll / Labour",
+   "service": "Professional Tax",
+   "seed": "Professional Tax",
+   "status": "Partial",
+   "our_url": "/professional-tax-bihar/"
+  },
+  {
+   "id": 134,
+   "category": "Licences / Registrations / Certifications",
+   "service": "FSSAI Basic Registration",
+   "seed": "FSSAI Basic Registration",
+   "status": "Dedicated",
+   "our_url": "/fssai-license-consultant/"
+  },
+  {
+   "id": 135,
+   "category": "Licences / Registrations / Certifications",
+   "service": "FSSAI State Licence",
+   "seed": "FSSAI State Licence",
+   "status": "Dedicated",
+   "our_url": "/fssai-license-consultant/"
+  },
+  {
+   "id": 136,
+   "category": "Licences / Registrations / Certifications",
+   "service": "FSSAI Central Licence",
+   "seed": "FSSAI Central Licence",
+   "status": "Dedicated",
+   "our_url": "/fssai-license-consultant/"
+  },
+  {
+   "id": 137,
+   "category": "Licences / Registrations / Certifications",
+   "service": "FSSAI Annual Return",
+   "seed": "FSSAI Annual Return",
+   "status": "Partial",
+   "our_url": "/fssai-license-consultant/"
+  },
+  {
+   "id": 138,
+   "category": "Licences / Registrations / Certifications",
+   "service": "FSSAI Modification",
+   "seed": "FSSAI Modification",
+   "status": "Partial",
+   "our_url": "/fssai-license-consultant/"
+  },
+  {
+   "id": 139,
+   "category": "Licences / Registrations / Certifications",
+   "service": "AGMARK",
+   "seed": "AGMARK",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 140,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Trade Licence",
+   "seed": "Trade Licence",
+   "status": "Partial",
+   "our_url": "/health-trade-licence-delhi/"
+  },
+  {
+   "id": 141,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Health Trade Licence",
+   "seed": "Health Trade Licence",
+   "status": "Dedicated",
+   "our_url": "/health-trade-licence-delhi/"
+  },
+  {
+   "id": 142,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Udyam Registration",
+   "seed": "Udyam Registration",
+   "status": "Dedicated",
+   "our_url": "/msme-classification-2025-udyam-limits/"
+  },
+  {
+   "id": 143,
+   "category": "Licences / Registrations / Certifications",
+   "service": "IEC",
+   "seed": "IEC",
+   "status": "Dedicated",
+   "our_url": "/import-export-iec-dgft-consultant/"
+  },
+  {
+   "id": 144,
+   "category": "Licences / Registrations / Certifications",
+   "service": "ICEGATE Registration",
+   "seed": "ICEGATE Registration",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 145,
+   "category": "Licences / Registrations / Certifications",
+   "service": "RCMC",
+   "seed": "RCMC",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 146,
+   "category": "Licences / Registrations / Certifications",
+   "service": "APEDA Registration",
+   "seed": "APEDA Registration",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 147,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Spices Board Registration",
+   "seed": "Spices Board Registration",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 148,
+   "category": "Licences / Registrations / Certifications",
+   "service": "AEO Certification",
+   "seed": "AEO Certification",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 149,
+   "category": "Licences / Registrations / Certifications",
+   "service": "ISO Certification",
+   "seed": "ISO Certification",
+   "status": "Dedicated",
+   "our_url": "/iso-certification-consultant/"
+  },
+  {
+   "id": 150,
+   "category": "Licences / Registrations / Certifications",
+   "service": "BIS ISI Certification",
+   "seed": "BIS ISI Certification",
+   "status": "Dedicated",
+   "our_url": "/bis-certification-isi-crs/"
+  },
+  {
+   "id": 151,
+   "category": "Licences / Registrations / Certifications",
+   "service": "BIS CRS Registration",
+   "seed": "BIS CRS Registration",
+   "status": "Dedicated",
+   "our_url": "/bis-certification-isi-crs/"
+  },
+  {
+   "id": 152,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Hallmarking",
+   "seed": "Hallmarking",
+   "status": "Dedicated",
+   "our_url": "/bis-hallmark-registration-jewellers/"
+  },
+  {
+   "id": 153,
+   "category": "Licences / Registrations / Certifications",
+   "service": "GS1 Barcode",
+   "seed": "GS1 Barcode",
+   "status": "Dedicated",
+   "our_url": "/gs1-barcode-registration/"
+  },
+  {
+   "id": 154,
+   "category": "Licences / Registrations / Certifications",
+   "service": "LMPC Registration",
+   "seed": "LMPC Registration",
+   "status": "Dedicated",
+   "our_url": "/lmpc-legal-metrology-registration/"
+  },
+  {
+   "id": 155,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Drug Licence",
+   "seed": "Drug Licence",
+   "status": "Dedicated",
+   "our_url": "/drug-licence-retail-wholesale/"
+  },
+  {
+   "id": 156,
+   "category": "Licences / Registrations / Certifications",
+   "service": "CDSCO Registration",
+   "seed": "CDSCO Registration",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 157,
+   "category": "Licences / Registrations / Certifications",
+   "service": "AYUSH Licence",
+   "seed": "AYUSH Licence",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 158,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Fire NOC",
+   "seed": "Fire NOC",
+   "status": "Dedicated",
+   "our_url": "/fire-noc-delhi-ncr/"
+  },
+  {
+   "id": 159,
+   "category": "Licences / Registrations / Certifications",
+   "service": "PESO Licence",
+   "seed": "PESO Licence",
+   "status": "Dedicated",
+   "our_url": "/peso-license-consultant/"
+  },
+  {
+   "id": 160,
+   "category": "Licences / Registrations / Certifications",
+   "service": "PSARA Licence",
+   "seed": "PSARA Licence",
+   "status": "Dedicated",
+   "our_url": "/psara-licence-security-agency/"
+  },
+  {
+   "id": 161,
+   "category": "Licences / Registrations / Certifications",
+   "service": "RERA Registration",
+   "seed": "RERA Registration",
+   "status": "Partial",
+   "our_url": "/rera-agent-registration/"
+  },
+  {
+   "id": 162,
+   "category": "Licences / Registrations / Certifications",
+   "service": "NBFC / RBI Registration",
+   "seed": "NBFC",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 162,
+   "category": "Licences / Registrations / Certifications",
+   "service": "NBFC / RBI Registration",
+   "seed": "RBI Registration",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 163,
+   "category": "Licences / Registrations / Certifications",
+   "service": "IRDAI Registration",
+   "seed": "IRDAI Registration",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 164,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Halal Certification",
+   "seed": "Halal Certification",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 165,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Delhi Liquor Licence",
+   "seed": "Delhi Liquor Licence",
+   "status": "Dedicated",
+   "our_url": "/liquor-excise-license-delhi/"
+  },
+  {
+   "id": 166,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Eating House Licence",
+   "seed": "Eating House Licence",
+   "status": "Dedicated",
+   "our_url": "/eating-house-licence-delhi/"
+  },
+  {
+   "id": 167,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Lodging Licence",
+   "seed": "Lodging Licence",
+   "status": "Partial",
+   "our_url": "/health-trade-licence-delhi/"
+  },
+  {
+   "id": 168,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Police NOC",
+   "seed": "Police NOC",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 169,
+   "category": "Licences / Registrations / Certifications",
+   "service": "WPC Approval",
+   "seed": "WPC Approval",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 170,
+   "category": "Licences / Registrations / Certifications",
+   "service": "TEC Certification",
+   "seed": "TEC Certification",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 171,
+   "category": "Licences / Registrations / Certifications",
+   "service": "DoT Approval",
+   "seed": "DoT Approval",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 172,
+   "category": "Licences / Registrations / Certifications",
+   "service": "BEE Star Rating",
+   "seed": "BEE Star Rating",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 173,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Drone / DGCA Registration",
+   "seed": "Drone",
+   "status": "Dedicated",
+   "our_url": "/drone-registration-dgca-digital-sky/"
+  },
+  {
+   "id": 173,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Drone / DGCA Registration",
+   "seed": "DGCA Registration",
+   "status": "Dedicated",
+   "our_url": "/drone-registration-dgca-digital-sky/"
+  },
+  {
+   "id": 174,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Boiler / IBR Approval",
+   "seed": "Boiler",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 174,
+   "category": "Licences / Registrations / Certifications",
+   "service": "Boiler / IBR Approval",
+   "seed": "IBR Approval",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 175,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "PMFME Subsidy",
+   "seed": "PMFME Subsidy",
+   "status": "Dedicated",
+   "our_url": "/pmfme-subsidy-consultant/"
+  },
+  {
+   "id": 176,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "PMFME Bihar",
+   "seed": "PMFME Bihar",
+   "status": "Dedicated",
+   "our_url": "/pmfme-subsidy-bihar/"
+  },
+  {
+   "id": 177,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "PMFME 2.0",
+   "seed": "PMFME 2.0",
+   "status": "Dedicated",
+   "our_url": "/pmfme-2-0-update/"
+  },
+  {
+   "id": 178,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "MoFPI Schemes",
+   "seed": "MoFPI Schemes",
+   "status": "Partial",
+   "our_url": "/pmfme-subsidy-consultant/"
+  },
+  {
+   "id": 179,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "PMEGP",
+   "seed": "PMEGP",
+   "status": "Partial",
+   "our_url": "/msme-schemes/"
+  },
+  {
+   "id": 180,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "CGTMSE",
+   "seed": "CGTMSE",
+   "status": "Dedicated",
+   "our_url": "/cgtmse-collateral-free-loan-10-crore/"
+  },
+  {
+   "id": 181,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "ZED Certification",
+   "seed": "ZED Certification",
+   "status": "Partial",
+   "our_url": "/msme-schemes/"
+  },
+  {
+   "id": 182,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "CLCSS",
+   "seed": "CLCSS",
+   "status": "Partial",
+   "our_url": "/msme-schemes/"
+  },
+  {
+   "id": 183,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "PM Surya Ghar",
+   "seed": "PM Surya Ghar",
+   "status": "Dedicated",
+   "our_url": "/solar-subsidy-pm-surya-ghar/"
+  },
+  {
+   "id": 184,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "State Industrial Subsidies",
+   "seed": "State Industrial Subsidies",
+   "status": "Partial",
+   "our_url": "/biada-land-allotment-bihar-industrial-policy/"
+  },
+  {
+   "id": 185,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "GeM Registration",
+   "seed": "GeM Registration",
+   "status": "Dedicated",
+   "our_url": "/gem-registration-fees-documents/"
+  },
+  {
+   "id": 186,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "GeM Catalogue",
+   "seed": "GeM Catalogue",
+   "status": "Partial",
+   "our_url": "/gem-registration-fees-documents/"
+  },
+  {
+   "id": 187,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "GeM Vendor Assessment",
+   "seed": "GeM Vendor Assessment",
+   "status": "Partial",
+   "our_url": "/gem-registration-fees-documents/"
+  },
+  {
+   "id": 188,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "GeM Bidding",
+   "seed": "GeM Bidding",
+   "status": "Dedicated",
+   "our_url": "/gem-registration-tender-bidding/"
+  },
+  {
+   "id": 189,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "GeM Suspension",
+   "seed": "GeM Suspension",
+   "status": "Dedicated",
+   "our_url": "/gem-seller-suspension-dispute-resolution/"
+  },
+  {
+   "id": 190,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "GeM Dispute Resolution",
+   "seed": "GeM Dispute Resolution",
+   "status": "Dedicated",
+   "our_url": "/gem-seller-suspension-dispute-resolution/"
+  },
+  {
+   "id": 191,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "Government Tender Bidding",
+   "seed": "Government Tender Bidding",
+   "status": "Dedicated",
+   "our_url": "/emd-performance-security-gfr-170-171/"
+  },
+  {
+   "id": 192,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "Bihar Tenders",
+   "seed": "Bihar Tenders",
+   "status": "Dedicated",
+   "our_url": "/bihar-government-tenders/"
+  },
+  {
+   "id": 193,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "NSIC SPRS",
+   "seed": "NSIC SPRS",
+   "status": "Dedicated",
+   "our_url": "/nsic-single-point-registration/"
+  },
+  {
+   "id": 194,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "Works / Contractor Licence",
+   "seed": "Works",
+   "status": "Dedicated",
+   "our_url": "/bihar-contractor-registration-rwd-bcd/"
+  },
+  {
+   "id": 194,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "Works / Contractor Licence",
+   "seed": "Contractor Licence",
+   "status": "Dedicated",
+   "our_url": "/bihar-contractor-registration-rwd-bcd/"
+  },
+  {
+   "id": 195,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "BIADA",
+   "seed": "BIADA",
+   "status": "Dedicated",
+   "our_url": "/biada-land-allotment-bihar-industrial-policy/"
+  },
+  {
+   "id": 196,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "Bihar Industrial Incentives",
+   "seed": "Bihar Industrial Incentives",
+   "status": "Dedicated",
+   "our_url": "/biada-land-allotment-bihar-industrial-policy/"
+  },
+  {
+   "id": 197,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "MSME Samadhaan",
+   "seed": "MSME Samadhaan",
+   "status": "Partial",
+   "our_url": "/msme-classification-2025-udyam-limits/"
+  },
+  {
+   "id": 198,
+   "category": "Government Subsidy / GeM / Tender",
+   "service": "TReDS",
+   "seed": "TReDS",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 199,
+   "category": "Business Loans / CMA / DPR",
+   "service": "CMA Data",
+   "seed": "CMA Data",
+   "status": "Dedicated",
+   "our_url": "/cma-data-bankable-dpr-consultant/"
+  },
+  {
+   "id": 200,
+   "category": "Business Loans / CMA / DPR",
+   "service": "Bankable DPR",
+   "seed": "Bankable DPR",
+   "status": "Dedicated",
+   "our_url": "/cma-data-bankable-dpr-consultant/"
+  },
+  {
+   "id": 201,
+   "category": "Business Loans / CMA / DPR",
+   "service": "Term Loan",
+   "seed": "Term Loan",
+   "status": "Built",
+   "our_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "id": 202,
+   "category": "Business Loans / CMA / DPR",
+   "service": "Working Capital Loan",
+   "seed": "Working Capital Loan",
+   "status": "Built",
+   "our_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "id": 203,
+   "category": "Business Loans / CMA / DPR",
+   "service": "Cash Credit",
+   "seed": "Cash Credit",
+   "status": "Built",
+   "our_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "id": 204,
+   "category": "Business Loans / CMA / DPR",
+   "service": "OD Facility",
+   "seed": "OD Facility",
+   "status": "Built",
+   "our_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "id": 205,
+   "category": "Business Loans / CMA / DPR",
+   "service": "Mudra Loan",
+   "seed": "Mudra Loan",
+   "status": "Built",
+   "our_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "id": 206,
+   "category": "Business Loans / CMA / DPR",
+   "service": "Stand-Up India Loan",
+   "seed": "Stand-Up India Loan",
+   "status": "Built",
+   "our_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "id": 207,
+   "category": "Business Loans / CMA / DPR",
+   "service": "ECLGS",
+   "seed": "ECLGS",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 208,
+   "category": "Business Loans / CMA / DPR",
+   "service": "NABARD Projects",
+   "seed": "NABARD Projects",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 209,
+   "category": "Business Loans / CMA / DPR",
+   "service": "Loan Rejection Review",
+   "seed": "Loan Rejection Review",
+   "status": "Built",
+   "our_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "id": 210,
+   "category": "Business Loans / CMA / DPR",
+   "service": "Loan Resubmission",
+   "seed": "Loan Resubmission",
+   "status": "Built",
+   "our_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "id": 211,
+   "category": "Business Loans / CMA / DPR",
+   "service": "Share Valuation",
+   "seed": "Share Valuation",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 212,
+   "category": "Business Loans / CMA / DPR",
+   "service": "Startup Funding Documentation",
+   "seed": "Startup Funding Documentation",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 213,
+   "category": "Business Loans / CMA / DPR",
+   "service": "Financial Projections",
+   "seed": "Financial Projections",
+   "status": "Partial",
+   "our_url": "/cma-data-bankable-dpr-consultant/"
+  },
+  {
+   "id": 214,
+   "category": "Import Export / DGFT",
+   "service": "IEC Registration",
+   "seed": "IEC Registration",
+   "status": "Dedicated",
+   "our_url": "/import-export-iec-dgft-consultant/"
+  },
+  {
+   "id": 215,
+   "category": "Import Export / DGFT",
+   "service": "IEC Annual Update",
+   "seed": "IEC Annual Update",
+   "status": "Dedicated",
+   "our_url": "/iec-registration-annual-update/"
+  },
+  {
+   "id": 216,
+   "category": "Import Export / DGFT",
+   "service": "Advance Authorisation",
+   "seed": "Advance Authorisation",
+   "status": "Dedicated",
+   "our_url": "/advance-authorisation-epcg-consultant/"
+  },
+  {
+   "id": 217,
+   "category": "Import Export / DGFT",
+   "service": "SION",
+   "seed": "SION",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 218,
+   "category": "Import Export / DGFT",
+   "service": "Norms Fixation",
+   "seed": "Norms Fixation",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 219,
+   "category": "Import Export / DGFT",
+   "service": "EODC",
+   "seed": "EODC",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 220,
+   "category": "Import Export / DGFT",
+   "service": "EPCG",
+   "seed": "EPCG",
+   "status": "Dedicated",
+   "our_url": "/advance-authorisation-epcg-consultant/"
+  },
+  {
+   "id": 221,
+   "category": "Import Export / DGFT",
+   "service": "Export Obligation Compliance",
+   "seed": "Export Obligation Compliance",
+   "status": "Partial",
+   "our_url": "/import-export-iec-dgft-consultant/"
+  },
+  {
+   "id": 222,
+   "category": "Import Export / DGFT",
+   "service": "RoDTEP",
+   "seed": "RoDTEP",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 223,
+   "category": "Import Export / DGFT",
+   "service": "RoSCTL",
+   "seed": "RoSCTL",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 224,
+   "category": "Import Export / DGFT",
+   "service": "Duty Drawback",
+   "seed": "Duty Drawback",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 225,
+   "category": "Import Export / DGFT",
+   "service": "AD Code Registration",
+   "seed": "AD Code Registration",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 226,
+   "category": "Import Export / DGFT",
+   "service": "Port Registration",
+   "seed": "Port Registration",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 227,
+   "category": "Import Export / DGFT",
+   "service": "Customs Coordination",
+   "seed": "Customs Coordination",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 228,
+   "category": "Import Export / DGFT",
+   "service": "SEZ Unit Setup",
+   "seed": "SEZ Unit Setup",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 229,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "Pollution CTE",
+   "seed": "Pollution CTE",
+   "status": "Dedicated",
+   "our_url": "/pollution-noc-environmental-clearance/"
+  },
+  {
+   "id": 230,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "Pollution CTO",
+   "seed": "Pollution CTO",
+   "status": "Dedicated",
+   "our_url": "/pollution-noc-environmental-clearance/"
+  },
+  {
+   "id": 231,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "Environmental Clearance",
+   "seed": "Environmental Clearance",
+   "status": "Dedicated",
+   "our_url": "/pollution-noc-environmental-clearance/"
+  },
+  {
+   "id": 232,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "EIA",
+   "seed": "EIA",
+   "status": "Partial",
+   "our_url": "/pollution-noc-environmental-clearance/"
+  },
+  {
+   "id": 233,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "Hazardous Waste Authorization",
+   "seed": "Hazardous Waste Authorization",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 234,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "Biomedical Waste Authorization",
+   "seed": "Biomedical Waste Authorization",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 235,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "EPR Plastic",
+   "seed": "EPR Plastic",
+   "status": "Dedicated",
+   "our_url": "/epr-registration/"
+  },
+  {
+   "id": 236,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "EPR E-Waste",
+   "seed": "EPR E-Waste",
+   "status": "Dedicated",
+   "our_url": "/epr-registration/"
+  },
+  {
+   "id": 237,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "EPR Battery",
+   "seed": "EPR Battery",
+   "status": "Dedicated",
+   "our_url": "/epr-registration/"
+  },
+  {
+   "id": 238,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "EPR Tyre",
+   "seed": "EPR Tyre",
+   "status": "Dedicated",
+   "our_url": "/epr-registration/"
+  },
+  {
+   "id": 239,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "CGWA Groundwater NOC",
+   "seed": "CGWA Groundwater NOC",
+   "status": "Dedicated",
+   "our_url": "/cgwa-groundwater-noc/"
+  },
+  {
+   "id": 240,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "Land Conversion",
+   "seed": "Land Conversion",
+   "status": "Dedicated",
+   "our_url": "/land-conversion-clu-consultant/"
+  },
+  {
+   "id": 241,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "CLU",
+   "seed": "CLU",
+   "status": "Dedicated",
+   "our_url": "/land-conversion-clu-consultant/"
+  },
+  {
+   "id": 242,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "IEM Registration",
+   "seed": "IEM Registration",
+   "status": "Partial",
+   "our_url": "/industrial-approvals-single-window-consultant/"
+  },
+  {
+   "id": 243,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "NSWS",
+   "seed": "NSWS",
+   "status": "Partial",
+   "our_url": "/industrial-approvals-single-window-consultant/"
+  },
+  {
+   "id": 244,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "State Single Window Approval",
+   "seed": "State Single Window Approval",
+   "status": "Dedicated",
+   "our_url": "/industrial-approvals-single-window-consultant/"
+  },
+  {
+   "id": 245,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "Solar Net Metering",
+   "seed": "Solar Net Metering",
+   "status": "Dedicated",
+   "our_url": "/solar-subsidy-pm-surya-ghar/"
+  },
+  {
+   "id": 246,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "PPA",
+   "seed": "PPA",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 247,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "ESG",
+   "seed": "ESG",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 248,
+   "category": "Environment / Land / Energy / Industrial",
+   "service": "BRSR",
+   "seed": "BRSR",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 249,
+   "category": "NGO / Trust / CSR",
+   "service": "Trust Registration",
+   "seed": "Trust Registration",
+   "status": "Dedicated",
+   "our_url": "/ngo-trust-12a-80g-fcra-registration/"
+  },
+  {
+   "id": 250,
+   "category": "NGO / Trust / CSR",
+   "service": "Society Registration",
+   "seed": "Society Registration",
+   "status": "Dedicated",
+   "our_url": "/ngo-registration-patna/"
+  },
+  {
+   "id": 251,
+   "category": "NGO / Trust / CSR",
+   "service": "12A / 12AB Registration",
+   "seed": "12A",
+   "status": "Dedicated",
+   "our_url": "/ngo-trust-12a-80g-fcra-registration/"
+  },
+  {
+   "id": 251,
+   "category": "NGO / Trust / CSR",
+   "service": "12A / 12AB Registration",
+   "seed": "12AB Registration",
+   "status": "Dedicated",
+   "our_url": "/ngo-trust-12a-80g-fcra-registration/"
+  },
+  {
+   "id": 252,
+   "category": "NGO / Trust / CSR",
+   "service": "80G Registration",
+   "seed": "80G Registration",
+   "status": "Dedicated",
+   "our_url": "/ngo-trust-12a-80g-fcra-registration/"
+  },
+  {
+   "id": 253,
+   "category": "NGO / Trust / CSR",
+   "service": "FCRA Registration",
+   "seed": "FCRA Registration",
+   "status": "Dedicated",
+   "our_url": "/fcra-registration-renewal/"
+  },
+  {
+   "id": 254,
+   "category": "NGO / Trust / CSR",
+   "service": "CSR-1",
+   "seed": "CSR-1",
+   "status": "Partial",
+   "our_url": "/section-8-company-registration/"
+  },
+  {
+   "id": 255,
+   "category": "NGO / Trust / CSR",
+   "service": "NGO Darpan",
+   "seed": "NGO Darpan",
+   "status": "Partial",
+   "our_url": "/ngo-trust-12a-80g-fcra-registration/"
+  },
+  {
+   "id": 256,
+   "category": "NGO / Trust / CSR",
+   "service": "Form 10BD",
+   "seed": "Form 10BD",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 257,
+   "category": "NGO / Trust / CSR",
+   "service": "Form 10BE",
+   "seed": "Form 10BE",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 258,
+   "category": "NGO / Trust / CSR",
+   "service": "NGO Annual Compliance",
+   "seed": "NGO Annual Compliance",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 259,
+   "category": "NGO / Trust / CSR",
+   "service": "NGO Audit",
+   "seed": "NGO Audit",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 260,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Departmental Representation",
+   "seed": "Departmental Representation",
+   "status": "Dedicated",
+   "our_url": "/regulatory-affairs-departmental-representation/"
+  },
+  {
+   "id": 261,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Show Cause Notice Reply",
+   "seed": "Show Cause Notice Reply",
+   "status": "Partial",
+   "our_url": "/gst-notice-reply/"
+  },
+  {
+   "id": 262,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "CBSE School Affiliation",
+   "seed": "CBSE School Affiliation",
+   "status": "Dedicated",
+   "our_url": "/school-affiliation-consultant/"
+  },
+  {
+   "id": 263,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "CISCE School Affiliation",
+   "seed": "CISCE School Affiliation",
+   "status": "Partial",
+   "our_url": "/school-affiliation-consultant/"
+  },
+  {
+   "id": 264,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "DoE School Approval",
+   "seed": "DoE School Approval",
+   "status": "Partial",
+   "our_url": "/school-affiliation-consultant/"
+  },
+  {
+   "id": 265,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Delhi Nursery Admission Guidance",
+   "seed": "Delhi Nursery Admission Guidance",
+   "status": "Dedicated",
+   "our_url": "/delhi-school-admissions/"
+  },
+  {
+   "id": 266,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Founders Agreement",
+   "seed": "Founders Agreement",
+   "status": "Built",
+   "our_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "id": 267,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Shareholders Agreement",
+   "seed": "Shareholders Agreement",
+   "status": "Built",
+   "our_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "id": 268,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Partnership Agreement",
+   "seed": "Partnership Agreement",
+   "status": "Partial",
+   "our_url": "/partnership-firm-registration-patna-gurugram/"
+  },
+  {
+   "id": 269,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "NDA",
+   "seed": "NDA",
+   "status": "Built",
+   "our_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "id": 270,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Employment Agreement",
+   "seed": "Employment Agreement",
+   "status": "Built",
+   "our_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "id": 271,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Vendor Agreement",
+   "seed": "Vendor Agreement",
+   "status": "Built",
+   "our_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "id": 272,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Rent Agreement",
+   "seed": "Rent Agreement",
+   "status": "Built",
+   "our_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "id": 273,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Lease Agreement",
+   "seed": "Lease Agreement",
+   "status": "Built",
+   "our_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "id": 274,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "E-Stamping",
+   "seed": "E-Stamping",
+   "status": "Built",
+   "our_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "id": 275,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Website Terms & Conditions",
+   "seed": "Website Terms & Conditions",
+   "status": "Built",
+   "our_url": "/dpdp-act-compliance-privacy-policy/"
+  },
+  {
+   "id": 276,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Privacy Policy",
+   "seed": "Privacy Policy",
+   "status": "Built",
+   "our_url": "/dpdp-act-compliance-privacy-policy/"
+  },
+  {
+   "id": 277,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "DPDP Compliance",
+   "seed": "DPDP Compliance",
+   "status": "Built",
+   "our_url": "/dpdp-act-compliance-privacy-policy/"
+  },
+  {
+   "id": 278,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Legal Notice",
+   "seed": "Legal Notice",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 279,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Cheque Bounce Matters",
+   "seed": "Cheque Bounce Matters",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 280,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Accounting",
+   "seed": "Accounting",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 281,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Virtual CFO",
+   "seed": "Virtual CFO",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 282,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "FEMA Compliance",
+   "seed": "FEMA Compliance",
+   "status": "Partial",
+   "our_url": "/indian-subsidiary-registration-foreign-company/"
+  },
+  {
+   "id": 283,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "RBI Compliance",
+   "seed": "RBI Compliance",
+   "status": "Partial",
+   "our_url": "/liaison-branch-office-india/"
+  },
+  {
+   "id": 284,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "FC-GPR",
+   "seed": "FC-GPR",
+   "status": "Partial",
+   "our_url": "/indian-subsidiary-registration-foreign-company/"
+  },
+  {
+   "id": 285,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "FLA Return",
+   "seed": "FLA Return",
+   "status": "Partial",
+   "our_url": "/indian-subsidiary-registration-foreign-company/"
+  },
+  {
+   "id": 286,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "ODI Compliance",
+   "seed": "ODI Compliance",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 287,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Due Diligence",
+   "seed": "Due Diligence",
+   "status": "GAP",
+   "our_url": ""
+  },
+  {
+   "id": 288,
+   "category": "Regulatory / Legal / Advisory",
+   "service": "Business Plan",
+   "seed": "Business Plan",
+   "status": "GAP",
+   "our_url": ""
+  }
+ ]
+}

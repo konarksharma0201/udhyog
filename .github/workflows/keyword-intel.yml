@@ -1,0 +1,54 @@
+name: Keyword intelligence (free autosuggest + SERP)
+on:
+  workflow_dispatch:
+    inputs:
+      suggest_budget_min: { description: 'Autosuggest time budget (minutes)', default: '30' }
+      serp_max:           { description: 'Max SERP lookups', default: '200' }
+      serp_budget_min:    { description: 'SERP time budget (minutes)', default: '45' }
+  schedule:
+    - cron: '30 21 * * 6'   # Sunday 03:00 IST
+permissions:
+  contents: write
+concurrency:
+  group: keyword-intel
+  cancel-in-progress: false
+jobs:
+  intel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 140
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q ddgs beautifulsoup4 lxml
+      - name: Run keyword intelligence
+        timeout-minutes: 120
+        env:
+          SUGGEST_BUDGET_MIN: ${{ github.event.inputs.suggest_budget_min || '35' }}
+          SERP_MAX: ${{ github.event.inputs.serp_max || '200' }}
+          SERP_BUDGET_MIN: ${{ github.event.inputs.serp_budget_min || '45' }}
+        run: python scripts/keyword_intel.py
+      - name: Upload full detail (private artifact — contains competitor domains)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: keyword-intel-full
+          path: intel/
+          retention-days: 60
+          if-no-files-found: ignore
+      - name: Commit sanitised report (retry on race)
+        if: always()
+        run: |
+          git config user.name "intel-bot"; git config user.email "intel-bot@users.noreply.github.com"
+          git add seo/keyword-intel.json seo/keyword-intel.md
+          git commit -m "keyword-intel: $(date -u +%F) sanitised report" || { echo "nothing to commit"; exit 0; }
+          for i in 1 2 3 4 5 6; do
+            git fetch origin main
+            git rebase -X theirs origin/main || { git rebase --abort; git reset --hard origin/main; git checkout -- . ; echo "rebase failed"; exit 1; }
+            git push origin main && exit 0
+            sleep $((RANDOM % 25 + 5))
+          done
+          exit 1
+      - name: Summary
+        if: always()
+        run: head -60 seo/keyword-intel.md >> "$GITHUB_STEP_SUMMARY" || true
