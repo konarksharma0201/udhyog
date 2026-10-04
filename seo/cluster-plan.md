@@ -1,4 +1,4 @@
-# Udyog Growth — Keyword Cluster Plan (v1, 4 Oct 2026)
+# Udyog Growth — Keyword Cluster Plan (v2, 4 Oct 2026 — first-15 list complete; 85 pages)
 
 Source: `seo/keyword-map.json` (72 pages, 17 clusters, 519 FAQ long-tail keywords, 391 H2 topics) and `seo/cluster-gaps.json` (service × city matrix, 39 gaps).
 
@@ -11,16 +11,16 @@ Source: `seo/keyword-map.json` (72 pages, 17 clusters, 519 FAQ long-tail keyword
 ## Pillar → spokes (✓ exists · ○ to build · — not worth a page)
 | Pillar | Sub-topic spokes | City spokes |
 |---|---|---|
-| GST notice reply | ASMT-10 ✓ · DRC-01C ✓ · first 48 hrs ✓ · GSTAT ✓ · e-way bill detention ○ · refund/LUT ○ · cancellation/revocation ○ | Delhi ✓ Noida ✓ Gurugram ✓ Faridabad ✓ Ghaziabad ✓ Patna ✓ Bihar ✓ |
-| FSSAI | by business type (cloud kitchen, restaurant, manufacturer, importer, home kitchen) ○ · AGMARK ✓(section) | Delhi ✓ Noida ✓ Gurugram ✓ Faridabad ✓ Patna ✓ Ghaziabad ○ |
-| Company registration | Pvt Ltd vs LLP vs OPC ○ · conversion ○ · foreign subsidiary ○ · post-incorporation compliance ○ | Delhi ○ Noida ✓ Gurugram ✓ Faridabad ✓ Patna ✓ Ghaziabad ○ |
-| Shop Act / EPF / ESIC | Labour Code transition ✓(pillar) · factory licence ○ · contract labour ○ | Delhi ✓ Noida ✓ Gurugram+Faridabad ✓ Patna ○ |
-| Trademark | objection reply ○ · opposition ○ · renewal ○ · class guide ○ | Delhi ○ Noida ✓ Gurugram ✓ Faridabad ✓ Patna ✓ |
-| Income tax / TDS | notice 143(1)/139(9)/148 ○ · NRI ○ · capital gains ○ · TDS defaults ○ | Delhi ○ Noida ✓ Gurugram ✓ Faridabad ✓ Patna ✓ |
-| Pollution NOC / CTE-CTO | white-category exemption ○ · EPR ○ · CGWA ○ | Delhi/DPCC ✓(pillar) · Noida+Ghaziabad/UPPCB ○ · Gurugram+Faridabad/HSPCB ○ · Patna/BSPCB ○ |
+| GST notice reply | ASMT-10 ✓ · DRC-01C ✓ · first 48 hrs ✓ · GSTAT ✓ · e-way bill detention ✓ · refund/LUT ✓ · cancellation/revocation ○ | Delhi ✓ Noida ✓ Gurugram ✓ Faridabad ✓ Ghaziabad ✓ Patna ✓ Bihar ✓ |
+| FSSAI | by business type ✓ · AGMARK ✓(section) | Delhi ✓ Noida ✓ Gurugram ✓ Faridabad ✓ Patna ✓ Ghaziabad ○ |
+| Company registration | Pvt Ltd vs LLP vs OPC ✓ · conversion ○ · foreign subsidiary ○ · post-incorporation compliance ○ | Delhi ✓ Noida ✓ Gurugram ✓ Faridabad ✓ Patna ✓ Ghaziabad ○ |
+| Shop Act / EPF / ESIC | Labour Code transition ✓(pillar) · factory licence ○ · contract labour ○ | Delhi ✓ Noida ✓ Gurugram+Faridabad ✓ Patna ✓ |
+| Trademark | objection reply ✓ · opposition ✓(same page) · renewal ○ · class guide ○ | Delhi ○ Noida ✓ Gurugram ✓ Faridabad ✓ Patna ✓ |
+| Income tax / TDS | notice 143(1)/139(9)/148 ✓ · NRI ○ · capital gains ○ · TDS defaults ○ | Delhi ○ Noida ✓ Gurugram ✓ Faridabad ✓ Patna ✓ |
+| Pollution NOC / CTE-CTO | white-category exemption ○ · EPR ○ · CGWA ○ | Delhi/DPCC ✓(pillar) · Noida+Ghaziabad/UPPCB ✓ · Gurugram+Faridabad/HSPCB ✓ · Patna/BSPCB ✓ |
 | GeM & tenders | fees ✓ · suspension ✓ · Bihar ✓ · bid/RA strategy ○ | — (national) |
 | Udyam / MSME / loans | CGTMSE ○ · PMEGP ○ · Samadhaan ○ | — (national) |
-| PMFME | 2.0 update ✓ · DPR ✓(CMA page) · ODOP by state ○ | Bihar ○ (strong: PMFME volume) |
+| PMFME | 2.0 update ✓ · DPR ✓(CMA page) · ODOP by state ○ | Bihar ✓ |
 | Import-export | AA/EPCG ✓ · RoDTEP ○ · AD code ○ | — |
 | NGO / FCRA | 12A/80G ○ · FCRA renewal ○ · CSR-1 ○ | — |
 | Bihar | BIADA ✓ · Startup ✓ · tenders ✓ · contractor ✓(section) · Bihar PT ○ | — |
@@ -44,3 +44,7 @@ Source: `seo/keyword-map.json` (72 pages, 17 clusters, 519 FAQ long-tail keyword
 
 ## SERP notes (4 Oct 2026, pollution NOC × NCR)
 Top results are state-wise pages from national compliance platforms and one local Noida environmental firm. Recurring elements: CTE vs CTO at-a-glance table; red/orange/green/white category explainer; documents checklist; step process with timeline (UPPCB approval ~60–90 days; validity 5–10 years by category); state portal named; related approvals (fire NOC, CGWA borewell, ETP/STP); FAQ with schema. Gaps in top results: none mention the 2025 CPCB recategorisation / HSPCB white-category order; none name local industrial areas; none give a case; fees are vague. → Our spokes must include all recurring elements plus those four differentiators.
+
+
+## Status update (4 Oct 2026, evening)
+First-15 build list: all 15 done. Site: 85 pages, 178 services, 8 tools. Daily SERP tracker live (`reports/serp-status.md`). Remaining optional spokes: GST cancellation/revocation, trademark renewal/class guide, income-tax NRI/capital gains/TDS defaults, factory licence, contract labour, FCRA renewal, CSR-1, RoDTEP, AD code — build only when tracker/GSC data shows demand. Internal-link pass done: median 5 contextual inbound per page, 1 page below 3.
