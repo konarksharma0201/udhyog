@@ -468,7 +468,7 @@
       else if(liab==='high'&&comp==='min'){rec='Limited Liability Partnership (LLP)';why='Two or more owners who want limited liability with lighter annual compliance than a company: an LLP (Form 8 and Form 11 yearly) is the usual fit for professional and service firms.';}
       else if(liab==='high'){rec='Private Limited Company';why='Multiple owners, liability protection and comfort with ROC compliance: a Private Limited Company gives the most credibility with banks, large clients and government tenders.';}
       else {rec='Partnership Firm';why='Two or more owners, low-risk business, minimal compliance: a registered partnership deed is the simplest multi-owner structure. Move to LLP once contracts, credit or employees raise your exposure.';}
-      return '<strong>Recommended: '+rec+'</strong><br>'+why+'<br><em>This is a starting point, not advice \u2014 tax, funding plans and sector rules can change the answer.</em>'+cta('Hi, your structure quiz recommended a '+rec+' for me. Please help me register it.');
+      return '<strong>Recommended: '+rec+'</strong><br>'+why+'<br><em>This is a starting point, not advice \u2014 tax, funding plans and sector rules can change the answer. Full comparison: <a href="/pvt-ltd-vs-llp-vs-opc/">Pvt Ltd vs LLP vs OPC</a>.</em>'+cta('Hi, your structure quiz recommended a '+rec+' for me. Please help me register it.');
     },
     latefee:function(f){
       var ret=V(f,'ret'),turn=parseFloat(V(f,'turn')),nil=V(f,'nil')==='yes',days=parseInt(V(f,'days'),10),tax=parseFloat(V(f,'tax'))||0;
