@@ -46,6 +46,23 @@ def domain_type(host: str) -> str:
     if any(x in h for x in ["times", "hindustan", "ndtv", "business-standard", "economictimes", "pib.gov"]): return "news"
     return "local_or_other"
 
+def run_ddg_html(query: str):
+    """Last-resort fallback: parse DuckDuckGo's HTML endpoint directly."""
+    import html as H
+    u = "https://html.duckduckgo.com/html/?kl=in-en&q=" + urllib.parse.quote(query)
+    req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36", "Accept-Language": "en-IN,en;q=0.9"})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        page = r.read().decode("utf-8", "ignore")
+    out = []
+    for m in re.finditer(r'<a[^>]+class="result__a"[^>]+href="([^"]+)"[^>]*>(.*?)</a>', page, re.S):
+        href = H.unescape(m.group(1)); title = re.sub("<[^>]+>", "", H.unescape(m.group(2))).strip()
+        if "uddg=" in href:
+            href = urllib.parse.unquote(href.split("uddg=")[1].split("&")[0])
+        if href.startswith("http") and "duckduckgo.com" not in href:
+            out.append(dict(position=len(out)+1, url=href, title=title, snippet=""))
+        if len(out) >= 10: break
+    return out
+
 def run_ddgs(query: str, region="in-en", backend="bing"):
     from ddgs import DDGS
     last = None
@@ -60,6 +77,14 @@ def run_ddgs(query: str, region="in-en", backend="bing"):
             last = "timeout"
         except Exception as e:
             last = type(e).__name__
+    try:
+        res = with_timeout(lambda: run_ddg_html(query))
+        if res: return res, "ok-ddghtml"
+        last = "empty"
+    except _TO:
+        last = "timeout"
+    except Exception as e:
+        last = type(e).__name__
     return [], f"failed:{last}"
 
 def run_serpapi(query: str, location: str):
@@ -104,6 +129,10 @@ def main():
     random.Random(today).shuffle(panel_ids)           # rotate panel daily, deterministic per day
     panel_ids = set(panel_ids[:PANEL_SIZE]) if os.environ.get("SERPAPI_KEY") else set()
 
+    rotate = os.environ.get("SERP_ROTATE", "1") == "1"
+    if rotate and len(queries) > 80:
+        parity = datetime.date.today().toordinal() % 2
+        queries = [q for i, q in enumerate(queries) if i % 2 == parity]
     t0 = time.time()
     def save_partial():
         json.dump(run, open(f"{OUT}/{today}.json","w"), indent=1)
