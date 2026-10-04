@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04",
+ "generated": "2026-10-05",
  "queries": [
   {
    "query_id": "gst-notice__delhi",
@@ -980,6 +980,461 @@
    "city": "",
    "query": "Pollution NOC Patna & Bihar",
    "own_url": "/pollution-noc-patna-bihar/"
+  },
+  {
+   "query_id": "gst-returns__1",
+   "keyword_group": "gst-returns",
+   "city": "india",
+   "query": "GST return filing",
+   "own_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "query_id": "gst-returns__2",
+   "keyword_group": "gst-returns",
+   "city": "india",
+   "query": "GSTR-1 due date",
+   "own_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "query_id": "gst-returns__3",
+   "keyword_group": "gst-returns",
+   "city": "india",
+   "query": "GSTR-3B due date",
+   "own_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "query_id": "gst-returns__4",
+   "keyword_group": "gst-returns",
+   "city": "india",
+   "query": "QRMP scheme due dates",
+   "own_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "query_id": "gst-returns__5",
+   "keyword_group": "gst-returns",
+   "city": "india",
+   "query": "GSTR-9 GSTR-9C due date",
+   "own_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "query_id": "gst-returns__6",
+   "keyword_group": "gst-returns",
+   "city": "india",
+   "query": "GST return filing consultant Delhi",
+   "own_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "query_id": "gst-returns__7",
+   "keyword_group": "gst-returns",
+   "city": "india",
+   "query": "GST return filing Noida",
+   "own_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "query_id": "gst-returns__8",
+   "keyword_group": "gst-returns",
+   "city": "india",
+   "query": "GST return filing Gurugram",
+   "own_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "query_id": "gst-returns__9",
+   "keyword_group": "gst-returns",
+   "city": "india",
+   "query": "GST return filing Patna",
+   "own_url": "/gst-return-filing-gstr-1-gstr-3b-qrmp/"
+  },
+  {
+   "query_id": "gst-audit__1",
+   "keyword_group": "gst-audit",
+   "city": "india",
+   "query": "GST audit by department",
+   "own_url": "/gst-audit-assessment-dggi-health-check/"
+  },
+  {
+   "query_id": "gst-audit__2",
+   "keyword_group": "gst-audit",
+   "city": "india",
+   "query": "GST assessment notice reply",
+   "own_url": "/gst-audit-assessment-dggi-health-check/"
+  },
+  {
+   "query_id": "gst-audit__3",
+   "keyword_group": "gst-audit",
+   "city": "india",
+   "query": "DGGI summons what to do",
+   "own_url": "/gst-audit-assessment-dggi-health-check/"
+  },
+  {
+   "query_id": "gst-audit__4",
+   "keyword_group": "gst-audit",
+   "city": "india",
+   "query": "GST health check",
+   "own_url": "/gst-audit-assessment-dggi-health-check/"
+  },
+  {
+   "query_id": "gst-audit__5",
+   "keyword_group": "gst-audit",
+   "city": "india",
+   "query": "GST audit consultant Delhi",
+   "own_url": "/gst-audit-assessment-dggi-health-check/"
+  },
+  {
+   "query_id": "gst-audit__6",
+   "keyword_group": "gst-audit",
+   "city": "india",
+   "query": "GST DGGI notice consultant Patna",
+   "own_url": "/gst-audit-assessment-dggi-health-check/"
+  },
+  {
+   "query_id": "dpdp__1",
+   "keyword_group": "dpdp",
+   "city": "india",
+   "query": "DPDP Act compliance",
+   "own_url": "/dpdp-act-compliance-privacy-policy/"
+  },
+  {
+   "query_id": "dpdp__2",
+   "keyword_group": "dpdp",
+   "city": "india",
+   "query": "DPDP Rules 2025 deadline",
+   "own_url": "/dpdp-act-compliance-privacy-policy/"
+  },
+  {
+   "query_id": "dpdp__3",
+   "keyword_group": "dpdp",
+   "city": "india",
+   "query": "privacy policy DPDP India",
+   "own_url": "/dpdp-act-compliance-privacy-policy/"
+  },
+  {
+   "query_id": "dpdp__4",
+   "keyword_group": "dpdp",
+   "city": "india",
+   "query": "website terms and conditions India",
+   "own_url": "/dpdp-act-compliance-privacy-policy/"
+  },
+  {
+   "query_id": "dpdp__5",
+   "keyword_group": "dpdp",
+   "city": "india",
+   "query": "DPDP compliance consultant India",
+   "own_url": "/dpdp-act-compliance-privacy-policy/"
+  },
+  {
+   "query_id": "loans__1",
+   "keyword_group": "loans",
+   "city": "india",
+   "query": "Mudra loan categories",
+   "own_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "query_id": "loans__2",
+   "keyword_group": "loans",
+   "city": "india",
+   "query": "Tarun Plus Mudra loan",
+   "own_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "query_id": "loans__3",
+   "keyword_group": "loans",
+   "city": "india",
+   "query": "cash credit vs overdraft",
+   "own_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "query_id": "loans__4",
+   "keyword_group": "loans",
+   "city": "india",
+   "query": "working capital loan MSME",
+   "own_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "query_id": "loans__5",
+   "keyword_group": "loans",
+   "city": "india",
+   "query": "business loan rejected reasons",
+   "own_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "query_id": "loans__6",
+   "keyword_group": "loans",
+   "city": "india",
+   "query": "Mudra loan consultant Delhi",
+   "own_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "query_id": "loans__7",
+   "keyword_group": "loans",
+   "city": "india",
+   "query": "business loan consultant Patna",
+   "own_url": "/business-loan-mudra-working-capital-cash-credit/"
+  },
+  {
+   "query_id": "annual-roc__1",
+   "keyword_group": "annual-roc",
+   "city": "india",
+   "query": "AOC-4 due date",
+   "own_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "query_id": "annual-roc__2",
+   "keyword_group": "annual-roc",
+   "city": "india",
+   "query": "MGT-7 due date",
+   "own_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "query_id": "annual-roc__3",
+   "keyword_group": "annual-roc",
+   "city": "india",
+   "query": "ADT-1 due date",
+   "own_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "query_id": "annual-roc__4",
+   "keyword_group": "annual-roc",
+   "city": "india",
+   "query": "DPT-3 due date",
+   "own_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "query_id": "annual-roc__5",
+   "keyword_group": "annual-roc",
+   "city": "india",
+   "query": "MSME-1 due date",
+   "own_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "query_id": "annual-roc__6",
+   "keyword_group": "annual-roc",
+   "city": "india",
+   "query": "LLP Form 8 Form 11 due date",
+   "own_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "query_id": "annual-roc__7",
+   "keyword_group": "annual-roc",
+   "city": "india",
+   "query": "annual ROC filing consultant Delhi",
+   "own_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "query_id": "annual-roc__8",
+   "keyword_group": "annual-roc",
+   "city": "india",
+   "query": "annual ROC filing consultant Noida",
+   "own_url": "/company-annual-filing-aoc-4-mgt-7-adt-1/"
+  },
+  {
+   "query_id": "sole-prop__1",
+   "keyword_group": "sole-prop",
+   "city": "india",
+   "query": "sole proprietorship registration",
+   "own_url": "/sole-proprietorship-registration-udyam-gst/"
+  },
+  {
+   "query_id": "sole-prop__2",
+   "keyword_group": "sole-prop",
+   "city": "india",
+   "query": "sole proprietorship registration India online",
+   "own_url": "/sole-proprietorship-registration-udyam-gst/"
+  },
+  {
+   "query_id": "sole-prop__3",
+   "keyword_group": "sole-prop",
+   "city": "india",
+   "query": "proprietorship vs LLP vs private limited",
+   "own_url": "/sole-proprietorship-registration-udyam-gst/"
+  },
+  {
+   "query_id": "sole-prop__4",
+   "keyword_group": "sole-prop",
+   "city": "india",
+   "query": "sole proprietorship registration Delhi",
+   "own_url": "/sole-proprietorship-registration-udyam-gst/"
+  },
+  {
+   "query_id": "sole-prop__5",
+   "keyword_group": "sole-prop",
+   "city": "india",
+   "query": "sole proprietorship registration Patna",
+   "own_url": "/sole-proprietorship-registration-udyam-gst/"
+  },
+  {
+   "query_id": "public-ltd__1",
+   "keyword_group": "public-ltd",
+   "city": "india",
+   "query": "public limited company registration",
+   "own_url": "/public-limited-company-registration/"
+  },
+  {
+   "query_id": "public-ltd__2",
+   "keyword_group": "public-ltd",
+   "city": "india",
+   "query": "public limited company minimum members directors",
+   "own_url": "/public-limited-company-registration/"
+  },
+  {
+   "query_id": "public-ltd__3",
+   "keyword_group": "public-ltd",
+   "city": "india",
+   "query": "private to public company conversion INC-27",
+   "own_url": "/public-limited-company-registration/"
+  },
+  {
+   "query_id": "strike-off__1",
+   "keyword_group": "strike-off",
+   "city": "india",
+   "query": "company strike off STK-2",
+   "own_url": "/company-strike-off-llp-closure-winding-up/"
+  },
+  {
+   "query_id": "strike-off__2",
+   "keyword_group": "strike-off",
+   "city": "india",
+   "query": "LLP closure Form 24",
+   "own_url": "/company-strike-off-llp-closure-winding-up/"
+  },
+  {
+   "query_id": "strike-off__3",
+   "keyword_group": "strike-off",
+   "city": "india",
+   "query": "dormant company MSC-1",
+   "own_url": "/company-strike-off-llp-closure-winding-up/"
+  },
+  {
+   "query_id": "strike-off__4",
+   "keyword_group": "strike-off",
+   "city": "india",
+   "query": "NCLT revival struck off company",
+   "own_url": "/company-strike-off-llp-closure-winding-up/"
+  },
+  {
+   "query_id": "strike-off__5",
+   "keyword_group": "strike-off",
+   "city": "india",
+   "query": "company closure consultant Delhi",
+   "own_url": "/company-strike-off-llp-closure-winding-up/"
+  },
+  {
+   "query_id": "patent-design__1",
+   "keyword_group": "patent-design",
+   "city": "india",
+   "query": "patent filing process India",
+   "own_url": "/patent-design-registration-ip-infringement/"
+  },
+  {
+   "query_id": "patent-design__2",
+   "keyword_group": "patent-design",
+   "city": "india",
+   "query": "provisional patent application India",
+   "own_url": "/patent-design-registration-ip-infringement/"
+  },
+  {
+   "query_id": "patent-design__3",
+   "keyword_group": "patent-design",
+   "city": "india",
+   "query": "design registration India",
+   "own_url": "/patent-design-registration-ip-infringement/"
+  },
+  {
+   "query_id": "patent-design__4",
+   "keyword_group": "patent-design",
+   "city": "india",
+   "query": "cease and desist notice India",
+   "own_url": "/patent-design-registration-ip-infringement/"
+  },
+  {
+   "query_id": "patent-design__5",
+   "keyword_group": "patent-design",
+   "city": "india",
+   "query": "patent consultant Delhi",
+   "own_url": "/patent-design-registration-ip-infringement/"
+  },
+  {
+   "query_id": "agreements__1",
+   "keyword_group": "agreements",
+   "city": "india",
+   "query": "founders agreement India",
+   "own_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "query_id": "agreements__2",
+   "keyword_group": "agreements",
+   "city": "india",
+   "query": "shareholders agreement India",
+   "own_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "query_id": "agreements__3",
+   "keyword_group": "agreements",
+   "city": "india",
+   "query": "NDA agreement India",
+   "own_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "query_id": "agreements__4",
+   "keyword_group": "agreements",
+   "city": "india",
+   "query": "rent agreement stamp duty registration",
+   "own_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "query_id": "agreements__5",
+   "keyword_group": "agreements",
+   "city": "india",
+   "query": "lease agreement India",
+   "own_url": "/legal-agreements-nda-founders-shareholders-rent-lease/"
+  },
+  {
+   "query_id": "itr__1",
+   "keyword_group": "itr",
+   "city": "india",
+   "query": "ITR filing",
+   "own_url": "/itr-filing-forms-itr-1-to-itr-4-documents/"
+  },
+  {
+   "query_id": "itr__2",
+   "keyword_group": "itr",
+   "city": "india",
+   "query": "which ITR form to file",
+   "own_url": "/itr-filing-forms-itr-1-to-itr-4-documents/"
+  },
+  {
+   "query_id": "itr__3",
+   "keyword_group": "itr",
+   "city": "india",
+   "query": "belated return last date",
+   "own_url": "/itr-filing-forms-itr-1-to-itr-4-documents/"
+  },
+  {
+   "query_id": "itr__4",
+   "keyword_group": "itr",
+   "city": "india",
+   "query": "income tax refund not received",
+   "own_url": "/itr-filing-forms-itr-1-to-itr-4-documents/"
+  },
+  {
+   "query_id": "itr__5",
+   "keyword_group": "itr",
+   "city": "india",
+   "query": "ITR filing consultant Delhi",
+   "own_url": "/itr-filing-forms-itr-1-to-itr-4-documents/"
+  },
+  {
+   "query_id": "itr__6",
+   "keyword_group": "itr",
+   "city": "india",
+   "query": "ITR filing Patna",
+   "own_url": "/itr-filing-forms-itr-1-to-itr-4-documents/"
+  },
+  {
+   "query_id": "itr__7",
+   "keyword_group": "itr",
+   "city": "india",
+   "query": "ITR filing Noida",
+   "own_url": "/itr-filing-forms-itr-1-to-itr-4-documents/"
   }
  ]
 }
