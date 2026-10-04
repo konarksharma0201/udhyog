@@ -342,3 +342,7 @@ input,textarea,.callbar a,.contact-box a[href^="tel:"]{-webkit-user-select:text;
 .sitemap-list .path{display:block;font-size:.76rem;color:var(--muted);font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
 h2 small{font-weight:600;color:var(--muted);font-size:.8em}
 @media (max-width:640px){.sitemap-list{columns:1}}
+.doclist{columns:2;column-gap:28px;margin:10px 0 6px 18px;font-size:.93rem}
+.doclist li{break-inside:avoid;margin-bottom:6px}
+p.small{font-size:.84rem;color:var(--muted);margin-top:0}
+@media (max-width:640px){.doclist{columns:1}}
