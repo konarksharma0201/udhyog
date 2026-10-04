@@ -4,13 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Free Compliance Tools — FSSAI, Shop Act, MSME, DIR-3 KYC</title>
-<meta name="description" content="Seven free 2026-rule tools: FSSAI licence finder, Shop Act checker, MSME classifier, DIR-3 KYC date, structure quiz, GST late-fee calculator, .ics calendar.">
+<meta name="description" content="Eight free 2026-rule tools: FSSAI licence finder, Shop Act checker, MSME classifier, DIR-3 KYC date, structure quiz, GST late-fee calculator, .ics calendar.">
 <link rel="canonical" href="https://udyoggrowth.com/tools/">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Udyog Growth">
 <meta property="og:title" content="Free Compliance Tools — FSSAI, Shop Act, MSME, DIR-3 KYC">
-<meta property="og:description" content="Seven free 2026-rule tools: FSSAI licence finder, Shop Act checker, MSME classifier, DIR-3 KYC date, structure quiz, GST late-fee calculator, .ics calendar.">
+<meta property="og:description" content="Eight free 2026-rule tools: FSSAI licence finder, Shop Act checker, MSME classifier, DIR-3 KYC date, structure quiz, GST late-fee calculator, .ics calendar.">
 <meta property="og:url" content="https://udyoggrowth.com/tools/">
 <meta property="og:image" content="https://udyoggrowth.com/assets/og/tools.png">
 <meta name="twitter:card" content="summary_large_image">
@@ -144,7 +144,7 @@
 </script><nav class="wrap crumbs" aria-label="Breadcrumb"><a href="/">Home</a> / Free Compliance Tools</nav>
 <main class="wrap"><article class="page">
 <h1>Free compliance tools — built on the 2026 rules</h1>
-<p class="qa"><strong>Quick answer:</strong> Seven calculators that run entirely in your browser (nothing is sent anywhere): which FSSAI licence you need under the 1 April 2026 tiers, whether your Noida / Gurugram / Faridabad / Delhi unit still needs a Shop &amp; Establishment registration, your Udyam category under the April 2025 limits, when your next DIR-3 KYC is due under the three-year cycle, which business structure fits you, your GST late fee and interest, and a compliance due-date calendar you can add to your phone. Rules as of 4 October 2026.</p>
+<p class="qa"><strong>Quick answer:</strong> Eight calculators that run entirely in your browser (nothing is sent anywhere): which FSSAI licence you need under the 1 April 2026 tiers, whether your Noida / Gurugram / Faridabad / Delhi unit still needs a Shop &amp; Establishment registration, your Udyam category under the April 2025 limits, when your next DIR-3 KYC is due under the three-year cycle, which business structure fits you, your GST late fee and interest, a compliance due-date calendar you can add to your phone, and a Labour Code wage-structure checker (50% rule, PF, ESIC, gratuity). Rules as of 4 October 2026.</p>
 
 <div class="hl"><strong>Why these exist:</strong> most online guides still show the old FSSAI slabs (₹12 lakh / ₹20 crore), the old annual DIR-3 KYC, and pre-amendment Shop Act thresholds. Each tool below encodes the current rule and tells you which authority or portal applies in your city. Results are guidance, not a legal opinion — call us before you file.</div>
 
@@ -307,6 +307,26 @@
 </form>
 </section>
 
+<section class="tool" id="wage-structure" aria-labelledby="t8h">
+<h2 id="t8h">8. Labour Code wage-structure checker (50% rule, PF, ESIC, gratuity)</h2>
+<form class="toolform" data-tool="wage">
+  <div class="row">
+    <label for="w_gross">Employee's total monthly remuneration (₹) — basic + DA + HRA + allowances, excluding employer PF/ESI and gratuity</label>
+    <input id="w_gross" name="gross" type="number" inputmode="numeric" min="0" placeholder="e.g. 40000">
+  </div>
+  <div class="row">
+    <label for="w_basic">Current basic + DA in the salary structure (₹)</label>
+    <input id="w_basic" name="basic" type="number" inputmode="numeric" min="0" placeholder="e.g. 14000">
+  </div>
+  <div class="row">
+    <label for="w_years">Completed years of service (for gratuity estimate; 0 if new)</label>
+    <input id="w_years" name="years" type="number" inputmode="numeric" min="0" value="0">
+  </div>
+  <button type="submit" class="btn-primary">Check my structure</button>
+  <output class="result" for="w_gross w_basic" aria-live="polite"></output>
+</form>
+</section>
+
 <h2>How we keep these accurate</h2>
 <table>
 <thead><tr><th>Tool</th><th>Rule source</th><th>Last verified</th></tr></thead>
@@ -317,6 +337,7 @@
 <tr><td>DIR-3 KYC checker</td><td>Companies (Appointment and Qualification of Directors) Amendment Rules — G.S.R. 943(E), effective 31 March 2026</td><td>4 Oct 2026</td></tr>
 <tr><td>GST late fee calculator</td><td>CGST Act s.47 and s.50; late-fee rationalisation notifications of June 2021 (turnover-linked caps) — interest 18% p.a. on tax paid late</td><td>4 Oct 2026</td></tr>
 <tr><td>Compliance calendar</td><td>Standard statutory due dates under GST, Income-tax, EPF/ESIC, Companies/LLP Acts and FSSAI; extensions notified from time to time are not reflected automatically</td><td>4 Oct 2026</td></tr>
+<tr><td>Wage-structure checker</td><td>Code on Wages 2019 s.2(y) (excluded allowances capped at 50% of total remuneration; excess added back), EPF Act (12% + 12%, statutory wage ceiling ₹15,000), ESI Act (wage ceiling ₹21,000; 0.75% + 3.25%), Payment of Gratuity / Code on Social Security (15/26 of wages per completed year) — Labour Codes in force from 21 Nov 2025</td><td>4 Oct 2026</td></tr>
 <tr><td>Structure quiz</td><td>Companies Act 2013 / LLP Act 2008 / Partnership Act 1932 — general guidance</td><td>4 Oct 2026</td></tr>
 </tbody>
 </table>
@@ -497,6 +518,22 @@
       ics.push('END:VCALENDAR');
       var url=URL.createObjectURL(new Blob([ics.join('\r\n')],{type:'text/calendar'}));
       return '<strong>'+ev.length+' due dates for FY '+fy+'-'+String(fy+1).slice(-2)+'</strong><p class="tool-cta"><a class="btn-primary" href="'+url+'" download="udyog-growth-compliance-calendar-FY'+fy+'.ics">Download .ics (Google / Apple / Outlook)</a></p><ul class="cal-list">'+rows+'</ul><em>Each event carries a 3-day-before reminder. Dates are the standard statutory ones; extensions notified for a specific period are not applied automatically.</em>'+cta('Hi, I built a compliance calendar on your site for FY '+fy+'-'+String(fy+1).slice(-2)+'. Can you handle these filings for me?');
+    },
+    wage:function(f){
+      var g=parseFloat(V(f,'gross')),b=parseFloat(V(f,'basic')),y=parseInt(V(f,'years'),10)||0;
+      if(isNaN(g)||g<=0||isNaN(b)||b<0){return '<strong>Enter total monthly remuneration and current basic + DA.</strong>';}
+      var minWage=Math.round(g*0.5);var wage=Math.max(b,minWage);var shortfall=Math.max(0,minWage-b);
+      var pfBase=Math.min(wage,15000);var pfEmp=Math.round(pfBase*0.12),pfEr=Math.round(pfBase*0.12);
+      var pfFullEmp=Math.round(wage*0.12);
+      var esi=g<=21000;var esiEmp=esi?Math.round(g*0.0075):0,esiEr=esi?Math.round(g*0.0325):0;
+      var grat=y>=5?Math.round(wage*15/26*y):0;
+      var out='<strong>'+(shortfall?'Your structure needs to change: ':'Your structure already meets the 50% rule: ')+'"wages" for this employee = '+inr(wage)+' per month</strong>';
+      if(shortfall){out+='<br>Under the Code on Wages, allowances excluded from "wages" cannot exceed 50% of total remuneration; the excess ('+inr(shortfall)+') is added back. Statutory PF, gratuity and leave encashment are computed on '+inr(wage)+', not on your current basic of '+inr(b)+'.';}
+      out+='<br><strong>EPF:</strong> statutory minimum on '+inr(pfBase)+' (ceiling ₹15,000) → employee '+inr(pfEmp)+' + employer '+inr(pfEr)+' per month'+(wage>15000?'; if you contribute on full wages, '+inr(pfFullEmp)+' each side':'')+'.';
+      out+='<br><strong>ESIC:</strong> '+(esi?'applicable (gross ≤ ₹21,000) → employee '+inr(esiEmp)+' + employer '+inr(esiEr)+' per month':'not applicable for this employee (gross above ₹21,000; the ₹30,000 ceiling you may have read about is not notified)')+'.';
+      out+='<br><strong>Gratuity:</strong> '+(y>=5?'accrued estimate '+inr(grat)+' ('+y+' years × 15/26 × '+inr(wage)+')':'accrues from 5 completed years at 15/26 of wages per year (≈ '+inr(Math.round(wage*15/26))+' per year on this structure)')+'.';
+      out+='<em>The 50% rule, EPF/ESIC thresholds and gratuity formula are statutory; state minimum-wage floors and your CTC policy sit on top. Rules in force from 21 November 2025 (Labour Codes); state rules are still being notified.</em>';
+      return out+cta('Hi, your wage-structure tool shows "wages" of '+inr(wage)+' for an employee on '+inr(g)+' gross'+(shortfall?' (shortfall '+inr(shortfall)+')':'')+'. Please review our payroll structure.');
     }
   };
 
