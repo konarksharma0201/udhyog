@@ -156,7 +156,17 @@ def main():
     json.dump(run, open(f"{OUT}/{today}.json","w"), indent=1)
     # diff vs previous
     prev_path = f"{OUT}/latest.json"; prev = json.load(open(prev_path)) if os.path.exists(prev_path) else None
-    json.dump(run, open(prev_path,"w"), indent=1)
+    # merge: keep previous results for queries not run today (rotation) and for queries that failed today
+    merged_q = list(run["queries"])
+    if prev:
+        pm = {q["query_id"]: q for q in prev["queries"]}
+        for i, q in enumerate(merged_q):
+            p = pm.get(q["query_id"])
+            if p and not q["status"].startswith("ok") and p.get("results"):
+                merged_q[i] = dict(p, carried_from=prev.get("date"), status=p["status"] + "+carried")
+        have = {q["query_id"] for q in merged_q}
+        merged_q += [dict(q, carried_from=q.get("carried_from") or prev.get("date")) for q in prev["queries"] if q["query_id"] not in have]
+    json.dump(dict(run, queries=merged_q), open(prev_path,"w"), indent=1)
     diff = {"date": today, "changes": []}
     if prev:
         pm = {q["query_id"]: q for q in prev["queries"]}
