@@ -334,3 +334,11 @@ input,textarea,.callbar a,.contact-box a[href^="tel:"]{-webkit-user-select:text;
 .cal-list li{break-inside:avoid;margin-bottom:4px}
 @media (max-width:640px){.cal-list{columns:1}}
 .verified{font-size:.82rem;color:var(--muted);margin:-6px 0 22px;padding-left:12px;border-left:3px solid var(--approve)}
+.sitemap-toc ul{list-style:none;margin:0 0 28px;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+.sitemap-toc a{display:inline-block;padding:6px 12px;border:1px solid var(--line);border-radius:999px;font-size:.84rem;text-decoration:none;color:var(--ink);background:var(--card)}
+.sitemap-toc a:hover,.sitemap-toc a:focus-visible{border-color:var(--approve)}
+.sitemap-list{list-style:none;margin:0 0 26px;padding:0;columns:2;column-gap:32px}
+.sitemap-list li{break-inside:avoid;padding:6px 0;border-bottom:1px dashed var(--line);font-size:.93rem}
+.sitemap-list .path{display:block;font-size:.76rem;color:var(--muted);font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+h2 small{font-weight:600;color:var(--muted);font-size:.8em}
+@media (max-width:640px){.sitemap-list{columns:1}}
