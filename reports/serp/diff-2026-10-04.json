@@ -2,1009 +2,75 @@
  "date": "2026-10-04",
  "changes": [
   {
-   "query_id": "gst-consultant__noida",
-   "new_entrants": [
-    "accountumindia.com/gst-consultant-in-noida",
-    "corpbiz.io/gst-consultant-noida",
-    "kyragst.com/trusted-gst-consultant-in-greater-noida",
-    "mlgassociates.in/"
-   ],
-   "dropouts": [
-    "kyragst.com/professional-gst-consultant-in-noida"
-   ]
-  },
-  {
-   "query_id": "trademark__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "delhitrademark.com/trademark-registration-in-ghaziabad",
-    "dir.indiamart.com/ghaziabad/trade-mark-consultant.html",
-    "justdial.com/Ghaziabad/Trademark-Registration-Consultants/nct-10491142",
-    "raagconsultants.co.in/trademark-registration-in-ghaziabad",
-    "shubhamanand.com/trademark-registration-ghaziabad",
-    "startupadvisers.in/trademark-consultants-in-ghaziabad-uttar-pradesh",
-    "trademarkregistrationindia.com/ghaziabad.php"
-   ]
-  },
-  {
-   "query_id": "gst-notice__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "accountssolution.co.in/delhi/gst-notice-reply-consultant.html",
-    "cafirmdelhi.in/resolve-gst-notices-delhi",
-    "gstnumber.com/gst-notice-reply-in-delhi",
-    "innovativetaxation.com/gst-notice-response-services",
-    "kyragst.com/gst-notice-reply-consultant-in-delhi",
-    "legalntaxindia.com/service/gst-consultancy-services",
-    "myconsultant.in/gst-notice-reply.php"
-   ]
-  },
-  {
-   "query_id": "shop-act__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "fastlegal.in/shops-establishment-registration/faridabad-town",
-    "haryana.com/how-to/shop-establishment-registration-haryana",
-    "incorpx.io/shop-and-establishment-act-registration-in-faridabad",
-    "indiafilings.com/shop-establishment-act-registration/faridabad",
-    "indiamart.com/proddetail/shop-and-establishment-registration-2857825204562.html",
-    "pvtltdcompany.in/shop-establishment-license-in-faridabad",
-    "raagconsultants.co.in/shop-and-establishment-license-registration-in-faridabad",
-    "taxless.in/shop-and-establishments-registration-in-faridabad",
-    "zerocorporates.com/shop-establishment-registration/faridabad"
-   ]
-  },
-  {
-   "query_id": "udyam__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "anishaassociates.com/services/udyam-msme-registration",
-    "incorpx.io/udyam-registration-in-patna",
-    "legal24by7.com/msme-registration/patna",
-    "patnaconsultant.com/udyam-registration-in-patna",
-    "pvtltdcompany.in/msme-registration-in-patna",
-    "webonlineca.com/page/udyam-aadhaar-msme/bihar/patna",
-    "yourskart.in/msme-udyam-registration-patna"
-   ]
-  },
-  {
-   "query_id": "gst-notice__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "cahemantgarg.com/gst-consultant-in-gurgaon",
-    "dmcgloballlp.com/gst-notice-reply-consultant-in-gurgaon",
-    "gstnumber.com/gst-notice-reply-in-gurugram",
-    "hemantgarg.com/gst-notice-consultant-gurugram",
-    "kyragst.com/gst-notice-reply-consultant-in-gurugram",
-    "kyragst.com/gst-notice-reply-consultant-near-me-gurugram",
-    "patronaccounting.com/gst-notice/gurugram"
-   ]
-  },
-  {
-   "query_id": "company-registration__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "apexjudicialservices.com/service/company-registration-consultant-in-noida",
-    "cadelhincr.com/ca-noida/company-registration",
-    "cadeoassociates.com/company-registration-in-noida",
-    "charteredhelp.com/company-registration-consultant",
-    "industax.com/company-registration-consultant-in-noida",
-    "justdial.com/Noida/Company-Registration-Consultants-in-Noida-Sector-62/nct-10919031",
-    "justdial.com/Noida/Company-Registration-Consultants/nct-10919031",
-    "onlinecorpserv.com/company-registration-in-noida.php",
-    "registeryourstartup.com/pages/company-registration-noida",
-    "tripathiarora.com/company-registration-consultants-in-noida"
-   ]
-  },
-  {
-   "query_id": "epf-esic__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "aayushmanassociates.com/esi-pf-consultant-faridabad.html",
-    "esipfconsultancy.com/",
-    "indiamart.com/jayaselection/esic-epf.html",
-    "indiamart.com/proddetail/epf-esic-consultant-2859695480812.html",
-    "jayaselection.com/esic-consultant.html",
-    "jayaselection.com/esic-epf.html",
-    "justdial.com/Faridabad/EPF-Registration-Consultants/nct-10393272",
-    "justdial.com/Faridabad/Provident-Fund-Registration-Consultants/nct-12376203",
-    "ompfconsultant.com/",
-    "pfesiconsultancy.com/"
-   ]
-  },
-  {
-   "query_id": "trademark__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "indiamart.com/proddetail/trademarks-registration-consultant-22317555355.html",
-    "ipx.co.in/trademark-registration/faridabad",
-    "jayaselection.com/national-trade-mark.html",
-    "justdial.com/Faridabad/Trademark-Consultants/nct-10491142",
-    "raagconsultants.co.in/trademark-registration-in-faridabad",
-    "startupadvisers.in/trademark-consultants-in-faridabad-haryana",
-    "trademarkregistrationindia.com/faridabad.php"
-   ]
-  },
-  {
-   "query_id": "pmfme__noida",
-   "query": "PMFME subsidy consultant Noida",
-   "from": 1,
-   "to": null
-  },
-  {
-   "query_id": "pmfme__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "infigo.co.in/noida/services/government-subsidies",
-    "narayanaconsultant.com/",
-    "pmfme.mofpi.gov.in/",
-    "pmfme.org/",
-    "subsidysolutions.in/",
-    "udyoggrowth.com/",
-    "udyoggrowth.com/pmfme-subsidy-consultant"
-   ]
-  },
-  {
-   "query_id": "gem__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "bidzprofessional.com/best-gem-registration-consultant-in-delhi-ncr",
-    "gemtenderservice.com/gem-consultant-delhi",
-    "mygemconsultant.com/",
-    "mygemconsultant.com/gem-consultancy",
-    "powerindiaservices.com/gem-registration",
-    "professionalutilities.com/gem-registration-consultants-in-delhi.php",
-    "tenderbuddy.in/",
-    "tendersontime.com/delhi-gem-services-registration-consultant",
-    "tendersontime.com/gem-services-registration-consultant",
-    "vedamode.com/"
-   ]
-  },
-  {
-   "query_id": "shop-act__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "apexjudicialservices.com/service/shop-establishment-registration-in-noida",
-    "charteredhelp.com/shop-and-establishment-registration",
-    "charteredhelp.com/trade-license-registration-in-noida",
-    "fssaiindia.in/blog/shop-registration/shops-and-establishments-labour-act-license-registration-consultants-in-noida",
-    "indiafilings.com/learn/uttar-pradesh-shops-and-establishment-registration",
-    "psrcompliance.com/shop-and-establishment-license",
-    "raagconsultants.co.in/shop-and-establishment-license-registration-in-noida"
-   ]
-  },
-  {
-   "query_id": "clu__faridabad",
-   "query": "land conversion CLU consultant Faridabad",
-   "from": 1,
-   "to": null
-  },
-  {
-   "query_id": "clu__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "bhavyaassociates.com/change-of-land-use-clu",
-    "epatwari.com/",
-    "jsr-associate.com/",
-    "justdial.com/Faridabad/Change-Land-Use-Certification-Consultants-in-Indra-Prastha-Colony/nct-12161621",
-    "justdial.com/Faridabad/Change-Land-Use-Certification-Consultants/nct-12161621",
-    "rapidconsulting.in/change-of-land-use-clu-consultant-in-haryana",
-    "udyoggrowth.com/land-conversion-clu-consultant"
-   ]
-  },
-  {
-   "query_id": "fssai__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "caonweb.com/services/fssai-registration/faridabad.php",
-    "fssaiindia.in/fssai-food-safety-license-registration-consultants-in/haryana/faridabad",
-    "fssailicenseindia.org/faridabad",
-    "justdial.com/Faridabad/Fssai-Consultants/nct-11240404",
-    "mrdxregulatory.com/fssai-license-faridabad",
-    "tanvithaassociates.com/city-services/2375/32/central-fssai-consultants-sector-30--faridabad",
-    "velcolegalindia.com/location/faridabad"
-   ]
-  },
-  {
-   "query_id": "trademark__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "arkmiplawfirm.com/trademark-registration-consultant-near-gurugram-district-court-tm-filing-experts",
-    "hemantgarg.com/trademark-filing-gurugram",
-    "hemantgarg.com/trademark-registration-gurugram",
-    "legal24by7.com/trademark-registration/gurugram",
-    "legalconsultantindia.com/service-details/trademark-registration-in-gurugram",
-    "legaleselawfirm.com/trademarks-registration",
-    "raagconsultants.co.in/trademark-registration-in-gurugram"
-   ]
-  },
-  {
-   "query_id": "gem__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "gemtenderservice.com/gem-consultant-noida",
-    "powerindiaservices.com/gem-registration",
-    "professionalutilities.com/gem-registration-in-noida.php",
-    "tender18.com/gem-consultant-registration-services/noida",
-    "tender18.com/gem-portal-services/noida",
-    "tendersontime.com/gem-services-registration-consultant",
-    "tendersontime.com/noida-gem-services-registration-consultant"
-   ]
-  },
-  {
-   "query_id": "clu__gurugram",
-   "query": "land conversion CLU consultant Gurugram",
-   "from": 4,
-   "to": null
-  },
-  {
-   "query_id": "clu__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "epatwari.com/",
-    "jsr-associate.com/",
-    "justdial.com/Gurgaon/Change-Land-Use-Certification-Consultants/nct-12161621",
-    "rapidconsulting.in/change-of-land-use-clu-consultant-in-haryana",
-    "realarch.in/",
-    "skdconsultant.com/",
-    "udyoggrowth.com/land-conversion-clu-consultant"
-   ]
-  },
-  {
-   "query_id": "iec__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "ghaziabad.idbf.in/export-import-consultancy",
-    "ieccodeindia.com/iec-ghaziabad",
-    "justdial.com/Ghaziabad/Import-Export-Code-Number-Consultants-in-Ghaziabad-Industrial-Area/nct-12154746",
-    "justdial.com/Ghaziabad/Import-Export-Code-Number-Consultants/nct-12154746",
-    "napmeridian.com/import-export-consultant/ghaziabad",
-    "raagconsultants.co.in/import-export-code-in-ghaziabad",
-    "shubhamanand.com/iec-code-registration-ghaziabad",
-    "shugam.com/iec-code-online-ghaziabad",
-    "startupclubindia.com/ghaziabad/import-export-code-registration.html",
-    "tanvithaassociates.com/city-services/4362/59/import-export-code-consultants-bagpat-road--ghaziabad"
-   ]
-  },
-  {
-   "query_id": "gem__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "justdial.com/Ghaziabad/Gem-Consultants/nct-12070033",
-    "navzan.com/gem-portal-consultant",
-    "professionalutilities.com/gem-registration-consultants-in-ghaziabad.php",
-    "startupclubindia.com/ghaziabad/gem-registration.html",
-    "tender-licence.com/gem-registration-ghaziabad",
-    "tender18.com/gem-consultant-registration-services/ghaziabad",
-    "tendersontime.com/ghaziabad-gem-services-registration-consultant"
-   ]
-  },
-  {
-   "query_id": "trademark__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "delhitrademark.com/trademark-registration-in-noida",
-    "dir.indiamart.com/noida/trade-mark-consultant.html",
-    "indiamart.com/proddetail/trademarks-registration-consultant-2851607223355.html",
-    "justdial.com/Noida/Trademark-Registration-Consultants/nct-10491142",
-    "mathurassociates.net/trade-mark-registration.html",
-    "psrcompliance.co.in/trademark-registration-services.html",
-    "psrcompliance.co.in/trademark-registration.html",
-    "raagconsultants.co.in/trademark-registration-in-noida",
-    "rspaindia.com/trademark-registration-noida.html",
-    "trademarkregistrationexperts.in/trademark-registration-in-noida"
-   ]
-  },
-  {
-   "query_id": "epf-esic__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "aayushmanassociates.com/esi-pf-consultant-noida.html",
-    "apexjudicialservices.com/service/pf-esic-consultant-in-noida",
-    "factorylicence.in/pf-esic-consultant-in-noida",
-    "justdial.com/Noida/EPF-Registration-Consultants/nct-10393272",
-    "justdial.com/Noida/Provident-Fund-Consultants-for-EPF-Registration/nct-10393272-att-busi10149",
-    "ompranjal.com/services.html",
-    "payroll.fastlegal.in/services/pf-esic-consultant-in-noida",
-    "pfesiconsultancy.com/",
-    "rapporthr.in/services/PF-ESI-Registration-Service",
-    "taxsupportindia.com/esic-pf-consultancy-services-in-noida"
-   ]
-  },
-  {
-   "query_id": "fssai__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "fssailicence.com/food-license-in-patna",
-    "fssailicenseconsultant.in/",
-    "fssailicenseindia.org/patna",
-    "fssaimitrapatna.co.in/",
-    "patnafssai.in/",
-    "raagconsultants.co.in/fssai-food-license-consultant-patna",
-    "velcolegalindia.com/location/patna"
-   ]
-  },
-  {
-   "query_id": "iec__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "dir.indiamart.com/gurgaon/export-import-code-number-services.html",
-    "filinglab.com/gurgaon/iec-registration",
-    "hemantgarg.com/iec-code-registration-gurugram",
-    "napmeridian.com/import-export-consultant/gurgaon",
-    "patronaccounting.com/iec-registration/gurugram",
-    "raagconsultants.co.in/import-export-code-in-gurugram",
-    "registerease.in/services/iec-registration/in/gurugram"
-   ]
-  },
-  {
-   "query_id": "itr-tds__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/know-your-jurisdictional-assessing-officer-jao",
-    "incometaxindia.gov.in/income-tax-office",
-    "justdial.com/Ghaziabad/Income-Tax-Consultants-in-Crossing-Republik/nct-10263305",
-    "ptd.wyo.gov/WEBDIST/pages/district-tax-codes",
-    "shubhamanand.com/income-tax-consultant-in-ghaziabad",
-    "sidhiandassociates.com/ghaziabad",
-    "vakilsearch.com/chartered-accountant-services"
-   ]
-  },
-  {
-   "query_id": "gem__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "gemconsultant.org/",
-    "gemtenderservice.com/gem-consultant-gurgaon",
-    "gemtenderservice.com/gem-consultant-haryana",
-    "navzan.com/gem-portal-consultant",
-    "professionalutilities.com/gem-registration-in-gurugram.php",
-    "tendersontime.com/gem-services-registration-consultant",
-    "tendersontime.com/gurgaon-gem-services-registration-consultant"
-   ]
-  },
-  {
-   "query_id": "clu__noida",
-   "query": "land conversion CLU consultant Noida",
-   "from": 1,
-   "to": null
-  },
-  {
-   "query_id": "clu__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "99acres.com/articles/change-of-land-use-in-noida.html",
-    "bhavyaventures.com/concept/greater-noida-clu-commercial-land-conversion-norms-for-agri-based-startup-government-scheme",
-    "jsr-associate.com/",
-    "justdial.com/Greater-Noida/Change-Land-Use-Certification-Consultants-in-Udyog-Vihar-Noida/nct-12161621",
-    "justdial.com/Noida/Change-Land-Use-Certification-Consultants-in-Sector-22-Block-H-Road-Noida-Sector-22/nct-12161621",
-    "rapidconsulting.in/change-in-land-use",
-    "udyoggrowth.com/land-conversion-clu-consultant"
-   ]
-  },
-  {
-   "query_id": "company-registration__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "anishaassociates.com/services/company-registration",
-    "ascgroup.in/company-business-registration-services-consultants-patna-india",
-    "dir.indiamart.com/patna/company-registration-consultant.html",
-    "justdial.com/Patna/Company-Registration-Consultants/nct-10919031",
-    "justdial.com/Patna/Registration-Consultants/nct-10572737",
-    "registrationconsultant.org/",
-    "registrationconsultant.org/about.html"
-   ]
-  },
-  {
-   "query_id": "company-registration__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "cadeoassociates.com/company-registration-in-ghaziabad",
-    "ghaziabad.idbf.in/in/184983/Company-Registration-Consultants",
-    "ghaziabadstartups.com/",
-    "justdial.com/Ghaziabad/Company-Formation-Consultants/nct-10891268",
-    "justdial.com/Ghaziabad/Company-Registration-Consultants/nct-10919031",
-    "legal24by7.com/company-registration/ghaziabad",
-    "m.indiamart.com/ghaziabad/company-registration-consultant.html",
-    "promptprofessionalservices.com/business-registration",
-    "raagconsultants.co.in/company-registration-in-ghaziabad",
-    "shubhamanand.com/company-registration-ghaziabad"
-   ]
-  },
-  {
-   "query_id": "ngo-12a-80g__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "dakorconsultancyservices.com/12a-80g-registration",
-    "enego.co.in/services/ngo-registration/gurugram",
-    "fintaxx.in/ngo-registration-consultant-in-gurugram-haryana",
-    "ngoconsultancy.org/",
-    "patronaccounting.com/80g-registration/gurugram",
-    "professionalutilities.com/12a-and-80g-registration/gurugram.php",
-    "raagconsultants.co.in/ngo-registration-in-gurugram"
-   ]
-  },
-  {
-   "query_id": "itr-tds__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "ggrcaindia.com/itr-filing",
-    "gkkediaandco.com/services/income-tax",
-    "guptataxconsultants.in/",
-    "itradda.com/itr-filing-service-in-delhi",
-    "justdial.com/Delhi/Income-Tax-Consultants/nct-10263305",
-    "moneycentric.in/income-tax-consultant",
-    "taxcraftedsolutions.com/income-tax-return"
-   ]
-  },
-  {
    "query_id": "fssai__delhi",
-   "new_entrants": [],
-   "dropouts": [
+   "new_entrants": [
     "fssaiindia.in/fssai-food-safety-license-registration-consultants-in/delhi",
     "fssailicense.net/",
-    "indiannexus.com/blog/fssai-license-consultants-in-delhi",
+    "justdial.com/Delhi/Fssai-Consultants/nct-11240404",
     "mrdxregulatory.com/fssai-license-delhi",
     "raagconsultants.co.in/fssai-food-license-consultant-delhi",
     "registrationconsultant.com/pages/fssai-license-consultants-in-delhi",
     "ruchitadang.com/service/fssai-registration"
-   ]
-  },
-  {
-   "query_id": "epf-esic__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "esiconsultant.co.in/",
-    "factorylicence.in/pf-esic-consultant-in-delhi",
-    "ompfconsultant.com/service/esic-pf-registration",
-    "pfesiadvisor.com/",
-    "pfesiconsultancy.com/pf-consultant-in-delhi",
-    "uhrcs.com/",
-    "workforce.org.in/esic-epf-registration-pf-advisor-consultant-near-me-in-delhi-ncr.aspx"
-   ]
-  },
-  {
-   "query_id": "udyam__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "e-startup.in/udyam-registration/haryana/gurugram",
-    "easykagaz.com/services/udyam-registration/gurugram",
-    "hemantgarg.com/msme-registration-gurugram",
-    "industax.com/msme-registration-consultant-in-gurugram",
-    "legal24by7.com/msme-registration/gurugram",
-    "raagconsultants.co.in/msme-registration-gurugram",
-    "startright4u.com/service/msme-registration-in-gurugram"
-   ]
-  },
-  {
-   "query_id": "udyam__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "clearlycomply.org/services/msme-registration/noida",
-    "industax.com/msme-registration-consultant-in-noida",
-    "mathurassociates.net/msme-registration.html",
-    "pvtltdcompany.in/msme-registration-in-noida",
-    "tanvithaassociates.com/city-services/4013/55/udyam-registration-certificate-consultants-noida",
-    "webonlineca.com/page/udyam-aadhaar-msme/uttar-pradesh/greater-noida",
-    "webonlineca.com/page/udyam-aadhaar-msme/uttar-pradesh/noida"
-   ]
-  },
-  {
-   "query_id": "pmfme__ghaziabad",
-   "query": "PMFME subsidy consultant Ghaziabad",
-   "from": 1,
-   "to": null
-  },
-  {
-   "query_id": "pmfme__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "aigriworks.com/",
-    "cred.fastlegal.in/project-report/scheme/pmfme/ghaziabad",
-    "infigo.co.in/ghaziabad/services/government-subsidies",
-    "justdial.com/Ghaziabad/PMFME-Consultants/nct-16284915",
-    "pmfme.mofpi.gov.in/",
-    "pmfme.org/",
-    "udyoggrowth.com/pmfme-subsidy-consultant"
-   ]
-  },
-  {
-   "query_id": "iec__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "consultease.com/expert/gstconsultant",
-    "dir.indiamart.com/faridabad/export-import-code-number-services.html",
-    "jcscertifications.com/importexport-code-consultant-in-faridabad",
-    "justdial.com/Faridabad/Export-Code-Consultants/nct-11157025",
-    "justdial.com/Faridabad/Iec-Code-Consultants/nct-12154746",
-    "raagconsultants.co.in/import-export-code-in-faridabad",
-    "tanvithaassociates.com/city-services/2401/59/import-export-code-consultants-sector-57--faridabad"
-   ]
-  },
-  {
-   "query_id": "udyam__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "accountssolution.co.in/ghaziabad/msme-registration.html",
-    "caashishrajput.com/services/msme-udyam-registration.html",
-    "e-startup.in/udyam-registration/uttar-pradesh/ghaziabad",
-    "pvtltdcompany.in/msme-registration-in-ghaziabad",
-    "raagconsultants.co.in/msme-registration-ghaziabad",
-    "startright4u.com/service/msme-registration-in-ghaziabad",
-    "webonlineca.com/page/udyam-aadhaar-msme/uttar-pradesh/ghaziabad"
-   ]
-  },
-  {
-   "query_id": "pollution-noc__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "alkomsynergy.com/pollution-control-consultants.html",
-    "clearlycomply.org/services/pollution-noc/pollution-noc-certificate/noida",
-    "dir.indiamart.com/noida/pollution-control-consultancy.html",
-    "drishticonsultancy.com/pollution-noc",
-    "psr-compliance.blogspot.com/2026/03/pollution-noc-in-uttar-pradesh-apply.html",
-    "psrcompliance.co.in/state-pollution-control-board-consent.html",
-    "psrcompliance.com/blog/pollution-noc-consultant-noida",
-    "psrcompliance.com/blog/pollution-noc-in-noida",
-    "shubhienviroindia.com/",
-    "shubhienviroindia.com/pollution-noc"
-   ]
-  },
-  {
-   "query_id": "iec__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "advraj.com/iec-registration",
-    "industax.com/import-export-code-registration-consultant-in-noida",
-    "jcscertifications.com/importexport-code-consultant-in-noida",
-    "justdial.com/Noida/Import-Export-Code-Number-Consultants/nct-12154746",
-    "justdial.com/Noida/Import-Export-Consultants/nct-10262513",
-    "napmeridian.com/import-export-consultant/noida",
-    "noidabn.com/export-consultant-in-noida"
-   ]
-  },
-  {
-   "query_id": "gst-consultant__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "apnataxconsultant.com/",
-    "bihartaxconsultant.com/",
-    "blinkdial.com/patna/gst-registration",
-    "caankur.com/contact",
-    "disytax.com/gst-consultant-patna-bihar",
-    "gst.bihar.in/",
-    "gst.bihar.in/gst-consultant-in-patna"
-   ]
-  },
-  {
-   "query_id": "company-registration__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "atulix.com/company-registration-gurugram.html",
-    "dir.indiamart.com/gurgaon/company-registration-consultant.html",
-    "filingbuddy.global/en-in/services/company-registration-gurugram",
-    "hemantgarg.com/business-registration-gurugram",
-    "hemantgarg.com/company-registration-gurugram",
-    "legal24by7.com/company-registration/gurugram",
-    "raagconsultants.co.in/company-registration-in-gurugram"
-   ]
-  },
-  {
-   "query_id": "udyam__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "accountssolution.co.in/faridabad/msme-registration.html",
-    "e-startup.in/udyam-registration/haryana/faridabad",
-    "easykagaz.com/services/udyam-registration/faridabad",
-    "indiabizstation.com/haryana/faridabad/msme-registration",
-    "nyayagrah.com/msme-registration/faridabad-city",
-    "pvtltdcompany.in/msme-registration-in-faridabad",
-    "raagconsultants.co.in/msme-registration-faridabad",
-    "servicesplus.in/service/udyam-registration-in-faridabad",
-    "taxclue.in/msme-udyam-registration-in-faridabad",
-    "yourlawplace.com/msme-faridabad.php"
-   ]
-  },
-  {
-   "query_id": "iec__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "gkkediaandco.com/services/import-export-consultancy",
-    "ieccode.in/import-export-consultant-in-delhi",
-    "justdial.com/Delhi/Import-Export-Code-Consultants/nct-11307101",
-    "justdial.com/Delhi/Import-Export-Code-Number-Consultants/nct-12154746",
-    "newcompanyregistrationdelhi.in/iec-code-consultant.htm",
-    "osganconsultants.com/Foreign-Trade-Policy/Import-Export-Code",
-    "zjell.com/product-page/best-import-export-consultant-delhi"
-   ]
-  },
-  {
-   "query_id": "gst-notice__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "incorpx.io/gst-notice-reply-in-faridabad",
-    "kanakkupillai.com/gst-notice-reply-service-in-faridabad",
-    "kyragst.com/gst-notice-reply-consultant-in-faridabad",
-    "kyragst.com/gst-notice-reply-consultant-sector-24-faridabad",
-    "myconsultant.in/gst-notice-reply.php",
-    "taxamc.com/article-gst-notice-reply-faridabad.html",
-    "taxlexindia.com/location/gst-consultant-in-faridabad.html"
-   ]
-  },
-  {
-   "query_id": "pmfme__delhi",
-   "query": "PMFME subsidy consultant Delhi",
-   "from": 2,
-   "to": null
-  },
-  {
-   "query_id": "pmfme__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "dsiidc.delhi.gov.in/pmfme",
-    "getsubsidyloan.in/pmfme-loan",
-    "pmfme.mofpi.gov.in/",
-    "pmfme.org/",
-    "satvikam.in/update/pmfme-consultant-delhi-satvikam-advisors",
-    "subsidysolutions.in/pmfme",
-    "udyoggrowth.com/pmfme-subsidy-consultant"
-   ]
-  },
-  {
-   "query_id": "ngo-12a-80g__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "enego.co.in/services/ngo-registration/ghaziabad",
-    "fintaxx.in/ngo-registration-consultant-in-ghaziabad-uttar-pradesh",
-    "globaltaxmanindia.com/services/12a-and-80g-registration-in-ghaziabad",
-    "indiafilings.com/12a-80g-registration/ghaziabad",
-    "mystartupsolution.in/fcra-and-80g-12a-registration-in-ghaziabad",
-    "ngoconsultancy.org/12a-80g-registration",
-    "ngoexperts.com/12a-and-80g-registration-in-ghaziabad",
-    "professionalutilities.com/12a-and-80g-registration/ghaziabad.php",
-    "raagconsultants.co.in/ngo-registration-in-ghaziabad",
-    "truexconsulting.com/services/12a-80g-registration"
-   ]
-  },
-  {
-   "query_id": "gst-notice__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "cadelhincr.com/ca-noida/gst-notice-reply",
-    "gstconsultants.net/gst-litigation-experts-handling-notices-appeals-tax-disputes",
-    "gstnumber.com/gst-notice-reply-in-noida",
-    "kyragst.com/gst-notice-reply-consultant-in-greater-noida",
-    "kyragst.com/gst-notice-reply-consultant-in-noida",
-    "ncagrawal.com/goods-service-tax-gst",
-    "sysj.in/gst-notice-consultant-noida"
-   ]
-  },
-  {
-   "query_id": "pmfme__faridabad",
-   "query": "PMFME subsidy consultant Faridabad",
-   "from": 3,
-   "to": null
-  },
-  {
-   "query_id": "pmfme__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "infigo.co.in/faridabad/services/government-subsidies",
-    "nexmoveadvisory.com/",
-    "pmfme.mofpi.gov.in/",
-    "pmfme.org/",
-    "pmfme.org/state-directory",
-    "subsidysolutions.in/pmfme",
-    "udyoggrowth.com/pmfme-subsidy-consultant"
-   ]
-  },
-  {
-   "query_id": "gst-consultant__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "dir.indiamart.com/ghaziabad/gst-consultant.html",
-    "gstandca.com/",
-    "gstconsultants.net/gst-registration-in-ghaziabad",
-    "kyragst.com/best-gst-consultant-in-ghaziabad",
-    "kyragst.com/trusted-gst-consultant-in-ghaziabad",
-    "promptprofessionalservices.com/",
-    "vvaindia.com/gst-consultant-in-ghaziabad"
-   ]
-  },
-  {
-   "query_id": "biada",
-   "new_entrants": [],
-   "dropouts": [
-    "bhartiavenue.com/biada-building-bihars-industrial-future",
-    "biada1.bihar.gov.in/ActRule.aspx",
-    "biada1.bihar.gov.in/pdf/IMG_57148435-98ba-4ef9-bb09-a4e2f74e7e84.pdf",
-    "bida.rajasthan.gov.in/content/raj/bida/en/Onlines/Allotment.html",
-    "biharchamber.org/images/helpdesk/BIADA.pdf",
-    "khabrimedia.com/bihar-news-biada-12-industrial-units-land-allotment-132-crore-investment",
-    "news4nation.com/bihar/patna/biada-pcc-meeting-approves-land-allotment-to-12-industrial-units-226549",
-    "patnapress.com/biada-allots-industrial-land-12-units-bihar-investment",
-    "scribd.com/document/48952641/Biada",
-    "timesofindia.indiatimes.com/city/patna/biada-approves-land-for-12-industrial-units/articleshow/134662717.cms"
-   ]
-  },
-  {
-   "query_id": "ngo-12a-80g__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "biharngoregistration.in/",
-    "ngoaaptak.com/",
-    "ngoaaptak.com/12a-and-80g-registration-in-patna-bihar",
-    "ngosuvidha.in/services/80g-registration-in-patna",
-    "ngotrust.in/ngo-registration-in-patna",
-    "raagconsultants.co.in/ngo-registration-in-patna",
-    "registrationconsultant.com/pages/80g-12a-registration-consultants-in-bihar"
-   ]
-  },
-  {
-   "query_id": "fssai__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "foodlicenseindia.com/fssai-food-license-registration-consultant-in-noida",
-    "fssaiconsult.com/fssai-license-noida",
-    "fssaiindia.in/fssai-food-safety-license-registration-consultants-in/uttar-pradesh/noida",
-    "fssailicenseindia.org/noida",
-    "psrcompliance.co.in/food-license-service.html",
-    "psrcompliance.co.in/fssai-licence-consultant.html",
-    "raagconsultants.co.in/fssai-food-license-consultant-noida"
-   ]
-  },
-  {
-   "query_id": "itr-tds__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "accura-consultants.com/tax-consultants-2",
-    "cahemantgarg.com/income-tax-consultant-in-gurgaon",
-    "finshark.in/income-tax-filing-gurugram",
-    "hemantgarg.com/income-tax-consultant-gurugram",
-    "hemantgarg.com/itr-filing-gurugram",
-    "itradda.com/itr-filing-consultant-in-gurugram",
-    "masterbrains.co.in/income-tax-consultant-in-gurugram"
-   ]
-  },
-  {
-   "query_id": "gst-notice__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "fintax24.in/services/gst-notice-reply/locations/uttar-pradesh/ghaziabad",
-    "incorpx.io/gst-notice-reply-in-ghaziabad",
-    "kanakkupillai.com/gst-notice-reply-service-in-ghaziabad",
-    "kyragst.com/gst-notice-reply-consultant-in-ghaziabad",
-    "kyragst.com/gst-notice-reply-consultant-near-me-ghaziabad",
-    "legaloutput.com/gst-consultant-ghaziabad",
-    "legaloutput.com/gst-notice-respondent-ghaziabad"
-   ]
-  },
-  {
-   "query_id": "itr-tds__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "dir.indiamart.com/faridabad/income-tax-consultant.html",
-    "justdial.com/Faridabad/Income-Tax-Consultants/nct-10263305",
-    "justdial.com/Faridabad/Tax-Return-Filing-Agents/nct-10977651",
-    "onlineincometaxreturn.com/places/faridabad.html",
-    "quickdials.com/faridabad/income-tax-consultants",
-    "sulekha.com/tax-return-services/faridabad",
-    "tax-eazy.com/income-tax-return-filing-faridabad"
-   ]
-  },
-  {
-   "query_id": "gst-consultant__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "cahemantgarg.com/gst-consultant-in-gurgaon",
-    "hemantgarg.com/gst-consultant-gurugram",
-    "jjfinancialconsultants.in/gst-consultant-in-gurgaon-gurugram",
-    "kyragst.com/professional-gst-consultant-in-gurugram",
-    "kyragst.com/top-gst-consultant-in-gurugram",
-    "newagetax.in/",
-    "rpsa.co.in/gst-consultant.html"
-   ]
-  },
-  {
-   "query_id": "gst-consultant__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "arassociates.tax/gst-consultant-delhi.html",
-    "capuneetbajaj.com/gst-consultant-delhi.php",
-    "dir.indiamart.com/delhi/gst-consultant.html",
-    "kyragst.com/professional-gst-consultant-in-delhi",
-    "legalntaxindia.com/service/gst-consultancy-services",
-    "marckenconsulting.com/gst-consultant-in-delhi",
-    "masterbrains.co.in/gst-consultant-in-delhi"
-   ]
-  },
-  {
-   "query_id": "pollution-noc__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "filinglab.com/ghaziabad/pollution-noc",
-    "heecpl.com/enviroment-consulting.php",
-    "indiamart.com/nityam-business-solutions-private-limited/pollution-control-services.html",
-    "justdial.com/Ghaziabad/Noc-Consultants/nct-10338438",
-    "justdial.com/Ghaziabad/Pollution-Control-Consultants/nct-10380535",
-    "psr-compliance.blogspot.com/2026/03/pollution-noc-online-in-ncr-complete.html",
-    "sagarncompany.com/contact-us"
-   ]
-  },
-  {
-   "query_id": "l17",
-   "query": "L-17 licence Delhi restaurant",
-   "from": 5,
-   "to": null
-  },
-  {
-   "query_id": "l17",
-   "new_entrants": [],
-   "dropouts": [
-    "calcguru.in/liquor-license-delhi",
-    "excise.delhi.gov.in/excise/grant-l-17-licence",
-    "excise.delhi.gov.in/excise/l17-l18-and-l19",
-    "grokipedia.com/page/L-17_and_L-18_licences",
-    "remindlegal.com/blog/l-17-licence-for-independent-restaurants-bars-in-delhi",
-    "restaurantcoach.in/restaurant-license-consultant-india",
-    "udyoggrowth.com/liquor-excise-license-delhi"
-   ]
-  },
-  {
-   "query_id": "shop-act__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "fcsfilings.com/shop-establishment-license-in-gurugram",
-    "incorpx.io/shop-and-establishment-act-registration-in-gurugram",
-    "managebiz.in/services/shop-act/gurgaon",
-    "patronaccounting.com/shop-act-registration/gurugram",
-    "raagconsultants.co.in/shop-and-establishment-license-registration-in-gurugram",
-    "startupfino.com/services/shop-and-establishment-registration-in-gurugram",
-    "zerocorporates.com/shop-establishment-registration/gurugram"
-   ]
-  },
-  {
-   "query_id": "clu__delhi",
-   "query": "land conversion CLU consultant Delhi",
-   "from": 1,
-   "to": null
-  },
-  {
-   "query_id": "clu__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "2bigha.ai/guides/delhi/clu-change-land-use-delhi-check-online",
-    "justdial.com/Delhi/Change-Land-Use-Certification-Consultants-in-P--T-Colony-Civil-Lines/nct-12161621",
-    "justdial.com/New+Delhi/Change-Land-Use-Certification-Consultants/nct-12161621",
-    "landsettles.com/clu.php",
-    "rapidconsulting.in/change-in-land-use",
-    "skdconsultant.com/change-of-land-use-clu",
-    "udyoggrowth.com/land-conversion-clu-consultant"
-   ]
-  },
-  {
-   "query_id": "shop-act__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "juststart.co.in/blog/delhi-shop-act-registration",
-    "labour.delhi.gov.in/labour/delhi-shops-act-1954",
-    "labour.delhi.gov.in/labour/ease-doing-business",
-    "labourcis.nic.in/",
-    "labourcis.nic.in/FSE01_Registration.asp",
-    "legalraasta.com/blog/shop-and-establishment-registration-in-delhi",
-    "sublimeconsulteam.com/shop-establishment-registration"
-   ]
-  },
-  {
-   "query_id": "trademark__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "balajicertification.com/trademark-registration",
-    "companyregistrationconsultant.com/trademark-registration",
-    "consultyourcounsel.com/services/trademark-registration-lawyers-in-delhi",
-    "delhitrademark.com/",
-    "dir.indiamart.com/delhi/trade-mark-consultant.html",
-    "justdial.com/Delhi/Trademark-Registration-Consultants/nct-10491142",
-    "kwatralegal.com/",
-    "marckenconsulting.com/trademark-consultant-delhi",
-    "registrationconsultant.com/pages/trademark-registration-consultants-delhi",
-    "unnaticonsultancy.com/services/trademark.html"
-   ]
-  },
-  {
-   "query_id": "clu__patna",
-   "query": "land conversion CLU consultant Patna",
-   "from": 1,
-   "to": null
-  },
-  {
-   "query_id": "clu__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "jsr-associate.com/",
-    "justdial.com/Patna/Change-Land-Use-Certification-Consultants/nct-12161621",
-    "justdial.com/Patna/Land-Use-Conversion-Services/nct-12123186",
-    "patnaconsultant.com/bihar-land-conversion",
-    "rapidconsulting.in/change-of-land-use-clu-consultant-in-haryana",
-    "skdconsultant.com/change-of-land-use-clu",
-    "udyoggrowth.com/land-conversion-clu-consultant"
-   ]
-  },
-  {
-   "query_id": "shop-act__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "ca4filings.com/our-services/shop-and-establishment-license-registration-in-ghaziabad",
-    "fastlegal.in/shops-establishment-registration/ghaziabad",
-    "fssaiindia.in/blog/shop-registration/shops-and-establishments-labour-act-license-registration-consultants-in-ghaziabad",
-    "indiafilings.com/learn/uttar-pradesh-shops-and-establishment-registration",
-    "raagconsultants.co.in/shop-and-establishment-license-registration-in-ghaziabad",
-    "tanvithaassociates.com/city-services/3992/37/shop-and-establishment-act-registration-ghaziabad",
-    "zerocorporates.com/shop-establishment-registration/ghaziabad"
-   ]
-  },
-  {
-   "query_id": "epf-esic__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "esipfconsultant.com/",
-    "girishchaudharyassociates.com/insights-media/pf-consultants-in-ghaziabad",
-    "globalhrsolutions.in/services/esic-epf-registration-ghaziabad",
-    "justdial.com/Ghaziabad/Provident-Fund-Consultants/nct-10393272",
-    "justdial.com/Ghaziabad/Provident-Fund-Registration-Consultants/nct-12376203",
-    "legalhubindia.com/pf-esi-consultant-in-ghaziabad",
-    "namanconsultant.com/"
-   ]
+   ],
+   "dropouts": []
   },
   {
    "query_id": "trademark__patna",
-   "new_entrants": [],
-   "dropouts": [
+   "new_entrants": [
     "anishaassociates.com/services/trademark-registration",
+    "bihartaxconsultant.com/trademark-registration-consultant-in-patna",
+    "delhitrademark.com/trademark-registration-in-patna",
     "exportersindia.com/patna/trade-mark-consultant.htm",
     "indiamart.com/proddetail/trademarks-registration-consultant-2859191568555.html",
+    "iptrademarkclinic.com/",
     "justdial.com/Patna/Trademark-Registration-Consultants/nct-10491142",
     "patnaconsultant.com/patna/trademark-registration-patna-bihar",
     "patnaconsultant.com/trademark-registration-in-patna",
     "raagconsultants.co.in/trademark-registration-in-patna"
-   ]
+   ],
+   "dropouts": []
   },
   {
-   "query_id": "dir3kyc",
-   "new_entrants": [],
-   "dropouts": [
-    "calcguru.in/dir-3-kyc",
-    "charteredhelp.com/mca-director-kyc-rules-2026",
-    "corplawupdates.in/updates/dir-3-kyc-web-2026-complete-guide",
-    "patronaccounting.com/blog/dir3-kyc-2026-triennial-rules-deadline",
-    "taxgarden.in/blog/dir-3-kyc-due-date-2026-india",
-    "taxguru.in/company-law/dir-3-kyc-amended-rules-fy-2026-27-era-director-compliance.html",
-    "taxguru.in/company-law/dir-3-kyc-changed-31-march-2026-files-trap-avoid.html"
-   ]
+   "query_id": "page__pmfme-subsidy-bihar",
+   "query": "PMFME Subsidy Consultant Bihar",
+   "from": null,
+   "to": 2
   },
   {
-   "query_id": "clu__ghaziabad",
-   "query": "land conversion CLU consultant Ghaziabad",
-   "from": 1,
-   "to": null
+   "query_id": "page__pmfme-subsidy-bihar",
+   "new_entrants": [
+    "findglocal.com/IN/Patna/103490211999451/PMFME-BIHAR",
+    "finraja.com/pmfme-subsidy-consultant",
+    "mofpi.gov.in/announcements/advertisement-notice-hiring-consultants-young-professionals-npmu-pmfme-scheme-mofpi",
+    "pmfme.mofpi.gov.in/",
+    "pmfme.org/",
+    "pmfme.org/state-directory",
+    "smeexperts.in/pmfme",
+    "subsidysolutions.in/pmfme",
+    "udyoggrowth.com/pmfme-subsidy-consultant",
+    "umsas.org.in/pmfme-recruitment"
+   ],
+   "dropouts": []
   },
   {
-   "query_id": "clu__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "bhavyaassociates.com/change-of-land-use-clu",
-    "jsr-associate.com/",
-    "jsr-associate.com/services.html",
-    "justdial.com/Ghaziabad/Change-Land-Use-Certification-Consultants-in-Pratap-Vihar-Sector-11/nct-12161621",
-    "justdial.com/Ghaziabad/Change-Land-Use-Certification-Consultants/nct-12161621",
-    "rapidconsulting.in/change-of-land-use-clu-consultant-in-haryana",
-    "udyoggrowth.com/land-conversion-clu-consultant"
-   ]
+   "query_id": "page__gst-notice-first-48-hours",
+   "new_entrants": [
+    "ca-asr.com/insights/gst-notice-48-hours",
+    "cmpatelandcompany.com/2026/07/13/gst-notice-drc-01-first-48-hours",
+    "digihunter.in/gst-notice-received-heres-what-to-do-complete-guide-2026",
+    "drshirishagrawal.com/blog/received-gst-notice-what-to-do",
+    "indiafilings.com/gst-notice/gst-notice-received-guide",
+    "mylegaladvice.in/gst-notice-received-what-to-do-complete-2026-guide",
+    "nareshpokala.in/blog/gst-notice-received-heres-exactly-what-to-do-first",
+    "taxaholicsadvisor.com/post/gst-notice-section-73-74-74a-reply-guide-india-2026",
+    "trustlinkindia.com/i-received-a-gst-notice-what-should-i-do-first",
+    "vizttax.com/insights/gst-notice-reply"
+   ],
+   "dropouts": []
   },
   {
    "query_id": "gst-consultant__faridabad",
-   "new_entrants": [],
-   "dropouts": [
+   "new_entrants": [
     "dir.indiamart.com/faridabad/gst-consultant.html",
     "jayaselection.com/",
     "kyragst.com/professional-gst-consultant-in-faridabad",
@@ -1014,335 +80,489 @@
     "taxlexindia.com/blog/gst-consultant-faridabad.html",
     "taxlexindia.com/location/gst-consultant-in-faridabad.html",
     "yellowpages.webindia123.com/d-py/Haryana/Faridabad/GST-Consultants-411/1",
-    "yellowpages.webindia123.com/d-py/Haryana/Faridabad/GST-Consultants-411/2"
-   ]
+    "yellowpages.webindia123.com/d-py/Haryana/Faridabad/GST-Consultants-411/4"
+   ],
+   "dropouts": []
   },
   {
-   "query_id": "ngo-12a-80g__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "enego.co.in/services/ngo-registration/faridabad",
-    "fintaxx.in/ngo-registration-consultant-in-faridabad-haryana",
-    "legalfidelity.com/12a-80g-registration-online/faridabad",
-    "professionalutilities.com/12a-and-80g-registration/faridabad.php",
-    "raagconsultants.co.in/ngo-registration-in-faridabad",
-    "startright4u.com/service/80g-and-12a-registration-in-faridabad",
-    "startupfino.com/services/12a-and-80g-registration-in-faridabad"
-   ]
+   "query_id": "iec__ghaziabad",
+   "new_entrants": [
+    "justdial.com/Ghaziabad/Import-Export-Code-Number-Consultants/nct-12154746",
+    "justdial.com/Ghaziabad/Import-Export-License-Consultants/nct-11307101",
+    "napmeridian.com/import-export-consultant/ghaziabad",
+    "raagconsultants.co.in/import-export-code-in-ghaziabad",
+    "shugam.com/iec-code-online-ghaziabad",
+    "startupclubindia.com/ghaziabad/import-export-code-registration.html",
+    "tanvithaassociates.com/city-services/4362/59/import-export-code-consultants-bagpat-road--ghaziabad"
+   ],
+   "dropouts": []
   },
   {
-   "query_id": "udyam__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "comtaxconsultants.in/services/licensing/msme",
-    "knvtaxconsultancy.com/services/msme-registration",
-    "mygemconsultant.com/msme-registration-in-delhi",
-    "nischaypartners.in/udyam-msme-registration-delhi",
-    "registrationconsultant.com/pages/msme-registration-consultants-in-delhi",
-    "varahii.com/udyam-msme-registration-consultant-in-new-delhi",
-    "webonlineca.com/page/udyam-aadhaar-msme/delhi/new-delhi"
-   ]
+   "query_id": "page__gem-registration-fees-documents",
+   "new_entrants": [
+    "bizfoc.com/gem-registration",
+    "corpseed.com/service/gem-registration",
+    "gem.gov.in/",
+    "professionalutilities.com/gem-registration.php",
+    "smfgindiacredit.com/knowledge-center/gem-registration-in-india.aspx",
+    "swcybernetics.in/guides/gem-portal-fees",
+    "tender18.com/blog-details/GeM-Registration-Fees-Charges-and-Documents-Required-in-2026"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "shop-act__faridabad",
+   "new_entrants": [
+    "fastlegal.in/shops-establishment-registration/faridabad-town",
+    "fintaxx.in/shop-and-establishment-registration-in-faridabad-haryana",
+    "incorpx.io/shop-and-establishment-act-registration-in-faridabad",
+    "indiafilings.com/shop-establishment-act-registration/faridabad",
+    "raagconsultants.co.in/shop-and-establishment-license-registration-in-faridabad",
+    "taxclue.in/blog/shop-establishment-registration-haryana",
+    "zerocorporates.com/shop-establishment-registration/faridabad"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "pmfme__gurugram",
+   "query": "PMFME subsidy consultant Gurugram",
+   "from": null,
+   "to": 1
+  },
+  {
+   "query_id": "pmfme__gurugram",
+   "new_entrants": [
+    "pmfme.mofpi.gov.in/",
+    "pmfme.org/state-directory",
+    "smeexperts.in/pmfme",
+    "subsidyguru.com/",
+    "subsidysolutions.in/",
+    "subsidysolutions.in/pmfme",
+    "udyoggrowth.com/pmfme-subsidy-consultant"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "gem__delhi",
+   "new_entrants": [
+    "bidzprofessional.com/best-gem-registration-consultant-in-delhi-ncr",
+    "gemtenderservice.com/gem-consultant-delhi",
+    "mygemconsultant.com/",
+    "powerindiaservices.com/gem-registration",
+    "professionalutilities.com/gem-registration-consultants-in-delhi.php",
+    "tender18.com/gem-portal-services/delhi",
+    "tenderbuddy.in/",
+    "tendersontime.com/delhi-gem-services-registration-consultant",
+    "tendersontime.com/gem-services-registration-consultant",
+    "vedamode.com/"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "page__eway-bill-detention-section-129",
+   "new_entrants": [
+    "csjigar.com/e-way-bill-penalty-detention-cases",
+    "ewaybillgst.gov.in/",
+    "ewaybillgst.gov.in/Reports/Detention.aspx",
+    "finin2min.com/articles/e-way-bill-detention-notice-documents-to-keep-ready.html",
+    "gstinapi.com/blog/e-way-bill-penalty-and-detention",
+    "learn.quicko.com/e-way-bill-portal-detention-report-form-ewb-04",
+    "noticereply.com/gst-eway-bill-notices.html",
+    "righttoinformation.wiki/practical-guides/gst-e-way-bill-vehicle-detention-penalty-notice-action",
+    "taxguru.in/goods-and-service-tax/e-way-bill-detention-confiscation-gstlatest.html",
+    "taxguru.in/goods-and-service-tax/vehicle-detention-gst-complete-guide-appeal-detention-refund.html"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "page__peso-license-consultant",
+   "new_entrants": [
+    "alphaengineerss.in/services-peso-license-consultant",
+    "fusioncomplianceservices.com/blog/peso-consultant",
+    "indiannexus.com/blog/peso-license-consultant",
+    "indiaxis.in/2025/12/17/peso-license-consultant",
+    "pesoconsultancy.com/about",
+    "pesoconsultant.com/peso-license-consultant-11219628.html",
+    "pesolicense.com/",
+    "pesolicense.com/peso-license-consultants",
+    "petrosives.com/",
+    "smcengineeringservices.com/peso-consultancy.html"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "gem__ghaziabad",
+   "new_entrants": [
+    "navzan.com/gem-portal-consultant",
+    "professionalutilities.com/gem-registration-consultants-in-ghaziabad.php",
+    "startupclubindia.com/ghaziabad/gem-registration.html",
+    "tender-licence.com/gem-registration-ghaziabad",
+    "tender18.com/gem-consultant-registration-services/ghaziabad",
+    "tendersontime.com/gem-services-registration-consultant",
+    "tendersontime.com/ghaziabad-gem-services-registration-consultant"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "shop-act__delhi",
+   "new_entrants": [
+    "juststart.co.in/blog/delhi-shop-act-registration",
+    "labour.delhi.gov.in/labour/delhi-shops-act-1954",
+    "labour.delhi.gov.in/labour/ease-doing-business",
+    "labourcis.nic.in/",
+    "labourcis.nic.in/FSE01_Registration.asp",
+    "legalraasta.com/blog/shop-and-establishment-registration-in-delhi",
+    "sublimeconsulteam.com/shop-establishment-registration"
+   ],
+   "dropouts": []
   },
   {
    "query_id": "gem__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "bidzprofessional.com/gem-portal-consultant-in-haryana",
+   "new_entrants": [
     "gemtenderservice.com/gem-consultant-faridabad",
     "gemtenderservice.com/gem-consultant-haryana",
     "justdial.com/Faridabad/Gem-Registration-Consultants/nct-12070033",
     "navzan.com/gem-portal-consultant",
     "sunlitesystems.com/faridabad.html",
-    "taxclue.in/gem-portal-registration-general-in-faridabad",
     "tender18.com/gem-consultant-registration-services/faridabad",
-    "tendersontime.com/faridabad-gem-services-registration-consultant",
-    "tendersontime.com/gem-services-registration-consultant"
-   ]
+    "tendersontime.com/faridabad-gem-services-registration-consultant"
+   ],
+   "dropouts": []
   },
   {
-   "query_id": "ngo-12a-80g__noida",
-   "new_entrants": [],
-   "dropouts": [
-    "agile-regulatory.com/ngo-trust-registration-service.html",
-    "enego.co.in/services/ngo-registration/noida",
-    "indiamart.com/proddetail/12a-and-80g-registration-consultant-2853988352697.html",
-    "indiamart.com/proddetail/12a-and-80g-registration-consultant-2857954952188.html",
-    "legalpapersindia.com/noida/12a-and-80g-registration",
-    "psrcompliance.co.in/ngo-registration.html",
-    "truexconsulting.com/services/12a-80g-registration"
-   ]
+   "query_id": "page__pollution-noc-noida-ghaziabad",
+   "new_entrants": [
+    "corpseed.com/service/uttar-pradesh-pollution-control-board",
+    "expressy.co.in/pollution-noc-online-in-ncr-complete-guide-for-noida-ghaziabad-gurgaon-delhi-2026",
+    "mathurassociates.net/noc-fire-pollution-32265.html",
+    "psrcompliance.com/blog/pollution-noc-in-noida",
+    "psrcompliance.com/uppcb-registration",
+    "uppcb.up.gov.in/en/page/no-objection-certificate",
+    "uppcb.up.gov.in/index.aspx"
+   ],
+   "dropouts": []
   },
   {
-   "query_id": "pmfme__patna",
-   "query": "PMFME subsidy consultant Patna",
-   "from": 2,
-   "to": null
+   "query_id": "iec__noida",
+   "new_entrants": [
+    "industax.com/import-export-code-registration-consultant-in-noida",
+    "jcscertifications.com/importexport-code-consultant-in-noida",
+    "justdial.com/Noida/Import-Export-Code-Number-Consultants/nct-12154746",
+    "justdial.com/Noida/Import-Export-Consultants/nct-10262513",
+    "noida.idbf.in/export-import-consultancy",
+    "noidabn.com/export-consultant-in-noida",
+    "upbusinessco.com/procurement-and-sourcing/import-export-consulting/noida"
+   ],
+   "dropouts": []
   },
   {
-   "query_id": "pmfme__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "findglocal.com/IN/Patna/103490211999451/PMFME-BIHAR",
-    "infigo.co.in/patna/services/government-subsidies",
-    "justdial.com/Patna/MSME-Subsidy-Consultants/nct-16115919",
+   "query_id": "page__gst-notice-reply",
+   "new_entrants": [
+    "advocategandhi.com/how-to-file-a-reply-to-a-gst-notice-online-step-by-step-guide",
+    "club4ca.com/formats/gst-format/reply-letter-format-to-gst-department",
+    "filingsuvidha.com/blogs/news/gst-notice-reply-format",
+    "gstverify.co.in/notice-ai",
+    "indiafilings.com/gst-notice/reply-to-a-gst-notice-online-stepbystep-guide",
+    "kanakkupillai.com/learn/gst-notice-reply-format",
+    "myhq.in/blog/virtual-office/gst-notice-reply-format"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "page__pmfme-subsidy-consultant",
+   "query": "PMFME Subsidy Consultant",
+   "from": null,
+   "to": 1
+  },
+  {
+   "query_id": "page__pmfme-subsidy-consultant",
+   "new_entrants": [
+    "aglobalconsulting.com/schemes",
+    "finraja.com/pmfme-subsidy-consultant",
+    "nexmoveadvisory.com/",
     "pmfme.mofpi.gov.in/",
     "pmfme.org/",
-    "pmfme.org/state-directory",
-    "subsidysolutions.in/",
-    "subsidysolutions.in/pmfme",
-    "udyoggrowth.com/pmfme-subsidy-consultant",
-    "umsas.org.in/pmfme-recruitment/index.php"
+    "pmfme.org/tools",
+    "udyoggrowth.com/pmfme-subsidy-consultant"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "page__cma-data-bankable-dpr-consultant",
+   "new_entrants": [
+    "etaxadv.com/project-report-cma.php",
+    "fortriskconsulting.com/",
+    "globalsharda.com/",
+    "goventureprojects.com/dpr-project-report-preparation",
+    "mahavay.com/services/project-reports",
+    "nexusdpr.com/",
+    "spenzanio.com/"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "pollution-noc__delhi",
+   "new_entrants": [
+    "biz-maestro.com/pollution-noc",
+    "drishticonsultancy.com/pollution-noc",
+    "greengenra.com/",
+    "linkedin.com/pulse/pollution-noc-delhi-ncr-cte-cto-process-2026-how-get-licence-goyal-ihorc",
+    "psrcompliance.co.in/dpcc-consent.html",
+    "psrcompliance.com/blog/pollution-noc-in-delhi-ncr-cte-cto-process",
+    "sagarncompany.com/pollution-control-consultant-in-delhi-ncr"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "clu__noida",
+   "query": "land conversion CLU consultant Noida",
+   "from": null,
+   "to": 1
+  },
+  {
+   "query_id": "clu__noida",
+   "new_entrants": [
+    "99acres.com/articles/change-of-land-use-in-noida.html",
+    "bhavyaventures.com/concept/greater-noida-clu-commercial-land-conversion-norms-for-agri-based-startup-government-scheme",
+    "jsr-associate.com/",
+    "justdial.com/Greater-Noida/Change-Land-Use-Certification-Consultants-in-Udyog-Vihar-Noida/nct-12161621",
+    "justdial.com/Noida/Change-Land-Use-Certification-Consultants-in-Sector-22-Block-H-Road-Noida-Sector-22/nct-12161621",
+    "rapidconsulting.in/change-in-land-use",
+    "udyoggrowth.com/land-conversion-clu-consultant"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "page__msme-schemes",
+   "new_entrants": [
+    "dcmsme.gov.in/SAMACHAR/MSMESchemebooklet2025-26.pdf",
+    "msme-scheme.com/",
+    "msme.gov.in/",
+    "msme.gov.in/offerings",
+    "msmeschemes.org/",
+    "my.msme.gov.in/MyMsme/Reg/Home.aspx",
+    "my.msme.gov.in/MyMsmeMob/MsmeScheme/MSME_Scheme.htm"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "page__iso-certification-consultant",
+   "new_entrants": [
+    "certbetter.com/iso-consultants-directory",
+    "encompassconsultants.com/",
+    "grokipedia.com/page/ISO_Certification_Experts",
+    "iso-consultants.us/",
+    "kaizenisoconsulting.com/",
+    "kellermanconsulting.com/iso-consulting",
+    "myisoconsultants.com/",
+    "shinecert.com/"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "gst-consultant__noida",
+   "new_entrants": [
+    "justax.in/locations/gst-consultant-noida",
+    "kyragst.com/professional-gst-consultant-in-noida"
+   ],
+   "dropouts": [
+    "accountumindia.com/gst-consultant-in-noida",
+    "charteredhelp.com/gst-consultant-in-noida",
+    "corpbiz.io/gst-consultant-noida",
+    "kyragst.com/trusted-gst-consultant-in-greater-noida",
+    "mlgassociates.in/"
    ]
   },
   {
-   "query_id": "ngo-12a-80g__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "filinglab.com/delhi/12a-80g-registration",
-    "fintaxadviser.com/services/12A-80G-registration-service",
-    "hlapl.com/ngo-12a-80g-registration",
-    "incorpx.io/12a-and-80g-registration-in-delhi",
-    "ngoexperts.com/12a-and-80g-registration-in-delhi",
-    "registrationconsultant.com/pages/80g-12a-registration-consultants-in-delhi",
-    "startupclubindia.com/12a-80g-registration.html"
-   ]
+   "query_id": "clu__delhi",
+   "query": "land conversion CLU consultant Delhi",
+   "from": null,
+   "to": 1
   },
   {
-   "query_id": "fssai__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "dir.indiamart.com/gurgaon/fssai-registration-service.html",
-    "foodlicenseindia.com/fssai-food-license-registration-consultant-in-gurugram",
-    "fssaiconsult.com/fssai-license-gurugram",
-    "fssaiindia.in/fssai-food-safety-license-registration-consultants-in/haryana/gurugram",
-    "hemantgarg.com/food-license-consultant-gurugram",
-    "hemantgarg.com/fssai-registration-gurugram",
-    "mrdxregulatory.com/fssai-license-gurugram"
-   ]
+   "query_id": "clu__delhi",
+   "new_entrants": [
+    "2bigha.ai/guides/delhi/clu-change-land-use-delhi-check-online",
+    "justdial.com/Delhi/Change-Land-Use-Certification-Consultants-in-P--T-Colony-Civil-Lines/nct-12161621",
+    "justdial.com/New+Delhi/Change-Land-Use-Certification-Consultants/nct-12161621",
+    "rapidconsulting.in/change-in-land-use",
+    "skdconsultant.com/about-us",
+    "skdconsultant.com/change-of-land-use-clu",
+    "udyoggrowth.com/land-conversion-clu-consultant"
+   ],
+   "dropouts": []
   },
   {
-   "query_id": "epf-esic__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "edps.in/blogs/pfesic-consultancy-in-gurugram-pf-esi-compliance-services",
-    "epfwala.com/pf-consultant-in-gurgaon",
-    "girishchaudharyassociates.com/insights-media/epf-consultant-in-gurugram",
-    "indiamart.com/p-f-esic-consultant-gurugram",
-    "oamhrconsultants.com/",
-    "oamhrconsultants.com/services/pf-esic-compliance",
-    "teamindiacompliance.com/"
-   ]
+   "query_id": "page__trademark-objection-reply",
+   "new_entrants": [
+    "calcguru.in/reply-to-trademark-objection",
+    "ipmitraindia.com/trademark-resources/trademark-objection-reply",
+    "legaltax.in/blogs/trademark-objection-reply-format",
+    "legaltax.in/blogs/trademark-objection-reply-format-2",
+    "psrcompliance.com/trademark-objection-reply",
+    "taxaj.com/learn/trademark-objection-reply-how-to-draft-a-winning-response",
+    "uspto.gov/trademarks/maintain/responding-office-actions"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "company-registration__noida",
+   "new_entrants": [
+    "apexjudicialservices.com/service/company-registration-consultant-in-noida",
+    "ascgroup.in/company-business-registration-services-consultants-noida-india",
+    "cadeoassociates.com/company-registration-in-noida",
+    "industax.com/company-registration-consultant-in-noida",
+    "justdial.com/Noida/Company-Registration-Consultants/nct-10919031",
+    "registeryourstartup.com/pages/company-registration-noida",
+    "tripathiarora.com/company-registration-consultants-in-noida"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "gst-consultant__patna",
+   "new_entrants": [
+    "apnataxconsultant.com/",
+    "bihartaxconsultant.com/",
+    "blinkdial.com/patna/gst-registration",
+    "caankur.com/contact",
+    "disytax.com/gst-consultant-patna-bihar",
+    "gst.bihar.in/",
+    "gst.bihar.in/gst-consultant-in-patna"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "ngo-12a-80g__gurugram",
+   "new_entrants": [
+    "enego.co.in/services/ngo-registration/gurugram",
+    "fintaxx.in/ngo-registration-consultant-in-gurugram-haryana",
+    "incorpx.io/ngo-registration-in-gurugram",
+    "ngoconsultancy.org/",
+    "patronaccounting.com/80g-registration/gurugram",
+    "professionalutilities.com/12a-and-80g-registration/gurugram.php",
+    "raagconsultants.co.in/ngo-registration-in-gurugram"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "itr-tds__gurugram",
+   "new_entrants": [
+    "accura-consultants.com/tax-consultants-2",
+    "cahemantgarg.com/income-tax-consultant-in-gurgaon",
+    "hemantgarg.com/income-tax-consultant-gurugram",
+    "itradda.com/itr-filing-consultant-in-gurugram",
+    "kkscapital.com/tax-consultants-in-gurgaon",
+    "masterbrains.co.in/income-tax-consultant-in-gurugram",
+    "taxfilingguru.com/itr-filing-gurugram"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "gem__gurugram",
+   "new_entrants": [
+    "gemconsultant.org/",
+    "gemmaster.in/",
+    "gemtenderservice.com/gem-consultant-gurgaon",
+    "gemtenderservice.com/gem-consultant-haryana",
+    "professionalutilities.com/gem-registration-in-gurugram.php",
+    "tendersontime.com/gem-services-registration-consultant",
+    "tendersontime.com/gurgaon-gem-services-registration-consultant"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "page__pvt-ltd-vs-llp-vs-opc",
+   "new_entrants": [
+    "accorppartners.com/blogs/india-incorporation/llp-vs-opc-vs-pvt-ltd-complete-comparison-guide-2026",
+    "corporatelaws.in/2026/07/pvt-ltd-company-vs-llp-vs-opc.html",
+    "incorpx.io/blog/choose-business-structure-pvt-ltd-llp-opc-proprietorship",
+    "indiafilings.com/learn/partnership-vs-llp-vs-private-limited-company",
+    "legalraasta.com/blog/pvt-ltd-vs-llp-vs-opc-in-india",
+    "openedzesolutions.com/compare/private-limited-vs-llp-vs-opc",
+    "prashasthicorporate.com/guide/pvt-ltd-vs-opc-vs-llp-in-india"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "l17",
+   "query": "L-17 licence Delhi restaurant",
+   "from": null,
+   "to": 5
+  },
+  {
+   "query_id": "l17",
+   "new_entrants": [
+    "calcguru.in/liquor-license-delhi",
+    "excise.delhi.gov.in/excise/grant-l-17-licence",
+    "excise.delhi.gov.in/excise/l17-l18-and-l19",
+    "grokipedia.com/page/L-17_and_L-18_licences",
+    "remindlegal.com/blog/l-17-licence-for-independent-restaurants-bars-in-delhi",
+    "restaurantdaily.ai/blog/liquor-license-restaurant-india-types",
+    "udyoggrowth.com/liquor-excise-license-delhi"
+   ],
+   "dropouts": []
   },
   {
    "query_id": "company-registration__delhi",
-   "new_entrants": [],
-   "dropouts": [
+   "new_entrants": [
     "apliteadvisors.com/business-registration-overview",
     "certifiedcorporateaccountant.com/company-registration-consultant-in-delhi",
-    "k3dco.com/trusted-company-registration-consultant-in-delhi",
+    "dir.indiamart.com/delhi/company-registration-consultant.html",
     "murlichandak.com/company-registration-consultant-in-delhi",
     "registrationsindia.com/",
     "ruchitadang.com/",
     "tripathiarora.com/company-registration-consultants-in-delhi-"
-   ]
+   ],
+   "dropouts": []
   },
   {
-   "query_id": "rule14a",
-   "new_entrants": [],
-   "dropouts": [
-    "cleartax.in/s/gst-registration-in-3-days",
-    "patronaccounting.com/gst-registration-rule-14a",
-    "taxfetchindia.com/blog/taxation-time/gst-registration-3-days-rule-14a-guide",
-    "taxfetchindia.com/blog/taxation-time/rule-14a-gst-fast-track-registration",
-    "taxguru.in/goods-and-service-tax/gst-registration-rule-14a-3-day-auto-approval.html",
-    "taxguru.in/goods-and-service-tax/gst-rule-14a-fast-track-gst-registration-practical-issues-solutions.html",
-    "taxsolver.in/blog/new-gst-registration-process-2026-step-by-step-guide-3-day-approval"
-   ]
+   "query_id": "itr-tds__noida",
+   "new_entrants": [
+    "apstaxindia.com/income-tax-noida",
+    "charteredhelp.com/itr-filing-in-noida",
+    "itradda.com/itr-filing-consultant-in-noida",
+    "itrfiling.co.in/income-tax-consultants-in-noida",
+    "justdial.com/Noida/Income-Tax-Consultants/nct-10263305",
+    "sulekha.com/tax-return-services/greaternoida",
+    "sulekha.com/tax-return-services/noida"
+   ],
+   "dropouts": []
   },
   {
-   "query_id": "epf-esic__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "epfgenie.com/patna",
-    "epfwala.com/pf-consultant-in-patna",
-    "girishchaudharyassociates.com/insights-media/pf-consultants-in-patna",
-    "justdial.com/Patna/EPF-ESIC-Consultant-Near-Bikaner-Sweets-Kankarbagh/0612PX612-X612-180626011503-P6D6_BZDET",
-    "justdial.com/Patna/Provident-Fund-Consultants/nct-10393272",
-    "m.indiamart.com/patna/esic-consultant.html",
-    "niteshtaxconsultancy.in/epf-esic-registration",
-    "pfesiconsultancy.com/",
-    "pfesiconsultancy.com/pf-consultant-patna",
-    "yourskart.in/EPF-ESIC-registration-patna"
-   ]
+   "query_id": "gst-notice__faridabad",
+   "new_entrants": [
+    "incorpx.io/gst-notice-reply-in-faridabad",
+    "industax.com/online-tax-notice-reply-faridabad",
+    "kanakkupillai.com/gst-notice-reply-service-in-faridabad",
+    "kyragst.com/gst-notice-reply-consultant-in-faridabad",
+    "kyragst.com/gst-notice-reply-consultant-sector-24-faridabad",
+    "taxamc.com/article-gst-notice-reply-faridabad.html",
+    "taxlexindia.com/location/gst-consultant-in-faridabad.html"
+   ],
+   "dropouts": []
   },
   {
-   "query_id": "pollution-noc__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "badwatinternational.com/environmental-consultants.html",
-    "bharatenvironmentconsultants.com/",
-    "corpseed.com/service/haryana-state-pollution-control-board",
-    "drishticonsultancy.com/pollution-noc",
-    "envirosphere.co.in/",
-    "greenpermits.in/07/pollution-noc-consultant-in-haryana-for-factory-setup",
-    "indiamart.com/global-enviro-consulting/certification-services.html",
-    "indiamart.com/proddetail/industrial-pollution-noc-certificate-service-2850558060055.html",
-    "psrcompliance.com/blog/pollution-noc-in-gurugram-2026",
-    "sunenvirosolutions.com/"
-   ]
+   "query_id": "pmfme__patna",
+   "query": "PMFME subsidy consultant Patna",
+   "from": null,
+   "to": 1
   },
   {
-   "query_id": "pollution-noc__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "agileregulatory.com/service/bihar-state-pollution-control-board",
-    "bharatbz.com/bihar/patna-pollution-consultant-pollution-cte-cto-noc-841366",
-    "bspcb.bihar.gov.in/",
-    "clearlycomply.org/services/pollution-noc/environmental-clearance/patna",
-    "clearlycomply.org/services/pollution-noc/pollution-noc-certificate/patna",
-    "corpseed.com/service/bihar-state-pollution-control-board-cte-cto-noc-certificate",
-    "justdial.com/Patna/Noc-Consultants/nct-10338438",
-    "justdial.com/Patna/Pollution-Control-Consultants/nct-10380535",
-    "patnaconsultant.com/patna/bihar-state-pollution-license-consultant-patna-bihar",
-    "patnaconsultant.com/pollution-license-in-patna"
-   ]
-  },
-  {
-   "query_id": "fssai__ghaziabad",
-   "new_entrants": [],
-   "dropouts": [
-    "dkreg.com/ghaziabad/fssai-registration",
-    "fssaiindia.in/fssai-food-safety-license-registration-consultants-in/uttar-pradesh/ghaziabad",
-    "fssailicenseindia.org/ghaziabad",
-    "justdial.com/Ghaziabad/Food-Safety-License-Consultants/nct-11019835",
-    "justdial.com/Ghaziabad/Fssai-Consultants/nct-11240404",
-    "mrdxregulatory.com/fssai-license-ghaziabad",
-    "raagconsultants.co.in/fssai-food-license-ghaziabad"
-   ]
-  },
-  {
-   "query_id": "itr-tds__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "accountssolution.co.in/patna/income-tax-return-filing.html",
-    "blinkdial.com/patna/tax-consultants",
-    "dir.indiamart.com/patna/income-tax-consultant.html",
-    "disytax.com/tax-consultant-patna-bihar",
-    "justdial.com/Patna/Income-Tax-Consultants/nct-10263305?stype=category_list&redirect=301",
-    "sulekha.com/tax-return-services/patna",
-    "tax-eazy.com/income-tax-return-filing-patna"
-   ]
-  },
-  {
-   "query_id": "gem__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "bidz365.com/gem-portal-consultant-service-provider-in-patna",
-    "gemtenderservice.com/gem-consultant-patna",
-    "justdial.com/Patna/Gem-Consultants/nct-12070033",
-    "sunlitesystems.com/patna.html",
-    "taxclue.in/gem-portal-registration-general-in-patna",
-    "tender18.com/gem-consultant-registration-services/patna",
-    "tender18.com/gem-portal-services/bihar"
-   ]
-  },
-  {
-   "query_id": "pollution-noc__faridabad",
-   "new_entrants": [],
-   "dropouts": [
-    "corpseed.com/service/haryana-state-pollution-control-board",
-    "drishticonsultancy.com/pollution-noc",
-    "ecotechservices.in/",
-    "ecotechservices.in/services.htm",
-    "indiamart.com/proddetail/pollution-noc-services-2858179552455.html",
-    "justdial.com/Faridabad/Air-Pollution-Control-Consultants/nct-10011547",
-    "justdial.com/Faridabad/Noc-Consultants/nct-10338438"
-   ]
-  },
-  {
-   "query_id": "pollution-noc__delhi",
-   "new_entrants": [],
-   "dropouts": [
-    "biz-maestro.com/pollution-noc",
-    "drishticonsultancy.com/pollution-noc",
-    "greengenra.com/",
-    "mywastesolution.com/cpcb-consultants",
-    "psrcompliance.co.in/dpcc-consent.html",
-    "psrcompliance.com/blog/pollution-noc-in-delhi-ncr-cte-cto-process",
-    "sagarncompany.com/pollution-control-consultant-in-delhi-ncr"
-   ]
-  },
-  {
-   "query_id": "gst-notice__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "advocatemanzar.com/gst-show-cause-notice-reply-lawyer-patna",
-    "disytax.com/gst-consultant-patna-bihar",
-    "gst.bihar.in/",
-    "gst.bihar.in/gst-consultant-in-patna",
-    "gstlawyer.in/gst-notice-reply-service-in-patna",
-    "incorpx.io/gst-notice-reply-in-patna",
-    "taxamc.com/article-gst-notice-reply-patna.html"
-   ]
-  },
-  {
-   "query_id": "pmfme__gurugram",
-   "query": "PMFME subsidy consultant Gurugram",
-   "from": 1,
-   "to": null
-  },
-  {
-   "query_id": "pmfme__gurugram",
-   "new_entrants": [],
-   "dropouts": [
-    "infigo.co.in/gurgaon-gurugram/services/government-subsidies",
+   "query_id": "pmfme__patna",
+   "new_entrants": [
+    "infigo.co.in/patna/services/government-subsidies",
+    "justdial.com/Patna/Pradhan-Mantri-Svanidhi-Yojana-Scheme-Consultants/nct-16284911",
     "pmfme.mofpi.gov.in/",
     "pmfme.org/state-directory",
-    "pmfme.org/tools",
-    "subsidyguru.com/",
-    "udyoggrowth.com/",
+    "subsidysolutions.in/",
+    "subsidysolutions.in/pmfme",
     "udyoggrowth.com/pmfme-subsidy-consultant"
-   ]
-  },
-  {
-   "query_id": "pmfme-2",
-   "query": "pmfme scheme extension 2027",
-   "from": 2,
-   "to": null
-  },
-  {
-   "query_id": "pmfme-2",
-   "new_entrants": [],
-   "dropouts": [
-    "financialexpress.com/business/industry-food-processing-industry-seeks-extension-of-financing-schemes-4323036",
-    "livemint.com/economy/government-schemes-extension-pm-kusum-pm-poshan-aif-pmfme-11790588034094.html",
-    "pmfme.mofpi.gov.in/",
-    "pmfme.org/",
-    "pmfmeap.org/sites/default/files/2024-09/O.M.+dated+30.09.2024+for+extension+of+PMFME+Scheme+for+31.03.2026+(FY+2025-26).pdf",
-    "thehindubusinessline.com/news/pmfme-scheme-set-for-extension-after-hitting-2-lakh-unit-target/article71383660.ece",
-    "udyoggrowth.com/pmfme-2-0-update"
-   ]
-  },
-  {
-   "query_id": "shop-act__patna",
-   "new_entrants": [],
-   "dropouts": [
-    "bharatsamvidhan.com/bihar-rts/shop-establishment-license",
-    "clearlycomply.org/services/shop-establishment/shop-establishment-registration/patna",
-    "companyregistrations.in/shop-and-establishment-form-3",
-    "fastlegal.in/shops-establishment-registration/patna",
-    "incorpx.io/shop-and-establishment-act-registration-in-patna",
-    "indiafilings.com/learn/shop-and-establishment-registration-in-bihar",
-    "indiafilings.com/shop-establishment-act-registration/patna",
-    "patnaconsultant.com/patna/shop-establishment-license-patna-bihar",
-    "serviceonline.bihar.gov.in/serviceLinkHome.html?serviceToken=R4Ahg5PoRO528&newLink=Y&<csrf:token+uri='serviceLinkHome.html'/",
-    "zerocorporates.com/shop-establishment-registration/patna"
-   ]
+   ],
+   "dropouts": []
   },
   {
    "query_id": "iec__patna",
-   "new_entrants": [],
-   "dropouts": [
+   "new_entrants": [
     "biswa.co.in/services/import-export-code/patna",
     "justdial.com/Patna/Import-Export-Code-Number-Consultants/nct-12154746",
     "justdial.com/Patna/Import-Export-Consultants/nct-10262513",
@@ -1350,7 +570,150 @@
     "nyayagrah.com/iec-registration/patna",
     "patna.idbf.in/export-import-consultancy",
     "tanvithaassociates.com/city-services/5954/63/import-export-code-certification-consultants-patna"
-   ]
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "epf-esic__faridabad",
+   "new_entrants": [
+    "aayushmanassociates.com/esi-pf-consultant-faridabad.html",
+    "epfwala.com/pf-consultant-in-faridabad",
+    "esipfconsultancy.com/",
+    "jayaselection.com/esic-consultant.html",
+    "jayaselection.com/esic-epf.html",
+    "justdial.com/Faridabad/EPF-Registration-Consultants/nct-10393272",
+    "ompfconsultant.com/"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "rule14a",
+   "new_entrants": [
+    "cleartax.in/s/gst-registration-in-3-days",
+    "tallysolutions.com/gst/gst-rule-9a-14a-three-day-registration",
+    "taxfetchindia.com/blog/taxation-time/gst-registration-3-days-rule-14a-guide",
+    "taxfetchindia.com/blog/taxation-time/rule-14a-gst-fast-track-registration",
+    "taxguru.in/goods-and-service-tax/gst-registration-rule-14a-3-day-auto-approval.html",
+    "taxguru.in/goods-and-service-tax/gst-rule-14a-fast-track-gst-registration-practical-issues-solutions.html",
+    "taxsolver.in/blog/new-gst-registration-process-2026-step-by-step-guide-3-day-approval"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "pmfme__ghaziabad",
+   "query": "PMFME subsidy consultant Ghaziabad",
+   "from": null,
+   "to": 1
+  },
+  {
+   "query_id": "pmfme__ghaziabad",
+   "new_entrants": [
+    "aigriworks.com/",
+    "cred.fastlegal.in/project-report/scheme/pmfme/ghaziabad",
+    "infigo.co.in/ghaziabad/services/government-subsidies",
+    "justdial.com/Ghaziabad/PMFME-Consultants/nct-16284915",
+    "pmfme.mofpi.gov.in/",
+    "pmfme.org/state-directory",
+    "udyoggrowth.com/pmfme-subsidy-consultant"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "page__gst-refund-lut-exporters",
+   "new_entrants": [
+    "associatepiyush.co.in/resources/gst-refund-exporters-lut-igst",
+    "exportimporttools.com/blog-gst-refund-calculator",
+    "raspinternational.in/gst-compliance-exports",
+    "saarthiadvisory.com/gst-refund-exporters-lut-inverted-duty-guide",
+    "shipscout.ai/blog/gst-refund-for-exporters-complete-guide-2026",
+    "taxguru.in/goods-and-service-tax/gst-refund-exports-india-updated-01-04-2026.html",
+    "weedoo.in/resources/guides/gst-lut-export-refund"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "company-registration__gurugram",
+   "new_entrants": [
+    "atulix.com/company-registration-gurugram.html",
+    "dir.indiamart.com/gurgaon/company-registration-consultant.html",
+    "hemantgarg.com/business-registration-gurugram",
+    "hemantgarg.com/company-registration-gurugram",
+    "legal24by7.com/company-registration/gurugram",
+    "mcafiling.in/location/gurugram",
+    "rpsa.co.in/"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "ngo-12a-80g__ghaziabad",
+   "new_entrants": [
+    "enego.co.in/services/ngo-registration/ghaziabad",
+    "globaltaxmanindia.com/services/12a-and-80g-registration-in-ghaziabad",
+    "indiafilings.com/12a-80g-registration/ghaziabad",
+    "mystartupsolution.in/fcra-and-80g-12a-registration-in-ghaziabad",
+    "ngoexperts.com/12a-and-80g-registration-in-ghaziabad",
+    "professionalutilities.com/12a-and-80g-registration/ghaziabad.php",
+    "raagconsultants.co.in/ngo-registration-in-ghaziabad"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "page__fssai-license-consultant",
+   "new_entrants": [
+    "fssaiindia.in/fssai-food-safety-license-registration-consultants-in/delhi",
+    "fssailicense.net/",
+    "koopindia.com/documentation-compliance/fssai-license",
+    "praviconsultancy.com/fssai",
+    "raagconsultants.co.in/",
+    "raagconsultants.co.in/fssai-food-license-consultant-delhi",
+    "siliconlegaladvisor.com/"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "fssai__faridabad",
+   "new_entrants": [
+    "caonweb.com/services/fssai-registration/faridabad.php",
+    "fssaiindia.in/fssai-food-safety-license-registration-consultants-in/haryana/faridabad",
+    "fssailicenseindia.org/faridabad",
+    "mrdxregulatory.com/fssai-license-faridabad",
+    "raagconsultants.co.in/fssai-food-license-faridabad",
+    "tanvithaassociates.com/city-services/2375/32/central-fssai-consultants-sector-30--faridabad",
+    "velcolegalindia.com/location/faridabad"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "clu__patna",
+   "query": "land conversion CLU consultant Patna",
+   "from": null,
+   "to": 1
+  },
+  {
+   "query_id": "clu__patna",
+   "new_entrants": [
+    "jsr-associate.com/",
+    "justdial.com/Patna/Change-Land-Use-Certification-Consultants/nct-12161621",
+    "justdial.com/Patna/Land-Use-Conversion-Services/nct-12123186",
+    "patnaconsultant.com/bihar-land-conversion",
+    "rapidconsulting.in/change-of-land-use-clu-consultant-in-haryana",
+    "skdconsultant.com/change-of-land-use-clu",
+    "udyoggrowth.com/land-conversion-clu-consultant"
+   ],
+   "dropouts": []
+  },
+  {
+   "query_id": "page__biada-land-allotment-bihar-industrial-policy",
+   "new_entrants": [
+    "bhartiavenue.com/biada-building-bihars-industrial-future",
+    "biada1.bihar.gov.in/ActRule.aspx",
+    "biada1.bihar.gov.in/pdf/IMG_57148435-98ba-4ef9-bb09-a4e2f74e7e84.pdf",
+    "insightfultake.com/details/bihars-industrial-renaissance-the-2026-land-policy-spearheaded-by-samrat-chaudhary",
+    "khabrimedia.com/bihar-news-biada-12-industrial-units-land-allotment-132-crore-investment",
+    "patnapress.com/biada-20-acres-land-allotment-bihar-rs-284-crore-investment-1200-jobs",
+    "thebiharnow.com/big-news/biada-land-allotment-policy-2026-most-of-the-suggestions-of-biada-were-accepted"
+   ],
+   "dropouts": []
   }
  ]
 }
