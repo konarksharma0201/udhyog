@@ -12,7 +12,8 @@ Runs after serp_tracker.py in the daily workflow.
    diffed day over day.
 Outputs: reports/competitors/<date>/pages.json, reports/competitor-gaps.md, reports/keyword-universe.json
 """
-import json, os, re, time, datetime, urllib.parse, urllib.request, urllib.robotparser, html as H
+import json, os, re, time, datetime, socket, urllib.parse, urllib.request, urllib.robotparser, html as H
+socket.setdefaulttimeout(15)
 from collections import defaultdict, Counter
 
 try:
@@ -28,6 +29,7 @@ MAX_FETCH = int(os.environ.get("AUDIT_MAX_FETCH", "220"))
 T0 = time.time()
 OUT = f"reports/competitors/{TODAY}"
 SKIP_DOM = ("justdial.", "indiamart.", "sulekha.", "tradeindia.", "facebook.", "linkedin.", "youtube.", "instagram.", ".gov.in", ".nic.in", "wikipedia.")
+BOILER = {"recent posts","recent comments","archives","categories","quick links","get touch","call now","contact us","frequently asked questions","faqs","faq","need help","quick enquiry","leave reply","share","related posts","follow us","our services","why choose","about us","testimonials","get quote","free consultation","request callback","book consultation","table contents","latest posts","popular posts","tags","meta","subscribe","newsletter","talk expert","enquire now","apply now","get started","our clients","client reviews"}
 STOP = set("the a an and or of for in to with your you we our is are on at by from how what which who why when do does can i my it this that be as not all any into about more best top near me services service consultant consultants registration online india delhi noida gurugram gurgaon faridabad ghaziabad patna bihar ncr".split())
 
 def norm_topic(t: str) -> str:
@@ -42,7 +44,10 @@ def allowed(url: str) -> bool:
     if base not in _robots:
         rp = urllib.robotparser.RobotFileParser()
         try:
-            rp.set_url(base + "/robots.txt"); rp.read(); _robots[base] = rp
+            req = urllib.request.Request(base + "/robots.txt", headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=8) as r:
+                rp.parse(r.read(200_000).decode("utf-8", "ignore").splitlines())
+            _robots[base] = rp
         except Exception:
             _robots[base] = None
     rp = _robots[base]
@@ -61,7 +66,12 @@ def fetch(url: str, timeout=20):
 
 def extract(url: str, html_: str) -> dict:
     s = BeautifulSoup(html_, "lxml")
-    for t in s(["script", "style", "noscript"]): t.decompose() if t.name != "script" or t.get("type") != "application/ld+json" else None
+    ld = [sc for sc in s.find_all("script", type="application/ld+json")]
+    for t in s(["script", "style", "noscript", "nav", "header", "footer", "aside", "form", "iframe", "svg"]):
+        if t in ld: continue
+        t.decompose()
+    for t in s.select('[class*="sidebar"],[class*="widget"],[class*="footer"],[class*="header"],[class*="menu"],[class*="breadcrumb"],[id*="sidebar"],[id*="footer"],[id*="header"],[id*="comments"]'):
+        t.decompose()
     text = s.get_text(" ", strip=True)
     schema_types, faq_ld = set(), []
     for sc in s.find_all("script", type="application/ld+json"):
@@ -110,12 +120,45 @@ def overlap(topic: str, body: str) -> bool:
 def main():
     os.makedirs(OUT, exist_ok=True)
     serp = json.load(open("reports/serp/latest.json"))
+    # ---- keyword universe via autosuggest (runs first; cheap) ----
+    uni_path = "reports/keyword-universe.json"
+    uni = json.load(open(uni_path)) if os.path.exists(uni_path) else {"keywords": {}, "history": []}
+    new_kw = []
+    def bing_suggest(q):
+        u = "https://api.bing.com/osjson.aspx?market=en-IN&query=" + urllib.parse.quote(q)
+        req = urllib.request.Request(u, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=10) as r:
+            return json.loads(r.read().decode("utf-8", "ignore"))[1]
+    bases = sorted({q["query"] for q in serp["queries"] if not q.get("city")} | {q["query"] for q in serp["queries"] if q.get("city") == "delhi"})
+    ts = time.time()
+    for b in bases[:80]:
+        if time.time() - ts > 8 * 60: break
+        sugg = []
+        try:
+            sugg = bing_suggest(b)
+        except Exception:
+            try:
+                from ddgs import DDGS
+                sugg = [x.get("phrase", "") for x in DDGS().suggestions(b, region="in-en")]
+            except Exception:
+                sugg = []
+        for k in sugg:
+            k = (k or "").strip().lower()
+            if k and k != b.lower() and k not in uni["keywords"]:
+                uni["keywords"][k] = {"first_seen": TODAY, "from": b}; new_kw.append(k)
+        time.sleep(1.0)
+    uni["history"].append({"date": TODAY, "new": len(new_kw), "total": len(uni["keywords"])})
+    json.dump(uni, open(uni_path, "w"), indent=1, ensure_ascii=False)
     # ---- 1. collect URLs per group ----
+    OWN_MAP = {"gst-notice":"/gst-notice-reply/","gst-consultant":"/gst-notice-reply/","gst-registration":"/gst-registration-rule-14a/","fssai":"/fssai-license-consultant/","fssai-license":"/fssai-license-consultant/","company-registration":"/company-registration-delhi/","shop-act":"/labour-code-compliance-epf-esic/","epf-esic":"/labour-code-compliance-epf-esic/","trademark":"/trademark-registration-delhi/","income-tax":"/income-tax-notice-reply/","itr":"/income-tax-notice-reply/","pollution-noc":"/pollution-noc-environmental-clearance/","gem":"/gem-registration-tender-bidding/","msme":"/msme-schemes/","udyam":"/msme-schemes/","pmfme":"/pmfme-subsidy-consultant/","iec":"/import-export-iec-dgft-consultant/","ngo":"/ngo-trust-12a-80g-fcra-registration/","clu":"/land-conversion-clu-consultant/","liquor":"/liquor-excise-license-delhi/","solar":"/solar-subsidy-pm-surya-ghar/","biada":"/biada-land-allotment-bihar-industrial-policy/","school":"/school-affiliation-consultant/","tender":"/bihar-government-tenders/"}
     by_group = defaultdict(lambda: dict(urls=Counter(), own=None, queries=[]))
     for q in serp["queries"]:
         g = q["keyword_group"] if q["keyword_group"] != "page" else q["query_id"]
         by_group[g]["queries"].append(q["query"])
         if q.get("own_url"): by_group[g]["own"] = q["own_url"]
+        elif not by_group[g]["own"]:
+            for k, v in OWN_MAP.items():
+                if k in g: by_group[g]["own"] = v; break
         for r in q["results"][:10]:
             if OWN in r["domain"] or any(d in r["domain"] for d in SKIP_DOM): continue
             by_group[g]["urls"][r["url"]] += 1
@@ -123,8 +166,8 @@ def main():
     cache_path = f"{OUT}/pages.json"
     cache = json.load(open(cache_path)) if os.path.exists(cache_path) else {}
     fetched = 0
-    for g, info in by_group.items():
-        for url, _ in info["urls"].most_common(10):
+    for g, info in sorted(by_group.items(), key=lambda kv: (kv[0].startswith("page__"), kv[0])):
+        for url, _ in info["urls"].most_common(6):
             if url in cache: continue
             if fetched >= MAX_FETCH or (time.time() - T0) / 60 > BUDGET_MIN: break
             if not allowed(url): cache[url] = {"url": url, "blocked": "robots"}; continue
@@ -152,7 +195,10 @@ def main():
             for fq in p["faqs"]:
                 nt = norm_topic(fq)
                 if len(nt) >= 8: topic_sources["Q: " + nt].add(p["url"])
-        gaps = [(t, len(srcs)) for t, srcs in topic_sources.items() if len(srcs) >= 2 and not overlap(t.replace("Q: ", ""), own_body)]
+        def boiler(t):
+            core = t.replace("Q: ", "")
+            return core in BOILER or any(core.startswith(b) or core.endswith(b) for b in BOILER) or len(core.split()) < 2
+        gaps = [(t, len(srcs)) for t, srcs in topic_sources.items() if len(srcs) >= 2 and not boiler(t) and not overlap(t.replace("Q: ", ""), own_body)]
         gaps.sort(key=lambda x: -x[1])
         stats = dict(n=len(pages), avg_words=int(sum(p["words"] for p in pages) / len(pages)), faqpage=sum(p["faqpage"] for p in pages),
                      fee_table=sum(p["fee_table"] for p in pages), dated=sum(1 for p in pages if p["dates"]), whatsapp=sum(p["whatsapp"] for p in pages),
@@ -164,28 +210,6 @@ def main():
             L += ["**Topics on 2+ competitor pages that our page does not cover (add or answer):**"] + [f"- ({n}) {t}" for t, n in gaps[:25]] + [""]
         else:
             L += ["**No multi-competitor topic gaps detected against our page.**", ""]
-    # ---- 4. keyword universe via autosuggest ----
-    uni_path = "reports/keyword-universe.json"
-    uni = json.load(open(uni_path)) if os.path.exists(uni_path) else {"keywords": {}, "history": []}
-    new_kw = []
-    try:
-        from ddgs import DDGS
-        bases = sorted({q["query"] for q in serp["queries"] if not q.get("city")} | {q["query"] for q in serp["queries"] if q.get("city") == "delhi"})
-        for b in bases[:50]:
-            if (time.time() - T0) / 60 > BUDGET_MIN + 10: break
-            try:
-                sugg = DDGS().suggestions(b, region="in-en")
-                for s_ in sugg:
-                    k = (s_.get("phrase") or "").strip().lower()
-                    if k and k not in uni["keywords"]:
-                        uni["keywords"][k] = {"first_seen": TODAY, "from": b}; new_kw.append(k)
-            except Exception:
-                pass
-            time.sleep(1.5)
-    except ImportError:
-        pass
-    uni["history"].append({"date": TODAY, "new": len(new_kw), "total": len(uni["keywords"])})
-    json.dump(uni, open(uni_path, "w"), indent=1, ensure_ascii=False)
     L += ["## Keyword universe (autosuggest)", f"Total suggested keywords tracked: {len(uni['keywords'])} · new today: {len(new_kw)}", ""] + [f"- {k}" for k in new_kw[:60]] + [""]
     # ---- summary table at top ----
     tbl = ["| Group | Our page | Comp. pages | Avg words | FAQPage | Fee table | Dated | Gaps |", "|---|---|---|---|---|---|---|---|"]
