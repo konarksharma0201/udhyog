@@ -24,7 +24,7 @@ G_SUFFIX = ["", " fees", " documents", " due date", " penalty", " online", " del
 G_PREFIX = ["how to ", "what is ", "can i ", "when is "]
 B_SUFFIX = ["", " fees", " documents", " online", " delhi"]
 STOP = set("a an the of for in to and or is are how what can i when india online service services registration filing return returns".split())
-JUNK = re.compile(r"\b(movie|song|lyrics|download|pdf free|torrent|hindi film|cast|wikipedia)\b", re.I)
+JUNK = re.compile(r"\b(movie|song|lyrics|download|pdf free|torrent|hindi film|cast|wikipedia|nigeria|kenya|ghana|uganda|south africa|uk|usa|canada|australia|pakistan|bangladesh|nepal|sri lanka|malaysia|singapore|philippines|dubai|uae|tip|tipping|restaurant bill)\b", re.I)
 QWORDS = ("how", "what", "can", "when", "why", "who", "is", "are", "do", "does", "which", "should")
 CITIES = ("delhi", "noida", "gurugram", "gurgaon", "faridabad", "ghaziabad", "patna", "bihar", "haryana", "uttar pradesh", "up")
 
