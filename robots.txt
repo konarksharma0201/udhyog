@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /reports/
+Disallow: /seo/
+Disallow: /scripts/
 
 # AI & LLM Crawlers (Explicitly Allowed for AEO/GEO)
 User-agent: GPTBot
