@@ -7,15 +7,24 @@ Panel engine   : SerpApi (real Google India + People-also-ask) for up to PANEL_S
 Outputs        : reports/serp/<date>.json, reports/serp/latest.json, reports/serp/diff-<date>.json,
                  reports/serp-status.md (human summary, committed by the workflow).
 """
-import json, os, random, re, sys, time, datetime, urllib.parse, urllib.request
+import json, os, random, re, sys, time, datetime, urllib.parse, urllib.request, signal
 
 OWN_HOST = "udyoggrowth.com"
 QFILE = "seo/serp-queries.json"
 OUT = "reports/serp"
 PANEL_SIZE = int(os.environ.get("SERP_PANEL_SIZE", "8"))
-SLEEP = (8, 15)        # jittered seconds between queries
+SLEEP = (5, 9)         # jittered seconds between queries
 BATCH = 25             # queries per batch
-BATCH_SLEEP = (60, 120)
+BATCH_SLEEP = (30, 45)
+BUDGET_MIN = int(os.environ.get("SERP_BUDGET_MIN", "95"))   # stop issuing queries after this many minutes
+QUERY_TIMEOUT = 25     # hard per-call timeout (seconds)
+
+class _TO(Exception): pass
+def _alarm(signum, frame): raise _TO()
+def with_timeout(fn, *a, **k):
+    signal.signal(signal.SIGALRM, _alarm); signal.alarm(QUERY_TIMEOUT)
+    try: return fn(*a, **k)
+    finally: signal.alarm(0)
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36"
 
 TRACK = re.compile(r"(utm_[a-z]+|fbclid|gclid|ref|srsltid)=[^&]*&?", re.I)
@@ -40,14 +49,18 @@ def domain_type(host: str) -> str:
 def run_ddgs(query: str, region="in-en", backend="bing"):
     from ddgs import DDGS
     last = None
-    for attempt, wait in enumerate((0, 30, 120)):
+    for attempt, (wait, be) in enumerate(((0, backend), (15, "duckduckgo"))):
         if wait: time.sleep(wait)
         try:
-            res = DDGS().text(query, region=region, backend=backend, max_results=10)
-            return [dict(position=i, url=r.get("href",""), title=r.get("title",""), snippet=r.get("body","")) for i, r in enumerate(res, 1)], "ok" if res else "empty"
+            res = with_timeout(lambda: DDGS(timeout=15).text(query, region=region, backend=be, max_results=10))
+            if res:
+                return [dict(position=i, url=r.get("href",""), title=r.get("title",""), snippet=r.get("body","")) for i, r in enumerate(res, 1)], ("ok" if be == backend else "ok-fallback")
+            last = "empty"
+        except _TO:
+            last = "timeout"
         except Exception as e:
-            last = e
-    return [], f"failed:{type(last).__name__}"
+            last = type(e).__name__
+    return [], f"failed:{last}"
 
 def run_serpapi(query: str, location: str):
     key = os.environ.get("SERPAPI_KEY")
@@ -91,7 +104,12 @@ def main():
     random.Random(today).shuffle(panel_ids)           # rotate panel daily, deterministic per day
     panel_ids = set(panel_ids[:PANEL_SIZE]) if os.environ.get("SERPAPI_KEY") else set()
 
+    t0 = time.time()
+    def save_partial():
+        json.dump(run, open(f"{OUT}/{today}.json","w"), indent=1)
     for i, q in enumerate(queries, 1):
+        if (time.time() - t0) / 60 > BUDGET_MIN:
+            run["queries"].append({**q, "status": "skipped:budget", "fetched_at": None, "own_best_position": None, "own_url_found": None, "results": []}); continue
         res, status = run_ddgs(q["query"])
         res = enrich(res)
         pos, url = own_pos(res)
@@ -102,6 +120,7 @@ def main():
             entry["google"] = {"status": gs, "own_best_position": gp, "own_url_found": gu, "results": g, "paa": paa}
         run["queries"].append(entry)
         print(f"[{i}/{len(queries)}] {q['query']} -> {status} own={pos}", flush=True)
+        if i % 10 == 0: save_partial()
         time.sleep(random.uniform(*SLEEP))
         if i % BATCH == 0 and i < len(queries): time.sleep(random.uniform(*BATCH_SLEEP))
 
@@ -123,11 +142,12 @@ def main():
     json.dump(diff, open(f"{OUT}/diff-{today}.json","w"), indent=1)
 
     # Markdown summary
-    ok = sum(1 for q in run["queries"] if q["status"]=="ok")
+    ok = sum(1 for q in run["queries"] if q["status"].startswith("ok"))
     ranked = [(q["query"], q["own_best_position"]) for q in run["queries"] if q["own_best_position"]]
     from collections import Counter
     comp = Counter(r["domain"] for q in run["queries"] for r in q["results"][:5] if OWN_HOST not in r["domain"])
-    L = [f"# SERP status — {today}", "", f"Engine: Bing (via ddgs, region in-en) · queries: {len(run['queries'])} · ok: {ok} · own-domain in top10: {len(ranked)}", ""]
+    skipped = sum(1 for q in run["queries"] if q["status"].startswith("skipped"))
+    L = [f"# SERP status — {today}", "", f"Engine: Bing (via ddgs, region in-en; DDG fallback) · queries: {len(run['queries'])} · ok: {ok} · skipped (budget): {skipped} · own-domain in top10: {len(ranked)} · runtime {int((time.time()-t0)/60)} min", ""]
     if ranked:
         L += ["## Where udyoggrowth.com appears (Bing top-10)", "| Query | Position |", "|---|---|"] + [f"| {q} | {p} |" for q, p in sorted(ranked, key=lambda x: x[1])] + [""]
     L += ["## Most frequent competing domains (top-5 slots)", "| Domain | Appearances |", "|---|---|"] + [f"| {d} | {n} |" for d, n in comp.most_common(20)] + [""]

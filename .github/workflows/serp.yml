@@ -11,20 +11,26 @@ concurrency:
 jobs:
   track:
     runs-on: ubuntu-latest
-    timeout-minutes: 170
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
       - run: pip install -q ddgs beautifulsoup4 lxml
       - name: Run tracker
+        timeout-minutes: 105
         env:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
           SERP_PANEL_SIZE: '8'
+          SERP_BUDGET_MIN: '95'
         run: python scripts/serp_tracker.py
       - name: Competitor audit + keyword universe
-        run: python scripts/competitor_audit.py
+        if: always()
+        timeout-minutes: 40
+        env: { AUDIT_BUDGET_MIN: '30', AUDIT_MAX_FETCH: '220' }
+        run: python scripts/competitor_audit.py || echo "audit failed; continuing"
       - name: Commit report (retry on race)
+        if: always()
         run: |
           git config user.name "serp-bot"; git config user.email "serp-bot@users.noreply.github.com"
           git add reports/serp reports/serp-status.md reports/competitors reports/competitor-gaps.md reports/keyword-universe.json
@@ -35,4 +41,5 @@ jobs:
           done
           exit 1
       - name: Summary
+        if: always()
         run: cat reports/serp-status.md >> "$GITHUB_STEP_SUMMARY"

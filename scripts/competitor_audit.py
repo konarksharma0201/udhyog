@@ -23,6 +23,9 @@ except ImportError:
 OWN = "udyoggrowth.com"
 UA = "Mozilla/5.0 (compatible; UdyogGrowthAudit/1.0; +https://udyoggrowth.com)"
 TODAY = datetime.date.today().isoformat()
+BUDGET_MIN = int(os.environ.get("AUDIT_BUDGET_MIN", "30"))
+MAX_FETCH = int(os.environ.get("AUDIT_MAX_FETCH", "220"))
+T0 = time.time()
 OUT = f"reports/competitors/{TODAY}"
 SKIP_DOM = ("justdial.", "indiamart.", "sulekha.", "tradeindia.", "facebook.", "linkedin.", "youtube.", "instagram.", ".gov.in", ".nic.in", "wikipedia.")
 STOP = set("the a an and or of for in to with your you we our is are on at by from how what which who why when do does can i my it this that be as not all any into about more best top near me services service consultant consultants registration online india delhi noida gurugram gurgaon faridabad ghaziabad patna bihar ncr".split())
@@ -123,6 +126,7 @@ def main():
     for g, info in by_group.items():
         for url, _ in info["urls"].most_common(10):
             if url in cache: continue
+            if fetched >= MAX_FETCH or (time.time() - T0) / 60 > BUDGET_MIN: break
             if not allowed(url): cache[url] = {"url": url, "blocked": "robots"}; continue
             try:
                 h = fetch(url)
@@ -167,7 +171,8 @@ def main():
     try:
         from ddgs import DDGS
         bases = sorted({q["query"] for q in serp["queries"] if not q.get("city")} | {q["query"] for q in serp["queries"] if q.get("city") == "delhi"})
-        for b in bases:
+        for b in bases[:50]:
+            if (time.time() - T0) / 60 > BUDGET_MIN + 10: break
             try:
                 sugg = DDGS().suggestions(b, region="in-en")
                 for s_ in sugg:
@@ -176,7 +181,7 @@ def main():
                         uni["keywords"][k] = {"first_seen": TODAY, "from": b}; new_kw.append(k)
             except Exception:
                 pass
-            time.sleep(2)
+            time.sleep(1.5)
     except ImportError:
         pass
     uni["history"].append({"date": TODAY, "new": len(new_kw), "total": len(uni["keywords"])})
