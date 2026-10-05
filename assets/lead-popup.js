@@ -5,7 +5,7 @@
 (function () {
   'use strict';
   var CFG = {
-    endpoint: '',            // Apps Script web-app URL (…/exec). Empty = popup disabled, links behave as before.
+    endpoint: 'https://script.google.com/macros/s/AKfycbxMWPXWx3zkSWInXab3cFIkSebMj6eU6m_bZ4An0w2uzYj2WuNjZ-9Nnu5y8gVkIim-/exec',            // Apps Script web-app URL (…/exec). Empty = popup disabled, links behave as before.
     key: 'ug-site-1',        // must match SITE_KEY in scripts/lead-backend/Code.gs
     rememberDays: 30,
     allowSkip: false         // true adds a "Skip and continue" link
