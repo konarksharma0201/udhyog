@@ -81,7 +81,6 @@
     '@media(prefers-reduced-motion:no-preference){.ug-box{animation:ugin .18s ease-out}@keyframes ugin{from{transform:translateY(12px);opacity:0}to{transform:none;opacity:1}}}';
 
   function build() {
-    var st = document.createElement('style'); st.textContent = CSS; document.head.appendChild(st);
     ov = document.createElement('div'); ov.className = 'ug-ov'; ov.hidden = true;
     ov.innerHTML =
       '<div class="ug-box" role="dialog" aria-modal="true" aria-labelledby="ug-t" aria-describedby="ug-d">' +
@@ -116,9 +115,9 @@
     if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
     else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
   }
-  function open(a, href, ch) {
+  function open(a, href, ch, ev) {
     if (!ov) build();
-    pending = { href: href, ch: ch, newTab: a.target === '_blank' }; lastFocus = a;
+    pending = { href: href, ch: ch, newTab: a.target === '_blank' || !!(ev && (ev.ctrlKey || ev.metaKey || ev.button === 1)) }; lastFocus = a;
     chEl.textContent = ch === 'call' ? 'we will take your call' : 'WhatsApp opens';
     goBtn.textContent = ch === 'call' ? 'Continue to call' : 'Continue to WhatsApp'; goBtn.disabled = false;
     errEl.textContent = ''; [].forEach.call(form.elements, function (el) { el.removeAttribute('aria-invalid'); });
@@ -157,13 +156,23 @@
     if (p.newTab) window.open(p.href, '_blank', 'noopener'); else window.location.href = p.href;
   }
 
-  /* ---------- click interception (capture phase, so it runs before navigation) ---------- */
-  document.addEventListener('click', function (e) {
-    if (e.defaultPrevented || e.button > 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+  /* styles are added at load so the long-press call sheet is disabled before any popup is built */
+  (function () {
+    var st = document.createElement('style');
+    st.textContent = CSS + 'a[href^="tel:"],a[href*="wa.me/"],a[href*="api.whatsapp.com"]{-webkit-touch-callout:none}';
+    document.head.appendChild(st);
+  })();
+
+  /* ---------- interception: click, Ctrl/Cmd/Shift-click, middle-click, right-click / long-press ---------- */
+  function intercept(e, kind) {
+    if (e.defaultPrevented) return;
     var a = e.target.closest && e.target.closest(SEL); if (!a) return;
     var href = a.getAttribute('href') || '', ch = chanOf(href); if (!ch) return;
     var d = saved();
-    if (d) { send(payload(d, ch, href, true)); return; }          // known visitor: log the click, let the link work
-    e.preventDefault(); open(a, href, ch);
-  }, true);
+    if (d) { if (kind !== 'contextmenu') send(payload(d, ch, href, true)); return; }   // known visitor: log the click, let it through
+    e.preventDefault(); open(a, href, ch, e);
+  }
+  document.addEventListener('click', function (e) { if (e.button > 0) return; intercept(e, 'click'); }, true);
+  document.addEventListener('auxclick', function (e) { if (e.button === 1) intercept(e, 'auxclick'); }, true);
+  document.addEventListener('contextmenu', function (e) { intercept(e, 'contextmenu'); }, true);
 })();

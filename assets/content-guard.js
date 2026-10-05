@@ -4,10 +4,11 @@
    browser DevTools, or a scraper/bot — those read the page's raw HTML
    directly and are unaffected by any script here. This only discourages
    the average visitor from right-clicking or hitting Ctrl+C on the page.
-   Phone/WhatsApp contact links are intentionally left copyable. */
+   Call/WhatsApp links are not exempt: they open the lead form first (assets/lead-popup.js).
+   Form fields stay editable so visitors can fix their own details. */
 (function () {
   function isContactLink(el) {
-    return el && el.closest && el.closest('.callbar, a[href^="tel:"]');
+    return el && el.closest && el.closest('input, textarea');
   }
   document.addEventListener('contextmenu', function (e) {
     if (!isContactLink(e.target)) e.preventDefault();
