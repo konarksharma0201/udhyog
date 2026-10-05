@@ -4,7 +4,7 @@
 AddSite: already present
 IsVerified: True
 SubmitFeed: OK
-SubmitUrlBatch (78 urls): OK
+SubmitUrlBatch (162 urls): {"__error": 400, "__detail": "{\"ErrorCode\":8,\"Message\":\"ERROR!!! Quota remaining for today: 100, Submitted: 162\"}"}
 GetRankAndTrafficStats: OK
 GetCrawlStats: OK
 ```
@@ -12,8 +12,6 @@ GetCrawlStats: OK
 ## Rank & Traffic (recent days)
 | Date | Clicks | Impressions | Avg position |
 |---|---|---|---|
-| /Date(1789689600000)/ | 0 | 5 | - |
-| /Date(1789776000000)/ | 0 | 2 | - |
 | /Date(1789862400000)/ | 0 | 5 | - |
 | /Date(1789948800000)/ | 2 | 8 | - |
 | /Date(1790035200000)/ | 1 | 18 | - |
@@ -26,3 +24,5 @@ GetCrawlStats: OK
 | /Date(1790640000000)/ | 2 | 8 | - |
 | /Date(1790726400000)/ | 1 | 13 | - |
 | /Date(1790812800000)/ | 1 | 6 | - |
+| /Date(1790899200000)/ | 2 | 6 | - |
+| /Date(1790985600000)/ | 0 | 34 | - |
