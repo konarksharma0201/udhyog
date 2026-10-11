@@ -1,82 +1,79 @@
-# SERP status — 2026-10-10
+# SERP status — 2026-10-11
 
-Engine: Bing (via ddgs, region in-en; DDG fallback) · queries: 102 · ok: 66 · skipped (budget): 0 · own-domain in top10: 8 · runtime 43 min
+Engine: Bing (via ddgs, region in-en; DDG fallback) · queries: 103 · ok: 68 · skipped (budget): 0 · own-domain in top10: 5 · runtime 39 min
 
 ## Where udyoggrowth.com appears (Bing top-10)
 | Query | Position |
 |---|---|
+| PMFME subsidy consultant Faridabad | 1 |
 | PESO License Consultant | 1 |
-| PMFME Subsidy Consultant | 1 |
-| PMFME 2026 Update & PMFME 2 0 News | 1 |
-| pmfme scheme extension 2027 | 2 |
-| land conversion CLU consultant Patna | 2 |
-| PMFME subsidy consultant Delhi | 2 |
-| DRC-01C Reply | 3 |
-| land conversion CLU consultant Noida | 3 |
+| PMFME subsidy consultant Patna | 1 |
+| GeM Fees & Documents | 3 |
+| GST notice reply consultant Noida | 5 |
 
 ## Most frequent competing domains (top-5 slots)
 | Domain | Appearances |
 |---|---|
-| justdial.com | 14 |
-| taxclue.in | 13 |
-| raagconsultants.co.in | 9 |
-| incorpx.io | 9 |
-| kyragst.com | 8 |
-| dir.indiamart.com | 6 |
-| filinglab.com | 6 |
-| psrcompliance.com | 4 |
-| legalntaxindia.com | 4 |
+| justdial.com | 21 |
+| kyragst.com | 12 |
+| raagconsultants.co.in | 12 |
+| cleartax.in | 9 |
+| taxguru.in | 8 |
+| taxclue.in | 7 |
+| dir.indiamart.com | 7 |
+| indiafilings.com | 6 |
+| incorpx.io | 5 |
+| gst.bihar.in | 4 |
+| tender18.com | 4 |
 | professionalutilities.com | 4 |
-| biada1.bihar.gov.in | 4 |
-| pmfme.mofpi.gov.in | 4 |
-| taxguru.in | 4 |
-| indiafilings.com | 4 |
-| calcguru.in | 4 |
-| easykagaz.com | 3 |
-| pvtltdcompany.in | 3 |
-| lawsikho.com | 3 |
-| grokipedia.com | 3 |
-| gemtenderservice.com | 3 |
+| indiamart.com | 4 |
+| industax.com | 4 |
+| fintaxx.in | 4 |
+| psrcompliance.com | 4 |
+| calcguru.in | 3 |
+| hemantgarg.com | 3 |
+| drishticonsultancy.com | 3 |
+| justax.in | 2 |
 
 ## Changes vs previous run
 
-- `gst-consultant__noida`: +1 new / -4 dropped
-- `epf-esic__noida`: +1 new / -1 dropped
-- `udyam__ghaziabad`: +7 new / -0 dropped
-- `gst-notice__patna`: +1 new / -1 dropped
-- `page__labour-code-compliance-epf-esic`: +7 new / -0 dropped
-- `page__pollution-noc-noida-ghaziabad`: +1 new / -1 dropped
-- `gem__patna`: +0 new / -7 dropped
-- `page__iso-certification-consultant`: +7 new / -0 dropped
-- `fssai__delhi`: +1 new / -1 dropped
-- `agreements__5`: +3 new / -3 dropped
-- `gst-consultant__delhi`: +2 new / -2 dropped
-- `pmfme__patna`: own 1 → None
-- `pmfme__patna`: +0 new / -7 dropped
-- `dpdp__3`: +0 new / -7 dropped
-- `company-registration__noida`: +0 new / -7 dropped
-- `gem__delhi`: +1 new / -1 dropped
-- `gst-consultant__faridabad`: +3 new / -3 dropped
-- `public-ltd__1`: +0 new / -7 dropped
-- `iec__patna`: +0 new / -7 dropped
-- `public-ltd__3`: +2 new / -2 dropped
-- `annual-roc__4`: +0 new / -7 dropped
-- `biada`: +7 new / -0 dropped
-- `pollution-noc__gurugram`: +0 new / -7 dropped
-- `dpdp__4`: +3 new / -3 dropped
-- `agreements__2`: +1 new / -1 dropped
-- `iec__faridabad`: +7 new / -0 dropped
-- `clu__delhi`: own 1 → None
-- `clu__delhi`: +0 new / -7 dropped
-- `page__bis-certification-isi-crs`: +3 new / -5 dropped
-- `page__peso-license-consultant`: own None → 1
-- `page__peso-license-consultant`: +3 new / -3 dropped
-- `page__pmfme-subsidy-consultant`: +1 new / -1 dropped
-- `ngo-12a-80g__gurugram`: +0 new / -7 dropped
-- `epf-esic__faridabad`: +0 new / -7 dropped
-- `gst-returns__1`: +4 new / -4 dropped
-- `epf-esic__gurugram`: +4 new / -7 dropped
-- `agreements__3`: +0 new / -7 dropped
-- `page__school-affiliation-consultant`: +7 new / -7 dropped
-- `itr__7`: +0 new / -7 dropped
-- `pmfme-2`: +2 new / -5 dropped
+- `gst-returns__5`: +4 new / -1 dropped
+- `gst-consultant__ghaziabad`: +3 new / -3 dropped
+- `gst-notice__patna`: +3 new / -0 dropped
+- `page__bihar-startup-policy-seed-fund`: +10 new / -0 dropped
+- `dir3kyc`: +4 new / -1 dropped
+- `ngo-12a-80g__delhi`: +6 new / -3 dropped
+- `gem__noida`: +4 new / -1 dropped
+- `gst-consultant__faridabad`: +5 new / -2 dropped
+- `gst-notice__gurugram`: +3 new / -0 dropped
+- `sole-prop__3`: +4 new / -1 dropped
+- `iec__gurugram`: +8 new / -5 dropped
+- `gst-audit__2`: +3 new / -0 dropped
+- `trademark__gurugram`: +6 new / -3 dropped
+- `pmfme__faridabad`: +3 new / -0 dropped
+- `iec__patna`: +7 new / -4 dropped
+- `page__msme-schemes`: +3 new / -0 dropped
+- `gst-returns__1`: +7 new / -4 dropped
+- `fssai__ghaziabad`: +5 new / -2 dropped
+- `shop-act__ghaziabad`: +10 new / -0 dropped
+- `page__iso-certification-consultant`: +9 new / -7 dropped
+- `agreements__5`: +4 new / -1 dropped
+- `ngo-12a-80g__gurugram`: +4 new / -1 dropped
+- `pollution-noc__gurugram`: +3 new / -0 dropped
+- `company-registration__ghaziabad`: +3 new / -0 dropped
+- `company-registration__faridabad`: +7 new / -4 dropped
+- `pollution-noc__faridabad`: +10 new / -0 dropped
+- `pollution-noc__delhi`: +3 new / -0 dropped
+- `page__gst-registration-rule-14a`: +10 new / -0 dropped
+- `itr-tds__patna`: +4 new / -1 dropped
+- `page__gem-registration-tender-bidding`: +5 new / -2 dropped
+- `gst-notice__noida`: own None → 5
+- `gst-notice__noida`: +5 new / -2 dropped
+- `annual-roc__8`: +4 new / -1 dropped
+- `loans__1`: +2 new / -0 dropped
+- `iec__delhi`: +3 new / -0 dropped
+- `annual-roc__5`: +3 new / -0 dropped
+- `gst-audit__3`: +4 new / -1 dropped
+- `page__gst-notice-first-48-hours`: +2 new / -2 dropped
+- `page__peso-license-consultant`: +3 new / -0 dropped
+- `ngo-12a-80g__faridabad`: +3 new / -0 dropped
