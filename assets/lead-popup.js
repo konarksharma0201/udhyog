@@ -147,6 +147,7 @@
     if (!fHp.value) {                         // honeypot empty = human
       store(LS, JSON.stringify(d));
       ga('generate_lead', p.ch);
+      if (window.ugPixelLead) window.ugPixelLead();
       send(payload(d, p.ch, p.href, false));
     }
     close(true); go(p);
