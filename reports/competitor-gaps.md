@@ -1,80 +1,91 @@
-# Competitor content gaps — 2026-10-18
+# Competitor content gaps — 2026-10-19
 
-Groups: 76 · competitor pages audited: 202 · blocked/unreachable: 20
+Groups: 76 · competitor pages audited: 202 · blocked/unreachable: 19
 
 ## Summary (sorted by gaps)
 | Group | Our page | Comp. pages | Avg words | FAQPage | Fee table | Dated | Gaps |
 |---|---|---|---|---|---|---|---|
-| pmfme | /pmfme-subsidy-consultant/ | 6 | 1199 | 3 | 2 | 0 | 10 |
+| strike-off | /company-strike-off-llp-closure-winding-up/ | 6 | 3420 | 4 | 3 | 3 | 23 |
+| pmfme | /pmfme-subsidy-consultant/ | 6 | 949 | 3 | 1 | 0 | 10 |
+| annual-roc | /company-annual-filing-aoc-4-mgt-7-adt-1/ | 6 | 2844 | 0 | 1 | 0 | 7 |
 | dir3kyc | - | 6 | 1948 | 2 | 3 | 1 | 7 |
-| loans | /business-loan-mudra-working-capital-cash-credit/ | 6 | 3323 | 2 | 1 | 0 | 7 |
-| rule14a | /gst-registration-rule-14a/ | 6 | 2451 | 4 | 5 | 0 | 6 |
-| company-registration | /company-registration-noida/ | 6 | 4137 | 5 | 2 | 2 | 1 |
-| trademark | /trademark-registration-noida/ | 6 | 2547 | 0 | 1 | 1 | 1 |
-| agreements | /legal-agreements-nda-founders-shareholders-rent-lease/ | 5 | 1906 | 4 | 2 | 3 | 0 |
-| annual-roc | /company-annual-filing-aoc-4-mgt-7-adt-1/ | 6 | 3557 | 2 | 2 | 2 | 0 |
+| rule14a | /gst-registration-rule-14a/ | 6 | 2416 | 4 | 5 | 1 | 4 |
+| itr-tds | /income-tax-tds-faridabad/ | 6 | 601 | 3 | 0 | 1 | 1 |
+| loans | /business-loan-mudra-working-capital-cash-credit/ | 6 | 914 | 1 | 1 | 0 | 1 |
+| sole-prop | /sole-proprietorship-registration-udyam-gst/ | 6 | 1396 | 4 | 3 | 3 | 1 |
+| agreements | /legal-agreements-nda-founders-shareholders-rent-lease/ | 6 | 3323 | 3 | 1 | 2 | 0 |
 | biada | /biada-land-allotment-bihar-industrial-policy/ | 4 | 220 | 0 | 0 | 1 | 0 |
-| clu | /land-conversion-clu-consultant/ | 6 | 485 | 1 | 1 | 1 | 0 |
-| dpdp | /dpdp-act-compliance-privacy-policy/ | 6 | 1929 | 5 | 2 | 2 | 0 |
-| epf-esic | /labour-code-compliance-epf-esic/ | 6 | 510 | 1 | 0 | 0 | 0 |
-| fssai | /fssai-license-gurugram/ | 6 | 3549 | 1 | 1 | 1 | 0 |
-| gem | /gem-registration-tender-bidding/ | 5 | 1448 | 3 | 0 | 0 | 0 |
-| gst-audit | /gst-audit-assessment-dggi-health-check/ | 6 | 1214 | 0 | 0 | 0 | 0 |
-| gst-consultant | /gst-notice-reply/ | 7 | 1384 | 3 | 0 | 1 | 0 |
-| gst-notice | /gst-consultant-noida/ | 6 | 1471 | 3 | 0 | 1 | 0 |
-| gst-returns | /gst-return-filing-gstr-1-gstr-3b-qrmp/ | 6 | 1747 | 3 | 4 | 1 | 0 |
-| iec | /import-export-iec-dgft-consultant/ | 5 | 1182 | 2 | 0 | 2 | 0 |
-| itr | /itr-filing-forms-itr-1-to-itr-4-documents/ | 6 | 1791 | 3 | 2 | 3 | 0 |
-| itr-tds | /income-tax-tds-noida/ | 5 | 999 | 2 | 0 | 1 | 0 |
-| l17 | /liquor-excise-license-delhi/ | 3 | 335 | 0 | 1 | 1 | 0 |
-| ngo-12a-80g | /ngo-trust-12a-80g-fcra-registration/ | 5 | 460 | 1 | 1 | 0 | 0 |
-| page__advance-authorisation-epcg-consultant | /advance-authorisation-epcg-consultant/ | 6 | 621 | 0 | 0 | 0 | 0 |
-| page__asmt-10-reply | /asmt-10-reply/ | 6 | 1397 | 3 | 2 | 2 | 0 |
-| page__biada-land-allotment-bihar-industrial-policy | /biada-land-allotment-bihar-industrial-policy/ | 4 | 457 | 0 | 0 | 0 | 0 |
-| page__bihar-government-tenders | /bihar-government-tenders/ | 1 | 10 | 0 | 0 | 0 | 0 |
+| clu | /land-conversion-clu-consultant/ | 6 | 229 | 0 | 0 | 0 | 0 |
+| company-registration | /company-registration-noida/ | 6 | 3990 | 3 | 1 | 2 | 0 |
+| dpdp | /dpdp-act-compliance-privacy-policy/ | 6 | 1490 | 2 | 2 | 2 | 0 |
+| epf-esic | /labour-code-compliance-epf-esic/ | 5 | 342 | 1 | 0 | 0 | 0 |
+| fssai | /fssai-license-patna/ | 5 | 5212 | 1 | 3 | 1 | 0 |
+| gem | /gem-registration-tender-bidding/ | 3 | 372 | 1 | 0 | 0 | 0 |
+| gst-audit | /gst-audit-assessment-dggi-health-check/ | 5 | 1111 | 2 | 1 | 2 | 0 |
+| gst-consultant | /gst-notice-reply/ | 6 | 716 | 1 | 0 | 0 | 0 |
+| gst-notice | /gst-notice-reply/ | 6 | 534 | 2 | 1 | 0 | 0 |
+| gst-returns | /gst-return-filing-gstr-1-gstr-3b-qrmp/ | 6 | 1494 | 2 | 3 | 2 | 0 |
+| iec | /import-export-iec-dgft-consultant/ | 6 | 173 | 2 | 0 | 1 | 0 |
+| itr | /itr-filing-forms-itr-1-to-itr-4-documents/ | 5 | 2219 | 1 | 1 | 1 | 0 |
+| l17 | /liquor-excise-license-delhi/ | 4 | 1460 | 0 | 3 | 1 | 0 |
+| ngo-12a-80g | /ngo-trust-12a-80g-fcra-registration/ | 5 | 15 | 0 | 0 | 0 | 0 |
+| page__advance-authorisation-epcg-consultant | /advance-authorisation-epcg-consultant/ | 6 | 622 | 0 | 0 | 0 | 0 |
+| page__asmt-10-reply | /asmt-10-reply/ | 6 | 1400 | 3 | 2 | 2 | 0 |
+| page__biada-land-allotment-bihar-industrial-policy | /biada-land-allotment-bihar-industrial-policy/ | 4 | 456 | 0 | 0 | 0 | 0 |
+| page__bihar-government-tenders | /bihar-government-tenders/ | 2 | 84 | 0 | 0 | 1 | 0 |
 | page__bihar-gst-consultant | /bihar-gst-consultant/ | 6 | 93 | 0 | 0 | 0 | 0 |
 | page__bihar-startup-policy-seed-fund | /bihar-startup-policy-seed-fund/ | 2 | 1040 | 0 | 1 | 1 | 0 |
-| page__business-loan-subsidy-consultant | /business-loan-subsidy-consultant/ | 4 | 629 | 0 | 0 | 0 | 0 |
-| page__cma-data-bankable-dpr-consultant | /cma-data-bankable-dpr-consultant/ | 5 | 264 | 1 | 0 | 0 | 0 |
-| page__fssai-license-consultant | /fssai-license-consultant/ | 2 | 9480 | 0 | 1 | 1 | 0 |
+| page__bis-certification-isi-crs | /bis-certification-isi-crs/ | 4 | 2135 | 1 | 0 | 2 | 0 |
+| page__business-loan-subsidy-consultant | /business-loan-subsidy-consultant/ | 3 | 687 | 1 | 0 | 0 | 0 |
+| page__cma-data-bankable-dpr-consultant | /cma-data-bankable-dpr-consultant/ | 2 | 520 | 1 | 0 | 0 | 0 |
+| page__gst-notice-reply | /gst-notice-reply/ | 3 | 978 | 1 | 1 | 1 | 0 |
 | page__gst-registration-rule-14a | /gst-registration-rule-14a/ | 2 | 2063 | 1 | 1 | 0 | 0 |
 | page__import-export-iec-dgft-consultant | /import-export-iec-dgft-consultant/ | 1 | 852 | 0 | 0 | 0 | 0 |
-| page__land-conversion-clu-consultant | /land-conversion-clu-consultant/ | 3 | 217 | 0 | 0 | 0 | 0 |
+| page__income-tax-notice-reply | /income-tax-notice-reply/ | 1 | 10 | 0 | 0 | 0 | 0 |
+| page__industrial-approvals-single-window-consultant | /industrial-approvals-single-window-consultant/ | 1 | 493 | 0 | 0 | 0 | 0 |
+| page__land-conversion-clu-consultant | /land-conversion-clu-consultant/ | 4 | 167 | 0 | 0 | 0 | 0 |
 | page__pmfme-subsidy-bihar | /pmfme-subsidy-bihar/ | 2 | 486 | 0 | 1 | 0 | 0 |
 | page__pollution-noc-gurugram-faridabad | /pollution-noc-gurugram-faridabad/ | 2 | 1165 | 0 | 0 | 0 | 0 |
-| patent-design | /patent-design-registration-ip-infringement/ | 5 | 339 | 0 | 0 | 0 | 0 |
-| pmfme-2 | /pmfme-subsidy-consultant/ | 3 | 532 | 0 | 0 | 2 | 0 |
+| patent-design | /patent-design-registration-ip-infringement/ | 6 | 911 | 2 | 0 | 0 | 0 |
+| pmfme-2 | /pmfme-subsidy-consultant/ | 3 | 528 | 0 | 0 | 2 | 0 |
 | pollution-noc | /pollution-noc-noida-ghaziabad/ | 6 | 1001 | 0 | 0 | 0 | 0 |
-| public-ltd | /public-limited-company-registration/ | 6 | 1486 | 4 | 1 | 1 | 0 |
-| shop-act | /shop-act-epf-esic-gurugram/ | 6 | 977 | 3 | 1 | 1 | 0 |
-| sole-prop | /sole-proprietorship-registration-udyam-gst/ | 4 | 245 | 1 | 0 | 0 | 0 |
-| strike-off | /company-strike-off-llp-closure-winding-up/ | 5 | 3115 | 4 | 2 | 2 | 0 |
-| udyam | /msme-schemes/ | 6 | 1995 | 1 | 0 | 1 | 0 |
+| public-ltd | /public-limited-company-registration/ | 6 | 1736 | 2 | 4 | 2 | 0 |
+| shop-act | /shop-act-epf-esic-gurugram/ | 6 | 976 | 3 | 1 | 1 | 0 |
+| trademark | /trademark-registration-noida/ | 6 | 3835 | 1 | 3 | 1 | 0 |
+| udyam | /msme-schemes/ | 5 | 4103 | 4 | 1 | 0 | 0 |
 
 ## agreements
-Our page: `/legal-agreements-nda-founders-shareholders-rent-lease/` · competitors audited: 5 · avg words 1906 · with FAQPage 4/5 · fee table 2/5 · dated 3/5 · WhatsApp 2/5 · avg FAQs 7.4
+Our page: `/legal-agreements-nda-founders-shareholders-rent-lease/` · competitors audited: 6 · avg words 3323 · with FAQPage 3/6 · fee table 1/6 · dated 2/6 · WhatsApp 3/6 · avg FAQs 6.7
 
 **Competitor pages (by frequency in top-10):**
-- https://www.goodtenent.com/landlord-rights-rental-laws/rental-agreement-registration-in-india-stamp-duty-process — 1937w, 7 FAQs, FAQPage, fee table, schema: Answer, BlogPosting, BreadcrumbList, FAQPage, ImageObject
-- https://www.vishalchande.com/post/stamp-duty-and-registration-for-rental-agreement-in-maharashtra-2025-guide — 18w, 0 FAQs, schema: BlogPosting, ImageObject, Organization, Person, itemPage
-- https://indiapost.org/rent-agreement — 3916w, 9 FAQs, FAQPage, schema: Answer, BlogPosting, BreadcrumbList, FAQPage, ImageObject
-- https://digilawyer.ai/blogs/stamp-duty-on-rent-agreement-in-delhi — 2181w, 13 FAQs, FAQPage, fee table, schema: AggregateRating, Answer, Blog, BlogPosting, ContactPoint
-- https://legalang.org/tools/legal/rent-agreement-stamp-duty-bihar.html — 1482w, 8 FAQs, FAQPage, schema: Answer, BreadcrumbList, FAQPage, ListItem, Question
+- https://www.indiafilings.com/learn/non-disclosure-agreement-template — 2175w, 10 FAQs, FAQPage, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
+- https://blog.ipleaders.in/how-to-draft-an-nda-non-disclosure-agreement-in-india/ — 12750w, 20 FAQs, FAQPage, fee table, schema: Answer, Article, BreadcrumbList, CommentAction, CreativeWork
+- https://www.captain.legal/in/contracts/non-disclosure-agreement-nda-india-free-template/ — 3177w, 9 FAQs, FAQPage, schema: AggregateRating, Answer, Brand, BreadcrumbList, DefinedRegion
+- https://lawsikho.com/blog/how-to-draft-a-non-disclosure-agreement-nda/ — 8w, 0 FAQs, schema: BlogPosting, ImageObject, Organization, Person, SiteNavigationElement
+- https://vakilsearch.com/learn/nda-agreement-format-india/ — 10w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, ListItem, Organization
+- https://doculau.com/in/document/non-disclosure-agreement-nda — 1819w, 1 FAQs, schema: Brand, BreadcrumbList, ContactPoint, DefinedRegion, EntryPoint
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## annual-roc
-Our page: `/company-annual-filing-aoc-4-mgt-7-adt-1/` · competitors audited: 6 · avg words 3557 · with FAQPage 2/6 · fee table 2/6 · dated 2/6 · WhatsApp 4/6 · avg FAQs 8.0
+Our page: `/company-annual-filing-aoc-4-mgt-7-adt-1/` · competitors audited: 6 · avg words 2844 · with FAQPage 0/6 · fee table 1/6 · dated 0/6 · WhatsApp 5/6 · avg FAQs 4.8
 
 **Competitor pages (by frequency in top-10):**
 - https://taxguru.in/company-law/mca-annual-filing-aoc-4-mgt-7-compliance-guide.html — 2911w, 13 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, NewsArticle
-- https://blog.saginfotech.com/due-dates-filing-roc-annual-return — 1626w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, ListItem, Organization
+- https://blog.saginfotech.com/due-dates-filing-roc-annual-return — 1621w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, ListItem, Organization
 - https://nbassociates.net/roc-annual-filing-consultant-india/ — 3455w, 11 FAQs, schema: BreadcrumbList, ListItem, Organization, WebPage, WebSite
-- https://sapnamalpani.com/blog/mgt-7-mgt-7a-annual-return-due-date-penalty-section-92-guide-2026/ — 2936w, 9 FAQs, FAQPage, fee table, schema: Answer, Article, BlogPosting, FAQPage, ImageObject
-- https://cleartax.in/s/mgt7-companies-act-2013 — 1624w, 5 FAQs, schema: Article, BreadcrumbList, ImageObject, ListItem, Organization
-- https://www.corplawupdates.in/updates/form-mgt-7-mgt-7a-annual-return-guide-2026 — 8793w, 10 FAQs, FAQPage, fee table, schema: Answer, BreadcrumbList, ContactPoint, CreativeWork, EntryPoint
+- https://taxguru.in/company-law/form-dpt-3-filing-due-date-applicability-penalties-procedure.html — 1092w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, NewsArticle
+- https://taxguru.in/company-law/dpt-3-provision-applicability-due-date-purpose.html — 3414w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, NewsArticle
+- https://www.corplawupdates.in/updates/form-dpt-3-filing-guide-fy-2025-26 — 4573w, 5 FAQs, fee table, schema: BreadcrumbList, ContactPoint, CreativeWork, EntryPoint, ImageObject
 
-**No multi-competitor topic gaps detected against our page.**
+**Topics on 2+ competitor pages that our page does not cover (add or answer):**
+- (3) sfio investigation cannot stayed merely because statutory time
+- (3) stays sfio investigation against sahara companies over companies
+- (3) 95% shareholder consent supports meeting dispensation cross-border scheme
+- (3) get taxguru app
+- (2) section 156a reduce income tax demands scheme sanction
+- (2) futech anka amalgamation sanctioned subject transferor tribunal approval
+- (2) amalgamation sanction exempt stamp duty taxes nclt ahmedabad
 
 ## biada
 Our page: `/biada-land-allotment-bihar-industrial-policy/` · competitors audited: 4 · avg words 220 · with FAQPage 0/4 · fee table 0/4 · dated 1/4 · WhatsApp 2/4 · avg FAQs 0.5
@@ -88,7 +99,7 @@ Our page: `/biada-land-allotment-bihar-industrial-policy/` · competitors audite
 **No multi-competitor topic gaps detected against our page.**
 
 ## clu
-Our page: `/land-conversion-clu-consultant/` · competitors audited: 6 · avg words 485 · with FAQPage 1/6 · fee table 1/6 · dated 1/6 · WhatsApp 4/6 · avg FAQs 1.8
+Our page: `/land-conversion-clu-consultant/` · competitors audited: 6 · avg words 229 · with FAQPage 0/6 · fee table 0/6 · dated 0/6 · WhatsApp 3/6 · avg FAQs 0.3
 
 **Competitor pages (by frequency in top-10):**
 - https://jsr-associate.com/ — 636w, 2 FAQs, schema: LegalService, PostalAddress
@@ -96,23 +107,22 @@ Our page: `/land-conversion-clu-consultant/` · competitors audited: 6 · avg wo
 - https://rapidconsulting.in/change-in-land-use/ — 17w, 0 FAQs, schema: BlogPosting, BreadcrumbList, ImageObject, ListItem, Organization
 - https://bhavyaassociates.com/change-of-land-use-clu/ — 8w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
 - https://rapidconsulting.in/change-of-land-use-clu-consultant-in-haryana/ — 10w, 0 FAQs, schema: BlogPosting, BreadcrumbList, ImageObject, ListItem, Organization
-- https://2bigha.ai/guides/delhi/clu-change-land-use-delhi-check-online — 2239w, 9 FAQs, FAQPage, fee table, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
+- https://www.liaisonforharyana.com/ — 699w, 0 FAQs, schema: LocalBusiness, PostalAddress
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## company-registration
-Our page: `/company-registration-noida/` · competitors audited: 6 · avg words 4137 · with FAQPage 5/6 · fee table 2/6 · dated 2/6 · WhatsApp 6/6 · avg FAQs 8.0
+Our page: `/company-registration-noida/` · competitors audited: 6 · avg words 3990 · with FAQPage 3/6 · fee table 1/6 · dated 2/6 · WhatsApp 5/6 · avg FAQs 7.0
 
 **Competitor pages (by frequency in top-10):**
-- https://www.industax.com/company-registration-consultant-in-gurugram — 670w, 5 FAQs, FAQPage, schema: AccountingService, AdministrativeArea, Answer, BreadcrumbList, ContactAction
-- https://www.legal24by7.com/company-registration/gurugram — 1017w, 7 FAQs, FAQPage, schema: AggregateRating, Answer, BreadcrumbList, City, ContactPoint
-- https://www.hemantgarg.com/business-registration-gurugram — 258w, 4 FAQs, FAQPage, schema: AccountingService, Answer, FAQPage, PostalAddress, Question
-- https://taxamc.com/article-company-registration-gurugram.html — 1321w, 5 FAQs, FAQPage, fee table, schema: Answer, Article, FAQPage, ImageObject, Organization
-- https://filingbuddy.global/en-in/services/company-registration-gurugram — 3052w, 13 FAQs, FAQPage, schema: Answer, City, ContactPoint, FAQPage, ImageObject
-- https://www.raagconsultants.co.in/company-registration-in-gurugram — 18504w, 14 FAQs, fee table, schema: ContactPoint, Organization
+- https://www.jayaselection.com/company-registration-consultant.html — 1108w, 0 FAQs, schema: AggregateRating, Country, GeoCoordinates, LocalBusiness, PostalAddress
+- https://rahulrajeshandassociates.com/company-incorporation-faridabad/ — 8w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
+- https://dmcgloballlp.com/company-registration-services-in-faridabad — 1391w, 9 FAQs, FAQPage, schema: AdministrativeArea, AggregateRating, Answer, BreadcrumbList, BusinessAudience
+- https://www.legal24by7.com/private-limited-company/faridabad — 1014w, 7 FAQs, FAQPage, schema: AggregateRating, Answer, BreadcrumbList, City, ContactPoint
+- https://www.startupadvisory.in/company-registration-faridabad.htm — 1918w, 12 FAQs, FAQPage, schema: Answer, BreadcrumbList, City, FAQPage, GeoCoordinates
+- https://www.raagconsultants.co.in/company-registration-in-faridabad — 18504w, 14 FAQs, fee table, schema: ContactPoint, Organization
 
-**Topics on 2+ competitor pages that our page does not cover (add or answer):**
-- (2) types company
+**No multi-competitor topic gaps detected against our page.**
 
 ## dir3kyc
 Our page: `-` · competitors audited: 6 · avg words 1948 · with FAQPage 2/6 · fee table 3/6 · dated 1/6 · WhatsApp 5/6 · avg FAQs 5.7
@@ -135,194 +145,185 @@ Our page: `-` · competitors audited: 6 · avg words 1948 · with FAQPage 2/6 ·
 - (2) get taxguru app
 
 ## dpdp
-Our page: `/dpdp-act-compliance-privacy-policy/` · competitors audited: 6 · avg words 1929 · with FAQPage 5/6 · fee table 2/6 · dated 2/6 · WhatsApp 4/6 · avg FAQs 8.5
+Our page: `/dpdp-act-compliance-privacy-policy/` · competitors audited: 6 · avg words 1490 · with FAQPage 2/6 · fee table 2/6 · dated 2/6 · WhatsApp 4/6 · avg FAQs 3.7
 
 **Competitor pages (by frequency in top-10):**
 - https://www.ey.com/en_in/insights/cybersecurity/decoding-the-digital-personal-data-protection-act-2023 — 1599w, 0 FAQs, schema: Article, Organization, Person, WebPage
-- https://www.tcsa.in/resources/top-dpdp-consultants-india — 4259w, 16 FAQs, FAQPage, fee table, schema: Answer, BreadcrumbList, City, CollegeOrUniversity, ContactPoint
-- https://qualysec.com/dpdp-consultants/ — 2430w, 11 FAQs, FAQPage, fee table, schema: Answer, Article, BreadcrumbList, CommentAction, EntryPoint
-- https://pricoris.com/dpdp-act-consultant-india/ — 11w, 8 FAQs, FAQPage, schema: Answer, BreadcrumbList, ContactPoint, EntryPoint, FAQPage
-- https://aizzentec.com/ — 2044w, 9 FAQs, FAQPage, schema: Answer, ContactPoint, Country, EducationalOccupationalCredential, FAQPage
-- https://zerobridgeconsultants.com/ — 1232w, 7 FAQs, FAQPage, schema: Answer, Country, FAQPage, ImageObject, Offer
+- https://www.qodequay.com/dpdpa-compliance-timeline-phases-deadlines — 69w, 1 FAQs, schema: BlogPosting, BreadcrumbList, ImageObject, ListItem, Organization
+- https://www.macksofy.com/blog/dpdp-rules-2025-compliance-deadlines — 2075w, 7 FAQs, FAQPage, fee table, schema: AdministrativeArea, Answer, BlogPosting, BreadcrumbList, City
+- https://protectcomply.com/blog/dpdp-rules-2025-timeline/ — 1809w, 0 FAQs, schema: Article, BreadcrumbList, EntryPoint, ImageObject, ListItem
+- https://legismith.com/dpdp-rules-2025-timeline/ — 11w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, LegalService, ListItem
+- https://www.tcsa.in/resources/dpdp-rules-2025-implementation-roadmap — 3377w, 14 FAQs, FAQPage, fee table, schema: Answer, BlogPosting, City, CollegeOrUniversity, ContactPoint
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## epf-esic
-Our page: `/labour-code-compliance-epf-esic/` · competitors audited: 6 · avg words 510 · with FAQPage 1/6 · fee table 0/6 · dated 0/6 · WhatsApp 5/6 · avg FAQs 3.5
+Our page: `/labour-code-compliance-epf-esic/` · competitors audited: 5 · avg words 342 · with FAQPage 1/5 · fee table 0/5 · dated 0/5 · WhatsApp 4/5 · avg FAQs 2.6
 
 **Competitor pages (by frequency in top-10):**
 - https://pfesiconsultancy.com/ — 12w, 0 FAQs, schema: ContactPoint, Corporation, ImageObject, SiteNavigationElement, WebSite
-- https://www.edps.in/blogs/pfesic-consultancy-in-gurugram-pf-esi-compliance-services — 785w, 9 FAQs, schema: -
-- https://oamhrconsultants.com/services/pf-esic-compliance/ — 11w, 0 FAQs, schema: Article, ImageObject, Organization, Person, WebPage
-- http://teamindiacompliance.com/ — 1319w, 12 FAQs, FAQPage, schema: AdministrativeArea, Answer, City, Country, FAQPage
-- https://girishchaudharyassociates.com/insights-media/epf-consultant-in-gurugram — 920w, 0 FAQs, schema: -
-- https://epfwala.com/pf-consultant-in-gurgaon/ — 16w, 0 FAQs, schema: BreadcrumbList, ImageObject, ListItem, Organization, WebPage
+- https://taxsupportindia.com/esic-pf-consultancy-services-in-noida/ — 14w, 0 FAQs, schema: BlogPosting, BreadcrumbList, ImageObject, ListItem, Organization
+- https://apexjudicialservices.com/service/pf-esic-consultant-in-noida/ — 24w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
+- https://factorylicence.in/pf-esic-consultant-in-noida — 1645w, 13 FAQs, FAQPage, schema: Answer, BreadcrumbList, ContactPoint, FAQPage, ListItem
+- https://epfwala.com/pf-consultant-in-noida/ — 16w, 0 FAQs, schema: BreadcrumbList, ImageObject, ListItem, Organization, WebPage
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## fssai
-Our page: `/fssai-license-gurugram/` · competitors audited: 6 · avg words 3549 · with FAQPage 1/6 · fee table 1/6 · dated 1/6 · WhatsApp 5/6 · avg FAQs 5.8
+Our page: `/fssai-license-patna/` · competitors audited: 5 · avg words 5212 · with FAQPage 1/5 · fee table 3/5 · dated 1/5 · WhatsApp 3/5 · avg FAQs 5.6
 
 **Competitor pages (by frequency in top-10):**
-- http://www.fssailicense.net/ — 792w, 4 FAQs, schema: -
-- https://www.raagconsultants.co.in/fssai-food-license-consultant-delhi — 18168w, 18 FAQs, fee table, schema: ContactPoint, Organization
-- https://mrdxregulatory.com/fssai-license-delhi — 1357w, 13 FAQs, FAQPage, schema: AdministrativeArea, Answer, BreadcrumbList, City, ContactPoint
-- https://www.indiannexus.com/blog/fssai-license-consultants-in-delhi — 13w, 0 FAQs, schema: Corporation
-- https://www.ruchitadang.com/service/fssai-registration/ — 8w, 0 FAQs, schema: BreadcrumbList, ImageObject, ListItem, Organization, WebPage
-- https://www.foodlicenseindia.com/fssai-food-license-registration-consultant-in-delhi — 960w, 0 FAQs, schema: -
+- https://www.raagconsultants.co.in/fssai-food-license-consultant-noida — 18168w, 18 FAQs, fee table, schema: ContactPoint, Organization
+- https://www.foodlicenseindia.com/fssai-food-license-registration-consultant-in-noida — 916w, 0 FAQs, schema: -
+- https://www.psrcompliance.co.in/fssai-licence-consultant.html — 2380w, 0 FAQs, fee table, schema: AggregateRating, Country, GeoCoordinates, LocalBusiness, PostalAddress
+- https://www.fssaiconsult.com/fssai-license-noida — 1658w, 10 FAQs, FAQPage, fee table, schema: AdministrativeArea, Answer, BreadcrumbList, City, FAQPage
+- https://www.psrcompliance.co.in/food-license-service.html — 2940w, 0 FAQs, schema: AggregateRating, Country, GeoCoordinates, LocalBusiness, PostalAddress
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## gem
-Our page: `/gem-registration-tender-bidding/` · competitors audited: 5 · avg words 1448 · with FAQPage 3/5 · fee table 0/5 · dated 0/5 · WhatsApp 4/5 · avg FAQs 10.6
+Our page: `/gem-registration-tender-bidding/` · competitors audited: 3 · avg words 372 · with FAQPage 1/3 · fee table 0/3 · dated 0/3 · WhatsApp 1/3 · avg FAQs 2.7
 
 **Competitor pages (by frequency in top-10):**
 - https://gemconsultant.org/ — 5w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
-- https://gemtenderservice.com/gem-consultant-patna — 774w, 8 FAQs, FAQPage, schema: AggregateRating, Answer, BreadcrumbList, Country, FAQPage
-- https://www.nivixindia.com/gem-registration-patna — 1999w, 7 FAQs, schema: ContactPoint, ImageObject, LocalBusiness, Organization, PostalAddress
-- https://tender18.com/gem-consultant-registration-services/patna — 2583w, 26 FAQs, FAQPage, schema: AggregateRating, Answer, FAQPage, GeoCoordinates, LocalBusiness
-- https://www.certification4u.com/ — 1881w, 12 FAQs, FAQPage, schema: AdministrativeArea, AggregateRating, Answer, City, ContactPoint
+- https://www.vedamode.com/ — 11w, 0 FAQs, schema: Article, BreadcrumbList, ContactPoint, Corporation, ImageObject
+- https://gemtenderservice.com/gem-consultant-delhi — 1100w, 8 FAQs, FAQPage, schema: AggregateRating, Answer, BreadcrumbList, Country, FAQPage
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## gst-audit
-Our page: `/gst-audit-assessment-dggi-health-check/` · competitors audited: 6 · avg words 1214 · with FAQPage 0/6 · fee table 0/6 · dated 0/6 · WhatsApp 5/6 · avg FAQs 1.3
+Our page: `/gst-audit-assessment-dggi-health-check/` · competitors audited: 5 · avg words 1111 · with FAQPage 2/5 · fee table 1/5 · dated 2/5 · WhatsApp 4/5 · avg FAQs 3.0
 
 **Competitor pages (by frequency in top-10):**
-- https://www.rvaca.in/ — 12w, 0 FAQs, schema: -
-- https://www.legalntaxindia.com/service/gst-audit-in-india — 569w, 1 FAQs, schema: SearchAction, WebSite
-- https://guptataxconsultants.in/ — 1724w, 0 FAQs, schema: AccountingService, GeoCoordinates, PostalAddress
-- https://marckenconsulting.com/gst-consultant-in-delhi/ — 3597w, 5 FAQs, schema: BlogPosting, BreadcrumbList, ImageObject, ListItem, Organization
-- https://www.kyragst.com/professional-gst-audit-firm-in-delhi/ — 1377w, 2 FAQs, schema: Article, BreadcrumbList, CommentAction, EntryPoint, ImageObject
-- https://ssfintax.com/services/gst-audit-services-in-delhi/ — 8w, 0 FAQs, schema: -
+- https://filingsuvidha.com/blogs/news/gst-notice-reply-format — 2431w, 4 FAQs, fee table, schema: Article, BlogPosting, BreadcrumbList, ListItem, LocalBusiness
+- https://vakilkaro.com/blogs/complete-guide-to-replying-gst-scrutiny-notice — 2609w, 4 FAQs, FAQPage, schema: Answer, Article, FAQPage, Organization, Person
+- https://www.club4ca.com/formats/gst-format/reply-letter-format-to-gst-department/ — 31w, 0 FAQs, schema: Article, BreadcrumbList, CommentAction, EntryPoint, ImageObject
+- https://calcguru.in/tax-notice-reply/ — 10w, 0 FAQs, schema: BreadcrumbList, ImageObject, ListItem, Organization, WebPage
+- https://smartgst.in/tools/gst-notice-reply-generator — 474w, 7 FAQs, FAQPage, schema: Answer, BreadcrumbList, ContactPoint, EntryPoint, FAQPage
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## gst-consultant
-Our page: `/gst-notice-reply/` · competitors audited: 7 · avg words 1384 · with FAQPage 3/7 · fee table 0/7 · dated 1/7 · WhatsApp 7/7 · avg FAQs 6.3
+Our page: `/gst-notice-reply/` · competitors audited: 6 · avg words 716 · with FAQPage 1/6 · fee table 0/6 · dated 0/6 · WhatsApp 5/6 · avg FAQs 3.2
 
 **Competitor pages (by frequency in top-10):**
-- https://gstconsultants.net/ — 8w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
-- https://www.kyragst.com/trusted-gst-consultant-in-noida/ — 1434w, 2 FAQs, schema: Article, BreadcrumbList, CommentAction, EntryPoint, ImageObject
-- https://apstaxindia.com/ — 1114w, 12 FAQs, FAQPage, schema: Answer, BlogPosting, FAQPage, Organization, Person
-- https://www.kyragst.com/top-gst-consultant-in-noida/ — 1464w, 2 FAQs, schema: Article, BreadcrumbList, EntryPoint, ImageObject, ListItem
-- https://www.justax.in/locations/gst-consultant-noida — 1897w, 21 FAQs, FAQPage, schema: Answer, FAQPage, GeoCoordinates, LocalBusiness, PostalAddress
-- https://www.vsbansalca.com/gst-consultant-noida — 175w, 2 FAQs, FAQPage, schema: AccountingService, AggregateRating, Answer, BreadcrumbList, BusinessAudience
-- https://marckenconsulting.com/gst-consultant-in-delhi/ — 3597w, 5 FAQs, schema: BlogPosting, BreadcrumbList, ImageObject, ListItem, Organization
+- https://www.rpsa.co.in/gst-consultant.html — 167w, 0 FAQs, schema: -
+- https://www.kyragst.com/gst-consultant-in-gurugram/ — 1401w, 2 FAQs, schema: Article, BreadcrumbList, CommentAction, EntryPoint, ImageObject
+- https://www.kyragst.com/top-gst-consultant-in-gurugram/ — 1453w, 2 FAQs, schema: Article, BreadcrumbList, EntryPoint, ImageObject, ListItem
+- https://www.newagetax.in/ — 334w, 1 FAQs, schema: WebSite
+- https://www.cahemantgarg.com/gst-consultant-in-gurgaon — 815w, 12 FAQs, schema: -
+- https://www.hemantgarg.com/gst-consultant-gurugram — 128w, 2 FAQs, FAQPage, schema: AccountingService, Answer, FAQPage, PostalAddress, Question
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## gst-notice
-Our page: `/gst-consultant-noida/` · competitors audited: 6 · avg words 1471 · with FAQPage 3/6 · fee table 0/6 · dated 1/6 · WhatsApp 6/6 · avg FAQs 4.3
+Our page: `/gst-notice-reply/` · competitors audited: 6 · avg words 534 · with FAQPage 2/6 · fee table 1/6 · dated 0/6 · WhatsApp 5/6 · avg FAQs 2.5
 
 **Competitor pages (by frequency in top-10):**
 - https://myconsultant.in/gst-notice-reply.php — 969w, 1 FAQs, schema: Country, LegalService, PostalAddress
-- https://www.kyragst.com/gst-notice-reply-consultant-in-gurugram/ — 1382w, 2 FAQs, schema: Article, BreadcrumbList, CommentAction, EntryPoint, ImageObject
-- https://dmcgloballlp.com/gst-notice-reply-consultant-in-gurgaon — 1768w, 11 FAQs, FAQPage, schema: AdministrativeArea, AggregateRating, Answer, BreadcrumbList, BusinessAudience
-- https://www.kyragst.com/gst-notice-reply-consultant-near-me-gurugram/ — 1299w, 2 FAQs, schema: Article, BreadcrumbList, EntryPoint, ImageObject, ListItem
-- https://www.hemantgarg.com/gst-notice-consultant-gurugram — 252w, 3 FAQs, FAQPage, schema: AccountingService, Answer, FAQPage, PostalAddress, Question
-- https://www.patronaccounting.com/gst-notice/gurugram — 3156w, 7 FAQs, FAQPage, schema: AdministrativeArea, Answer, BreadcrumbList, City, CommunicateAction
+- https://gst.bihar.in/gst-consultant-in-patna/ — 10w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, LegalService, ListItem
+- https://gst.bihar.in/ — 12w, 0 FAQs, schema: Article, ImageObject, LegalService, Organization, Person
+- https://taxamc.com/article-gst-notice-reply-patna.html — 2191w, 4 FAQs, FAQPage, fee table, schema: Answer, Article, FAQPage, ImageObject, Organization
+- https://disytax.com/gst-consultant-patna-bihar/ — 12w, 0 FAQs, schema: BreadcrumbList, ListItem
+- https://gstlawyer.in/gst-notice-reply-service-in-patna/ — 14w, 10 FAQs, FAQPage, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## gst-returns
-Our page: `/gst-return-filing-gstr-1-gstr-3b-qrmp/` · competitors audited: 6 · avg words 1747 · with FAQPage 3/6 · fee table 4/6 · dated 1/6 · WhatsApp 4/6 · avg FAQs 5.8
+Our page: `/gst-return-filing-gstr-1-gstr-3b-qrmp/` · competitors audited: 6 · avg words 1494 · with FAQPage 2/6 · fee table 3/6 · dated 2/6 · WhatsApp 3/6 · avg FAQs 4.2
 
 **Competitor pages (by frequency in top-10):**
 - https://taxgarden.in/blog/gst-return-due-dates-calendar-gstr-1-3b-9-fy-2025-26-india — 2637w, 7 FAQs, FAQPage, fee table, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
+- https://cleartax.in/s/gstr-3b — 2145w, 10 FAQs, FAQPage, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
+- https://razorpay.com/learn/gstr-3b-return-filing/ — 10w, 0 FAQs, schema: BlogPosting, BreadcrumbList, ImageObject, ListItem, Organization
+- https://caportal.saginfotech.com/blog/gstr-3b-due-dates/ — 10w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, ListItem, Organization
+- https://www.dmifinance.in/gst/https-www-dmifinance-in-gstr-3b-filing-guide/ — 2250w, 4 FAQs, fee table, schema: Article, BreadcrumbList, CommentAction, EntryPoint, ImageObject
 - https://www.erpgroup.in/gst-calendar — 1914w, 4 FAQs, fee table, schema: Article, BreadcrumbList, ContactPoint, EntryPoint, GeoCoordinates
-- https://cleartax.in/s/gstr-9-annual-return — 2346w, 9 FAQs, FAQPage, fee table, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
-- https://calcguru.in/gstr-9-9c-fy-2025-26-due-date-thresholds/ — 13w, 0 FAQs, schema: BlogPosting, BreadcrumbList, ImageObject, ListItem, Organization
-- https://taxclue.in/guide/gst-annual-return — 3566w, 15 FAQs, FAQPage, fee table, schema: Answer, Article, BreadcrumbList, EntryPoint, FAQPage
-- https://accountune.com/gstr-9-annual-return — 10w, 0 FAQs, schema: -
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## iec
-Our page: `/import-export-iec-dgft-consultant/` · competitors audited: 5 · avg words 1182 · with FAQPage 2/5 · fee table 0/5 · dated 2/5 · WhatsApp 5/5 · avg FAQs 20.2
+Our page: `/import-export-iec-dgft-consultant/` · competitors audited: 6 · avg words 173 · with FAQPage 2/6 · fee table 0/6 · dated 1/6 · WhatsApp 4/6 · avg FAQs 1.8
 
 **Competitor pages (by frequency in top-10):**
-- https://www.industax.com/import-export-code-registration-consultant-in-noida — 764w, 5 FAQs, FAQPage, schema: AccountingService, AdministrativeArea, Answer, BreadcrumbList, ContactAction
-- https://jcscertifications.com/importexport-code-consultant-in-noida — 1411w, 0 FAQs, schema: GeoCoordinates, LegalService, OpeningHoursSpecification, PostalAddress
-- https://noidabn.com/export-consultant-in-noida/ — 71w, 0 FAQs, schema: AggregateRating, BlogPosting, CreativeWorkSeries, ImageObject, LocalBusiness
-- https://easykagaz.com/services/import-export-code/noida — 3290w, 96 FAQs, FAQPage, schema: AggregateRating, Answer, Brand, BreadcrumbList, City
+- https://www.ieccode.in/import-export-consultant-in-delhi/ — 9w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
+- https://osganconsultants.com/Foreign-Trade-Policy/Import-Export-Code — 13w, 0 FAQs, schema: -
+- https://www.zjell.com/product-page/best-import-export-consultant-delhi — 618w, 8 FAQs, FAQPage, schema: Answer, FAQPage, ImageObject, Offer, Organization
+- https://www.indiannexus.com/blog/no.1-trusted-dgft-consultant-in-delhi — 13w, 0 FAQs, schema: Corporation
+- https://gkkediaandco.com/services/import-export-consultancy/ — 14w, 3 FAQs, FAQPage, schema: Answer, ContactPoint, Corporation, FAQPage, Question
 - https://www.napmeridian.com/import-export-consultant/gurgaon — 375w, 0 FAQs, schema: ContactPoint, Country, GeoCoordinates, LocalBusiness, OpeningHoursSpecification
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## itr
-Our page: `/itr-filing-forms-itr-1-to-itr-4-documents/` · competitors audited: 6 · avg words 1791 · with FAQPage 3/6 · fee table 2/6 · dated 3/6 · WhatsApp 4/6 · avg FAQs 10.5
+Our page: `/itr-filing-forms-itr-1-to-itr-4-documents/` · competitors audited: 5 · avg words 2219 · with FAQPage 1/5 · fee table 1/5 · dated 1/5 · WhatsApp 2/5 · avg FAQs 2.2
 
 **Competitor pages (by frequency in top-10):**
-- https://cleartax.in/s/how-to-file-income-tax-return-for-last-years — 2171w, 13 FAQs, FAQPage, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
-- https://taxclue.in/belated-return-filing — 5684w, 24 FAQs, FAQPage, fee table, schema: Answer, BreadcrumbList, Country, EntryPoint, FAQPage
-- https://taxclear.in/belated-itr-filing-fees-for-ay-2026-27-section-234f-tax-regime-and-payment-process/ — 2049w, 12 FAQs, fee table, schema: BlogPosting, BreadcrumbList, ImageObject, ListItem, Organization
-- https://etaxmate.in/belated-return-filing-deadline-late-fee/ — 11w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, ListItem, Organization
-- https://www.taxbuddy.com/blog/belated-itr-filing-rules-last-date — 39w, 12 FAQs, FAQPage, schema: Answer, FAQPage, Organization, Question
-- https://www.livemint.com/money/personal-finance/belated-income-tax-return-ay-2026-27-how-to-file-late-filing-charges-and-what-you-may-lose-11785906017056.html — 793w, 2 FAQs, schema: BreadcrumbList, ContactPoint, ImageObject, ListItem, NewsArticle
+- https://grokipedia.com/page/Condonation_of_Delay_in_Filing_ITR_Due_to_Company_Merger_or_Amalgamation — 4553w, 0 FAQs, schema: Article, BreadcrumbList, ListItem, Organization
+- https://taxguru.in/income-tax/itr-filing-due-dates-fy-2025-26-ay-2026-27.html — 1651w, 0 FAQs, fee table, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, NewsArticle
+- https://cleartax.in/ — 4880w, 11 FAQs, FAQPage, schema: Answer, FAQPage, Question
+- https://www.irs.gov/refunds — 5w, 0 FAQs, schema: -
+- https://www.irs.gov/faqs/irs-procedures/refund-inquiries/refund-inquiries-0 — 6w, 0 FAQs, schema: -
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## itr-tds
-Our page: `/income-tax-tds-noida/` · competitors audited: 5 · avg words 999 · with FAQPage 2/5 · fee table 0/5 · dated 1/5 · WhatsApp 5/5 · avg FAQs 3.0
+Our page: `/income-tax-tds-faridabad/` · competitors audited: 6 · avg words 601 · with FAQPage 3/6 · fee table 0/6 · dated 1/6 · WhatsApp 6/6 · avg FAQs 5.7
 
 **Competitor pages (by frequency in top-10):**
-- https://disytax.com/tax-consultant-patna-bihar/ — 14w, 0 FAQs, schema: BreadcrumbList, ListItem
-- https://www.tax-eazy.com/income-tax-return-filing-patna — 1948w, 9 FAQs, FAQPage, schema: AccountingService, Answer, BreadcrumbList, City, FAQPage
-- https://www.accountssolution.co.in/patna/income-tax-return-filing.html — 12w, 0 FAQs, schema: -
-- https://itradda.com/itr-filing-service-in-patna/ — 13w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, ReadAction
-- https://blinkdial.com/patna/tax-consultants — 3012w, 6 FAQs, FAQPage, schema: Answer, FAQPage, GeoCoordinates, LocalBusiness, OpeningHoursSpecification
+- https://www.industax.com/income-tax-return-filing-consultant-in-gurugram — 760w, 5 FAQs, FAQPage, schema: AccountingService, AdministrativeArea, Answer, BreadcrumbList, ContactAction
+- https://masterbrains.co.in/income-tax-consultant-in-gurugram/ — 12w, 0 FAQs, schema: AccountingService, BreadcrumbList, City, Country, GeoCoordinates
+- https://www.hemantgarg.com/income-tax-consultant-gurugram — 1791w, 12 FAQs, FAQPage, schema: AccountingService, Answer, FAQPage, PostalAddress, Question
+- https://itradda.com/itr-filing-consultant-in-gurugram/ — 10w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, ReadAction
+- https://www.cahemantgarg.com/income-tax-consultant-in-gurgaon — 773w, 13 FAQs, schema: -
+- https://www.hemantgarg.com/itr-filing-gurugram — 264w, 4 FAQs, FAQPage, schema: AccountingService, Answer, FAQPage, PostalAddress, Question
 
-**No multi-competitor topic gaps detected against our page.**
+**Topics on 2+ competitor pages that our page does not cover (add or answer):**
+- (2) Q: provide itr filing
 
 ## l17
-Our page: `/liquor-excise-license-delhi/` · competitors audited: 3 · avg words 335 · with FAQPage 0/3 · fee table 1/3 · dated 1/3 · WhatsApp 2/3 · avg FAQs 1.0
+Our page: `/liquor-excise-license-delhi/` · competitors audited: 4 · avg words 1460 · with FAQPage 0/4 · fee table 3/4 · dated 1/4 · WhatsApp 2/4 · avg FAQs 0.8
 
 **Competitor pages (by frequency in top-10):**
 - https://remindlegal.com/blog/l-17-licence-for-independent-restaurants-bars-in-delhi — 985w, 3 FAQs, fee table, schema: AggregateRating, Brand, ContactPoint, GeoCoordinates, LocalBusiness
+- https://grokipedia.com/page/L-17_and_L-18_licences — 2944w, 0 FAQs, fee table, schema: Article, BreadcrumbList, ListItem, Organization
 - https://calcguru.in/liquor-license-delhi/ — 10w, 0 FAQs, schema: BreadcrumbList, ImageObject, ListItem, Organization, WebPage
-- https://restaurantcoach.in/restaurant-license-consultant-india/ — 10w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
+- https://restaurantdaily.ai/blog/liquor-license-restaurant-india-types — 1901w, 0 FAQs, fee table, schema: ContactPoint, Country, ImageObject, Offer, Organization
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## loans
-Our page: `/business-loan-mudra-working-capital-cash-credit/` · competitors audited: 6 · avg words 3323 · with FAQPage 2/6 · fee table 1/6 · dated 0/6 · WhatsApp 2/6 · avg FAQs 9.8
+Our page: `/business-loan-mudra-working-capital-cash-credit/` · competitors audited: 6 · avg words 914 · with FAQPage 1/6 · fee table 1/6 · dated 0/6 · WhatsApp 4/6 · avg FAQs 1.2
 
 **Competitor pages (by frequency in top-10):**
 - https://taxguru.in/finance/mudra-loans-complete-guide-shishu-kishore-tarun-tarun-plus-loans.html — 1607w, 0 FAQs, fee table, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, NewsArticle
-- https://www.crestmontcapital.com/blog/why-banks-reject-business-loan-applicationsand-how-to-overcome-this — 5732w, 16 FAQs, schema: BlogPosting, BreadcrumbList, ImageObject, ListItem, Organization
-- https://www.clearskiescapital.com/why-banks-reject-business-loan-applications/ — 6w, 0 FAQs, schema: BlogPosting, FinancialService, GeoCoordinates, ImageObject, Organization
-- https://fundonion.com/blog/business-loan-rejection-reasons/ — 6596w, 10 FAQs, FAQPage, schema: Answer, BlogPosting, BreadcrumbList, FAQPage, ListItem
-- https://vyde.io/blog/top-reasons-for-business-loan-rejection-and-how-to-avoid-them/ — 1619w, 3 FAQs, schema: Article, BreadcrumbList, CommentAction, EntryPoint, ImageObject
-- https://www.crestmontcapital.com/blog/business-loan-denial-reasons-data — 4382w, 30 FAQs, FAQPage, schema: Answer, Article, BlogPosting, BreadcrumbList, FAQPage
+- https://www.findoorwealth.com/patna/business-loan.html — 1010w, 0 FAQs, schema: -
+- https://www.findoorwealth.com/patna/loan-consultant.html — 1107w, 0 FAQs, schema: -
+- https://www.nkbkredit.com/business-loan-in-patna/ — 9w, 0 FAQs, schema: AggregateRating, BankOrCreditUnion, Brand, BreadcrumbList, ContactPoint
+- https://enego.co.in/services/business-loan-services/patna — 1111w, 7 FAQs, FAQPage, schema: Answer, BreadcrumbList, City, ContactPoint, FAQPage
+- https://www.deldure.com/a/business-loan-consultants/patliputra/patna — 641w, 0 FAQs, schema: -
 
 **Topics on 2+ competitor pages that our page does not cover (add or answer):**
-- (2) high existing debt load
-- (2) allan garfinkle
-- (2) related articles
-- (2) cotton picker financing complete guide business owners
-- (2) swather financing complete guide business owners
-- (2) Q: debt coverage ratio matter
-- (2) insufficient collateral
+- (2) personal loan
 
 ## ngo-12a-80g
-Our page: `/ngo-trust-12a-80g-fcra-registration/` · competitors audited: 5 · avg words 460 · with FAQPage 1/5 · fee table 1/5 · dated 0/5 · WhatsApp 4/5 · avg FAQs 3.8
+Our page: `/ngo-trust-12a-80g-fcra-registration/` · competitors audited: 5 · avg words 15 · with FAQPage 0/5 · fee table 0/5 · dated 0/5 · WhatsApp 4/5 · avg FAQs 0.0
 
 **Competitor pages (by frequency in top-10):**
 - https://www.ngoaaptak.com/12a-and-80g-registration-in-patna-bihar/ — 12w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, ListItem, Organization
 - https://www.raagconsultants.co.in/ngo-registration-in-patna — 33w, 0 FAQs, schema: ContactPoint, Organization
-- https://ngotrust.in/ngo-registration-in-patna/ — 13w, 0 FAQs, schema: BreadcrumbList, GeoCoordinates, ImageObject, ListItem, Offer
+- https://ngosuvidha.in/services/80g-registration-in-patna/ — 9w, 0 FAQs, schema: Article, ContactPoint, ImageObject, Organization, Person
 - https://www.ngoaaptak.com/ — 8w, 0 FAQs, schema: BreadcrumbList, ImageObject, ListItem, Organization, WebPage
-- https://enego.co.in/services/ngo-registration/patna — 2234w, 19 FAQs, FAQPage, fee table, schema: Answer, BreadcrumbList, ContactPoint, FAQPage, ListItem
+- https://ngotrust.in/ngo-registration-in-patna/ — 13w, 0 FAQs, schema: BreadcrumbList, GeoCoordinates, ImageObject, ListItem, Offer
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## page__advance-authorisation-epcg-consultant
-Our page: `/advance-authorisation-epcg-consultant/` · competitors audited: 6 · avg words 621 · with FAQPage 0/6 · fee table 0/6 · dated 0/6 · WhatsApp 5/6 · avg FAQs 0.5
+Our page: `/advance-authorisation-epcg-consultant/` · competitors audited: 6 · avg words 622 · with FAQPage 0/6 · fee table 0/6 · dated 0/6 · WhatsApp 5/6 · avg FAQs 0.5
 
 **Competitor pages (by frequency in top-10):**
 - https://avigroup.in/2026/08/05/advance-authorisation-vs-epcg-scheme-which-is-better-for-exporters-in-2026/ — 28w, 0 FAQs, schema: Article, BreadcrumbList, EntryPoint, ImageObject, ListItem
-- https://www.taxtmi.com/article/detailed?id=14004 — 1562w, 0 FAQs, schema: Article, Country, EntryPoint, ImageObject, InteractionCounter
+- https://www.taxtmi.com/article/detailed?id=14004 — 1570w, 0 FAQs, schema: Article, Country, EntryPoint, ImageObject, InteractionCounter
 - https://sohamma.com/ — 11w, 0 FAQs, schema: Article, ImageObject, Organization, Person, SearchAction
 - https://eximcompliance.in/service/dgft-licensing-epcg/ — 12w, 0 FAQs, schema: -
 - https://dgftexim.com/ — 852w, 0 FAQs, schema: Country, Organization, PostalAddress, ProfessionalService
@@ -331,12 +332,12 @@ Our page: `/advance-authorisation-epcg-consultant/` · competitors audited: 6 ·
 **No multi-competitor topic gaps detected against our page.**
 
 ## page__asmt-10-reply
-Our page: `/asmt-10-reply/` · competitors audited: 6 · avg words 1397 · with FAQPage 3/6 · fee table 2/6 · dated 2/6 · WhatsApp 5/6 · avg FAQs 4.5
+Our page: `/asmt-10-reply/` · competitors audited: 6 · avg words 1400 · with FAQPage 3/6 · fee table 2/6 · dated 2/6 · WhatsApp 5/6 · avg FAQs 4.5
 
 **Competitor pages (by frequency in top-10):**
 - https://customsai.in/gstnotice/asmt-10-reply — 2472w, 14 FAQs, FAQPage, fee table, schema: Answer, Article, BreadcrumbList, Country, FAQPage
 - https://rnegi.com/asmt-10-notice-reply-format-with-sample-and-explanation/ — 15w, 0 FAQs, schema: Article, BreadcrumbList, CommentAction, EntryPoint, ImageObject
-- https://taxguru.in/goods-and-service-tax/form-gst-asmt-10-meaning-procedure-reply-section-61-of-cgst-act.html — 1727w, 0 FAQs, fee table, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, NewsArticle
+- https://taxguru.in/goods-and-service-tax/form-gst-asmt-10-meaning-procedure-reply-section-61-of-cgst-act.html — 1744w, 0 FAQs, fee table, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, NewsArticle
 - https://rdatax.in/blog/gst-scrutiny-notice-asmt-10-reply — 2272w, 6 FAQs, FAQPage, schema: AccountingService, AggregateRating, Answer, BlogPosting, BreadcrumbList
 - https://gstmentor.com/how-to-reply-to-gst-asmt-10-notice/ — 12w, 0 FAQs, schema: -
 - https://itrngst.com/guides/gst/how-to-reply-gst-notice-asmt-10/ — 1889w, 7 FAQs, FAQPage, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
@@ -344,21 +345,22 @@ Our page: `/asmt-10-reply/` · competitors audited: 6 · avg words 1397 · with 
 **No multi-competitor topic gaps detected against our page.**
 
 ## page__biada-land-allotment-bihar-industrial-policy
-Our page: `/biada-land-allotment-bihar-industrial-policy/` · competitors audited: 4 · avg words 457 · with FAQPage 0/4 · fee table 0/4 · dated 0/4 · WhatsApp 4/4 · avg FAQs 0.0
+Our page: `/biada-land-allotment-bihar-industrial-policy/` · competitors audited: 4 · avg words 456 · with FAQPage 0/4 · fee table 0/4 · dated 0/4 · WhatsApp 4/4 · avg FAQs 0.0
 
 **Competitor pages (by frequency in top-10):**
 - https://bhartiavenue.com/biada-building-bihars-industrial-future/ — 13w, 0 FAQs, schema: Article, BreadcrumbList, CommentAction, EntryPoint, ImageObject
 - https://www.insightfultake.com/details/bihars-industrial-renaissance-the-2026-land-policy-spearheaded-by-samrat-chaudhary — 807w, 0 FAQs, schema: -
 - https://patnapress.com/biada-20-acres-land-allotment-bihar-rs-284-crore-investment-1200-jobs/ — 34w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, ListItem, Organization
-- https://www.rninews.com/BIADA-LAND-ALLOTMENT-AND-MANAGEMENT-POLICY-2026-IMPLEMENTED — 975w, 0 FAQs, schema: BreadcrumbList, ContactPoint, Country, ImageObject, ListItem
+- https://www.rninews.com/BIADA-LAND-ALLOTMENT-AND-MANAGEMENT-POLICY-2026-IMPLEMENTED — 971w, 0 FAQs, schema: BreadcrumbList, ContactPoint, Country, ImageObject, ListItem
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## page__bihar-government-tenders
-Our page: `/bihar-government-tenders/` · competitors audited: 1 · avg words 10 · with FAQPage 0/1 · fee table 0/1 · dated 0/1 · WhatsApp 0/1 · avg FAQs 0.0
+Our page: `/bihar-government-tenders/` · competitors audited: 2 · avg words 84 · with FAQPage 0/2 · fee table 0/2 · dated 1/2 · WhatsApp 0/2 · avg FAQs 0.0
 
 **Competitor pages (by frequency in top-10):**
 - https://www.bihartenders.com/quicksearch.aspx?st=qs&si=2&SerCat=38&SerText=Consultancy+Service&tenders=Consultancy+Service+tenders — 10w, 0 FAQs, schema: -
+- https://www.bihar-tenders.co.in/latest/consultants-tenders/ — 159w, 0 FAQs, schema: Event, Offer, Organization, Place, PostalAddress
 
 **No multi-competitor topic gaps detected against our page.**
 
@@ -384,35 +386,43 @@ Our page: `/bihar-startup-policy-seed-fund/` · competitors audited: 2 · avg wo
 
 **No multi-competitor topic gaps detected against our page.**
 
-## page__business-loan-subsidy-consultant
-Our page: `/business-loan-subsidy-consultant/` · competitors audited: 4 · avg words 629 · with FAQPage 0/4 · fee table 0/4 · dated 0/4 · WhatsApp 1/4 · avg FAQs 0.8
+## page__bis-certification-isi-crs
+Our page: `/bis-certification-isi-crs/` · competitors audited: 4 · avg words 2135 · with FAQPage 1/4 · fee table 0/4 · dated 2/4 · WhatsApp 1/4 · avg FAQs 5.5
 
 **Competitor pages (by frequency in top-10):**
-- https://bankonservices.com/ — 6w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
-- https://cdcloans.com/small-business-advisors/ — 935w, 2 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
-- https://www.sba.gov/ — 240w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
-- https://www.sbaloanshq.com/ — 1337w, 1 FAQs, schema: Organization, WebSite
+- https://www.certification-india.com/en/bis/what-is-bis/ — 3347w, 7 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, PropertyValueSpecification
+- https://www.indiafilings.com/learn/bis-certificate-for-imports — 2001w, 3 FAQs, schema: Article, BreadcrumbList, ImageObject, ItemList, ListItem
+- https://legalsuvidha.com/blog/bis-certification-and-isi-mark — 2700w, 12 FAQs, FAQPage, schema: AggregateRating, Answer, BlogPosting, Brand, BreadcrumbList
+- https://www.bis.gov/ — 493w, 0 FAQs, schema: -
+
+**No multi-competitor topic gaps detected against our page.**
+
+## page__business-loan-subsidy-consultant
+Our page: `/business-loan-subsidy-consultant/` · competitors audited: 3 · avg words 687 · with FAQPage 1/3 · fee table 0/3 · dated 0/3 · WhatsApp 1/3 · avg FAQs 2.0
+
+**Competitor pages (by frequency in top-10):**
+- https://eboostpartners.com/business-loans/texas/san-antonio/ — 2029w, 6 FAQs, FAQPage, schema: AdministrativeArea, Answer, ApplyAction, BreadcrumbList, BusinessAudience
+- https://rmjconsultant.us/service-areas/san-antonio-tx/ — 13w, 0 FAQs, schema: -
+- https://smblender.com/san-antonio-small-business-loans/ — 19w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## page__cma-data-bankable-dpr-consultant
-Our page: `/cma-data-bankable-dpr-consultant/` · competitors audited: 5 · avg words 264 · with FAQPage 1/5 · fee table 0/5 · dated 0/5 · WhatsApp 3/5 · avg FAQs 1.2
+Our page: `/cma-data-bankable-dpr-consultant/` · competitors audited: 2 · avg words 520 · with FAQPage 1/2 · fee table 0/2 · dated 0/2 · WhatsApp 2/2 · avg FAQs 2.5
 
 **Competitor pages (by frequency in top-10):**
 - https://globalsharda.com/ — 1028w, 5 FAQs, FAQPage, schema: Answer, FAQPage, Offer, OfferCatalog, Organization
 - https://fortriskconsulting.com/ — 13w, 0 FAQs, schema: BreadcrumbList, ContactPoint, EntryPoint, ImageObject, ListItem
-- https://infinityedgeadvisory.com/article-bankable-dpr-and-cma.html — 262w, 1 FAQs, schema: FinancialService, Offer, OfferCatalog, Organization, PostalAddress
-- https://nexusdpr.com/ — 8w, 0 FAQs, schema: -
-- https://goventureprojects.com/dpr-project-report-preparation/ — 9w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
 
 **No multi-competitor topic gaps detected against our page.**
 
-## page__fssai-license-consultant
-Our page: `/fssai-license-consultant/` · competitors audited: 2 · avg words 9480 · with FAQPage 0/2 · fee table 1/2 · dated 1/2 · WhatsApp 2/2 · avg FAQs 11.0
+## page__gst-notice-reply
+Our page: `/gst-notice-reply/` · competitors audited: 3 · avg words 978 · with FAQPage 1/3 · fee table 1/3 · dated 1/3 · WhatsApp 3/3 · avg FAQs 3.7
 
 **Competitor pages (by frequency in top-10):**
-- http://www.fssailicense.net/ — 792w, 4 FAQs, schema: -
-- https://www.raagconsultants.co.in/fssai-food-license-consultant-delhi — 18168w, 18 FAQs, fee table, schema: ContactPoint, Organization
+- https://www.club4ca.com/formats/gst-format/reply-letter-format-to-gst-department/ — 31w, 0 FAQs, schema: Article, BreadcrumbList, CommentAction, EntryPoint, ImageObject
+- https://filingsuvidha.com/blogs/news/gst-notice-reply-format — 2431w, 4 FAQs, fee table, schema: Article, BlogPosting, BreadcrumbList, ListItem, LocalBusiness
+- https://smartgst.in/tools/gst-notice-reply-generator — 474w, 7 FAQs, FAQPage, schema: Answer, BreadcrumbList, ContactPoint, EntryPoint, FAQPage
 
 **No multi-competitor topic gaps detected against our page.**
 
@@ -433,13 +443,30 @@ Our page: `/import-export-iec-dgft-consultant/` · competitors audited: 1 · avg
 
 **No multi-competitor topic gaps detected against our page.**
 
-## page__land-conversion-clu-consultant
-Our page: `/land-conversion-clu-consultant/` · competitors audited: 3 · avg words 217 · with FAQPage 0/3 · fee table 0/3 · dated 0/3 · WhatsApp 2/3 · avg FAQs 0.7
+## page__income-tax-notice-reply
+Our page: `/income-tax-notice-reply/` · competitors audited: 1 · avg words 10 · with FAQPage 0/1 · fee table 0/1 · dated 0/1 · WhatsApp 0/1 · avg FAQs 0.0
 
 **Competitor pages (by frequency in top-10):**
-- https://jsr-associate.com/ — 636w, 2 FAQs, schema: LegalService, PostalAddress
+- https://calcguru.in/tax-notice-reply/ — 10w, 0 FAQs, schema: BreadcrumbList, ImageObject, ListItem, Organization, WebPage
+
+**No multi-competitor topic gaps detected against our page.**
+
+## page__industrial-approvals-single-window-consultant
+Our page: `/industrial-approvals-single-window-consultant/` · competitors audited: 1 · avg words 493 · with FAQPage 0/1 · fee table 0/1 · dated 0/1 · WhatsApp 0/1 · avg FAQs 0.0
+
+**Competitor pages (by frequency in top-10):**
+- https://www.bis.gov/ — 493w, 0 FAQs, schema: -
+
+**No multi-competitor topic gaps detected against our page.**
+
+## page__land-conversion-clu-consultant
+Our page: `/land-conversion-clu-consultant/` · competitors audited: 4 · avg words 167 · with FAQPage 0/4 · fee table 0/4 · dated 0/4 · WhatsApp 2/4 · avg FAQs 0.5
+
+**Competitor pages (by frequency in top-10):**
 - https://rapidconsulting.in/change-of-land-use-clu-consultant-in-haryana/ — 10w, 0 FAQs, schema: BlogPosting, BreadcrumbList, ImageObject, ListItem, Organization
+- https://jsr-associate.com/ — 636w, 2 FAQs, schema: LegalService, PostalAddress
 - https://skdconsultant.com/change-of-land-use-clu/ — 5w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ListItem, PropertyValueSpecification, ReadAction
+- https://rapidconsulting.in/change-in-land-use/ — 17w, 0 FAQs, schema: BlogPosting, BreadcrumbList, ImageObject, ListItem, Organization
 
 **No multi-competitor topic gaps detected against our page.**
 
@@ -462,27 +489,28 @@ Our page: `/pollution-noc-gurugram-faridabad/` · competitors audited: 2 · avg 
 **No multi-competitor topic gaps detected against our page.**
 
 ## patent-design
-Our page: `/patent-design-registration-ip-infringement/` · competitors audited: 5 · avg words 339 · with FAQPage 0/5 · fee table 0/5 · dated 0/5 · WhatsApp 1/5 · avg FAQs 0.0
+Our page: `/patent-design-registration-ip-infringement/` · competitors audited: 6 · avg words 911 · with FAQPage 2/6 · fee table 0/6 · dated 0/6 · WhatsApp 6/6 · avg FAQs 3.5
 
 **Competitor pages (by frequency in top-10):**
-- https://www.patentwire.co.in/ — 9w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, PropertyValueSpecification
-- https://singhwal.com/patent-services-delhi-ncr/ — 18w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ListItem, ReadAction, SearchAction
-- https://www.knowledgentia.com/ — 623w, 0 FAQs, schema: LegalService, Organization, PostalAddress
-- https://www.arcticinvent.com/ — 766w, 0 FAQs, schema: -
-- https://levinnovip.com/ — 280w, 0 FAQs, schema: -
+- https://www.intepat.com/blog/patent-filing-procedure-process-india — 3348w, 8 FAQs, schema: BlogPosting, BreadcrumbList, ContactPoint, ImageObject, ListItem
+- https://patentshala.com/patent-filing-in-india-guide/ — 9w, 7 FAQs, FAQPage, schema: Answer, FAQPage, Question
+- https://www.legalserviceindia.com/Legal-Articles/patent-registration-process-in-india/ — 14w, 0 FAQs, schema: Article, BreadcrumbList, EntryPoint, ImageObject, ListItem
+- https://legismith.com/patent-filing-india-guide/ — 8w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, LegalService, ListItem
+- https://www.ahlawatassociates.com/blog/how-to-file-a-patent-in-india-2026 — 14w, 6 FAQs, FAQPage, schema: Answer, BlogPosting, BreadcrumbList, FAQPage, ImageObject
+- https://thelaw.institute/patents/patent-filing-process-step-by-step-guide-india/ — 2073w, 0 FAQs, schema: BlogPosting, ImageObject, Organization, Person, WebPage
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## pmfme
-Our page: `/pmfme-subsidy-consultant/` · competitors audited: 6 · avg words 1199 · with FAQPage 3/6 · fee table 2/6 · dated 0/6 · WhatsApp 4/6 · avg FAQs 4.7
+Our page: `/pmfme-subsidy-consultant/` · competitors audited: 6 · avg words 949 · with FAQPage 3/6 · fee table 1/6 · dated 0/6 · WhatsApp 4/6 · avg FAQs 3.8
 
 **Competitor pages (by frequency in top-10):**
 - https://www.aigriworks.com/ — 1298w, 6 FAQs, schema: Person, PostalAddress, ProfessionalService
 - https://www.subsidysolutions.in/pmfme — 960w, 2 FAQs, fee table, schema: -
 - https://pmfme.org/state-directory/ — 12w, 0 FAQs, schema: Article, ImageObject, Organization, Person, WebPage
+- https://infigo.co.in/faridabad/services/government-subsidies — 882w, 3 FAQs, FAQPage, schema: AggregateRating, Answer, BreadcrumbList, City, CreativeWork
+- https://nexmoveadvisory.com/ — 1655w, 9 FAQs, FAQPage, schema: Answer, BreadcrumbList, City, FAQPage, FinancialService
 - https://infigo.co.in/ghaziabad/services/government-subsidies — 890w, 3 FAQs, FAQPage, schema: AggregateRating, Answer, BreadcrumbList, City, CreativeWork
-- https://cred.fastlegal.in/project-report/scheme/pmfme/ghaziabad — 3161w, 14 FAQs, FAQPage, fee table, schema: AggregateRating, Answer, BreadcrumbList, ContactPoint, FAQPage
-- https://infigo.co.in/patna/services/government-subsidies — 874w, 3 FAQs, FAQPage, schema: AggregateRating, Answer, BreadcrumbList, City, CreativeWork
 
 **Topics on 2+ competitor pages that our page does not cover (add or answer):**
 - (2) found custom project
@@ -497,10 +525,10 @@ Our page: `/pmfme-subsidy-consultant/` · competitors audited: 6 · avg words 11
 - (2) checklist sent
 
 ## pmfme-2
-Our page: `/pmfme-subsidy-consultant/` · competitors audited: 3 · avg words 532 · with FAQPage 0/3 · fee table 0/3 · dated 2/3 · WhatsApp 2/3 · avg FAQs 0.0
+Our page: `/pmfme-subsidy-consultant/` · competitors audited: 3 · avg words 528 · with FAQPage 0/3 · fee table 0/3 · dated 2/3 · WhatsApp 2/3 · avg FAQs 0.0
 
 **Competitor pages (by frequency in top-10):**
-- https://www.thehindubusinessline.com/news/pmfme-scheme-set-for-extension-after-hitting-2-lakh-unit-target/article71383660.ece — 961w, 0 FAQs, schema: -
+- https://www.thehindubusinessline.com/news/pmfme-scheme-set-for-extension-after-hitting-2-lakh-unit-target/article71383660.ece — 950w, 0 FAQs, schema: -
 - https://www.etvbharat.com/en/bharat/pmfme-scheme-set-for-extension-after-hitting-2-lakh-unit-target-enn26082402796 — 635w, 0 FAQs, schema: BreadcrumbList, ImageObject, ListItem, NewsArticle, NewsMediaOrganization
 - https://www.msn.com/en-in/news/other/pmfme-scheme-set-for-extension-after-hitting-2-lakh-unit-target/ar-AA2aNzQ5 — 1w, 0 FAQs, schema: -
 
@@ -513,27 +541,27 @@ Our page: `/pollution-noc-noida-ghaziabad/` · competitors audited: 6 · avg wor
 - https://drishticonsultancy.com/pollution-noc/ — 1136w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, ListItem, Organization
 - https://www.corpseed.com/service/haryana-state-pollution-control-board — 1195w, 17 FAQs, schema: -
 - https://shubhienviroindia.com/pollution-noc — 826w, 1 FAQs, schema: -
-- https://www.shubhienviroindia.com/ — 421w, 1 FAQs, schema: -
 - https://www.psrcompliance.com/blog/pollution-noc-consultant-noida — 1837w, 9 FAQs, schema: -
+- https://www.shubhienviroindia.com/ — 421w, 1 FAQs, schema: -
 - https://pmsolution.in/environmental-consultant-noida/ — 594w, 4 FAQs, schema: BreadcrumbList, City, ContactPoint, ImageObject, ListItem
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## public-ltd
-Our page: `/public-limited-company-registration/` · competitors audited: 6 · avg words 1486 · with FAQPage 4/6 · fee table 1/6 · dated 1/6 · WhatsApp 3/6 · avg FAQs 8.0
+Our page: `/public-limited-company-registration/` · competitors audited: 6 · avg words 1736 · with FAQPage 2/6 · fee table 4/6 · dated 2/6 · WhatsApp 4/6 · avg FAQs 2.3
 
 **Competitor pages (by frequency in top-10):**
-- https://www.mylegalbusiness.com/blog/minimum-members-directors-required-for-a-public-company/ — 12w, 0 FAQs, schema: Article, BreadcrumbList, EntryPoint, ImageObject, ListItem
-- https://legalsuvidha.com/blog/minimum-directors-and-shareholders-by-company-type — 3476w, 8 FAQs, FAQPage, schema: AggregateRating, Answer, BlogPosting, Brand, BreadcrumbList
-- https://www.taxbuddy.com/blog/minimum-directors-and-shareholders-for-each-company-type — 40w, 12 FAQs, FAQPage, schema: Answer, BlogPosting, FAQPage, Organization, Person
-- https://www.registerkaro.in/post/minimum-and-maximum-directors-in-public-company — 2091w, 18 FAQs, FAQPage, fee table, schema: Answer, BlogPosting, BreadcrumbList, FAQPage, ImageObject
-- https://cleartax.in/s/public-limited-company-india — 1911w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, ListItem, Organization
-- https://unanswered.io/guide/minimum-number-of-members-public-company — 1391w, 10 FAQs, FAQPage, schema: Answer, Article, BreadcrumbList, CreativeWork, EducationalOccupationalCredential
+- https://learn.cspratik.com/docs/mca-forms/companies-forms/change-services/inc-27-conversion-company-type/ — 1028w, 0 FAQs, fee table, schema: -
+- https://expertvuw.com/change-structure/pvt-ltd-to-public/ — 8w, 0 FAQs, schema: BreadcrumbList, Country, ImageObject, ListItem, Organization
+- https://sapnamalpani.com/blog/conversion-private-company-into-public-company-section-18-inc-27-2026/ — 3162w, 8 FAQs, FAQPage, fee table, schema: Answer, Article, BlogPosting, FAQPage, HowTo
+- https://taxclue.in/blog/inc-27-conversion-company-type-guide — 3507w, 6 FAQs, FAQPage, fee table, schema: Answer, BlogPosting, BreadcrumbList, EntryPoint, FAQPage
+- https://taxguru.in/company-law/filing-eform-inc-27.html — 2704w, 0 FAQs, fee table, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, NewsArticle
+- https://theclassicpartners.com/inc-27-conversion-of-company/ — 7w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## rule14a
-Our page: `/gst-registration-rule-14a/` · competitors audited: 6 · avg words 2451 · with FAQPage 4/6 · fee table 5/6 · dated 0/6 · WhatsApp 4/6 · avg FAQs 4.2
+Our page: `/gst-registration-rule-14a/` · competitors audited: 6 · avg words 2416 · with FAQPage 4/6 · fee table 5/6 · dated 1/6 · WhatsApp 3/6 · avg FAQs 6.0
 
 **Competitor pages (by frequency in top-10):**
 - https://taxguru.in/goods-and-service-tax/gst-registration-rule-14a-3-day-auto-approval.html — 2146w, 0 FAQs, fee table, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, NewsArticle
@@ -541,76 +569,99 @@ Our page: `/gst-registration-rule-14a/` · competitors audited: 6 · avg words 2
 - https://cleartax.in/s/gst-registration-in-3-days — 1981w, 3 FAQs, FAQPage, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
 - https://www.taxplead.com/blog/gst-registration-rule-14a-simplified-scheme-guide — 2703w, 8 FAQs, FAQPage, fee table, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
 - https://taxfetchindia.com/blog/taxation-time/gst-registration-3-days-rule-14a-guide — 3281w, 7 FAQs, FAQPage, fee table, schema: Answer, BlogPosting, BreadcrumbList, FAQPage, ImageObject
-- https://taxfetchindia.com/blog/taxation-time/rule-14a-gst-fast-track-registration — 2990w, 7 FAQs, FAQPage, fee table, schema: Answer, BlogPosting, BreadcrumbList, FAQPage, ImageObject
+- https://www.nrsassociates.in/insights/rule-14a-gst-registration-3-days-b2b-tax-limit/ — 2778w, 18 FAQs, FAQPage, fee table, schema: Answer, BlogPosting, BreadcrumbList, ContactPoint, FAQPage
 
 **Topics on 2+ competitor pages that our page does not cover (add or answer):**
 - (2) vat cannot cancelled initio unpaid tax dues gujarat
 - (2) gst payable land acquisition compensation madras high court
 - (2) gst itc mismatch orders set aside failure follow
 - (2) get taxguru app
-- (2) step access gst portal
-- (2) articles find useful
 
 ## shop-act
-Our page: `/shop-act-epf-esic-gurugram/` · competitors audited: 6 · avg words 977 · with FAQPage 3/6 · fee table 1/6 · dated 1/6 · WhatsApp 5/6 · avg FAQs 6.3
+Our page: `/shop-act-epf-esic-gurugram/` · competitors audited: 6 · avg words 976 · with FAQPage 3/6 · fee table 1/6 · dated 1/6 · WhatsApp 5/6 · avg FAQs 6.3
 
 **Competitor pages (by frequency in top-10):**
 - https://patnaconsultant.com/patna/shop-establishment-license-patna-bihar/ — 9w, 0 FAQs, schema: Article, ImageObject, Organization, Person, Place
 - https://www.indiafilings.com/learn/shop-and-establishment-registration-in-bihar — 1625w, 11 FAQs, FAQPage, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
 - https://companyregistrations.in/shop-and-establishment-form-3/ — 8w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
-- https://www.legalpapersindia.com/patna/shop-and-establishment-certificate — 2833w, 12 FAQs, fee table, schema: AggregateRating, BreadcrumbList, ListItem, LocalBusiness, PostalAddress
+- https://www.legalpapersindia.com/patna/shop-and-establishment-certificate — 2826w, 12 FAQs, fee table, schema: AggregateRating, BreadcrumbList, ListItem, LocalBusiness, PostalAddress
 - https://clearlycomply.org/services/shop-establishment/shop-establishment-registration/patna/ — 579w, 11 FAQs, FAQPage, schema: AggregateRating, Answer, Brand, BreadcrumbList, DefinedRegion
 - https://fssaiindia.in/blog/shop-registration/shops-and-establishments-labour-license-act-registration-consultants-in-patna/ — 811w, 4 FAQs, FAQPage, schema: Answer, Article, BreadcrumbList, EntryPoint, FAQPage
 
 **No multi-competitor topic gaps detected against our page.**
 
 ## sole-prop
-Our page: `/sole-proprietorship-registration-udyam-gst/` · competitors audited: 4 · avg words 245 · with FAQPage 1/4 · fee table 0/4 · dated 0/4 · WhatsApp 2/4 · avg FAQs 1.2
+Our page: `/sole-proprietorship-registration-udyam-gst/` · competitors audited: 6 · avg words 1396 · with FAQPage 4/6 · fee table 3/6 · dated 3/6 · WhatsApp 5/6 · avg FAQs 8.7
 
 **Competitor pages (by frequency in top-10):**
-- https://www.irs.gov/businesses/small-businesses-self-employed/sole-proprietorships — 6w, 0 FAQs, schema: -
-- https://www.chamberofcommerce.org/sole-proprietorship/california — 12w, 0 FAQs, schema: Article, ImageObject, Organization, Person, WebPage
-- https://www.legalzoom.com/business/business-formation/sole-proprietorship-overview.html — 719w, 5 FAQs, FAQPage, schema: Answer, BreadcrumbList, FAQPage, LinkRole, ListItem
-- https://www.stonesalluslaw.com/business-law/sole-proprietorship-california/ — 245w, 0 FAQs, schema: Article, BreadcrumbList, EntryPoint, ImageObject, ListItem
-
-**No multi-competitor topic gaps detected against our page.**
-
-## strike-off
-Our page: `/company-strike-off-llp-closure-winding-up/` · competitors audited: 5 · avg words 3115 · with FAQPage 4/5 · fee table 2/5 · dated 2/5 · WhatsApp 4/5 · avg FAQs 11.4
-
-**Competitor pages (by frequency in top-10):**
-- https://www.indiafilings.com/learn/llp-form-24-easily-close-a-llp — 1445w, 10 FAQs, FAQPage, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
-- https://mcafiling.com/application-for-striking-off-closure-form-24/ — 7w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, PropertyValueSpecification
-- https://www.restthecase.com/knowledge-bank/business-and-compliance/llp-closure-procedure-india — 3917w, 14 FAQs, FAQPage, fee table, schema: Answer, Article, BreadcrumbList, FAQPage, ImageObject
-- https://www.startup-movers.com/blog/llp-form-24-llp-closure — 2452w, 23 FAQs, FAQPage, fee table, schema: Answer, BlogPosting, BreadcrumbList, ContactPoint, Country
-- https://www.patronaccounting.com/llp-strike-off-form-24 — 7756w, 10 FAQs, FAQPage, schema: Answer, BreadcrumbList, CommunicateAction, ContactPoint, Country
-
-**No multi-competitor topic gaps detected against our page.**
-
-## trademark
-Our page: `/trademark-registration-noida/` · competitors audited: 6 · avg words 2547 · with FAQPage 0/6 · fee table 1/6 · dated 1/6 · WhatsApp 6/6 · avg FAQs 2.3
-
-**Competitor pages (by frequency in top-10):**
-- https://www.trademarkregistrationindia.com/ghaziabad.php — 671w, 0 FAQs, schema: -
-- https://shubhamanand.com/trademark-registration-ghaziabad/ — 9w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
-- https://delhitrademark.com/trademark-registration-in-ghaziabad/ — 9w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
-- https://www.raagconsultants.co.in/trademark-registration-in-ghaziabad — 12457w, 14 FAQs, fee table, schema: ContactPoint, Organization
-- https://www.startupadvisers.in/trademark-consultants-in-ghaziabad-uttar-pradesh — 926w, 0 FAQs, schema: ContactPoint, Organization
-- https://www.tanvithaassociates.com/city-services/4533/16/trademark-registration-consultants-patel-nagar--ghaziabad — 1212w, 0 FAQs, schema: AggregateRating, BreadcrumbList, ListItem, LocalBusiness, Person
+- https://www.startupadvisory.in/proprietorship-registration.htm — 2258w, 13 FAQs, FAQPage, fee table, schema: AdministrativeArea, Answer, BreadcrumbList, City, Country
+- https://www.registerkaro.in/sole-proprietorship-registration-in-delhi — 3576w, 22 FAQs, FAQPage, fee table, schema: AggregateRating, Answer, BreadcrumbList, ContactPoint, FAQPage
+- https://www.cssunnygupta.com/service/sole-proprietorship-registration/delhi — 79w, 7 FAQs, FAQPage, schema: Answer, BreadcrumbList, FAQPage, ListItem, Organization
+- https://setupfiling.in/sole-proprietorship-registration-in-delhi/ — 8w, 0 FAQs, schema: Article, BreadcrumbList, Country, FinancialService, ImageObject
+- https://filinglab.com/delhi/sole-proprietorship — 723w, 5 FAQs, FAQPage, schema: AdministrativeArea, AggregateRating, Answer, BreadcrumbList, City
+- https://www.professionalutilities.com/sole-proprietorship-registration/delhi.php — 1734w, 5 FAQs, fee table, schema: LocalBusiness, OpeningHoursSpecification, Organization, PostalAddress, Service
 
 **Topics on 2+ competitor pages that our page does not cover (add or answer):**
-- (2) trademark process
+- (2) Q: long sole proprietorship take
 
-## udyam
-Our page: `/msme-schemes/` · competitors audited: 6 · avg words 1995 · with FAQPage 1/6 · fee table 0/6 · dated 1/6 · WhatsApp 5/6 · avg FAQs 2.3
+## strike-off
+Our page: `/company-strike-off-llp-closure-winding-up/` · competitors audited: 6 · avg words 3420 · with FAQPage 4/6 · fee table 3/6 · dated 3/6 · WhatsApp 6/6 · avg FAQs 16.8
 
 **Competitor pages (by frequency in top-10):**
-- https://knvtaxconsultancy.com/services/msme-registration/ — 15w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
-- https://nischaypartners.in/udyam-msme-registration-delhi/ — 511w, 5 FAQs, schema: ProfessionalService, Service
-- https://www.mygemconsultant.com/msme-registration-in-delhi/ — 327w, 0 FAQs, schema: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization
-- https://varahii.com/udyam-msme-registration-consultant-in-new-delhi — 4804w, 0 FAQs, schema: -
-- https://registrationconsultant.com/pages/msme-registration-consultants-in-delhi — 5645w, 1 FAQs, schema: -
-- https://www.comtaxconsultants.in/services/licensing/msme — 671w, 8 FAQs, FAQPage, schema: Answer, FAQPage, Organization, PostalAddress, ProfessionalService
+- https://www.incorpx.io/business-closure-services-in-delhi — 8358w, 43 FAQs, FAQPage, fee table, schema: AdministrativeArea, AggregateRating, Answer, Brand, BreadcrumbList
+- https://www.industax.com/company-closure-delhi — 1047w, 6 FAQs, FAQPage, fee table, schema: AccountingService, AdministrativeArea, Answer, BreadcrumbList, ContactAction
+- https://www.incorpx.io/business-closure-services — 8126w, 40 FAQs, FAQPage, fee table, schema: AdministrativeArea, AggregateRating, Answer, Brand, BreadcrumbList
+- https://www.patronaccounting.com/company-closure/delhi — 2703w, 9 FAQs, FAQPage, schema: AdministrativeArea, Answer, BreadcrumbList, City, CommunicateAction
+- https://onetaxconsultant.co.in/company-llp-closure-strike-off/ — 8w, 0 FAQs, schema: Article, BreadcrumbList, ImageObject, ListItem, Organization
+- https://shreemeeracorp.com/closure-of-company-in-delhi — 278w, 3 FAQs, schema: ImageObject, Organization, Place, Service, WebPage
+
+**Topics on 2+ competitor pages that our page does not cover (add or answer):**
+- (3) Q: cost closing company
+- (2) real clients real stories
+- (2) fast turnaround
+- (2) dedicated support
+- (2) complete documentation
+- (2) 24/7 customer
+- (2) fill form
+- (2) call discuss
+- (2) meet incorpx nova
+- (2) incorpx prime
+- (2) key benefits
+- (2) important notes
+- (2) step-by-step company closure process
+- (2) step clear pending compliances
+- (2) consequences closing company properly
+- (2) Q: convert company instead closing
+- (2) Q: difference between voluntary strike off compulsory strike off
+- (2) Q: start new company after closing one
+- (2) Q: much cost close llp
+- (2) Q: included incorpx company closure assistance
+- (2) Q: dissolve trust
+- (2) Q: close sole proprietorship
+- (2) Q: difference between stk-1 stk-2
+
+## trademark
+Our page: `/trademark-registration-noida/` · competitors audited: 6 · avg words 3835 · with FAQPage 1/6 · fee table 3/6 · dated 1/6 · WhatsApp 5/6 · avg FAQs 3.3
+
+**Competitor pages (by frequency in top-10):**
+- https://www.raagconsultants.co.in/trademark-registration-in-faridabad — 12457w, 14 FAQs, fee table, schema: ContactPoint, Organization
+- https://www.jayaselection.com/national-trade-mark.html — 2539w, 0 FAQs, fee table, schema: AggregateRating, Country, GeoCoordinates, LocalBusiness, PostalAddress
+- https://www.trademarkregistrationindia.com/faridabad.php — 720w, 0 FAQs, schema: -
+- https://www.tanvithaassociates.com/city-services/2210/16/trademark-registration-consultants-faridabad — 1206w, 0 FAQs, schema: AggregateRating, BreadcrumbList, ListItem, LocalBusiness, Person
+- https://ipx.co.in/trademark-registration/faridabad/ — 1187w, 6 FAQs, FAQPage, fee table, schema: Answer, BreadcrumbList, City, Country, FAQPage
+- https://registrationconsultant.com/pages/trademark-registration-consultants-delhi — 4901w, 0 FAQs, schema: -
+
+**No multi-competitor topic gaps detected against our page.**
+
+## udyam
+Our page: `/msme-schemes/` · competitors audited: 5 · avg words 4103 · with FAQPage 4/5 · fee table 1/5 · dated 0/5 · WhatsApp 5/5 · avg FAQs 28.8
+
+**Competitor pages (by frequency in top-10):**
+- https://easykagaz.com/services/udyam-registration/ghaziabad — 3077w, 93 FAQs, FAQPage, schema: AggregateRating, Answer, Brand, BreadcrumbList, City
+- https://www.raagconsultants.co.in/msme-registration-ghaziabad — 10153w, 6 FAQs, schema: ContactPoint, Organization
+- https://pvtltdcompany.in/msme-registration-in-ghaziabad/ — 3290w, 10 FAQs, FAQPage, fee table, schema: AggregateRating, Answer, BreadcrumbList, City, ContactPoint
+- https://kaagzaat.org/udyam-msme-registration-in-ghaziabad/ — 3067w, 28 FAQs, FAQPage, schema: Answer, Article, BreadcrumbList, City, FAQPage
+- https://caashishrajput.com/services/msme-udyam-registration.html — 928w, 7 FAQs, FAQPage, schema: AccountingService, Answer, BreadcrumbList, FAQPage, GeoCoordinates
 
 **No multi-competitor topic gaps detected against our page.**
 
