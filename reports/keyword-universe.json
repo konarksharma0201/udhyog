@@ -2115,6 +2115,34 @@
   "company registration fees in delhi": {
    "first_seen": "2026-10-06",
    "from": "Company Registration Delhi"
+  },
+  "bis certification agency in bangalore": {
+   "first_seen": "2026-10-21",
+   "from": "BIS Certification"
+  },
+  "bis certification requirements": {
+   "first_seen": "2026-10-21",
+   "from": "BIS Certification"
+  },
+  "how to reply drc 01c in gst portal": {
+   "first_seen": "2026-10-21",
+   "from": "DRC-01C Reply"
+  },
+  "gst notice reply format in word": {
+   "first_seen": "2026-10-21",
+   "from": "GST Notice Reply"
+  },
+  "gst notice reply letter format pdf": {
+   "first_seen": "2026-10-21",
+   "from": "GST Notice Reply"
+  },
+  "msme schemes in india": {
+   "first_seen": "2026-10-21",
+   "from": "MSME Schemes"
+  },
+  "ngo registration number": {
+   "first_seen": "2026-10-21",
+   "from": "NGO Registration"
   }
  },
  "history": [
@@ -2212,6 +2240,11 @@
    "date": "2026-10-20",
    "new": 0,
    "total": 529
+  },
+  {
+   "date": "2026-10-21",
+   "new": 7,
+   "total": 536
   }
  ]
 }
