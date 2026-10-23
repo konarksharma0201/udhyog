@@ -2143,6 +2143,26 @@
   "ngo registration number": {
    "first_seen": "2026-10-21",
    "from": "NGO Registration"
+  },
+  "company registration consultants in delhi": {
+   "first_seen": "2026-10-23",
+   "from": "Company Registration Delhi"
+  },
+  "private limited company registration delhi": {
+   "first_seen": "2026-10-23",
+   "from": "Company Registration Delhi"
+  },
+  "income tax 133 6 notice reply format": {
+   "first_seen": "2026-10-23",
+   "from": "Income Tax Notice Reply"
+  },
+  "bipv solar pm surya ghar subsidy": {
+   "first_seen": "2026-10-23",
+   "from": "PM Surya Ghar Solar Subsidy"
+  },
+  "parexel regulatory affairs consultant": {
+   "first_seen": "2026-10-23",
+   "from": "Regulatory Affairs Consultant"
   }
  },
  "history": [
@@ -2250,6 +2270,11 @@
    "date": "2026-10-22",
    "new": 0,
    "total": 536
+  },
+  {
+   "date": "2026-10-23",
+   "new": 5,
+   "total": 541
   }
  ]
 }
