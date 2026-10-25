@@ -1,0 +1,36 @@
+name: Competitor research (free, daily)
+on:
+  workflow_dispatch:
+    inputs:
+      budget_min: { description: 'Time budget (minutes)', default: '200' }
+      max_comp:   { description: 'Competitor pages per site page', default: '5' }
+  schedule:
+    - cron: '30 20 * * *'   # daily 02:00 IST
+permissions:
+  contents: read
+concurrency:
+  group: competitor-research
+  cancel-in-progress: false
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 230
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q ddgs requests beautifulsoup4 lxml openpyxl
+      - name: Run research
+        timeout-minutes: 215
+        env:
+          BUDGET_MIN: ${{ github.event.inputs.budget_min || '200' }}
+          MAX_COMP:   ${{ github.event.inputs.max_comp || '5' }}
+        run: PYTHONDONTWRITEBYTECODE=1 python scripts/competitor_research.py
+      - name: Upload results (artifact, not committed)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: competitor-research-${{ github.run_id }}
+          path: research_out/
+          retention-days: 90
+          if-no-files-found: warn
