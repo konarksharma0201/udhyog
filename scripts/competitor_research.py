@@ -9,8 +9,9 @@ from bs4 import BeautifulSoup
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
 
-ROOT = pathlib.Path(__file__).resolve().parent.parent
-OUT = ROOT / 'research_out'; OUT.mkdir(exist_ok=True)
+ROOT = pathlib.Path(os.environ.get('SITE_DIR', pathlib.Path(__file__).resolve().parent.parent))
+OUT = pathlib.Path(os.environ.get('OUT_DIR', ROOT / 'research_out')); OUT.mkdir(parents=True, exist_ok=True)
+SEARXNG = os.environ.get('SEARXNG_URL', '').rstrip('/')
 BUDGET_MIN = int(os.environ.get('BUDGET_MIN', '200'))
 MAX_COMP = int(os.environ.get('MAX_COMP', '5'))
 MY = 'udyoggrowth.com'
@@ -33,6 +34,16 @@ def our_pages():
     return out
 
 def search(q):
+    if SEARXNG:
+        for attempt in range(3):
+            try:
+                r = requests.get(SEARXNG + '/search', params={'q': q, 'format': 'json', 'language': 'en-IN'}, timeout=40)
+                if r.status_code == 200:
+                    return [x.get('url') for x in r.json().get('results', []) if x.get('url')][:8]
+            except (requests.RequestException, ValueError):
+                pass
+            time.sleep(5 * (attempt + 1))
+        return []
     try:
         from ddgs import DDGS
         res = DDGS(timeout=15).text(q, region='in-en', backend='bing', max_results=8) or []
