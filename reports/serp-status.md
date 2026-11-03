@@ -1,88 +1,88 @@
-# SERP status — 2026-11-02
+# SERP status — 2026-11-03
 
-Engine: Bing (via ddgs, region in-en; DDG fallback) · queries: 103 · ok: 66 · skipped (budget): 0 · own-domain in top10: 14 · runtime 46 min
+Engine: Bing (via ddgs, region in-en; DDG fallback) · queries: 102 · ok: 69 · skipped (budget): 0 · own-domain in top10: 14 · runtime 38 min
 
 ## Where udyoggrowth.com appears (Bing top-10)
 | Query | Position |
 |---|---|
-| PMFME 2026 Update & PMFME 2 0 News | 1 |
-| CMA Data & Bankable DPR Consultant | 1 |
+| GST Notice Received Your First 48 Hours | 1 |
 | PMFME subsidy consultant Noida | 1 |
-| GST DGGI notice consultant Patna | 1 |
-| Advance Authorisation & EPCG Consultant | 1 |
+| land conversion CLU consultant Faridabad | 1 |
+| PMFME Subsidy Consultant Bihar | 1 |
+| PMFME subsidy consultant Gurugram | 1 |
 | GeM Suspended Bid Rejection & Dispute Help | 1 |
-| Pollution NOC Gurugram & Faridabad | 2 |
-| pollution NOC consultant Gurugram | 2 |
-| land conversion CLU consultant Patna | 2 |
-| PMFME Subsidy Consultant | 2 |
+| PMFME subsidy consultant Ghaziabad | 2 |
+| GST DGGI notice consultant Patna | 2 |
 | GST notice reply consultant Patna | 3 |
-| PMFME subsidy consultant Gurugram | 3 |
-| FSSAI licence consultant Gurugram | 3 |
-| IEC & DGFT Consultant | 4 |
+| pollution NOC consultant Noida | 4 |
+| land conversion CLU consultant Gurugram | 5 |
+| GST notice reply consultant Noida | 7 |
+| GST consultant Gurugram | 9 |
+| company registration consultant Faridabad | 9 |
 
 ## Most frequent competing domains (top-5 slots)
 | Domain | Appearances |
 |---|---|
-| justdial.com | 20 |
-| psrcompliance.com | 10 |
-| indiafilings.com | 9 |
-| raagconsultants.co.in | 7 |
-| taxclue.in | 6 |
-| gst.bihar.in | 4 |
+| justdial.com | 15 |
+| kyragst.com | 10 |
+| raagconsultants.co.in | 8 |
+| dir.indiamart.com | 7 |
+| gst.bihar.in | 6 |
+| psrcompliance.com | 4 |
+| taxclue.in | 4 |
+| disytax.com | 4 |
 | industax.com | 4 |
-| fssaiindia.in | 4 |
-| kyragst.com | 4 |
-| hemantgarg.com | 3 |
-| taxguru.in | 3 |
-| tanvithaassociates.com | 3 |
-| dir.indiamart.com | 3 |
-| pmfme.org | 3 |
+| indiafilings.com | 4 |
 | pmfme.mofpi.gov.in | 3 |
-| greenpermits.in | 3 |
+| tanvithaassociates.com | 3 |
+| taxgarden.in | 3 |
+| taxguru.in | 3 |
+| legalntaxindia.com | 3 |
 | cleartax.in | 3 |
-| indiamart.com | 3 |
-| justax.in | 3 |
-| corporatesanchar.com | 2 |
+| legal24by7.com | 3 |
+| registerkaro.in | 3 |
+| incorpx.io | 3 |
+| hemantgarg.com | 3 |
 
 ## Changes vs previous run
 
-- `epf-esic__delhi`: +4 new / -1 dropped
-- `trademark__gurugram`: +4 new / -4 dropped
-- `strike-off__1`: +0 new / -7 dropped
-- `page__gst-refund-lut-exporters`: +1 new / -1 dropped
-- `page__pollution-noc-noida-ghaziabad`: +2 new / -2 dropped
-- `strike-off__2`: +0 new / -7 dropped
-- `page__regulatory-affairs-departmental-representation`: +3 new / -3 dropped
-- `gst-notice__faridabad`: +0 new / -7 dropped
-- `gst-notice__patna`: own 2 → 3
-- `gst-notice__patna`: +1 new / -1 dropped
-- `iec__patna`: +0 new / -7 dropped
-- `patent-design__2`: +0 new / -7 dropped
-- `pmfme__patna`: own 1 → None
-- `pmfme__patna`: +0 new / -7 dropped
-- `iec__faridabad`: +2 new / -2 dropped
-- `shop-act__faridabad`: +0 new / -7 dropped
-- `page__pollution-noc-gurugram-faridabad`: own 1 → 2
-- `page__pollution-noc-gurugram-faridabad`: +2 new / -2 dropped
-- `page__pmfme-2-0-update`: +2 new / -2 dropped
-- `page__drc-01c-reply`: +3 new / -3 dropped
-- `dpdp__2`: +1 new / -1 dropped
-- `page__import-export-iec-dgft-consultant`: own 3 → 4
-- `page__import-export-iec-dgft-consultant`: +2 new / -2 dropped
-- `gem__faridabad`: +1 new / -1 dropped
-- `gst-returns__9`: +0 new / -7 dropped
-- `pollution-noc__ghaziabad`: +2 new / -2 dropped
+- `gst-consultant__gurugram`: own None → 9
+- `gst-consultant__gurugram`: +4 new / -1 dropped
+- `pollution-noc__delhi`: +2 new / -2 dropped
+- `fssai__noida`: own 3 → None
+- `fssai__noida`: +1 new / -1 dropped
+- `company-registration__faridabad`: own 7 → 9
+- `company-registration__faridabad`: +2 new / -2 dropped
+- `page__gst-notice-first-48-hours`: +1 new / -1 dropped
+- `loans__5`: +9 new / -6 dropped
+- `ngo-12a-80g__noida`: +3 new / -3 dropped
+- `loans__6`: +4 new / -1 dropped
+- `gst-consultant__delhi`: +5 new / -2 dropped
+- `gem__patna`: +3 new / -0 dropped
+- `shop-act__noida`: +2 new / -3 dropped
+- `gst-returns__8`: +4 new / -1 dropped
+- `patent-design__4`: +2 new / -2 dropped
+- `gst-returns__1`: +3 new / -0 dropped
+- `itr-tds__ghaziabad`: +2 new / -2 dropped
+- `page__industrial-approvals-single-window-consultant`: +0 new / -7 dropped
+- `pmfme__noida`: +1 new / -1 dropped
 - `ngo-12a-80g__faridabad`: +0 new / -7 dropped
-- `itr__6`: +0 new / -7 dropped
+- `iec__patna`: +2 new / -2 dropped
+- `gst-audit__1`: +1 new / -1 dropped
+- `gst-returns__6`: +2 new / -2 dropped
 - `gst-returns__2`: +1 new / -1 dropped
-- `pollution-noc__faridabad`: own 2 → None
-- `pollution-noc__faridabad`: +0 new / -7 dropped
-- `page__msme-schemes`: +0 new / -7 dropped
-- `itr-tds__delhi`: +1 new / -1 dropped
-- `page__cma-data-bankable-dpr-consultant`: own None → 1
-- `page__cma-data-bankable-dpr-consultant`: +2 new / -2 dropped
-- `pmfme__noida`: +3 new / -3 dropped
-- `shop-act__ghaziabad`: +3 new / -3 dropped
-- `page__biada-land-allotment-bihar-industrial-policy`: own 1 → None
-- `page__biada-land-allotment-bihar-industrial-policy`: +0 new / -7 dropped
-- `biada`: own 1 → None
+- `clu__delhi`: own 1 → None
+- `clu__delhi`: +0 new / -7 dropped
+- `shop-act__patna`: +0 new / -7 dropped
+- `gst-consultant__ghaziabad`: +2 new / -2 dropped
+- `sole-prop__1`: +3 new / -3 dropped
+- `shop-act__delhi`: +0 new / -7 dropped
+- `loans__4`: +0 new / -7 dropped
+- `gst-audit__5`: +3 new / -3 dropped
+- `gst-returns__9`: +0 new / -7 dropped
+- `trademark__delhi`: +2 new / -2 dropped
+- `dpdp__1`: +2 new / -2 dropped
+- `gst-audit__4`: +4 new / -4 dropped
+- `page__ngo-trust-12a-80g-fcra-registration`: +1 new / -1 dropped
+- `company-registration__ghaziabad`: +1 new / -1 dropped
+- `dir3kyc`: +0 new / -7 dropped
