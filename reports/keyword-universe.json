@@ -2163,6 +2163,14 @@
   "parexel regulatory affairs consultant": {
    "first_seen": "2026-10-23",
    "from": "Regulatory Affairs Consultant"
+  },
+  "iso certification consultants in faridabad": {
+   "first_seen": "2026-11-06",
+   "from": "ISO Certification Consultant"
+  },
+  "ngo registration in south africa": {
+   "first_seen": "2026-11-06",
+   "from": "NGO Registration"
   }
  },
  "history": [
@@ -2340,6 +2348,11 @@
    "date": "2026-11-05",
    "new": 0,
    "total": 541
+  },
+  {
+   "date": "2026-11-06",
+   "new": 2,
+   "total": 543
   }
  ]
 }
