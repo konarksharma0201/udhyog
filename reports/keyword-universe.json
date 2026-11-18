@@ -2171,6 +2171,30 @@
   "ngo registration in south africa": {
    "first_seen": "2026-11-06",
    "from": "NGO Registration"
+  },
+  "bis certification online": {
+   "first_seen": "2026-11-18",
+   "from": "BIS Certification"
+  },
+  "iso certification consultant thane and mumbai": {
+   "first_seen": "2026-11-18",
+   "from": "ISO Certification Consultant"
+  },
+  "msme schemes 2025 pdf": {
+   "first_seen": "2026-11-18",
+   "from": "MSME Schemes"
+  },
+  "msme schemes for loan": {
+   "first_seen": "2026-11-18",
+   "from": "MSME Schemes"
+  },
+  "ngo registration tanzania": {
+   "first_seen": "2026-11-18",
+   "from": "NGO Registration"
+  },
+  "regulatory affairs consultant canada": {
+   "first_seen": "2026-11-18",
+   "from": "Regulatory Affairs Consultant"
   }
  },
  "history": [
@@ -2408,6 +2432,11 @@
    "date": "2026-11-17",
    "new": 0,
    "total": 543
+  },
+  {
+   "date": "2026-11-18",
+   "new": 6,
+   "total": 549
   }
  ]
 }
