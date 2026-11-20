@@ -2195,6 +2195,18 @@
   "regulatory affairs consultant canada": {
    "first_seen": "2026-11-18",
    "from": "Regulatory Affairs Consultant"
+  },
+  "how to reply to drc 01c": {
+   "first_seen": "2026-11-20",
+   "from": "DRC-01C Reply"
+  },
+  "top rated gst consultant in south delhi": {
+   "first_seen": "2026-11-20",
+   "from": "GST consultant Delhi"
+  },
+  "reply to trademark objection under section 11": {
+   "first_seen": "2026-11-20",
+   "from": "Trademark Objection Reply"
   }
  },
  "history": [
@@ -2442,6 +2454,11 @@
    "date": "2026-11-19",
    "new": 0,
    "total": 549
+  },
+  {
+   "date": "2026-11-20",
+   "new": 3,
+   "total": 552
   }
  ]
 }
