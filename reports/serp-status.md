@@ -1,97 +1,93 @@
-# SERP status — 2026-11-20
+# SERP status — 2026-11-21
 
-Engine: Bing (via ddgs, region in-en; DDG fallback) · queries: 103 · ok: 103 · skipped (budget): 0 · own-domain in top10: 23 · runtime 29 min
+Engine: Bing (via ddgs, region in-en; DDG fallback) · queries: 102 · ok: 83 · skipped (budget): 0 · own-domain in top10: 19 · runtime 27 min
 
 ## Where udyoggrowth.com appears (Bing top-10)
 | Query | Position |
 |---|---|
-| IEC & DGFT Consultant | 1 |
-| Pollution NOC Gurugram & Faridabad | 1 |
-| PMFME 2026 Update & PMFME 2 0 News | 1 |
-| pollution NOC consultant Ghaziabad | 1 |
-| Liquor & Excise License Consultant Delhi | 1 |
-| pollution NOC consultant Gurugram | 1 |
-| Shop Act EPF ESIC & Professional Tax | 1 |
+| GeM Suspended Bid Rejection & Dispute Help | 1 |
 | pollution NOC consultant Faridabad | 1 |
-| PMFME subsidy consultant Noida | 2 |
-| GST notice reply consultant Gurugram | 2 |
-| Land Conversion & CLU Consultant | 2 |
-| GST DGGI notice consultant Patna | 2 |
-| PMFME subsidy consultant Ghaziabad | 3 |
-| PMFME subsidy consultant Faridabad | 3 |
-| Pollution NOC Patna & Bihar | 3 |
-| pollution NOC consultant Noida | 4 |
-| FSSAI licence consultant Patna | 4 |
-| NGO 12A 80G registration consultant Patna | 5 |
+| GST DGGI notice consultant Patna | 1 |
+| Land Conversion & CLU Consultant | 1 |
+| pollution NOC consultant Gurugram | 1 |
+| GST Notice Received Your First 48 Hours | 1 |
+| CMA Data & Bankable DPR Consultant | 1 |
+| FSSAI licence consultant Gurugram | 1 |
+| PMFME Subsidy Consultant Bihar | 1 |
+| Liquor & Excise License Consultant Delhi | 1 |
+| land conversion CLU consultant Delhi | 2 |
+| GST notice reply consultant Patna | 3 |
+| PMFME subsidy consultant Patna | 3 |
+| land conversion CLU consultant Noida | 4 |
 | GeM Fees & Documents | 5 |
-| land conversion CLU consultant Gurugram | 6 |
 | BIADA land allotment consultant | 6 |
-| GST notice reply consultant Patna | 7 |
-| L-17 licence Delhi restaurant | 7 |
+| GST notice reply consultant Noida | 7 |
+| GST registration 3 working days Rule 14A | 7 |
+| land conversion CLU consultant Gurugram | 10 |
 
 ## Most frequent competing domains (top-5 slots)
 | Domain | Appearances |
 |---|---|
-| justdial.com | 35 |
-| dir.indiamart.com | 15 |
-| taxguru.in | 13 |
-| indiafilings.com | 10 |
-| indiamart.com | 9 |
-| kyragst.com | 9 |
-| incorpx.io | 7 |
-| professionalutilities.com | 7 |
-| raagconsultants.co.in | 6 |
-| gst.bihar.in | 6 |
-| taxclue.in | 5 |
-| psrcompliance.com | 5 |
-| fssaiindia.in | 4 |
-| filinglab.com | 4 |
-| e-startup.in | 4 |
-| patronaccounting.com | 4 |
-| pmfme.mofpi.gov.in | 4 |
+| justdial.com | 32 |
+| taxguru.in | 22 |
+| dir.indiamart.com | 9 |
+| indiafilings.com | 9 |
+| kyragst.com | 7 |
+| industax.com | 6 |
+| indiamart.com | 5 |
+| psrcompliance.com | 4 |
+| gst.bihar.in | 4 |
+| grokipedia.com | 4 |
+| incorpx.io | 4 |
 | taxgarden.in | 4 |
-| enego.co.in | 4 |
+| professionalutilities.com | 4 |
 | sulekha.com | 4 |
+| calcguru.in | 3 |
+| filinglab.com | 3 |
+| taxclue.in | 3 |
+| ngoexperts.com | 3 |
+| jsr-associate.com | 3 |
+| corplawupdates.in | 3 |
 
 ## Changes vs previous run
 
-- `gst-returns__1`: +1 new / -1 dropped
-- `page__gst-registration-rule-14a`: +10 new / -10 dropped
-- `ngo-12a-80g__delhi`: +2 new / -2 dropped
-- `fssai__delhi`: +5 new / -2 dropped
-- `gst-notice__patna`: own None → 7
-- `gst-notice__patna`: +10 new / -10 dropped
-- `trademark__delhi`: +10 new / -10 dropped
-- `page__eway-bill-detention-section-129`: +5 new / -2 dropped
-- `trademark__faridabad`: +2 new / -2 dropped
-- `l17`: own None → 7
-- `l17`: +10 new / -10 dropped
-- `dpdp__5`: +2 new / -2 dropped
-- `page__advance-authorisation-epcg-consultant`: own 1 → None
-- `page__advance-authorisation-epcg-consultant`: +5 new / -5 dropped
-- `shop-act__faridabad`: +1 new / -1 dropped
-- `epf-esic__patna`: +1 new / -4 dropped
-- `udyam__gurugram`: +3 new / -3 dropped
-- `loans__1`: +9 new / -10 dropped
-- `epf-esic__delhi`: +2 new / -2 dropped
-- `shop-act__ghaziabad`: +2 new / -2 dropped
-- `itr-tds__gurugram`: +1 new / -1 dropped
-- `pmfme__noida`: own None → 2
-- `pmfme__noida`: +7 new / -10 dropped
-- `dpdp__4`: +2 new / -2 dropped
-- `sole-prop__4`: +3 new / -3 dropped
-- `gst-notice__noida`: own 6 → None
-- `gst-notice__noida`: +5 new / -2 dropped
+- `itr__3`: +3 new / -6 dropped
+- `company-registration__noida`: +1 new / -1 dropped
+- `page__gem-seller-suspension-dispute-resolution`: +3 new / -3 dropped
+- `loans__7`: +5 new / -5 dropped
+- `clu__noida`: +2 new / -2 dropped
+- `iec__faridabad`: +3 new / -3 dropped
+- `agreements__1`: +5 new / -2 dropped
+- `pollution-noc__faridabad`: +1 new / -1 dropped
+- `gst-audit__6`: own 2 → 1
+- `gst-audit__6`: +1 new / -1 dropped
+- `gst-returns__5`: +4 new / -1 dropped
+- `loans__3`: +0 new / -3 dropped
+- `itr__1`: +7 new / -1 dropped
+- `gst-returns__7`: +10 new / -7 dropped
+- `page__ngo-trust-12a-80g-fcra-registration`: +10 new / -10 dropped
+- `biada`: +2 new / -2 dropped
+- `annual-roc__4`: +1 new / -1 dropped
+- `itr__6`: +4 new / -4 dropped
+- `page__land-conversion-clu-consultant`: own 2 → 1
+- `gst-notice__patna`: own 7 → 3
+- `gst-notice__patna`: +2 new / -2 dropped
+- `sole-prop__3`: +1 new / -1 dropped
+- `gst-audit__1`: +5 new / -2 dropped
+- `page__iso-certification-consultant`: +0 new / -7 dropped
+- `agreements__3`: +2 new / -5 dropped
+- `annual-roc__1`: +4 new / -4 dropped
+- `pollution-noc__gurugram`: +4 new / -1 dropped
+- `ngo-12a-80g__ghaziabad`: +2 new / -5 dropped
 - `gst-returns__3`: +2 new / -2 dropped
-- `page__bihar-startup-policy-seed-fund`: +10 new / -10 dropped
-- `gst-returns__9`: +2 new / -2 dropped
-- `ngo-12a-80g__patna`: own None → 5
-- `ngo-12a-80g__patna`: +7 new / -10 dropped
-- `epf-esic__gurugram`: +3 new / -6 dropped
-- `agreements__4`: +3 new / -6 dropped
-- `udyam__ghaziabad`: +2 new / -2 dropped
-- `itr-tds__noida`: +10 new / -7 dropped
-- `page__regulatory-affairs-departmental-representation`: +0 new / -7 dropped
-- `company-registration__delhi`: +2 new / -5 dropped
-- `pmfme-2`: own 7 → None
-- `pmfme-2`: +2 new / -5 dropped
+- `annual-roc__7`: +1 new / -1 dropped
+- `clu__gurugram`: own 6 → 10
+- `clu__gurugram`: +3 new / -0 dropped
+- `patent-design__5`: +1 new / -4 dropped
+- `pmfme__patna`: own 1 → 3
+- `pmfme__patna`: +3 new / -3 dropped
+- `itr-tds__noida`: +7 new / -10 dropped
+- `gst-notice__faridabad`: +3 new / -0 dropped
+- `annual-roc__6`: +3 new / -3 dropped
+- `loans__6`: +4 new / -1 dropped
+- `gst-notice__noida`: own None → 7
